@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:12Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/828</identifier>
+        <datestamp>2020-09-11T12:29:50Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Oftalm.+Clin.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Terapêutica clínica dos problemas oculares</dc:title>
+          <dc:title xml:lang="en-US">Clinical therapeutic of ocular problems</dc:title>
+          <dc:creator>Sousa, Sidney Júlio de Faria e</dc:creator>
+          <dc:subject xml:lang="en-US">Therapeutics</dc:subject>
+          <dc:subject xml:lang="en-US">Pharmacology</dc:subject>
+          <dc:subject xml:lang="en-US">Drugs</dc:subject>
+          <dc:subject xml:lang="en-US">Eye</dc:subject>
+          <dc:subject xml:lang="pt-BR">Terapêutica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Farmacologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medicamentos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Olho</dc:subject>
+          <dc:description xml:lang="en-US">There is a vast therapeutic arsenal for the diagnosis and treatment of the ocular problems. The ways of drug administration include the topical, retrobulbar and systemic. The present work does a summary of the main eye medications of current use separated by their therapeutic groups.</dc:description>
+          <dc:description xml:lang="pt-BR">Existe um arsenal farmacológico muito vasto para o diagnóstico e tratamento dos problemas oculares. As vias de administração incluem a tópica, subconjuntival, retrobulbar e sistêmica. O presente trabalho faz um resumo das principais medicações oculares de uso corrente, separadas em agrupamentos terapêuticos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/828</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i1p90-93</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 1 (1997); 90-93</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 1 (1997); 90-93</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 1 (1997); 90-93</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/828/840</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/829</identifier>
+        <datestamp>2020-09-11T12:29:50Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Oftalm.+Clin.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Princípios da cirurgia ocular</dc:title>
+          <dc:title xml:lang="en-US">Ocular surgery</dc:title>
+          <dc:creator>Souza, Nivaldo Vieira de</dc:creator>
+          <dc:subject xml:lang="en-US">Surgery, Eye</dc:subject>
+          <dc:subject xml:lang="en-US">Anesthesia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cirurgia Ocular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anestesia</dc:subject>
+          <dc:description xml:lang="en-US">The author comments about the main aspects of ocular surgery, with emphasis in the patient care and the anesthesic techniques.</dc:description>
+          <dc:description xml:lang="pt-BR">Este capítulo aborda os aspectos comuns a todas as cirurgias oculares, dando ênfase aos cuidados pré e pós-operatórios dos pacientes oftalmológicos e às técnicas anestésicas empregadas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/829</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i1p94-96</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 1 (1997); 94-96</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 1 (1997); 94-96</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 1 (1997); 94-96</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/829/841</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/830</identifier>
+        <datestamp>2020-06-25T16:14:35Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O jubileu da faculdade de medicina de ribeirão preto e a universidade de São Paulo</dc:title>
+          <dc:creator>Moreira, Ayrton Custódio</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/830</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p237-240</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 237-240</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 237-240</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 237-240</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/830/842</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/831</identifier>
+        <datestamp>2020-09-11T12:29:50Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Oftalm.+Clin.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Eye bank</dc:title>
+          <dc:title xml:lang="pt-BR">Banco de olhos</dc:title>
+          <dc:creator>Sousa, Sidney Júlio de Faria e</dc:creator>
+          <dc:creator>Barretto, Stella</dc:creator>
+          <dc:subject xml:lang="en-US">Eye Banks</dc:subject>
+          <dc:subject xml:lang="en-US">Corneal Transplantation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Bancos de Olhos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Transplante de Córnea</dc:subject>
+          <dc:description xml:lang="en-US">Eye Banks are responsible for the procurement, storage and distribution of corneas with minimum risk of transmission of diseases through the transplantation. The quality control of the tissue is done by Slit Lamp, blood analysis and study of the medical file of the donor. The vitality of the graft depends on the vitality of the endothelium. This varies with many factors as: age of the donor, death-preservation interval, previous surgeries and so on. Besides the obvious benefits to the receptor, the act of donation eases the recuperation of the familial grievance.</dc:description>
+          <dc:description xml:lang="pt-BR">Banco de Olhos visam captar, armazenar e distribuir córneas, minimizando a possibilidade de transmissão de doenças através do transplante. O controle de qualidade do tecido é feito com o exame à Lâmpada de Fenda, análise do sangue e do prontuário médico do doador morto. A vitalidade do enxerto depende, fundamentalmente, da vitalidade do endotélio. Essa, por sua vez, varia com vários fatores, tais como: a idade do doador, o tempo entre a morte e a preservação do tecido, cirurgias prévias, etc. Além dos óbvios benefícios ao receptor, o ato da doação facilita a recuperação familiar do trauma da perda do ente querido.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/831</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i1p97-99</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 1 (1997); 97-99</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 1 (1997); 97-99</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 1 (1997); 97-99</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/831/843</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/832</identifier>
+        <datestamp>2020-06-25T16:14:34Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">50 Anos da Faculdade de Medicina de Ribeirão Preto-USP: Mudanças nas Atividades Meio</dc:title>
+          <dc:creator>Furtado, Helena L. Alves de Lima</dc:creator>
+          <dc:creator>Castro, Alcione Flávia de</dc:creator>
+          <dc:creator>Faria, Ivana Geraldo Cintra</dc:creator>
+          <dc:creator>Bezerra, Regina Célia Rocha</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/832</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p241-246</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 241-246</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 241-246</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 241-246</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/832/844</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/833</identifier>
+        <datestamp>2020-06-25T16:14:33Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Biologia Celular e Molecular e Bioagentes Patogênicos</dc:title>
+          <dc:creator>Haddad, Antonio</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/833</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p247-249</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 247-249</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 247-249</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 247-249</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/833/845</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/834</identifier>
+        <datestamp>2020-06-25T16:14:32Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">História do Departamento de Biomecânica, Medicina e Reabilitação do Aparelho Locomotor da FMRP-USP</dc:title>
+          <dc:creator>Barbieri, Cláudio Henrique</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/834</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p250-253</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 250-253</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 250-253</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 250-253</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/834/846</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/835</identifier>
+        <datestamp>2020-09-11T12:29:50Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Opinião de universitários sobre o uso do condom e sua influência no exercício da sexualidade</dc:title>
+          <dc:title xml:lang="en-US">Undergraduate student's opinion concerning the condom use and its influence on sexuality</dc:title>
+          <dc:creator>Gir, Elucir</dc:creator>
+          <dc:creator>Duarte, Geraldo</dc:creator>
+          <dc:creator>Carvalho, Milton Jorge de</dc:creator>
+          <dc:subject xml:lang="en-US">Condoms</dc:subject>
+          <dc:subject xml:lang="en-US">Students, Health Occupations</dc:subject>
+          <dc:subject xml:lang="en-US">Sex</dc:subject>
+          <dc:subject xml:lang="pt-BR">Condom</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudantes de Ciências da Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sexo</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivando detectar a opinião de estudantes universitários sobre o uso de condom e sua influência no exercício da sexualidade, aplicou-se um questionário, com cinco questões, em 534 estudantes universitários, em Ribeirão Preto - SP (Curso de Enfermagem, Medicina, Psicologia, Farmácia-Bioquímica). Quanto aos resultados, destacam-se as freqüências modais, a saber: 216 (40,5%) dos entrevistados referiram não saber se “o uso da camisinha é uma prática antinatural”;467 (87,5%) concordaram com a afirmativa “o uso da camisinha evita AIDS e outras DST”. Para o item: “a camisinha deve ser usada apenas como método anticoncepcional”, 408 (76,4%) discordaram. Quanto à questão: “o uso da camisinha ofende o parceiro sexual”, verificou-se que 328 (61,4%) não sabiam opinar com segurança. No último item: “o uso da camisinha atrapalha no prazer sexual”, verificou-se que 291 (54,5%) não sabiam a resposta. Avaliando os resultados, nota-se que a crença dos mitos associados ao uso do condom, como fator que interfere no prazer sexual, ainda é grande. As crenças negativas atribuídas ao seu uso devem ser trabalhadas para não interferirem no exercício da sexualidade dos indivíduos O uso correto e sistemático do condom, na era da AIDS, deve ser incorporado ao comportamento das pessoas, uma vez que é comprovada sua eficácia como preventivo contra as DST.</dc:description>
+          <dc:description xml:lang="en-US">In order to detect the undergraduate student´s opinion about the condom use and its influence on sexuality, a five-question questionnaire was applied in 534 undergraduate students from Ribeirão Preto (Nursing, Medical, Psychology, Pharmacy-Biochemistry). Concerning the results, the most frequent answers are emphasized. A total of 216 (40,5%) of the interviewed people referred that they did not know if “the use of condom is an anti-natural procedure”, 467 (87,5%) agreed with the sentence “the condom use avoid AIDS and other STD”. In question 3, 408 (76,4%) disagreed with “condom must be worn only as a contraceptive method”, In the questions “condom use offend the sexual partner” and “the condom uses interferes in sexual pleasure”, 328 (61,4%) and 291 (54,5%) did not know the answer respectively. By evaluating these results, we observed that the belief on myths associated to condom use, as a factor that interfere on sexual pleasure is relevant. The negative beliefs attributed to its use must be worked in order to not interfere on human sexuality. The correct and sistematic use of condom, in the AIDS era, must be incorporated in people´s bahavior, since its efficacy is certain as a STD preventive method.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/835</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i1p100-105</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 1 (1997); 100-105</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 1 (1997); 100-105</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 1 (1997); 100-105</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/835/847</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/836</identifier>
+        <datestamp>2020-09-11T12:29:50Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Clinical-epidemiologic profile of Aids patients of Ribeirão Preto, São Paulo, Brazil, with presenting opportunistic infections</dc:title>
+          <dc:title xml:lang="pt-BR">Perfil clínico-epidemiológico de pacientes de Ribeirão Preto, São Paulo, Brasil, com Aids e infecções oportunistas</dc:title>
+          <dc:creator>Machado, Alcyone Artioli</dc:creator>
+          <dc:creator>Figueiredo, José Fernando de Castro</dc:creator>
+          <dc:creator>Goulart, Ana Paula E. P.</dc:creator>
+          <dc:creator>Palavéri, Valéria</dc:creator>
+          <dc:creator>Martinez, Roberto</dc:creator>
+          <dc:subject xml:lang="en-US">HIV</dc:subject>
+          <dc:subject xml:lang="en-US">Acquired Immunodeficiency Syndrome</dc:subject>
+          <dc:subject xml:lang="en-US">Opportunistic Infections</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="pt-BR">HIV</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome de Imunodeficiência Adquirida</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infecções Oportunistas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:description xml:lang="en-US">The medical records of 296 patients with AIDS seen at the University Hospital,Faculty of Medicine of Ribeirão Preto,University of São Paulo (UHCFMRP) from 1987 to 1991 were reviewed in order to study the clinical and epidemologic characteristics of these patients. The following parameters were analyzed: age, race, sex, origin, risk behavior, types of infectious complications, probable cause of death, and survival time. Most of the patients resided in Ribeirão Preto (72%). Mean age was 30 years,with 89% of the patients being younger than 40, and there was a predominance of males (85%) and of the white race (78%); 54% reported the use of illicit intravenous drugs, 13% reported being homosexual, and 10% reported being heterosexual. The most frequent infectious complications were oral candidiasis (80%), bacterial pneumonia (36%), P. carinii pneumonia (34%), pulmonary tubeculosis (32%), neurotoxoplasmosis (29%), candidiasis of the esophagus (24%), neurocryptococcosis (16%), and histoplasmosis (5%). Most patients (68%) presented 3 or more concomitant infectious complications,a fact that was associated with a higher mortality rate (85%). Median survival time after the diagnosis of AIDS was only 4 months. Neurocryptococcosis was the most frequent complication associated with death (46%), followed by neurotoxoplasmosis (35%), bacterial pneumonia (33%), P. carinii pneumonia (23%), and tuberculosis (17%). We conclude that patients with AIDS group IV C seen at UHCFMRP present the following characteristics: young male intravenous drug abusers, with multiple concomitant opportunistic infections of high lethality, with a short survival. The most frequent causes of death were infections of the central nervous system and pulmonary complications.</dc:description>
+          <dc:description xml:lang="pt-BR">Com o fim de estudar as características clínicas e epidemiológicas dos pacientes com AIDS, atendidos no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto, da Universidade de São Paulo (HCFMRP), revisaram-se os prontuários de 296 pacientes, atendidos no período de 1987 a 1991, analisando-se os seguintes parâmetros: idade, cor, sexo, procedência, comportamento de risco, tipos de complicações infecciosas, causa provável do óbito e tempo de sobrevida. A maioria dos pacientes residia em Ribeirão Preto (72%). A idade média foi de 30 anos,sendo que 89% tinha menos de 40 anos, com predomínio do sexo masculino (85%) e da raça branca (78%); 54% relatavam uso de drogas ilícitas endovenosas,13%, homossexualismo, 10%, heterossexualismo. As complicações infecciosas mais freqüentes foram: candidíase oral (80%), pneumonia bacteriana (36%), pneumonia por P. carinii (34%), tuberculose pulmonar (32%), neurotoxoplasmose (29%), candidíase do esôfago (24%), neurocriptococose (16%) e histoplasmose (5%). A maioria dos pacientes (68%) apresentou 3 ou mais complicações infecciosas, concomitantes, fato que esteve associado à maior taxa de mortalidade (85%). A mediana de sobrevida, após o diagnóstico de AIDS, foi de apenas 4 meses. A neurocriptococose foi a complicação mais freqüentemente associada ao óbito (46%), seguida pela neurotoxoplasmose (35%), pneumonia bacteriana (33%), pneumonia pelo P. carinii (23%) e tuberculose (17%). Conclui-se que o paciente com AIDS grupo IV C, atendido no HCFMRP, apresenta as seguintes características: jovem, sexo masculino, usuário de drogas endovenosas, com infecções oportunistas múltiplas e concomitantes, de alta letalidade, com baixa sobrevida. As causas de óbito mais freqüentes foram infecções do sistema nervoso central e complicações pulmonares.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/836</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i1p106-112</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 1 (1997); 106-112</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 1 (1997); 106-112</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 1 (1997); 106-112</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/836/848</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/837</identifier>
+        <datestamp>2020-09-11T12:29:49Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Zeferino Vaz</dc:title>
+          <dc:title xml:lang="pt-BR">Zeferino Vaz</dc:title>
+          <dc:creator>Santos, Ruy Ferreira</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/837</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i1p113-114</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 1 (1997); 113-114</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 1 (1997); 113-114</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 1 (1997); 113-114</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/837/849</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/838</identifier>
+        <datestamp>2020-09-11T12:39:16Z</datestamp>
+        <setSpec>rmrp:EDTS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Salary and science in medical schools</dc:title>
+          <dc:title xml:lang="pt-BR">Salário e ciência nas escolas médicas</dc:title>
+          <dc:creator>Voltarelli, Júlio César</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/838</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i2p151-154</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 2 (1997); 151-154</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 2 (1997); 151-154</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 2 (1997); 151-154</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/838/850</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/839</identifier>
+        <datestamp>2020-09-11T12:39:16Z</datestamp>
+        <setSpec>rmrp:EDTS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A associação entre pesquisa e assistência, como paradigma de excelência, em cirurgia</dc:title>
+          <dc:creator>Silva Junior, Orlando de Castro e</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/839</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i2p155-156</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 2 (1997); 155-156</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 2 (1997); 155-156</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 2 (1997); 155-156</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/839/851</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/840</identifier>
+        <datestamp>2020-06-25T16:14:31Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Bioquímica e Imunologia</dc:title>
+          <dc:creator>Coutinho Neto, Joaquim</dc:creator>
+          <dc:creator>Campanini, Ronaldo Sordi</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/840</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p254-256</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 254-256</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 254-256</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 254-256</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/840/852</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/841</identifier>
+        <datestamp>2020-06-25T16:14:30Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">História do Departamento de Cirurgia e Anatomia</dc:title>
+          <dc:creator>Martins, Antonio Carlos Pereira</dc:creator>
+          <dc:creator>Silva Júnior, Orlando Castro</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/841</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p257-264</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 257-264</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 257-264</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 257-264</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/841/853</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/842</identifier>
+        <datestamp>2020-06-25T16:14:29Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Clínica Médica, 2002</dc:title>
+          <dc:creator>Oliveira, Ricardo Brandt</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/842</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p265-269</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 265-269</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 265-269</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 265-269</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/842/854</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/843</identifier>
+        <datestamp>2020-06-25T16:14:27Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Farmacologia</dc:title>
+          <dc:creator>Corrado, Alexandre Pinto</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/843</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p270-276</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 270-276</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 270-276</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 270-276</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/843/855</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/844</identifier>
+        <datestamp>2020-06-25T16:14:26Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Fisiologia</dc:title>
+          <dc:creator>Franci, Celso Rodrigues</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/844</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p277-283</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 277-283</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 277-283</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 277-283</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/844/856</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/845</identifier>
+        <datestamp>2020-06-25T16:14:25Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Genética</dc:title>
+          <dc:creator>Contel, Eucléia Primo Betioli</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/845</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p284-290</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 284-290</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 284-290</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 284-290</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/845/857</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/846</identifier>
+        <datestamp>2020-06-25T16:14:24Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Ginecologia e Obstetrícia da Faculdade de Medicina de Ribeirão Preto -USP Dados históricos sobre sua implantação e desenvolvimento</dc:title>
+          <dc:creator>Duarte, Geraldo</dc:creator>
+          <dc:creator>Meirelles, Roberto Salles</dc:creator>
+          <dc:creator>Sá, Marcos Felipe Silva</dc:creator>
+          <dc:creator>Ferriani, Rui Alberto</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/846</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p291-305</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 291-305</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 291-305</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 291-305</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/846/858</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/847</identifier>
+        <datestamp>2020-06-25T16:14:23Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Medicina Social: A reestruturação e os novos tempos</dc:title>
+          <dc:creator>Rocha, Juan S. Yazlle</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/847</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p306-312</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 306-312</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 306-312</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 306-312</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/847/859</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/848</identifier>
+        <datestamp>2020-06-25T16:14:21Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Neurologia, Psiquiatria e Psicologia Médica</dc:title>
+          <dc:creator>Del Bem, Cristina M.</dc:creator>
+          <dc:creator>Lison, Michel P.</dc:creator>
+          <dc:creator>Marturano, Edna M.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/848</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p313-320</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 313-320</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 313-320</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 313-320</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/848/860</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/849</identifier>
+        <datestamp>2020-06-25T16:14:20Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Oftalmologia, Otorrinolaringologia e Cirurgia de Cabeça e Pescoço: Histórico</dc:title>
+          <dc:creator>Bicas, Harley E. A.</dc:creator>
+          <dc:creator>Oliveira, José Antonio A.</dc:creator>
+          <dc:creator>Mamede, Rui Celso Martins</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/849</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p321-334</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 321-334</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 321-334</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 321-334</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/849/861</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/851</identifier>
+        <datestamp>2020-06-25T16:14:19Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Departamento de Puericultura e Pediatria</dc:title>
+          <dc:creator>Santoro, José Romano</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/851</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p349-366</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 349-366</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 349-366</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 349-366</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/851/863</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/852</identifier>
+        <datestamp>2020-06-25T16:14:18Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A cultura na FMRP-USP</dc:title>
+          <dc:creator>Coelho, Maria Alice Nunes</dc:creator>
+          <dc:creator>Hoffmann, Anette</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/852</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p367-370</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 367-370</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 367-370</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 367-370</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/852/864</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/853</identifier>
+        <datestamp>2020-06-25T16:14:17Z</datestamp>
+        <setSpec>rmrp:Art.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Histórico da Comissão de Pesquisa</dc:title>
+          <dc:creator>Foss, Norma Tiraboschi</dc:creator>
+          <dc:creator>Thomazine, Gilson</dc:creator>
+          <dc:creator>Ferreira, Sérgio Henrique</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/853</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i3p371-372</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 3 (2002); 371-372</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 3 (2002); 371-372</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 3 (2002); 371-372</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/853/865</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:12Z" completeListSize="1467" cursor="450">eda45fa6086c25499035dce52253e8b7</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

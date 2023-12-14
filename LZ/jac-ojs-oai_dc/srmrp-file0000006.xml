@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:01Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/318</identifier>
+        <datestamp>2020-06-25T16:10:11Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">PATIENT SIMULATION: LIFE SUPPORT COURSES ACLS, BLS AND PALS IN THE MEDICAL SCHOOL OF RIBEIRÃO PRETO OF THE UNIVERSITY OF SÃO PAULO</dc:title>
+          <dc:title xml:lang="pt-BR">SIMULAÇÃO DE PACIENTES – CURSOS DE SUPORTE DE VIDA ACLS, BLS E PALS NA FMRP - USP</dc:title>
+          <dc:creator>Pazin Filho, Antonio</dc:creator>
+          <dc:creator>Schmidt, André</dc:creator>
+          <dc:creator>Filipini, Cleide</dc:creator>
+          <dc:creator>Castro, Renato Barroso Pereira</dc:creator>
+          <dc:creator>Rosa, Rita Márcia</dc:creator>
+          <dc:creator>Ferreira da Rosa, Maria Alice Oliveira</dc:creator>
+          <dc:creator>Bueno, Cláudia Dizioli Franco</dc:creator>
+          <dc:creator>Maciel, Benedito Carlos</dc:creator>
+          <dc:subject xml:lang="pt-BR">Suporte Avançado a Vida. Cursos. Educação Médica.</dc:subject>
+          <dc:subject xml:lang="en-US">Advanced Life Support. Courses. Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical.</dc:subject>
+          <dc:description xml:lang="en-US">The American Heart Association Life Support courses, including Basic Life Support, Advanced Cardiac Life Support and Pediatric Advanced Life Support, are spreading across the world since the introduction of international guidelines for clinical emergencies. The impact of the insertion of these courses on university institutions is unknown. The goal of this article is to describe the experience to implement these courses atthe University Hospital, Medical School of Ribeirão Preto, University of São Paulo (HCFMRP-USP), characterizing its historical evolution, impact onresearch, teaching and health care activities and also future perspectives.</dc:description>
+          <dc:description xml:lang="pt-BR">Os cursos de suporte de vida organizados e coordenados pela American Heart Association incluem as modalidades: Suporte Básico de Vida, Suporte Avançado de Vida em Cardiologia e Suporte de Vida Avançado em Pediatria. Esses cursos estão sendo disseminados mundialmente, especialmente após o estabelecimento de diretrizes internacionais estabelecendo consensos para o atendimento a emergências clínicas. O impacto da inserção destes cursos em instituições universitárias brasileiras ainda é desconhecido. O objetivo precípuo deste artigo é descrever a experiência de implantação de um centro de treinamento em Suporte de Vida no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo (HCFMRP-USP), um hospital universitário público inserido no Sistema Único de Saúde. São discutidos aqui aspectos históricos, financiamento e gerenciamento, o impacto em atividades de pesquisa, ensino e de atenção à saúde tanto no contexto local, regional, nacional e internacional, bem como suas perspectivas futuras.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/318</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p204-212</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 204-212</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 204-212</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 204-212</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/318/319</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/319</identifier>
+        <datestamp>2020-06-25T16:10:10Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">CONCEPTS OF TUMORAL KINETICS APPLIED TO CHEMOTHERAPY OF BREAST CANCER</dc:title>
+          <dc:title xml:lang="pt-BR">CONCEITOS DE CINÉTICA TUMORAL APLICADOS À QUIMIOTERAPIA PARA O CÂNCER DE MAMA</dc:title>
+          <dc:creator>Macchetti, Alexandre H.</dc:creator>
+          <dc:creator>Marana, Heitor R. C.</dc:creator>
+          <dc:creator>Cavallini, Míriam E.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Neoplasias Mamárias. Quimioterapia. Cinética Celular. Cinética Tumoral. Modelo de Crescimento.</dc:subject>
+          <dc:subject xml:lang="en-US">Breast Neoplasms. Chemotherapy. Cellular Kinetic. Tumoral Kinetic. Growth Model.</dc:subject>
+          <dc:description xml:lang="en-US">Most patients who have breast cancer are submitted to chemotherapy, and the proven benefits of adjuvant chemotherapy on disease-free and overall survival in breast cancer can be explained through concepts of cell kill. The application of log-kill concepts of Skipper to human breast cancer growth, which seems to follow Gompertzian kinetics, implies not only the use of non-cross-resistant drugs is important, but also the dose and the intensity of chemotherapy are clinically important variables which can be used in order to improve disease free survival and overall survival. This literature review presents certain important theoretical concepts of tumoral kinetics in breast cancer therapy. The chemotherapy is scheduled according to the dose and the compounded agent efficiency; and the dose-intensity concept with increasing of the doses and reduction of the breaks between the cycles aiming the optimization, formulating the high-dose and dose-dense schedules. Norton-Simon hypothesis, which supports sequential therapy might make the administration of cytotoxic agents into dose dense and these schedules would have an advantage on conventional schedules of drug administration which are also discussed.</dc:description>
+          <dc:description xml:lang="pt-BR">A maioria das pacientes com câncer de mama está sujeita à quimioterapia, e os comprovados benefícios da quimioterapia adjuvante na sobrevida global e livre de doença podem ser explicados pelos conceitos de eliminação celular. A aplicação dos conceitos de eliminação logarítmica de Skipper ao crescimento do câncer de mama humano, o qual parece seguir a cinética gompertziana, sugere que não apenas o uso de drogas sem resistência cruzada seja importante, mas a dose e a intensidade da quimioterapia administrada sejam variáveis clinicamente importantes que podem ser manipuladas para aumentar a sobrevida dos pacientes. Esta revisão da literatura apresenta alguns conceitos teóricos de cinética tumoral importantes para o entendimento de dados empíricos no campo da quimioterapia adjuvante do câncer de mama. A elaboração dos esquemas quimioterápicos é abordada com relação a dose e eficácia dos agentes componentes e quanto ao conceito de intensidade de dose da dose administrada, com aumento das doses e redução dos intervalos entre os ciclos objetivando a otimização, formulando esquemas de alta-dose e dose-denso. A hipótese de Norton-Simon, em que a terapia seqüencial poderia tornar o esquema de administração de agentes citotóxicos dose-densa e que estes esquemas teriam vantagens sobre os esquemas convencionais de administração de drogas também são discutidos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/319</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p213-222</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 213-222</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 213-222</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 213-222</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/319/320</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/320</identifier>
+        <datestamp>2020-06-25T16:10:09Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">METANÁLISE DE ENSAIOS CLÍNICOS CONTROLADOS ALEATORIZADOS: ASPECTOS QUANTITATIVOS</dc:title>
+          <dc:title xml:lang="en-US">META-ANALYSIS OF RANDOMIZED CONTROLLED TRIALS: QUANTITATIVE ASPECTS</dc:title>
+          <dc:creator>Martinez, Edson Zangiacomi</dc:creator>
+          <dc:subject xml:lang="pt-BR">Metanálise. Ensaios Clínicos. Revisão Sistemática. Estatística.</dc:subject>
+          <dc:subject xml:lang="en-US">Meta-Analysis. Clinical Trials. Systematic Review. Statistics.</dc:subject>
+          <dc:description xml:lang="en-US">A meta-analysis combines the results of several studies that address a set of related research hypotheses. Meta-analyses has been taking place in the medical literature, specialy in systematic reviews of randomized control trials. Therefore, there is a need for more works on the underlying statistical methodology. Results from studies are combined using different statistical approaches. One approach frequently used in meta-analysis of randomized controlled trials considers that there is homogeneity across all studies. Regression models with fixed effects are compatible with this assumption. Other approach considers heterogeneity across the studies. Random effects regression models are used in this situation. The present article reviews some quantitative aspects of the meta-analysis.</dc:description>
+          <dc:description xml:lang="pt-BR">A metanálise é uma técnica que combina os resultados de diversos estudos voltados a um conjunto de hipóteses específicas. A metanálise vem sendo amplamente utilizada em estudos médicos, especialmente em revisões sistemáticas de ensaios clínicos aleatorizados. Há, portanto, a necessidade de estudos sobre as ferramentas estatísticas envolvidas. Os resultados dos estudos são combinados por diferentes estratégias. Uma alternativa considera homogeneidade entre os estudos. Modelos de regressão com efeitos fixos são compatíveis com este pressuposto. Por outro lado, se for assumida heterogeneidade entre os estudos, os modelos de efeitos aleatórios são mais adequados. O presente artigo revisa alguns aspectos quantitativos da metanálise.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/320</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p223-235</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 223-235</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 223-235</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 223-235</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/320/321</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/321</identifier>
+        <datestamp>2020-06-25T16:10:08Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">STUDY OF THE EFFECTIVENESS OF A NEW PRODUCT TO THE ALCOHOL GEL BASE UTILIZED AS AN ANTISEPTIC IN A NEPHROLOGY SERVICE</dc:title>
+          <dc:title xml:lang="pt-BR">ESTUDO DA EFICÁCIA DE UM NOVO PRODUTO À BASE DE ÁLCOOL GEL UTILIZADO NA ANTI-SEPSIA EM UM SERVIÇO DE NEFROLOGIA</dc:title>
+          <dc:creator>Burg, Geni</dc:creator>
+          <dc:creator>Portela, Odete</dc:creator>
+          <dc:creator>Paraginski, Gustavo Luiz</dc:creator>
+          <dc:creator>Souza, Viviane</dc:creator>
+          <dc:creator>Silveira, Djalma Dias</dc:creator>
+          <dc:creator>Hörner, Rosmari</dc:creator>
+          <dc:subject xml:lang="pt-BR">Álcoois. Desinfecção. Anti-Sepsia. Hemodiálise. Infecção Hospitalar.</dc:subject>
+          <dc:subject xml:lang="en-US">Alcohols. Disinfection. Antisepsis. Hemodialysis. Hospital Infection.</dc:subject>
+          <dc:description xml:lang="en-US">The healthcare is always challenged by medical assistance related infections, which generate higher rates of morbidity and mortality as well as unnecessary costs. The ethyl alcohol has been recognized for its antimicrobial activity against most microorganisms that cause infections in the healthcare setting. The major disadvantage of alcohol for skin antisepsis is its drying effect. This study was performed at the Clínica Renal in Santa Maria, RS, with the objective of testing a new biogel product, alcohol gel, to evaluate its efficacy as a hospital antiseptic, eliminating the necessity of washing the arm of the arterial-venous fistula (AVF) of the patient submitted to hemodialysis. The methodology used was the “Randomized Clinical Trial” and was carried out in eleven patients submitted to hemodialysis in January and February 2005. The study included the culture of skin before and after the antiseptic proceedings, using alcohol 70% and the Biogel® product, and the evaluation of the bacteriostatic and bactericide of the Biogel against gram-negative and gram-positive bacteria. The results showed that the performance of both antiseptics methods was the same, presenting an antiseptic activity of 72.7% and giving the Biogel® bactericide activity against the tested microorganisms.</dc:description>
+          <dc:description xml:lang="pt-BR">A atenção à saúde é permanentemente desafiada pelas infecções relacionadas aos procedimentos assistenciais, que resultam no aumento da morbidade, mortalidade e custos operacionais. O álcool etílico possui propriedades antimicrobianas reconhecidas, capazes de eliminar os microrganismos mais freqüentemente envolvidos nas infecções em serviços de saúde. A maior desvantagem do álcool para a anti-sepsia da pele é seu efeito ressecante. Este estudo foi realizado na Clínica Renal de Santa Maria, RS, com o objetivo de avaliar a eficácia antiséptica de um novo produto à base de álcool gel (Biogel®), na tentativa de eliminar a necessidade da lavagem com água e sabão do braço com a Fístula Artério Venosa (FAV), dos pacientes submetidos à hemodiálise. A metodologia utilizada foi um estudo experimental do tipo “Ensaio Clínico Randomizado” realizado com onze pacientes ambulatoriais submetidos à hemodiálise nos meses de janeiro a fevereiro de 2005. Foi efetuada cultura da pele anterior e posterior ao procedimento da anti-sepsia, utilizando o álcool 70 % e o produto Biogel®, e avaliação da atividade antibacteriana do Biogel®, frente à bactérias gram-positivas e gram-negativas correspondentes à cepas nosocomiais isoladas de pacientes atendidos no Hospital Universitário de Santa Maria (HUSM). Os resultados mostraram igual desempenho dos dois métodos de anti-sepsia, apresentando uma atividade anti-séptica de 72,7%, e conferindo também atividade bactericida ao Biogel®, frente às cepas testadas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/321</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p236-242</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 236-242</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 236-242</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 236-242</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/321/322</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/322</identifier>
+        <datestamp>2020-06-25T16:10:07Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">SOCIAL REPRESENTATIONS OF THE DEAFNESS</dc:title>
+          <dc:title xml:lang="pt-BR">REPRESENTAÇÕES SOCIAIS DA SURDEZ</dc:title>
+          <dc:creator>Bittencourt, Zélia Z L C</dc:creator>
+          <dc:creator>Montagnoli, Ana Paula</dc:creator>
+          <dc:subject xml:lang="pt-BR">Surdez. Reabilitação de Deficientes Auditivos. Serviços de Reabilitação.Família</dc:subject>
+          <dc:subject xml:lang="en-US">Deafness. Rehabilitation of Hearing Impaired. Rehabilitation Services. Family.</dc:subject>
+          <dc:description xml:lang="en-US">The aim of this study was to understand the social representations and the impact of the deafness in the daily life of families with deaf children.&#160;Methods&#160;: To reach this aim, qualitative methodology was adopted using interviews with open-ended questions as tool to collect data.Fifteen parents of deaf children who attended a rehabilitation center were interviewed.&#160;Results: The deafness was represented as a “weight”, “a suffering”, “a upset”, “a overload”, producing guilty conscience and difficulty of acceptance by these families, while rehabilitation refer to ideas like “socialization”, “respect” and “acceptance” in the social environment..Conclusion:&#160;The knowledge of the representations and expectations of the deaf people parents, brought back information to formulate new ways of assistance to them. Moreover, the living together with the deafness and other deaf people made possible to them share their feelings, doubts and expectations.</dc:description>
+          <dc:description xml:lang="pt-BR">O objetivo deste estudo foi conhecer as representações sociais e o impacto da surdez no cotidiano de familiares de crianças surdas.&#160;Métodos: Nesta investigação adotou-se a metodologia qualitativa utilizando-se entrevistas com questões abertas como ferramenta de coleta de dados. A amostra contou com 15 familiares (pais ou mães) de crianças surdas atendidas em um serviço de reabilitação. Resultados&#160;: A surdez foi representada como “um fardo”, “sofrimento”, “transtorno”, “sobrecarga” gerando “sentimento de culpa”, e dificuldade de aceitação por parte da família, enquanto a reabilitação remete à idéias de “socialização”, “respeito’ e “aceitação” no meio social.&#160; Conclusão&#160;: O conhecimento das representações e expectativas dos pais trouxe subsídios para novas ações que incluam maior atenção às famílias, incentivo à participação em grupos de pais, visando a troca de experiências.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/322</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p243-249</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 243-249</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 243-249</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 243-249</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/322/323</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/323</identifier>
+        <datestamp>2020-06-25T16:10:06Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">In vitro ANTIMICROBIAL ACTIVITY OF GEL ALCOHOL 70% AGAINST HOSPITAL AND COMMUNITY BACTERIA</dc:title>
+          <dc:title xml:lang="pt-BR">ATIVIDADE ANTIMICROBIANA IN VITRO DO ÁLCOOL GEL A 70% FRENTE ÀS BACTÉRIAS HOSPITALARES E DA COMUNIDADE</dc:title>
+          <dc:creator>Andrade, Denise</dc:creator>
+          <dc:creator>Beraldo, Carolina C.</dc:creator>
+          <dc:creator>Watanabe, Evandro</dc:creator>
+          <dc:creator>Oliveira, Bruna A.</dc:creator>
+          <dc:creator>Ito, Izabel Y.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Álcool Gel. Etanol. Anti-Sepsia. Infecção Hospitalar.</dc:subject>
+          <dc:subject xml:lang="en-US">Gel Alcohol. Ethanol. Antisepsis. Cross Infection.</dc:subject>
+          <dc:description xml:lang="en-US">The use of gel alcohol in hands antisepsis procedures represents a frequent practice in health institutions. Thus, we decided to determine the in vitro antibacterial activity of gel alcohol 70% used at Clinical Hospital of Faculty of Medicine of Ribeirão Preto – USP against hospital and community bacteria by means of dripping and well technique. Hospital bacteria were: Staphylococcus aureus, Escherichia coli, Klebsiella spp., Pseudomonas aeruginosa, while community bacteria were: S. aureus and Staphylococcus coagulase-negative. The gel alcohol demonstrated antimicrobial activity by means of the dripping technique against all bacteria studied, but with the well technique no effect was observed. In conclusion, before using any substance or product against microorganisms it is necessary to evaluate previously its effectiveness with adjusted microbiological techniques or methods.</dc:description>
+          <dc:description xml:lang="pt-BR">O uso de álcool gel em procedimentos de anti-sepsia das mãos representa uma prática freqüente nas instituições de saúde. Assim, estabeleceu-se: determinar in vitro a atividade antibacteriana do álcool gel a 70%, utilizado no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto – USP, frente às bactérias hospitalares e da comunidade, por meio das técnicas de gotejamento e do poço. As bactérias hospitalares foram Staphylococcus aureus, Escherichia coli, Klebsiella spp., Pseudomonas aeruginosa, e da comunidade: S. aureus e Staphylococcus coagulase-negativo. O álcool gel apresentou atividade antibacteriana, pela técnica de gotejamento, frente a todas as bactérias estudadas, porém com a técnica do poço nenhum efeito foi observado. Em conclusão, antes de utilizar alguma substância ou produto contra microrganismos é necessário avaliar previamente a sua eficácia com técnicas ou métodos microbiológicos adequados.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/323</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p250-254</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 250-254</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 250-254</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 250-254</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/323/324</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/324</identifier>
+        <datestamp>2020-06-25T16:10:05Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">ASSESSMENT OF DIETETIC ORDER IN HOSPITALIZE INFANTS</dc:title>
+          <dc:title xml:lang="pt-BR">AVALIAÇÃO DA PRESCRIÇÃO DIETÉTICA DE CRIANÇAS HOSPITALIZADAS</dc:title>
+          <dc:creator>Almada, Maria Olímpia R V</dc:creator>
+          <dc:creator>Vilela, Lidiane B F</dc:creator>
+          <dc:creator>Resende, Cristina M M</dc:creator>
+          <dc:creator>Monteiro, Jacqueline P.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Desnutrição. Criança Hospitalizada. Prescrição Dietética.</dc:subject>
+          <dc:subject xml:lang="en-US">Malnutrition. Child</dc:subject>
+          <dc:subject xml:lang="en-US">Hospitalized. Dietetic</dc:subject>
+          <dc:subject xml:lang="en-US">Prescription.</dc:subject>
+          <dc:description xml:lang="en-US">Background:&#160;Malnutrition is frequently found in hospitalized children and is associated with poor outcome. The adequate nutritional approach improves clinical evaluation. The aim of this study was to evaluate the adequacy of dietetic enteral order in hospitalized children. Methods:&#160;Twenty one children were followed from july to september 2004. The dietetic enteral orders were registered during three periods of hospitalization.&#160;Results:&#160;The children body weight was inadequate and didn´t changed during the hospitalization (day 1 = 76.4 ± 18.2%; day 2 = 76.1 ± 18.6%; day 3 = 76.7 ± 19.6%). Energy dietetic order was inadequate but protein and micronutrients were according to the recommendation.&#160;Conclusion:&#160;Clinical condition may negativelly affect the nutritional order. The multidisciplinary team should give all the efforts to meet the appropriate dietetic energy order of hospitalized children.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo:&#160;Estudo de prevalência. Objetivo: A subnutrição é freqüentemente observada em crianças hospitalizadas e está associada a um pior prognóstico. A correta abordagem nutricional, incluindo a prescrição dietética, melhora a evolução clínica. O objetivo desse estudo foi avaliar a adequação da prescrição dietética em crianças hospitalizadas.&#160;Métodos&#160;: Vinte e uma crianças foram acompanhadas de Julho a Setembro de 2004. Foi realizado a avaliação das prescrições dietéticas de crianças recebendo nutrição enteral durante três períodos da internação.&#160;Houve inadequação do peso durante a hospitalização (dia 1 =76.4 ± 18.2%; dia 2 = 76.1 ± 18.6%; dia 3 = 76.7 ± 19.6%), sem alteração durante o período do estudo. A prescrição energética foi inadequada, porém as de proteínas e micronutrientes apresentaram-se dentro da recomendação. Conclusão:&#160;A condição clínica pode afetar de maneira negativa a prescrição nutricional. A equipe multidisciplinar deve se empenhar ao máximo para atingir as necessidades energéticas das crianças hospitalizadas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/324</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p255-259</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 255-259</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 255-259</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 255-259</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/324/325</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/325</identifier>
+        <datestamp>2020-06-25T16:10:03Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">INTERSTITIAL PULMONARY DISEASE AND INFLAMMATORY BOWEL DISEASE ASSOCIATION: 2 CASES REPORT</dc:title>
+          <dc:title xml:lang="pt-BR">DOENÇA INTERSTICIAL PULMONAR ASSOCIADA À DOENÇA INFLAMATÓRIA INTESTINAL: RELATO DE DOIS CASOS</dc:title>
+          <dc:creator>Schade, Lilian</dc:creator>
+          <dc:creator>Carmes, Eliane Ribeiro</dc:creator>
+          <dc:creator>Escuissato, Dante Luiz</dc:creator>
+          <dc:creator>Barros, João Adriano</dc:creator>
+          <dc:subject xml:lang="en-US">Lung Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Interstitial. Pulmonary Fibrosis. Inflammatory Bowel Diseases. Crohn Disease. Proctocolitis.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Pulmonares Intersticiais. Fibrose Pulmonar. Enteropatias Inflamatórias. Doença de Crohn. Proctocolite.</dc:subject>
+          <dc:description xml:lang="en-US">The lung involvement in the inflammatory bowel disease is rare and it is not well characterized. We describe two cases of female patients with unspecific pulmonary symptomatology, and previous treatment for inflammatory bowel disease - Crohn‘s disease (case 1) and ulcerative rectocolitis. A chest computerized tomography was compatible with usual interstitial pneumonia (UIP). Related literature was reviewed.</dc:description>
+          <dc:description xml:lang="pt-BR">O acometimento pulmonar na doença inflamatória intestinal é raro e não está bem caracterizado. Relatamos os casos de duas pacientes com sintomatologia pulmonar inespecífica, em tratamento prévio de doença inflamatória intestinal – doença de Crohn (caso 1) e retocolite ulcerativa (caso 2). Os achados tomográficos foram compatíveis com pneumonia intersticial usual (PIU). Foi realizada revisão da literatura sobre o assunto.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/325</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p260-264</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 260-264</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 260-264</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 260-264</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/325/326</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/326</identifier>
+        <datestamp>2020-06-25T16:10:02Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">RESUMOS DE DISSERTAÇÕES DE MESTRADO E TESES DE DOUTORADO APRESENTADAS NA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO - USP DE JANEIRO A MARÇO DE 2007</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/326</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i2p265-311</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 2 (2007); 265-311</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 2 (2007); 265-311</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 2 (2007); 265-311</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/326/327</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/328</identifier>
+        <datestamp>2020-06-25T16:10:01Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">EMERGENCY AND TRAUMA SYSTEM ORGANIZATION</dc:title>
+          <dc:title xml:lang="pt-BR">A ORGANIZAÇÃO DO ATENDIMENTO ÀS URGÊNCIAS E TRAUMA</dc:title>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Centros de Traumatologia/organização &amp; administração. Medicina de Emergência/organização &amp; administração. Sistemas de Saúde/organização &amp; administração.</dc:subject>
+          <dc:subject xml:lang="en-US">Trauma Center/organization &amp; administration. Emergency Medicine/organization &amp; administration. Health Systems/organization &amp; administration.</dc:subject>
+          <dc:description xml:lang="en-US">Trauma and emergency system organization has been extensively discussed worldwide in the last years. Different models have been proposed, mainly in developed countries. Although there is no doubt about the benefits of organizing an emergency and trauma system, there is no evidence to sustain one best model. In summary, main differences among the models are medical activity in the pre-hospital field and the recognition of an emergency medical speciality in the hospital’s emergency rooms. In Brazil, nevertheless the current Health Minister policies focused in the development of a national emergency system, the emergency sector needs better statements, investments and commitment of health care formation institutions.</dc:description>
+          <dc:description xml:lang="pt-BR">A organização dos sistemas de urgência e trauma tem sido extensivamente discutida no mundo. Diversos modelos têm sido propostos principalmente pelos países desenvolvidos.Embora exista um consenso com relação à necessidade e os grandes benefícios trazidos pela organização dos sistemas de urgência e trauma, ainda não existem evidências quanto à supremacia de um único modelo. Sumariamente as principais diferenças são baseadas na participação ou não dos médicos no atendimento pré-hospitalar e na existência ou não de uma especialidade médica em emergências na linha de frente dos hospitais. No Brasil, embora nos últimos anos o Ministério da Saúde tenha investido no desenvolvimento de um modelo nacional, o setor de urgência ainda carece de definições, maiores investimentos e envolvimento dos órgãos formadores no setor de saúde.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/328</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p315-320</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 315-320</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 315-320</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 315-320</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/328/329</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/329</identifier>
+        <datestamp>2020-06-25T16:10:00Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">QUALITY PROGRAMS ON TRAUMA CARE</dc:title>
+          <dc:title xml:lang="pt-BR">PROGRAMAS DE QUALIDADE NO ATENDIMENTO AO TRAUMA</dc:title>
+          <dc:creator>Fraga, Gustavo Pereira</dc:creator>
+          <dc:subject xml:lang="pt-BR">Trauma. Centros de Traumatologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">organização &amp; administração. Controle de Qualidade. Registro Médico Coordenado. Mortalidade.</dc:subject>
+          <dc:subject xml:lang="en-US">Trauma. Trauma Centers</dc:subject>
+          <dc:subject xml:lang="en-US">organization &amp; administration. Quality Control. Medical Record Linkage. Mortality.</dc:subject>
+          <dc:description xml:lang="en-US">Trauma is a public health problem of vast proportions. It is the leading cause of death in young people. Researches have shown a significant number of persons dying from preventable injuries. The number of these preventable deaths can decrease by improving the organization and planning for trauma care services. One of the key administrative functions used to strengthen trauma care is quality assurance programs, also known as medical audit or continuous quality improvement. Quality improvement is a continuous method of improving medical care by monitoring the elements of diagnosis, treatment and outcome. The goal of quality improvement is to ensure that trauma centers and trauma systems design processes to systematically monitor, analyze, and improve performance with the ultimate intent of improving patient outcomes. A variety of techniques have been used specifically to develop trauma quality improvement: morbidity and mortality conferences, preventable death studies, institutional registries, guidelines, audit filters, risk adjusted scoring, and outcome measures. In Brazil there is only rudimentary information on mortality due to the lack of systematic programs to collect data and information on trauma. This paper will emphasize the current status of quality improvement methodology to assess the care of injured patients.</dc:description>
+          <dc:description xml:lang="pt-BR">O trauma é um problema de saúde pública de grandes proporções. É a principal causa de óbito na população jovem. Pesquisas mostram um grande número de pessoas morrendo de lesões que poderiam ser prevenidas. Estes óbitos evitáveis podem diminuir com melhorias na organização e planejamento dos serviços de trauma. Uma das medidas administrativas utilizadas para melhorar a assistência ao trauma são programas de controle de qualidade conhecidos como auditoria médica ou processos contínuos de melhora da qualidade. O programa de melhoria de qualidade é um método contínuo de aperfeiçoar a assistência médica através da monitoração dos elementos de diagnóstico, tratamento e evolução dos pacientes. O objetivo deste controle de qualidade é assegurar que os sistemas e centros de trauma determinem sistematicamente processos de monitoração, análise e controle dos resultados com o objetivo final de melhorar a evolução dos pacientes tratados. Inúmeras técnicas têm sido utilizadas para desenvolver este processo: reuniões de morbimortalidade, estudos de óbitos evitáveis, registros institucionais, protocolos, auditorias, escores de risco e avaliação do prognóstico. No Brasil existem apenas informações rudimentares de mortalidade devido à falta de programas para coletar dados e avaliar as informações relacionadas ao trauma. Este artigo apresentará o estado atual dos programas de controle de qualidade para avaliar a assistência às vítimas de trauma.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/329</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p321-328</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 321-328</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 321-328</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 321-328</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/329/330</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/330</identifier>
+        <datestamp>2020-06-25T16:09:59Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">INFECTION IN EMERGENCY AND TRAUMA SURGERY: PREVENTION, DIAGNOSIS AND TREATMENT</dc:title>
+          <dc:title xml:lang="pt-BR">INFECÇÃO EM CIRURGIA DE EMERGÊNCIAS E TRAUMA: PREVENÇÃO, DIAGNÓSTICO E TRATAMENTO</dc:title>
+          <dc:creator>Ziliotto Júnior, Antonio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Infecção da Ferida Operatória. Abdome Agudo. Infecção Hospitalar. Cateterismo Venoso. Trauma.</dc:subject>
+          <dc:subject xml:lang="en-US">Surgical Wound Infection. Abdomen</dc:subject>
+          <dc:subject xml:lang="en-US">Acute. Cross Infection. Catheterization</dc:subject>
+          <dc:subject xml:lang="en-US">Venous. Trauma.</dc:subject>
+          <dc:description xml:lang="en-US">Infection remains the major cause of morbidity and mortality in trauma patients and in patients submitted to emergency operations, despite preventive strategies and potent antibiotics. The infection can appear as wound infection at the site of injury or at the route employed for its repair. The most important kind of infection is the nosocomial one, referring to those that occur remote from the site of injury or operation as pneumonia, urinary tract infection, and related to the intravascular catheter. The number of bacteria, its virulence and poor host defense are determinants of infection. Shock, hypoxemia, blood transfusion, systemic hypothermia, malnutrition, chronic alcoholism, diabetes are factors that predispose to infection. To avoid this condition, prevention begins with appropriate local and systemic practices of infection control.</dc:description>
+          <dc:description xml:lang="pt-BR">A infecção continua sendo a maior causa de morbidade e de mortalidade em pacientes traumatizados ou submetidos a cirurgia de emergência, apesar dos esforços na prevenção e nos avanços na terapia antimicrobiana. A infecção pode surgir no local do trauma ou na via de acesso para o tratamento cirúrgico, mas a mais importante é a infecção hospitalar, que ocorre em geral fora do sítio cirúrgico ou do local de trauma, como as pneumonias, infecções do trato urinário e relacionadas às punções vasculares. São determinantes da infecção o número e a virulência da bactéria e por outro lado a resistência do hospedeiro. Também são fatores predisponentes o choque, a hipoxemia, as transfusões sanguíneas, a hipotermia, a má nutrição, o alcoolismo crônico e o diabete, dentre outras. Para evitar a infecção devem ser adotadas práticas adequadas de controle da infecção tanto local quanto sistêmico.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/330</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p329-334</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 329-334</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 329-334</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 329-334</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/330/331</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/331</identifier>
+        <datestamp>2020-06-25T16:09:58Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">TRAUMA, REHABILITATION AND QUALITY OF LIFE</dc:title>
+          <dc:title xml:lang="pt-BR">TRAUMA, REABILITAÇÃO E QUALIDADE DE VIDA</dc:title>
+          <dc:creator>Carlo, Marysia MRP</dc:creator>
+          <dc:creator>Elui, Valéria MC</dc:creator>
+          <dc:creator>Santana, Carla S.</dc:creator>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:creator>Alves, Ana Laura A.</dc:creator>
+          <dc:creator>Salim, Francine M.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Trauma. Reabilitação. Qualidade de Vida. Classificação Internacional de Funcionalidade. Terapia Ocupacional.</dc:subject>
+          <dc:subject xml:lang="en-US">Trauma. Rehabilitation. Quality of Life. International Classification of Functioning. Occupational Therapy.</dc:subject>
+          <dc:description xml:lang="en-US">This article presents a review of the literature, based on articles published from July, 2002 until May, 2007. It aims to analyze questions related to different types of traumas and their relationships with the rehabilitation programs and quality of life. This review was realized through a search into the international databases Medline,Scielo and Lilacs.The selected articleswere divided in four categories, in two different axis of analysis, based in the International Classification of Functionality: 1. structures and functions of the body (medical-surgical and functional aspects, and validation of protocols) and 2. Activities and social participation (psychosocial aspects). Finally, ahead of the changes related with trauma and based in the results and discussion that the articles presented, we emphasize the importance of the multidisciplinary work of the rehabilitation team, in particular the contribution of the occupational therapy, and the necessity of quality of life promotion of these populations in the physical aspects, as well in emotional, social and familiar.</dc:description>
+          <dc:description xml:lang="pt-BR">Este trabalho apresenta uma revisão da literatura, baseada em artigos publicados no período de julho de 2002 a maio de 2007. Procuramos analisar questões referentes a diversos tipos de traumas e suas relações com os programas de reabilitação e qualidade de vida. A revisão foi realizada a partir da consulta às bases de dados internacionais Medline, Scielo e Lilacs e os artigos selecionados foram divididos em quatro categorias, dentro de dois eixos de análise, baseados na Classificação Internacional de Funcionalidade . 1. estruturas e funções do corpo, (aspectos clínico-cirúrgicos e funcionais e validação de protocolos) e 2. atividades e participação social (aspectos psicossociais). Por fim, diante das mudanças decorrentes do trauma e baseados nos resultados e discussões que os artigos apresentam, enfatizamos a importância do trabalho multidisciplinar da equipe de reabilitação, em particular a contribuição da Terapia Ocupacional, e a necessidade de promoção da qualidade de vida destas populações, tanto nos aspectos físicos, como emocionais e sócio-familiar.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/331</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p335-344</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 335-344</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 335-344</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 335-344</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/331/332</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/332</identifier>
+        <datestamp>2020-06-25T16:09:57Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">TRAFFIC ACCIDENTS AND PSYCHOSOCIAL VARIABLES A LITERATURE REVIEW</dc:title>
+          <dc:title xml:lang="pt-BR">ACIDENTES DE TRÂNSITO E VARIÁVEIS PSICOSSOCIAIS - UMA REVISÃO DA LITERATURA</dc:title>
+          <dc:creator>Magalhães, Sílvia H.T.</dc:creator>
+          <dc:creator>Loureiro, Sonia R.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Acidentes de Trânsito. Ansiedade. Depressão. Adaptação Psicossocial. Qualidade de Vida</dc:subject>
+          <dc:subject xml:lang="en-US">Accidents</dc:subject>
+          <dc:subject xml:lang="en-US">Traffic. Anxiety. Depression. Psychosocial Adaptation. Quality of Life.</dc:subject>
+          <dc:description xml:lang="en-US">The objective of this study was to identify and analyze empirical studies on traffic accidents in terms of psychosocial variables as consequences or predictors of involvement in traffic accidents. An electronic bibliographic search of literature indexed with PsycINFO, MedLINE and LILACS, between 2000 to 2006, was undertaken using the key words: Traffic Accidents, Anxiety, Depression, Psychosocial Adaptation and Quality of Life. A total of 36 articles were identified and grouped into two categories, one relative to anxiety and quality of life after accident and the other relative to the personal variables of the drivers. The studies evaluated associated traffic accidents with anxiety and depression, psychosocial loss, identifying the following characteristics as indicators of involvement in traffic accidents: young, male, with tendency to aggressiveness and social transgression.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetiva-se identificar e analisar estudos empíricos sobre acidentes de trânsito que abordam variáveis psicossociais como conseqüências ou preditoras do envolvimento com acidentes de trânsito. Procedeu-se ao levantamento bibliográfico eletrônico da literatura indexada, no período de 2000 a 2006, através do PsycINFO, MedLINE e LILACS, utilizando-se as palavraschave: Acidentes de Trânsito, Ansiedade, Depressão, Adaptação Psicossocial e Qualidade de Vida. Foram identificados e analisados 36 artigos agrupados em duas categorias, uma relativa à ansiedade e qualidade de vida pós-acidente e outra relativa às variáveis pessoais dos condutores que se envolveram em acidentes. Os estudos analisados constataram a associação de acidentes de trânsito à ansiedade, depressão, prejuízos psicossociais, identificando como indicadores do envolvimento com os acidentes de trânsito: jovens, sexo masculino, com tendência a agressividade e transgressão social.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/332</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p345-351</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 345-351</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 345-351</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 345-351</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/332/333</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/333</identifier>
+        <datestamp>2020-06-25T16:09:56Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">TRAUMA IN ELDERLY</dc:title>
+          <dc:title xml:lang="pt-BR">TRAUMA NO IDOSO</dc:title>
+          <dc:creator>Hirano, Elcio S.</dc:creator>
+          <dc:creator>Fraga, Gustavo Pereira</dc:creator>
+          <dc:creator>Mantovani, Mario</dc:creator>
+          <dc:subject xml:lang="pt-BR">Trauma. Idoso. Fatores de Risco. Assistência Geriatrica.</dc:subject>
+          <dc:subject xml:lang="en-US">Trauma. Elderly. Risk Factors. Geriatric Care.</dc:subject>
+          <dc:description xml:lang="en-US">The occurrence of trauma in the elderly is growing significantly due to the increase of number of this population. Currently, the more active lifestyle of the elderly leads them to be more exposed to the risk of accidents. Besides that, physiological ageing itself contributes to such risk: reduction of sight, reduction of hearing, use of medication, associated diseases and slow locomotion. Other organic systems also present reduction of their functions: renal, pulmonary, cardiovascular, musculoskeletal and endocrine. Fall is the most frequent mechanism of trauma, followed by motor vehicle crash. After the trauma there is a decline in the quality of life of the elderly since they have difficulty to fully recover. The best method to diminish morbidity and mortality is to prevent the elderly from being exposed to risks. Minimum alteration of the physiological parameters can suggest potentially lethal injury. Therefore, the initial approach to the traumatized elderly should be with careful attention and rigorous monitoring.</dc:description>
+          <dc:description xml:lang="pt-BR">A ocorrência de trauma no idoso vem crescendo de forma significativa, mediante ao crescimento desta população. Atualmente, o estilo de vida mais ativa do idoso eleva a exposição ao risco de acidentes. Além desse fator, o próprio envelhecimento fisiológico contribui: diminuição da acuidade visual, diminuição da audição, uso de medicações, doenças associadas e marcha lentificada. Outros sistemas orgânicos também possuem diminuição de suas funções: renal, pulmonar, cardiovascular, osteomuscular e endócrino. A queda é o mecanismo de lesão mais freqüente, seguido por atropelamento. Após o trauma o idoso possui uma decadência na sua qualidade de vida, não conseguindo retornar plenamente ao seu estado inicial. A prevenção por meio da redução de exposição aos riscos de trauma é a melhor ferramenta para diminuir a morbidade e mortalidade. Qualquer mínima alteração dos parâmetros fisiológicos pode ser indício de uma lesão potencialmente letal. Portanto, a abordagem inicial do idoso traumatizado deve ser realizada com maior atenção e rigorosamente monitorizada.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/333</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p352-357</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 352-357</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 352-357</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 352-357</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/333/334</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/334</identifier>
+        <datestamp>2020-06-25T16:09:55Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">ACUTE ABDOMEN</dc:title>
+          <dc:title xml:lang="pt-BR">ABDÔMEN AGUDO</dc:title>
+          <dc:creator>Brunetti, Adriano</dc:creator>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Dor Abdominal. Abdômen Agudo. Pneumoperitônio. Colecistite. Apendicite. Obstrução Intestinal.</dc:subject>
+          <dc:subject xml:lang="en-US">Abdominal Pain. Acute Abdomen. Pneumoperitoneum. Cholecystitis. Appendicitis</dc:subject>
+          <dc:subject xml:lang="en-US">Intestinal Obstruction.</dc:subject>
+          <dc:description xml:lang="en-US">The acute abdomen can be defined as an acute, non-traumatic abdominal pain that needs medical care, and in some situations surgical intervention. This clinical scenario is very frequent, in the emergency room. Detailed anamnesis directs the physical examination, and will be the guideline to conduct the early treatment and the reestablishment of the patient. Due to the great number of diseases related with this syndrome, our goal was to review the literature and to produce an objective and practical methodology, with the aim to facilitate the diagnosis and to prevent unnecessary exams, which may delay the specific treatment, improving the assess and care of the patient.</dc:description>
+          <dc:description xml:lang="pt-BR">O abdômen agudo pode ser definido como uma dor abdominal de aparecimento súbito, não traumático, que pode necessitar de intervenção cirúrgica ou não. A anamnese detalhada direcionando o exame físico será a base que orientará a condução do tratamento precoce e o restabelecimento do paciente. Considerando o grande número de doenças que podem se manifestar como abdômen agudo, o objetivo desta revisão é produzir uma sistemática de abordagem, para facilitar o diagnóstico e evitar exames desnecessários ou que retardem o tratamento específico, melhorando o atendimento e o manejo do paciente, conseqüentemente propiciando um retorno às atividades habituais precocemente.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/334</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p358-367</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 358-367</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 358-367</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 358-367</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/334/335</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/335</identifier>
+        <datestamp>2020-06-25T16:09:54Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">CREATINE SUPPLEMENTATION, HOMOCYSTEINE AND OXIDATIVE STRESS</dc:title>
+          <dc:title xml:lang="pt-BR">SUPLEMENTAÇÃO DE CREATINA, HOMOCISTEÍNA E ESTRESSE OXIDATIVO</dc:title>
+          <dc:creator>Deminice, Rafael</dc:creator>
+          <dc:creator>Vilhena, Rodrigo</dc:creator>
+          <dc:creator>Portari, Guilherme V.</dc:creator>
+          <dc:creator>Jordão, Alceu A.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Creatina. Suplementação Alimentar. Homocisteína. Estresse Oxidativo.</dc:subject>
+          <dc:subject xml:lang="en-US">Creatine. Supplementary Feeding. Homocysteine. Oxidative Stress.</dc:subject>
+          <dc:description xml:lang="en-US">Creatine is a popular substance among athletes due its possible ergogenic property. Such popularity has been stimulating authors to study and explore the possible potencial therapeutic effect of this substance. The synthesis of creatine is responsible for the majority methyl groups transferences in the normal hepatic metabolism. As homocysteine is an aminoacid formed exclusively from the methionine demetilation, it is believed that creatine and homocysteine are metabolically connected. Studies have show that hyperhomocysteinemia is directly linked to oxygen reactive species formation by the homocysteine and/or cysteine auto-oxidation and this can promote cellular damage. The aim of this review is to discuss some aspects of creatine supplementation on homocysteine levels and oxidative stress.</dc:description>
+          <dc:description xml:lang="pt-BR">A creatina é uma substância popular entre atletas devido a sua possível propriedade ergogênica. Tal popularidade incentivou autores a estudar e explorar o possível potencial terapêutico desta substância. A síntese de creatina é responsável pela maioria das transferências de grupos metila no metabolismo hepático normal. Como a homocisteína é um aminoácido formado exclusivamente a partir da desmetilação da metionina, acredita-se que a creatina e homocisteína estejam metabolicamente conectadas. Estudos têm mostrado que a hiperhomocisteinemia está diretamente ligada à formação de espécies reativas de oxigênio pela autooxida ção da homocisteína e/ou da cisteína e que tal auto-oxidação pode provocar danos celulares. O objetivo desta revisão é discutir aspectos da suplementação com creatina relacionados aos níveis de homocisteína e o estresse oxidativo.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/335</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p368-377</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 368-377</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 368-377</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 368-377</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/335/336</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/336</identifier>
+        <datestamp>2020-06-25T16:09:53Z</datestamp>
+        <setSpec>rmrp:Tem.+Ens.+Med.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">ELETROPHYSIOLOGY FUNDAMENTALS: MEMBRANE POTENTIALS</dc:title>
+          <dc:title xml:lang="pt-BR">FUNDAMENTOS DE ELETROFISIOLOGIA: POTENCIAIS DE MEMBRANA</dc:title>
+          <dc:creator>Delattre, Edson</dc:creator>
+          <dc:subject xml:lang="pt-BR">Potenciais da Membrana. Eletrofisiologia. Biofísica. Ensino. Aprendizagem. Instrução Programada</dc:subject>
+          <dc:subject xml:lang="en-US">Membrane Potentials. Electrophysiology. Biophysics. Teaching. Learning. Programmed Instruction.</dc:subject>
+          <dc:description xml:lang="en-US">Electrophysiology is of fundamental importance for the professionals in the medical field. However, there are difficulties in its understanding by students.Based in our teaching experience, we feel the need to help the student who is getting started in this subject or that wants to review it. Thus, we have prepared an easy, useable auto-instructional tool of teaching-learning, where the sequential mastery of the contents favors new cognitive acquisitions. The current tool aims at handling the chemical-physical principle of bioelectrogenesis supplying the basis to study neurophysiology, endocrinology and cardiac electrophysiology inter alia. Preceded by a theoretical introduction and objectives it presents a logical, articulated and hierarchical sequence of seventy objective, multi-choice questions, being fifty nine in the basic domain and eleven in the applied domain. They aim to stimulate the student to discover, by means of a logical-deductive reasoning, bioelectrical fundamentals of the generation and maintainance of the membranane potential. Parallel with the proposition contents, several reinforcing insets are placed about the essential concepts, or that are considered relevant or special applications of the subject. At the end an answer list is presented. The tool was used in student group activities with the biology area students with satisfactory results.</dc:description>
+          <dc:description xml:lang="pt-BR">A eletrofisiologia é de fundamental importância para os profissionais da área médica, não obstante seja um dos temas de difícil compreensão pelos estudantes. Com base em nossa experiência didático-pedagógica, sentimos a necessidade de auxiliar o estudante que se inicia nesse assunto, ou que o retoma. Assim, elaboramos um instrumento auto-instrucional de ensino-aprendizagem, de fácil utilização, onde o domínio seqüencial dos conteúdos favorece as novas aquisições cognitivas. O instrumento visa tratar dos princípios físico-químicos da bioeletrog ênese, fornecendo a base de estudo da neurofisiologia, da endocrinologia e da eletrofisiologia cardíaca inter alia. Precedido de uma introdução teórica e dos objetivos, apresenta uma seqüência lógica, articulada e hierarquizada de setenta questões objetivas de múltipla escolha, com três alternativas, sendo cinqüenta e nove questões básicas e onze aplicadas. As questões objetivam estimular o estudante a descobrir, por meio do raciocínio lógico-dedutivo, os fundamentos bioelétricos da geração e manutenção do potencial de membrana. Em paralelo com o conteúdo das proposições, foram dispostos vários insets reforçadores dos conceitos essenciais ou que destacam aspectos relevantes e aplicados do tema. Na parte final, apresentou-se o gabarito das questões. O instrumento foi utilizado em atividades de estudo em grupos, de alunos de cursos da área biológica, com resultados satisfatórios.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/336</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p378-393</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 378-393</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 378-393</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 378-393</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/336/337</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/337</identifier>
+        <datestamp>2020-06-25T16:09:52Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THE STAGING OF BREAST CANCER DIAGNOSED IN SÃO CARLOS PUBLIC HEALTH SYSTEM</dc:title>
+          <dc:title xml:lang="pt-BR">ESTADIAMENTO DO CÂNCER DE MAMA DIAGNOSTICADO NO SISTEMA PÚBLICO DE SAÚDE DE SÃO CARLOS</dc:title>
+          <dc:creator>Macchetti, Alexandre Henrique</dc:creator>
+          <dc:subject xml:lang="en-US">Breast Neoplasms. Neoplasm Staging. Health Services Epidemiology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neoplasias Mamárias. Estadiamento de Neoplasias. Epidemiologia dos Serviços de Saúde</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: dados sobre o estadio do câncer no momento do diagnóstico são facilmente disponíveis para a maioria dos países desenvolvidos, mas para os países da América Latina estes são difíceis de serem obtidos. Dados do Instituto Nacional do Câncer referem 60% dos casos de câncer de mama em estadio avançado, no entanto o presente do Serviço de Mastologia da Secretaria de Saúde de São Carlos mostrou dados diversos que estimularam a avaliação da idade e do estadio do câncer de mama dos pacientes do Sistema Único de Saúde residentes na cidade de São Carlos e a comparação às estatísticas de outras instituições.&#160;Pacientes e Métodos: registros de 106 pacientes com diagnóstico de câncer de mama entre Março de 2000 e Dezembro de 2004 no Serviço de Mastologia da Secretaria de Saúde de São Carlos (SUS) foram revisados quanto ao estadio e a idade no momento do diagnóstico. Os casos de câncer de mama foram agrupados segundo os sistemas de estadiamento TNM e SEER, e a idade conforme valor acima ou abaixo da idade mediana do grupo de pacientes com o objetivo de correlacioná-los.&#160;Resultados: no sistema de estadiamento TNM os tumores corresponderam a 6,6% de todos os casos, tumores no estadio I a 25,4%, estadio II a 44,3%, estadio III a 17,0 % e estadio IV a 6,6%. No sistema de estadiamento SEER os tumores in situ corresponderam a 6,6% de todos os casos, tumores locais a 62,2%, tumores regionais a 24,5%, e disseminados a 6,6%. Houve mais casos em estadio inicial utilizando o sistema TNM (76,3%) do que o sistema SEER (68,8%). Houve associação do grupo de pacientes com menos de 56 anos com o estadio inicial ao diagnóstico com o sistema TNM, mas não com o sistema SEER.&#160;Conclusões: dados relevantes para o melhor entendimento da atenção ao câncer de mama são apresentados, permitindo melhora das intervenções ao nível da comunidade para detecção do câncer e também uma estratégia dirigida por dados na alocação de recursos para políticas, programas e serviços relacionados ao câncer.</dc:description>
+          <dc:description xml:lang="en-US">Introduction: data on breast cancer stage at diagnosis are easily available for most developed countries while they are more difficult to obtain for countries of Latin America. Data of Instituto Nacional do Câncer reffer to 60% of breast cancer cases in late stage, however the present of Mastology Service of Heath Secretary of São Carlos showed different data that estimulate the evaluation of the breast cancer stage and age at diagnosis in the patients of public health system resident at São Carlos and comparation to statistics of others institutions.Patients and Methods: records of 106 women newly diagnosed with breast cancer between March 2000 and December 2004 at Mastology Service of Health Secretary of São Carlos (SUS) were reviewed. The breast cancer stage and age at diagnosis were annotade. Breast cancer stage was grouped according to TNM (AJCC) and SEER Summary Staging systems, and age at diagnosis was grouped according age under or above the median of the group of patients to correlate with the breast cancer stage.&#160;Results: In the TNM staging system the tumors in situ corresponded to 6,6% of all cases, tumors at stage I to 25,4%, stage II to 44,3%, stage III to 17,0 % and stage IV to 6,6%. In the SEER staging system the tumors in situ corresponded to 6,6% of all cases, local tumors to 62,2%, regional tumors to 24,5% and diseminated tumors to 6,6%. There were more early stage cases while using TNM (76,3%) than while using SEER staging system (68,8%). There was association of age group under 56 years with early breast cancer stage at diagnosis in AJCC staging system, but not in SEER staging system.&#160;Conclusion: relevant data to a better understanding of the breast cancer care are presented, permiting improve community-level interventions to cancer detection, and also a data-driven rationale for allocating resources to cancer-related policies, programs, and services.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/337</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p394-402</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 394-402</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 394-402</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 394-402</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/337/338</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/338</identifier>
+        <datestamp>2020-06-25T16:09:51Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">EFFECT OF AEROBIC PHYSICAL TRAINING IN PACIENTS WITH CORONARY ARTERY DISEASE PARTICIPANTS OF A CARDIAC REHABILITATION PROGRAM</dc:title>
+          <dc:title xml:lang="pt-BR">EFEITO DO TREINAMENTO FÍSICO AERÓBICO EM CORONARIOPATAS SUBMETIDOS A UM PROGRAMA DE REABILITAÇÃO CARDIOVASCULAR</dc:title>
+          <dc:creator>Milani, Maurício</dc:creator>
+          <dc:creator>Kozuki, Renata T.</dc:creator>
+          <dc:creator>Crescêncio, Júlio C.</dc:creator>
+          <dc:creator>Papa, Valéria</dc:creator>
+          <dc:creator>Santos, Michele DB</dc:creator>
+          <dc:creator>Bertini, Camila Q.</dc:creator>
+          <dc:creator>Amato, Cristiana AF</dc:creator>
+          <dc:creator>Miranda, Vanessa CR</dc:creator>
+          <dc:creator>Flosi, Fabio G.</dc:creator>
+          <dc:creator>Izeli, Nataly L.</dc:creator>
+          <dc:creator>Maciel, Benedito C.</dc:creator>
+          <dc:creator>Gallo Junior, Lourenço</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doenças Cardiovasculares. Reabilitação. Coronariopatia. Exercício Aeróbico.</dc:subject>
+          <dc:subject xml:lang="en-US">Cardiovascular Diseases. Rehabilitation. Coronary Diseases. Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Aerobic.</dc:subject>
+          <dc:description xml:lang="en-US">Study Model: Retrospective. Study objectives: Evaluate the effect of aerobic physical training in cardiovascular variables in patients with coronary artery disease participants of a Cardiovascular Rehabilitation Program. Methods: Patients with stable coronary artery disease were included and were analyzed the cardiovascular variables of exercise testing, carried out before and after a minimum period of 12 weeks of aerobic physical training in a Cardiovascular Rehabilitation Program, from February 2002 to July 2005. Results: A significant increment (p &amp;lt;0.0001) of maximal oxygen consumption (VO2 max) was observed after the cardiovascular rehabilitation (30.1 ± 9.5 versus 35.5 ± 8.8 ml/kg/min). The difference of the VO2&#160;max had negative correlation with the initial physical capacity, with greater benefits in patients with smaller initial values of VO2&#160; max. Significant differences were not observed in maximal systolic blood pressure and double product, and a small difference was observed in maximal heart rate. The improvement in ischemic threshold was more pronounced, with an increment of 7.4 ml/kg/min in oxygen consumption, with statistical significance (p &amp;lt; 0.0001) (21.0 ± 6.9 versus 28.4 ± 8.2 ml/kg/min).&#160;Conclusions: The cardiovascular rehabilitation improved physical capacity and ischemic threshold in patients participants of a Cardiovascular Rehabilitation Program. The benefit in physical capacity was greater in patients with smaller initial values of maximal oxygen consumption.&#160;&#160;&#160;&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Retrospectivo. Objetivos do estudo: Avaliar o efeito do treinamento físico aeróbico nas variáveis cardiovasculares em pacientes coronariopatas participantes do Programa de Reabilitação Cardiovascular. Metodologia: Foram incluídos pacientes portadores de coronariopatia estável e foram avaliadas as variáveis cardiovasculares de testes ergométricos seriados, realizados antes e após um período mínimo de 12 semanas de treinamento físico aeróbico em um Programa de Reabilitação Cardiovascular, de fevereiro de 2002 a julho de 2005.&#160;Resultados: Documentou-se incremento significativo (p &amp;lt; 0,0001) do consumo de oxigênio pico (VO2 pico) após a reabilitação cardiovascular (30,1 ± 9,5 versus&#160;35,5 ± 8,8 ml/kg/min). Este delta do VO2 pico apresentou correlação negativa com a capacidade física inicial, com maiores ganhos nos pacientes com menores valores iniciais de VO2 pico. Não foram observadas diferenças significativas na pressão arterial sistólica e no duplo produto pico, e uma diferença de pequena magnitude foi observada na freqüência cardíaca pico. A melhora no limiar isquêmico do miocárdio, avaliada pelo consumo de oxigênio na positivação, foi ainda mais expressiva, com incremento de 7,4 ml/kg/min (p &amp;lt; 0,0001) (21,0 ± 6,9 versus 28,4 ± 8,2 ml/kg/min). Conclusões: A reabilitação cardiovascular melhorou a capacidade física e o limiar isquêmico de pacientes participantes do Programa de Reabilitação Cardiovascular. O benefício na capacidade física foi maior&#160; nos pacientes com menores valores iniciais de consumo de oxigênio pico.&#160;&#160;&#160;&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/338</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p403-411</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 403-411</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 403-411</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 403-411</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/338/339</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/339</identifier>
+        <datestamp>2020-06-25T16:09:50Z</datestamp>
+        <setSpec>rmrp:RESH</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THE MEDICINE IN THE STATE OF GOIAS AND THE FACULTY OF MEDICINE OF RIBEIRÃO PRETO</dc:title>
+          <dc:title xml:lang="pt-BR">A MEDICINA EM GOIÁS E A FACULDADE DE MEDICINA DE RIBEIRÃO PRETO</dc:title>
+          <dc:creator>Rezende, Joffre Marcondes</dc:creator>
+          <dc:creator>Rassi, Anis</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/339</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p412-414</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 412-414</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 412-414</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 412-414</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/339/340</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/340</identifier>
+        <datestamp>2020-06-25T16:09:48Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">RESUMOS DE DISSERTAÇÕES DE MESTRADO E TESES DE DOUTORADO APRESENTADAS NA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO - USP DE ABRIL A JUNHO DE 2007</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/340</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i3p415-485</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 3 (2007); 415-485</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 3 (2007); 415-485</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 3 (2007); 415-485</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/340/341</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/341</identifier>
+        <datestamp>2020-06-25T16:09:47Z</datestamp>
+        <setSpec>rmrp:RESH</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Nota historica: A primeira turma da Faculdade de Medicina de Ribeirão Preto - USP</dc:title>
+          <dc:creator>Caliento, Carlos Roberto</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/341</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p487-487</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 487-487</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 487-487</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 487-487</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/341/342</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/342</identifier>
+        <datestamp>2020-06-25T16:09:46Z</datestamp>
+        <setSpec>rmrp:RESH</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Mensagem aos alunos da primeira turma da Faculdade de Medicina de Ribeirão Preto - USP</dc:title>
+          <dc:creator>Rodrigues, Maria de Lourdes V.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/342</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p488-488</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 488-488</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 488-488</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 488-488</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/342/343</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/343</identifier>
+        <datestamp>2020-06-25T16:09:45Z</datestamp>
+        <setSpec>rmrp:RESH</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Boas Vindas</dc:title>
+          <dc:creator>Sá, Marcos Felipe Silva</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/343</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p489-489</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 489-489</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 489-489</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 489-489</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/343/344</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:01Z" completeListSize="1467" cursor="150">edff085c0caa4a1d2d726e4aed984b07</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

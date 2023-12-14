@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:18Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7637</identifier>
+        <datestamp>2020-06-25T16:19:17Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Aplicações da ribotipagem na epidemiologia molecular de infecções bacterianas</dc:title>
+          <dc:title xml:lang="en-US">Ribotyping on molecular epidemiology of bacterial infections</dc:title>
+          <dc:creator>Darini, Ana Lúcia C.</dc:creator>
+          <dc:creator>Magalhães, Vanda D.</dc:creator>
+          <dc:creator>Crott, Luciana S. P.</dc:creator>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="en-US">Molecular. Bacterial Typing Techniques. Bacterial Infections.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia Molecular. Técnicas para Tipagem de Bactérias. Infecções Bacterianas.</dc:subject>
+          <dc:description xml:lang="pt-BR">A tipagem molecular do genoma bacteriano, na maioria das vezes, envolve a análise de fragmentos de restrição do DNA cromossômico. Desde que a ribotipagem foi descrita, em 1986, tem sido amplamente utilizada para analisar relações taxonômicas e/ou epidemiológicas entre os diferentes grupos de organismos. A ribotipagem usa o padrão de restrição do opéron de RNA ribossômico (rrn) como ferramenta epidemiológica e tem fornecido ótimos resultados para a detecção de polimorfismo do comprimento dos fragmentos de restrição (RFLPs). O número de opérons rrn da bactéria está diretamente relacionado ao potencial discriminatório da técnica, fornecendo um maior ou menor número de bandas. &amp;nbsp; &amp;nbsp;</dc:description>
+          <dc:description xml:lang="en-US">Molecular typing usually involves restriction fragment analysis of chromossomal DNA. Since 1986, ribotyping has been used to analyse taxonomic and/or epidemiological relationship among microrganisms. Ribotyping uses, as an epidemiological tool, the restriction profile of the ribosomal RNA operons and it has provided good results in RFLP detection. The number of bacterial rrn operons correlates with the discriminatory potential of the technique.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7637</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i1p73-80</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 1 (1998); 73-80</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 1 (1998); 73-80</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 1 (1998); 73-80</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7637/9173</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7638</identifier>
+        <datestamp>2020-06-25T16:19:15Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Unified health system and outpatient clinic demand: the patients of the university hospital of the faculty of medicine of Ribeirão Preto - USP</dc:title>
+          <dc:title xml:lang="pt-BR">Sistema único de saúde e demanda ambulatorial: os pacientes do hospital das clínicas da faculdade de medicina de Ribeirão Preto - USP</dc:title>
+          <dc:creator>Gutierrez, Manoel Romeu</dc:creator>
+          <dc:creator>Barbieri, Marco Antonio</dc:creator>
+          <dc:subject xml:lang="en-US">Health System. Outpatient Clinics Hospital. Morbidity. Hospitals</dc:subject>
+          <dc:subject xml:lang="en-US">University.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sistema de Saúde. Ambulatório Hospitalar. Morbidade. Hospitais Universitários.</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo -&amp;nbsp;Estudar aspectos sociais, econômicos e a morbidade dos pacientes que demandam os ambulatórios do HCFMRP - USP. Material e Métodos – Foram entrevistados trezentos e oito pacientes, selecionados por processo amostral probabilístico. A morbidade foi descrita pelos respectivos grupos de diagnósticos principais (CID-1975). Resultados – A maioria dos pacientes pertenciam às categorias ocupacionais de baixa renda; 70% eram economicamente ativos; 40.7% procediam de Ribeirão Preto (37.1%, sem encaminhamento); 27.2%, da região do ERSA 50 (18.1%, sem encaminhamento); 21.6% dos demais ERSA (24.2% sem encaminhamento); 10.5%, de outros estados (15.6%, sem encaminhamento). As triagens representaram 6% das consultas diárias (77.7% foram dispensadas); as consultas agendadas dos ambulatórios especializados representaram 75.3%; 18.8% dos atendimentos foram devidos aos demais procedimentos. Houve maior prevalência de Doenças do Aparelho Respiratório entre os pacientes não encaminhados, e sem diagnóstico ou para investigação (CID 799.9) entre os encaminhados; as maiores demandas foram devidas às Doenças do Sistema Nervoso, Neoplasmas, Diagnósticos Suplementares (V01 a V08) e Doenças do Aparelho Geniturinário. Conclusões – O atendimento ambulatorial mediante a apresentação de guia de referência, na prática, não atende aos pressupostos da hierarquização; um considerável número de pacientes poderia ter sido atendido nas respectivas unidades básicas, sugerindo a sua excludência dos níveis primário e secundário, cujas causas não foram determinadas; a maior demanda relativa foi a dos procedentes de Ribeirão Preto; quanto aos procedimentos, a maior demanda foi devida aos de alto custo e/ou tratamentos prolongados.</dc:description>
+          <dc:description xml:lang="en-US">Objective&amp;nbsp;- To study the socioeconomic aspects and the morbidity of patients seen at the outpatient clinics of UHFMRP-USP. Material and Methods – A total of 308 patients were interviewed after being selected by a probabilistic sampling process. Morbidity was described on the basis of the respective groups of major diagnoses (IDC-1975). Results – Most patients belonged to low income occupational categories; 70% were economically active; 40.7% were from Ribeirão Preto (37.1% appered without referral); 27.2% from ERSA 50 region (18.1% without referral); 21.6% from the remaining ERSA (24.2% without referral); 10.5% from other states (15.6%without referral). Medical screening corresponded to 6% of the daily visits (77.7% these were dismissed); the visits schedule at the specialized outpatient clinics represented 75.3% of the total, and 18.8% of the visits were due to other procedures. With respect to morbidity, here was a higher search for Pneumology assistence (Diseases of the Respiratory Tract) among the patients without referral, and undiagnosed diseases or diseases to be investigated among referred patients; the highest demand was due to Diseases of the Nervous System, Neoplasm,Supplementary Diagnoses (V01 to V08) and Diseases of the Genitourinary Tract. Conclusions – In practice, visits at the outpatients clinic with a referral form do not satisfy the assumptions of hirarchization; a considerable number of patients could have been seen in the respective basic units, suggesting na exclusion of the primary and secundary levels, whose causes were not determined; the greatest demand was on part of Ribeirão Preto residents and the procedures most often requested were those of high cost and/or involving prolonged treatments.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7638</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i1p81-98</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 1 (1998); 81-98</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 1 (1998); 81-98</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 1 (1998); 81-98</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7638/9174</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7639</identifier>
+        <datestamp>2020-06-25T16:19:14Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Complicações após aplicações, por via intramuscular, do diclofenaco de sódio</dc:title>
+          <dc:title xml:lang="en-US">Intramuscular site complications after sodium diclofenac injections</dc:title>
+          <dc:creator>Cassiani, Silvia H. B.</dc:creator>
+          <dc:creator>Rangel, Silvia M.</dc:creator>
+          <dc:creator>Tiago, Francisco</dc:creator>
+          <dc:subject xml:lang="en-US">Injections</dc:subject>
+          <dc:subject xml:lang="en-US">Intramuscular. Nursing. Sodium Diclofenac.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Injeções Intramusculares. Enfermagem. Diclofenaco de Sódio.</dc:subject>
+          <dc:description xml:lang="pt-BR">O uso da injeção intramuscular na terapêutica medicamentosa envolve, na atualidade, uma série de aspectos como: desvantagens quanto ao local, reações adversas e complicações surgidas após as injeções. Este estudo tem o objetivo de relatar o caso de uma paciente com complicações pós-aplicação de dezoito injeções de Diclofenaco de Sódio. As complicações apresentadas foram dermatológicas e musculares. Ao final, são discutidos cuidados a serem tomados na aplicação de injeções intramusculares, em especial, no uso de Diclofenaco de Sódio, a fim de se evitarem mais casos de complicações, após administração de medicações por via intramuscular.</dc:description>
+          <dc:description xml:lang="en-US">The use of intramuscular injections involves some disadvantages in the site of the injectons as adverse reactions and complications after the injections. This study aims to report a case of a patient with complications after eighteen injections of Diclofenac Sodium. The complications presented were of dermatological level and in the muscles. Authors discussed technical procedures to the administration of injections, specially in the use of the Diclofenac Sodium in order, to minimize cases with complications after intramuscular injections.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7639</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i1p99-105</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 1 (1998); 99-105</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 1 (1998); 99-105</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 1 (1998); 99-105</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7639/9175</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7640</identifier>
+        <datestamp>2020-06-25T16:19:13Z</datestamp>
+        <setSpec>rmrp:Art.+Esp.%3A+Ter.+Com.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Promoting nonpharmacologic interventions to treat elevated blood pressure</dc:title>
+          <dc:title xml:lang="pt-BR">Promoção de intervenções não-farmacológicas para tratar hipertensão arterial</dc:title>
+          <dc:creator>Stuart, Eileen M.</dc:creator>
+          <dc:creator>Friedman, Richard</dc:creator>
+          <dc:creator>Benson, Herbert</dc:creator>
+          <dc:subject xml:lang="en-US">Hypertension. Treatment Nonpharmacologic. Combined Modality Therapy.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipertensão. Tratamento Não Farmacológico. Terapia Combinada.</dc:subject>
+          <dc:description xml:lang="en-US">In the first part of this review, definition, prevalence, historical evolution and general principles of nonpharmacologic treatment of hypertesion are discussed. Then, rational basis and behavioural strategies to relieve reduction of obesity, ingestion of salt or alcohol, sedentarism, emotional stress and smoking are presented. Finally, the role of other dietary factors and combined therapy is considered, specially the integration of these therapies in a multidisciplinary approache to the patient with high blood pressure.</dc:description>
+          <dc:description xml:lang="pt-BR">Na primeira parte desta revisão, discutem-se a definição, prevalência, evolução histórica e os princípios gerais do tratamento não-farmacológico da hipertensão arterial. Em seguida, apresenta-se a base principal e as estratégias comportamentais para redução da obesidade, da ingestão de sal e de bebidas alcoólicas, do sedentarismo, do estresse emocional, e do uso do fumo. Na parte final, discute-se o papel de outros fatores dietéticos, (das terapias combinadas e, particularmente, como elas podem ser integradas em uma abordagem multidisciplinar do paciente hipertenso.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7640</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i1p106-143</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 1 (1998); 106-143</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 1 (1998); 106-143</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 1 (1998); 106-143</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7640/9176</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7642</identifier>
+        <datestamp>2020-06-25T16:16:42Z</datestamp>
+        <setSpec>rmrp:RESH</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Histórico da neurologia infantil na faculdade de medicina de Ribeirão Preto -USP</dc:title>
+          <dc:title xml:lang="en-US">Historical of the pediatric neurology in the medical school of Ribeirão Preto - USP</dc:title>
+          <dc:creator>Ribeiro, Maria Valeriana Leme de Moura</dc:creator>
+          <dc:subject xml:lang="en-US">Pediatrics. Neurology. Intership and Residency</dc:subject>
+          <dc:subject xml:lang="en-US">history.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neurologia. Pediatria. Internato e Residência</dc:subject>
+          <dc:subject xml:lang="pt-BR">hstória.</dc:subject>
+          <dc:description xml:lang="en-US">The author present the main historical data related to the creation and organization of the Pediatric Neurology in the Neuropsychiatric and Medical Psychology of the Medical School of Ribeirão Preto, USP, in the period of 1960 - 1990. It has been evaluated the interactions between the several departments and teachers sharing the assistencial work, research and teaching, with emphasis regard to the implantion and development of the Medical Residence in Pediatric Neurology.</dc:description>
+          <dc:description xml:lang="pt-BR">São apresentados os principais dados históricos relacionados à criação e organização da Neurologia Infantil no Departamento de Neuropsiquiatria e Psicologia Médica da Faculdade de Medicina de Ribeirão Preto, USP, no período de 1960 - 1990. São analisadas as interações com os vários departamentos e professores co-paticipantes no trabalho assistencial, de pesquisa e ensino, com enfase aos aspectos relacionados à implantação e desenvolvimento da Residência Médica em Neurologia Infantil.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7642</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i1p88-92</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 1 (2000); 88-92</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 1 (2000); 88-92</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 1 (2000); 88-92</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7642/9178</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7643</identifier>
+        <datestamp>2020-06-25T16:16:40Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Atividades extracurriculares</dc:title>
+          <dc:creator>Rodrigues, Maria de Lourdes V.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7643</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i2p113-114</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 2 (2000); 113-114</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 2 (2000); 113-114</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 2 (2000); 113-114</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7643/9180</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7644</identifier>
+        <datestamp>2020-06-25T16:16:38Z</datestamp>
+        <setSpec>rmrp:Sim.%3A+In.+Cient.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7644</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i2p115-116</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 2 (2000); 115-116</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 2 (2000); 115-116</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 2 (2000); 115-116</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7644/9181</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7645</identifier>
+        <datestamp>2020-06-25T16:16:37Z</datestamp>
+        <setSpec>rmrp:Sim.%3A+In.+Cient.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Indução de retinite por citomegalovírus humano (HCMV) em coelhos imunossuprimidos</dc:title>
+          <dc:title xml:lang="en-US">Retinitis induction by human cytomegalovirus in imunossupressed rabbits</dc:title>
+          <dc:creator>Silva, Fabrizio L. Mascaro</dc:creator>
+          <dc:creator>Figueiredo, José Fernando C.</dc:creator>
+          <dc:creator>Figueiredo, Luiz Tadeu M.</dc:creator>
+          <dc:creator>Sauaia, Cláudia C.</dc:creator>
+          <dc:creator>Romão, Erasmo</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:subject xml:lang="en-US">Cytomegalovirus Retinitis. Immunosuppression. Cyclophosphamide. Rabbits.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Retinite por Citomegalovírus. Imunossupressão. Ciclofosfamida. Coelhos.</dc:subject>
+          <dc:description xml:lang="en-US">The search for new therapies to the HCMV retinitis made researchers look for an animal model for this infection. In anterior study we didn’t get a good level of imunossupression in rabbits with Azathiprina and Prednisona. In this way, we opt for use the Cyclophosphamide in five rabbits of New Zealand race, in which were injected HCMV in vitreous of both eyes, in different stages of imunossupression protocol. The observation period was 112 days, observing sistemics alterations (weight, blood count) and ocular alterations (trough binocular ophthalmoscopy and retinography ). After the animals sacrifice, it was researched HCMV antigens in vitreous and retina. It was found important weight loss, blood count not compatible with the imunossupression signs, retinians lesions and vitreous alterations not specifics (exsudate and vitreits with spontaneous involution ). It wasn’t detected HCMV antigens in vitreous and retina inprints from the sacrificed rabbits. In this way, it was concluded that also with this new imunossupression scheme, the HCMV causes not specific intra-ocular inflamation. Therefore, the HCMV inoculation in rabbits doesn’t determine an experimental model to HCMV retinitis.</dc:description>
+          <dc:description xml:lang="pt-BR">A procura por novos esquemas terapêuticos para a retinite por HCMV levou pesquisadores à busca de um modelo animal para o estudo desta infecção. Em estudo anterior, não conseguimos nível adequado de imunossupressão com associação de Azathioprina e Prednisona em coelhos. Assim, optamos por utilizar a Ciclofosfamida em cinco coelhos da raça New Zealand, e injetamos HCMV no vítreo de ambos os olhos de cada um deles, em diferentes etapas do protocolo de imunossupressão. O período de seguimento foi de até 112 dias, avaliando-se alterações sistêmicas (peso, hemograma) e alterações oculares (através de oftalmoscopia binocular indireta e retinografia). Após o sacrifício dos animais, pesquisaram-se antígenos de HCMV em vítreo e retina. Encontrou-se importante perda de peso, hemograma não compatível com os sinais de imunossupressão, lesões retinianas e alterações vítreas inespecíficas (exsudatos e vitreíte com involução espontânea). Não foram detectados antígenos de HCMV nos Inprints de retinas e vítreos dos coelhos sacrificados. Desse modo, concluiu-se que, também com esse novo esquema de imunossupressão, o HCMV causa inflamação intra-ocular inespecífica. Portanto, a inoculação do HCMV, em coelhos, não determina modelo experimental para a retinite pelo CMV.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7645</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i2p117-122</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 2 (2000); 117-122</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 2 (2000); 117-122</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 2 (2000); 117-122</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7645/9182</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7646</identifier>
+        <datestamp>2020-06-25T16:19:11Z</datestamp>
+        <setSpec>rmrp:Art.+Esp.%3A+Im.+Clin.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Environmental pollution and respiratory allergy</dc:title>
+          <dc:title xml:lang="pt-BR">Poluição ambiental e alergia respiratória</dc:title>
+          <dc:creator>Croce, Miguel</dc:creator>
+          <dc:creator>Vasconcelos, Dewton M.</dc:creator>
+          <dc:creator>Manso, Eliúde R. C.</dc:creator>
+          <dc:creator>Duarte, Alberto J. S.</dc:creator>
+          <dc:subject xml:lang="en-US">Environmental Pollution. Respiratory Hypersensitivity. Allergy and Immunology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Poluição Ambiental. Hipersensibilidade Respiratório. Alergia e Imunologia</dc:subject>
+          <dc:description xml:lang="en-US">In the first part of this review, we present the most proeminent biolofical or nonbiological atmospheric pollution agents of home enviroment. Then, we discuss pathogenic mechanisms of respiratory diseases triggered by there agents. Finally, we show the effect of environmental intervention in the reduction of hoth polluent emission and prevalence of respiratory disease in a highly polluted industrial area close to São Paulo city.</dc:description>
+          <dc:description xml:lang="pt-BR">Na primeira parte desta revisão, são apresentados os principais agentes biológicos e não biológicos que funcionam como poluentes atmosféricos em ambientes domiciliares. Em seguida, discutem-se os mecanismos pelos quais estes poluentes contribuem para a patogênese de doenças respiratórias, principalmente alérgicas. Finalmente, demonstra-se como o controle ambiental, instituído em uma zona industrial diariamente poluída próxima à cidade de São Paulo, reduziu tanto a emissão de poluentes como a prevalência de doenças respiratórias.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7646</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i1p144-153</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 1 (1998); 144-153</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 1 (1998); 144-153</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 1 (1998); 144-153</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7646/9183</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7647</identifier>
+        <datestamp>2020-06-25T16:19:10Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">About academic performance appraisals and their processes</dc:title>
+          <dc:title xml:lang="pt-BR">Sobre avaliações de desempenho acadêmico e seus processos</dc:title>
+          <dc:creator>Bicas, Harley E. A.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7647</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i1p154-160</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 1 (1998); 154-160</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 1 (1998); 154-160</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 1 (1998); 154-160</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7647/9184</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7648</identifier>
+        <datestamp>2020-06-25T16:19:09Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Mitos do ensino médico</dc:title>
+          <dc:creator>Voltarelli, Júlio C.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7648</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p171-174</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 171-174</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 171-174</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 171-174</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7648/9185</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7649</identifier>
+        <datestamp>2020-06-25T16:19:08Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Martinez, José Antônio Baddini</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7649</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p175-176</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 175-176</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 175-176</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 175-176</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7649/9186</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7650</identifier>
+        <datestamp>2020-06-25T16:19:06Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Respiratory physiology and pathophysiology</dc:title>
+          <dc:title xml:lang="pt-BR">Fisiologia e fisiopatologia respiratórias</dc:title>
+          <dc:creator>Manço, José Carlos</dc:creator>
+          <dc:subject xml:lang="en-US">Respiration</dc:subject>
+          <dc:subject xml:lang="en-US">Artificial. Pulmonary Circulation. Ventilation - Perfusion Ratio. Pulmonary Diffusing Capacity.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Respiração Artificial. Circulação Pulmonar. Relação Ventilação - Perfusão. Capacidade de Difusão Pulmonar.</dc:subject>
+          <dc:description xml:lang="pt-BR">Este artigo é um texto introdutório de fisiologia e fisiopatologia respiratórias, direcionado para estudantes de Medicina e para um grupo bem definido de médicos que dedicam, pelo menos, parte de seu tempo às doenças respiratórias.</dc:description>
+          <dc:description xml:lang="en-US">This article is an introductory text of respiratory physiology and pathophysiology and is intended for medical students and for a well-defined group of physicians who devote at least part ot their time to respiratory diseases.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7650</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p177-190</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 177-190</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 177-190</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 177-190</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7650/9187</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7651</identifier>
+        <datestamp>2020-06-25T16:19:05Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação laboratorial da função pulmonar</dc:title>
+          <dc:title xml:lang="en-US">Laboratory evaluation of pulmonary function</dc:title>
+          <dc:creator>Terra Filho, João</dc:creator>
+          <dc:subject xml:lang="en-US">Respiratory Function Tests. Blood Gas Analysis. Pulmonary Diffusing Capacity. Lung Volume Measurements. Spirometry.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Testes de Função Respiratória. Gasometria. Capacidade de Difusão Pulmonar. Medida de Volume Pulmonar. Espirometria.</dc:subject>
+          <dc:description xml:lang="pt-BR">Nesta revisão, é nosso propósito prover informações acerca de alguns testes de função pulmonar, que podem ser úteis para acadêmicos e clínicos que utilizam seus resultados para estudo das disfunções do sistema respiratório. Apesar de múltiplos e diversos, os resultados dos testes funcionais pulmonares devem ser entendidos como uma visão setorial de um processo complexo e ainda não totalmente compreendido, que é o sistema respiratório. Dentro deste processo, abordaremos topicamente alguns assuntos de interesse clínico, representados pelo estudo da espirometria forçada, da medida dos volumes pulmonares, da gasometria arterial e da capacidade de difusão pulmonar.</dc:description>
+          <dc:description xml:lang="en-US">In this review, it was our intention to provide information about pulmonary function testing that would be useful by the physician that uses the results of laboratory to study disordered respiratory physiology for clinical purposes. Despite of multiplicity and diversity, the results of pulmonary function testing would be understood like a sectorial and restricted vision of an complex process not entirely comprehended. Inside this process we boarded specifically some themes of interest represented by the study of: forced spirometry, lung volumes, arterial blood gases and pulmonary diffusion capacity.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7651</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p191-207</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 191-207</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 191-207</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 191-207</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7651/9188</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7652</identifier>
+        <datestamp>2020-06-25T16:19:04Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Pleural effusions: pathophysiology and diagnosis</dc:title>
+          <dc:title xml:lang="pt-BR">Derrames pleurais: fisiopatologia e diagnóstico</dc:title>
+          <dc:creator>Silva, Geruza A.</dc:creator>
+          <dc:subject xml:lang="en-US">Pleural Effusion. Exudates and Transdutates</dc:subject>
+          <dc:subject xml:lang="pt-BR">Derrame Pleural. Exsudatos e Transudatos</dc:subject>
+          <dc:description xml:lang="pt-BR">A pleura é a serosa que reveste os pulmões e a cavidade torácica. Os derrames pleurais – acúmulo de líquido entre as pleuras visceral e parietal – constituem a manifestação clínica mais freqüente de doença pleural primária ou secundária. Os derrames decorrentes do envolvimento pleural secundário a doenças torácicas ou sistêmicas são muito mais freqüentes do que os causados por doença primária da pleura, e a sua abordagem diagnóstica faz parte da rotina de um pneumologista e de várias outras especialidades médicas. O presente artigo consiste numa revisão sobre os conceitos atuais de abordagem dos derrames pleurais, com ênfase aos aspectos de diagnóstico clínico, radiológico e por técnicas invasivas. Os conceitos de Fisiologia e de Fisiopatologia são também apresentados.</dc:description>
+          <dc:description xml:lang="en-US">The pleura is the serous membrane that covers the lungs and the thoracic cavity. Pleural effusions (liquid accumulation between visceral and parietal pleura) are the most frequent clinical manifestation of primary or secondary pleural disease. Effusions occuring from the secondary pleural involvement because of thoracic diseases or systemic diseases are much more frequent than primary disease of the pleura and its diagnostic approach is part of the routine faced by the pneumologist, and other medical specialties. The present article is a review of the current concepts on how to approach pleural effusions with emphasis on the clinical-radiological diagnosis and invasive technics. Physiological and pathophysiological concepts are also presented.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7652</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p208-215</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 208-215</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 208-215</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 208-215</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7652/9189</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7652/9190</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7653</identifier>
+        <datestamp>2020-06-25T16:19:03Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Pneumonias em adultos, adquiridas na comunidade e no hospital</dc:title>
+          <dc:title xml:lang="en-US">Community acquired and hospital - acquired pneumonias in adults</dc:title>
+          <dc:creator>Fonseca, Conceição Maria da Costa Santos e</dc:creator>
+          <dc:subject xml:lang="en-US">Pneumonia. Clinical Evolution. Physiopathology. radiography.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pneumonia. Evolução Clínica. fisiopatologia. radiografia.</dc:subject>
+          <dc:description xml:lang="en-US">In this review, we discuss pathophysiology, clinical and radiological aspects of community - acquired and hospital – acquired pneumonias. Therapeutic trials are presented as proposed by international consenses.</dc:description>
+          <dc:description xml:lang="pt-BR">Neste artigo de revisão, discutem-se fisiopatologia, evolução clínica e aspectos radiográficos de pneumonias comunitárias e hospitalares, em adultos. São abordadas as propostas terapêuticas dos últimos consensos internacionais.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7653</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p216-228</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 216-228</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 216-228</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 216-228</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7653/9191</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7654</identifier>
+        <datestamp>2020-06-25T16:16:36Z</datestamp>
+        <setSpec>rmrp:Sim.%3A+In.+Cient.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Fatores epidemiológicos, relacionados à progressão lenta da síndrome da imunodeficiência adquirida (AIDS)</dc:title>
+          <dc:title xml:lang="en-US">Epidemiological factors related to slow progression of the acquired immune deficiency syndrome (AIDS)</dc:title>
+          <dc:creator>Vasconcelos, Gabriel S.</dc:creator>
+          <dc:creator>Machado, Alcyone A.</dc:creator>
+          <dc:creator>Covas, Dimas T.</dc:creator>
+          <dc:creator>Watanabe, Angélica E.</dc:creator>
+          <dc:creator>Kashima, Simone</dc:creator>
+          <dc:creator>Orellana, Maristela D.</dc:creator>
+          <dc:creator>Silva, Ane R.L.</dc:creator>
+          <dc:subject xml:lang="en-US">Acquired Immunodeficiency Syndrome. Disease Progression. Epidemiology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome de Imunodeficiência Adquirida. Avanço da Doença. Epidemiologia</dc:subject>
+          <dc:description xml:lang="pt-BR">Com o objetivo de identificação de fatores envolvidos na progressão lenta para aids, realizou-se estudo transversal para avaliação de dados epidemiológicos de indivíduos infectados pelo Vírus da Imunodeficiência Humana tipo 1 (HIV-1), atendidos no Hospital das Clínicas da Faculdade de Medicina de Ribeirão&amp;nbsp;Preto-USP. Foram selecionados pacientes, conforme critérios definidos, constituindo duas populações: população 1, composta por lentos progressores (P1), que possuía anticorpos anti-HIV há mais de oito anos e com ocorrência de menos de duas doenças oportunistas no último ano, e a população 2 (P2), pacientes rápidos progressores, com diagnóstico de infecção pelo HIV e doença manifesta a menos de dois anos e com mais de duas doenças oportunistas, diagnosticadas no último ano. Todos os indivíduos foram submetidos a questionário, contendo dados demográficos, profissão, ocorrência de outras doenças sexualmente transmissíveis, forma de contágio, data de diagnóstico e hábitos. O período do estudo foi de março de 1998 a outubro de 1999. Obtivemos na P1: doze homens e quatro mulheres, idade média 30,7 anos, forma de contágio predominantemente sangüínea, tempo de progressão da doença 10,5 anos; P2: 12 homens e 4 mulheres; idade média 34,8 anos, forma de contágio predominantemente sexual, tempo de progressão da doença de 1,5 anos. Tabagismo foi o principal vício em ambas as populações. Quando interrogados sobre a causa do bom estado de saúde, os indivíduos da P1 responderam estar ela relacionada à fé e ao uso adequado das medicações. Os pacientes da P2 não foram interrogados sobre a causa de seu estado de saúde. Quanto à prática sexual, nove pacientes da P1 mantinham relações, sendo cinco sem uso regular do preservativo. Na P2, apenas um paciente utilizava preservativo. Dois pacientes da P1 e um da P2 revelaram ter apresentado DST, Sífilis e Papiloma Vírus Humano. Em vista do reduzido número de pacientes, não foi possível estabelecer associação entre as variáveis estudadas e os padrões de progressão da doença. Os dados sobre hábitos não parecem contribuir para o padrão de desenvolvimento da doença. O estudo oferece um perfil epidemiológico dessas populações de pacientes.</dc:description>
+          <dc:description xml:lang="en-US">To determine the factors involved in slow progression to aids, a transverse study was conducted for the evaluation of the epidemiological data of individuals infected with type 1 human immunodeficiency virus seen at the University Hospital of the Faculty of Medicine of Ribeirão Preto-USP. Patients were choosed in conformity some judgment, establish two populations: population 1, consisting of slow progressors (P1), had been carrying HIV antibodies for more than 8 years, with the occurrence of less than 2 opportunistic diseases in the last year, and population 2 (P2), consisting of rapid progressors, had a diagnosis of HIV infection and overt disease detected less than 2 years before and more than 2 opportunistic diseases diagnosed during the last year. All patients responded to a questionnaire concerning demographic data, profession, occurrence of other sexually transmissible diseases, form of contagion, date of diagnosis, and habits. The study was conducted from March 1998 to October 1999. We obtain in the P1: 12 men and 4 women, mean age 30.7 years, predominant form of contagion: blood route, time of disease progression 10.5 years; P2 12 men and 4 women; mean age 34,8 years, predominant form of contagion: sexual, time of disease progression 1.5 years. Tabagisme was the principal vice in about populations. When asked about motivation yours good health, the subjects of P1 answered to be relationed the faith and medications use. The patients of the P2 did not answer about yours health state. Whatever the sexual custom, 9 patients of the P1 had sexual relations, five without regular use of condom. In the P2 only um patient used condom. Two patients of the P1 and one of P2 declared to have STD, syphilis and Human Papiloma Virus (HPV). Because there are reduces number of patients it’s impossible to make asociation between the variables studies and mesures of the disease progression. The dates about habits don’t contribute for the disease development. The study offers an epidemiological profile of these patient populations.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7654</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i2p123-128</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 2 (2000); 123-128</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 2 (2000); 123-128</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 2 (2000); 123-128</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7654/9192</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7655</identifier>
+        <datestamp>2020-06-25T16:16:34Z</datestamp>
+        <setSpec>rmrp:Sim.%3A+In.+Cient.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Aspectos microbiológicos e resposta terapêutica de 180 pacientes com endocardite infecciosa ocorridos em Ribeirão Preto entre 1992 e 1997</dc:title>
+          <dc:title xml:lang="en-US">Microbiological and therapeutic aspects of 180 infectious endocarditis patients occured in Ribeirão Preto between 1992 and 1997</dc:title>
+          <dc:creator>Schirmbeck, Tarciso</dc:creator>
+          <dc:creator>Ruiz Júnior, Everaldo</dc:creator>
+          <dc:creator>Figueiredo, Luiz Tadeu Moraes</dc:creator>
+          <dc:subject xml:lang="en-US">Endocarditis. Infection. Endocarditis. Bacterial Infections.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Endocardite. Infecção. Endocardite Bacteriana. Infecções Bacterianas.</dc:subject>
+          <dc:description xml:lang="en-US">In this study, we analyzed bacteria isolates obtained from 180 infectious endocarditis cases occurred in Ribeirão Preto, SP, Brazil, between 1992 to 1997, including the antimicrobial drug sensitivity of these agents. Blood cultures were performed in 93,8% of the cases, and in 60,7% of them a microorganism has been isolated. The most commonly isolated bacteria were Staphylococcus aureus, 31,0 % (52/168), Streptococcus viridans, 15,9 % (27/168), Group D Streptococcus, 6,6 % (11/168), Gram negatives, 5,3 % (9/168), and Staphylococcus epidermidis, 4,2 % (7/168). All the Staphylococcus aureus, isolates were vancomycin and teicoplanyn sensitive, 86,5%, were aminoglycoside-sensitives, 85% were also first generation cephalosporinssensitives and 79% oxacillin-sensitives. Streptococcus viridans isolates were all chloramphenicolsensitives, vancomycin-sensitives and only 2 isolates were resistants to ampicillin and G penicillin. The Group D Streptococcus were all G penicillin, ampicillin, chloramphenicol and vancomycinsensitives.</dc:description>
+          <dc:description xml:lang="pt-BR">Neste trabalho, analisaram-se bactérias isoladas em 180 episódios de endocardite infecciosa, ocorridos em Ribeirão Preto, entre 1992 e 1997, e suas susceptibilidades a antimicrobianos. Hemoculturas foram realizadas em 93,8% dos casos, sendo que, em 60,7% deles, foi identificado, pelo menos, um agente etiológico. As bactérias mais comumente isoladas nos pacientes com EI foram Staphylococcus aureus, 31,0 % (52/168), Streptococcus viridans, 15,9 % (27/168), Streptococcus do Grupo D, 6,6% (11/168), Gram negativas, 5,3 % (9/168) e Staphylococcus epidermidis, 4,2 % (7/168). Dos Staphylococcus aureus, todos os testados mostraram-se sensíveis à vancomicina e à teicoplanina, 86,5%, mostraram-se sensíveis a aminoglicosídios (gentamicina e amicacina), 85% à cefalosporina de primeira geração (cefalotina) e 79% à oxacilina. Streptococcus viridans isolados, todos foram sensíveis ao cloranfenicol, à vancomicina e apenas dois foram resistentes à ampicilina e à penicilina G. Quanto aos Streptococcus do Grupo D, todos mostraram-se sensíveis à penicilina G, à ampicilina, ao cloranfenicol e à vancomicina.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7655</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i2p129-135</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 2 (2000); 129-135</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 2 (2000); 129-135</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 2 (2000); 129-135</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7655/9193</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7656</identifier>
+        <datestamp>2020-06-25T16:16:33Z</datestamp>
+        <setSpec>rmrp:Sim.%3A+In.+Cient.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Correntes iônicas induzidas por ATP em células de Leydi</dc:title>
+          <dc:title xml:lang="en-US">Ionic currents induced by ATP in Leydig cells</dc:title>
+          <dc:creator>Pontelli, Endrigo P.</dc:creator>
+          <dc:creator>Aguiar, José F.</dc:creator>
+          <dc:creator>Varanda, Wamberto A.</dc:creator>
+          <dc:subject xml:lang="en-US">Adenosine Triphosphate. Receptors</dc:subject>
+          <dc:subject xml:lang="en-US">Purinergic. Patch-Clamp Techniques. Leydig Cells.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Adenosina Trifosfato. Receptores Purinérgicos. Técnicas de Patch-Clamp. Células de Leydig.</dc:subject>
+          <dc:description xml:lang="en-US">Leydig cells are responsible for the production and secretion of testosterone. They are controlled by the Luteinizing Hormone (LH) in a process modulated by several substances. Recently, adenosine triphosphate (ATP) was found to be another modulator, acting through the activation of purinergic receptors. In this paper we used the patch clamp technique in order to detect and characterize the ionic currents induced by extracellular ATP in Leydig cells freshly isolated from mice testis. Addition of ATP to the bathing solution induces an inward current strongly rectifying at hyperpolarizing potentials. Such current is dependent on the doses of ATP and shows an apparent desensitization for ATP concentrations higher than 60 m M. The I-V plot reveals a reversal potential around zero mV, indicating a non-selective cation current. These results confirm, from an electrophysiological point of view, the presence of purinergic receptors in Leydig cells, probably of the P2X type. &amp;nbsp;</dc:description>
+          <dc:description xml:lang="pt-BR">As células de Leydig produzem e secretam testosterona, num processo controlado pelo Hormônio Luteinizante (LH) e modulado através de diversos fatores. O trifosfato de adenosina (ATP), no meio extracelular, tem se constituído num novo modulador do processo, atuando via ativação de receptores purinérgicos. Neste trabalho, a técnica de “patch-clamp” foi utilizada para detectar e caracterizar as correntes iônicas, induzidas pela ativação desses receptores, em células de Leydig, isoladas a fresco, de testículos de camundongos. A adição de ATP ao banho levou ao surgimento de uma corrente orientada para dentro, em potenciais hiperpolarizantes. A amplitude da corrente é dependente da dose de ATP, para cada nível de potencial aplicado à célula, e apresenta dessensibilização para doses acima de 60 m M. A relação corrente-voltagem é fortemente retificada na direção de potenciais hiperpolarizantes e apresenta um potencial de reversão próximo de zero mV, indicando uma via de baixa seletividade a cátions. Esses&amp;nbsp; resultados vêm confirmar a presença de receptores purinérgicos em células de Leydig, muito provavelmente pertencentes à família P2X. &amp;nbsp;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7656</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i2p136-140</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 2 (2000); 136-140</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 2 (2000); 136-140</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 2 (2000); 136-140</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7656/9194</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7657</identifier>
+        <datestamp>2020-06-25T16:19:02Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Asma brônquica: o presente e o futuro</dc:title>
+          <dc:title xml:lang="en-US">Bronchial asthma: today and tomorrow</dc:title>
+          <dc:creator>Vianna, Elcio O.</dc:creator>
+          <dc:subject xml:lang="en-US">Asthma. Bronchodilator Agents.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Asma. Broncodilatadores.</dc:subject>
+          <dc:description xml:lang="pt-BR">A asma é caracterizada por obstrução reversível, inflamação e hiperreatividade brônquicas. O diagnóstico é baseado em informações clínicas e testes de função pulmonar. Os eosinófilos são uma característica importante da fisiopatologia da asma. Eles produzem fatores quimiotáxicos, broncoconstrictores e vasoativos, que conduzem à hiperreatividade brônquica. Além disso, os eosinófilos danificam o tecido circunvizinho, através da liberação do conteúdo protéico de seus grânulos. As recomendações para o tratamento da asma são baseadas em quatro componentes: uso de medidas objetivas da função pulmonar para avaliar a gravidade da asma e monitorar o curso da terapia; controle ambiental para evitar ou eliminar fatores precipitantes de sintomas ou crises; terapia farmacológica a longo prazo, para tratar e prevenir inflamação de via aérea e, também, para tratar as agudizações; e educação do paciente, criando uma parceria entre o paciente, a família e o clínico. Os b2-agonistas são a classe de drogas mais comumente usadas para o tratamento da asma. Usar essas drogas em demanda é freqüentemente mais aceito e recomendado. Em asma aguda, um b2-agonista é ainda o medicamento de escolha. Agonistas de ação prolongada, salmeterol e formoterol, podem diminuir sintomas de asma durante o dia e à noite. A teofilina, cujo uso esteve limitado pela toxicidade, pode recuperar uma posição importante no tratamento da asma, com a descoberta de suas ações antiinflamatórias. O brometo de ipratrópio, uma droga anticolinérgica, ainda espera um papel definido no tratamento da asma. Os corticoesteróides inalatórios têm efeitos mensuráveis nos sintomas, função pulmonar, reatividade brônquica e inflamação. Os efeitos colaterais limitam a administração sistêmica, mas não a administração tópica. Preparações mais novas, como budesonida, flunisolida e fluticasona diminuem a incidência de possíveis efeitos colaterais, porque têm uma melhor relação efeito tópico/efeito sistêmico. Medicamentos recentemente lançados incluem os antileucotrienos (anti-LTs), agentes que funcionam bloqueando a interação dos LTs com seus receptores (antagonistas de receptor) ou inibindo a síntese de LTs (inibidores de síntese). Representantes dos antagonistas são zafirlukast, pranlukast e montelukast. Pranlukast, o primeiro antagonista de receptor a ser comercializado, melhora função pulmonar e sintomas, dependendo da dose. Zileuton, um inibidor de síntese, demostrou melhorar a função pulmonar, reduzir sintomas, reduzir uso de b-agonistas e crises de asma. Esses efeitos positivos são dose-dependentes e anormalidades da função hepática parecem ser um limite relevante ao uso de zileuton, em alguns pacientes.</dc:description>
+          <dc:description xml:lang="en-US">Asthma is characterized by reversible obstruction, inflammation, and hyperreactivity of the airways. The diagnosis is based on clinical information and pulmonary function tests. Eosinophils are a main feature of the asthma pathophysiology. They produce bronchoconstrictor, chemotactic, and vasoactive products that lead to hyperreactivity. Also, they damage surrounding tissue, by releasing their cytotoxic granule content. The recommendations for the treatment of asthma were organized around four components of effective asthma management: use of objective measures of lung function to assess the severity of asthma and to monitor the course of therapy; environmental control measures to avoid or eliminate factors that precipitate asthma symptoms or exacerbations; comprehensive pharmacologic therapy for long-term management designed to reverse and prevent the airway inflammation characteristic of asthma as well as pharmacologic therapy to manage asthma exacerbations; and, patient education that foster a partnership among the patient, family, and clinicians. The b2-adrenergic agonists are the most commonly used class of drugs for the treatment of asthma. Using this drug on an as-needed basis is now more frequently accepted and recommended. In acute asthma, a b2-adrenergic agonist is still the medication of choice. Long-acting, salmeterol and formoterol, administered only twice daily, can decrease symptoms of asthma during day and nighttime. Theophylline, whose use has been limited by the potential for serious toxicity, may regain an important position in the asthma treatment with the development of the knowledge about its antiinflammatory actions. Dosing theophylline on a time-related basis also improves the risk/benefit ratio and makes theophylline a useful drug for nocturnal asthma. Ipratropium bromide, an anticholinergic drug, still awaits a defined role in the treatment of asthma. Corticosteroids, including inhaled forms, have measurable effects on symptoms, lung function, bronchial responsiveness, and inflammation associated with asthma. Side-effects of chronic use limit systemic administration, but not inhaled administration. Newer preparations, like budesonide, flunisolide, and fluticasone decrease the incidence of possible side-effects related to inhaled steroids by having better ratio of topical to systemic potency. Newly released medications include anti-leukotrienes (LTs) agents which function either by blocking the interaction of LTs with receptors (receptor antagonists) or by inhibiting leukotriene synthesis (synthesis inhibitors). Representatives of the antagonists discussed here are zafirlukast, pranlukast, and montelukast. Pranlukast, the first leukotriene receptor antagonist to be marketed, improves lung fuction and symptons when 450 mg b.i.d. is used. Zileuton, a leukotriene synthesis inhibitor, has been shown to improve lung fuction, reduce symptoms, reduce use b-agonists and asthma exacerbations. These positive effects are dose dependent and liver function abnormalities seem to be a relevant issue during zileuton use in some patients.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7657</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p229-240</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 229-240</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 229-240</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 229-240</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7657/9195</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7668</identifier>
+        <datestamp>2020-06-25T16:19:00Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Cor pulmonale</dc:title>
+          <dc:title xml:lang="en-US">Cor pulmonale</dc:title>
+          <dc:creator>Ota, Jaquelina S.</dc:creator>
+          <dc:creator>Pereira, Carlos Alberto de Castro</dc:creator>
+          <dc:subject xml:lang="en-US">Pulmonary Heart Disease. Hypertension</dc:subject>
+          <dc:subject xml:lang="en-US">Pulmonary.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença Cardiopulmonar. Hipertensão Pulmonar.</dc:subject>
+          <dc:description xml:lang="pt-BR">Nesta revisão, são discutidos aspectos etiológicos, clínicos, diagnósticos, terapêuticos e prognósticos da hipertensão pulmonar, levando a cor pulmonale.</dc:description>
+          <dc:description xml:lang="en-US">In this review, we discuss the ethiology, clinical manifestations, diagnosis, therapeutics and prognosis of pulmonary hypertension leading to cor pulmonale.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7668</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p241-246</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 241-246</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 241-246</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 241-246</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7668/9206</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7669</identifier>
+        <datestamp>2020-06-25T16:16:32Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Características clínicas e epidemiológicas de pacientes da região de Ribeirão Preto, SP, Brasil, com AIDS e infecções oportunistas</dc:title>
+          <dc:title xml:lang="en-US">Clinical and epidemiological characteristics of patients from Ribeirão Preto, SP, Brazil, with AIDS and oportunistic infections</dc:title>
+          <dc:creator>Figueiredo, José Fernando C.</dc:creator>
+          <dc:creator>Reis, Vinícius M.F.</dc:creator>
+          <dc:creator>Machado, Alcyone A.</dc:creator>
+          <dc:creator>Oyama, Sandra Regina</dc:creator>
+          <dc:creator>Martinez, Roberto</dc:creator>
+          <dc:creator>Figueiredo, Luiz Tadeu Moraes</dc:creator>
+          <dc:creator>Fonseca, Benedito Antonio Lopes</dc:creator>
+          <dc:creator>Costa, João Carlos</dc:creator>
+          <dc:creator>Moya, Maria Janete</dc:creator>
+          <dc:creator>Castro, Gleusa</dc:creator>
+          <dc:subject xml:lang="en-US">Acquired Immunodeficiency Syndrome. Epidemiology. Opportunistic Infections.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome da Imunodeficiência Adquirida. Epidemiologia. Infecções Oportunistas.</dc:subject>
+          <dc:description xml:lang="pt-BR">Com o objetivo de conhecer e atualizar as características clínicas e epidemiológicas dos pacientes com aids e infecções oportunistas na região de Ribeirão Preto, foram revisados os prontuários médicos de 1019 pacientes com aids, do sub - grupo IVc (CDC), atendidos no HCFMRP, no período de janeiro de 1992 a agosto de 1996.Os seguintes itens foram analisados: data do primeiro atendimento, sexo, idade, cidade em que residia, via provável de aquisição do HIV, época do primeiro exame anti -HIV positivo, número de linfócitos CD4/mm3&amp;nbsp;por ocasião do primeiro atendimento, data da primeira manifestação infecciosa após o início do seguimento, tipo e número de complicação(ões) infecciosa(s), data do óbito e tipo de infecção(ões) diagnosticada(s) nos pacientes que faleceram. Os resultados, quando comparados com os obtidos no período de 1987 a 1991, apontam para modificações importantes em algumas características dos pacientes no segundo período, como aumento da via de transmissão heterossexual do HIV, aumento da participação de mulheres na casuística, uma tendência de diagnóstico mais precoce da infecção pelo HIV e aumento da sobrevida dos pacientes. Por outro lado, os pacientes continuam sendo acometidos por ampla gama de processos infecciosos durante a evolução da aids, com destaque para a candidíase, as pneumonias bacterianas, a neurotoxoplasmose, a pneumonia por P.carinii, a sinusite, a diarréia e a neurocriptococose. Menção especial deve ser feita à tuberculose que acometeu cerca de 30% dos pacientes durante o período de seguimento. &amp;nbsp; &amp;nbsp;</dc:description>
+          <dc:description xml:lang="en-US">In order to up-to-date informations about the clinical and epidemiological characteristics of AIDS patients with opportunistic infections, from the Ribeirão Preto region, we revised 1019 medical records of individuals belonging to IVc AIDS sub-group attended in HCFMRP in the period from January 1992 to August 1996. The following parameters were analyzed: date of the first medical examination, sex, age, city of residence, probable form of acquisition of HIV, time of the first anti-HIV positive test, number of CD4+/mm3 lymphocytes at the beginning of the follow-up, date of the first infectious episodes after the beginning of the follow-up, type and number of infectious episodes, date of the death and the type of infectious processes diagnosed in the patients that died. The results point out for important modifications in some characteristics of the patients over the last five years. We noted, by comparing with the results obtained in the period of 1987 to 1991, an increase in the heterosexual transmission of HIV and an increase of the number of women with AIDS; a tendency of an early diagnosis of the HIV infection and an increase in patients’ survival. In the other hand patients continued presenting a wide range of infectious processes during the AIDS evolution with emphasis for candidiasis, for bacterial pneumonia, for neuro-toxoplasmosis, for pneumocystosis, for sinusitis, for diarrhoea, and for neuro-cryptococcosis. Special mention must be done for tuberculosis, which was diagnosed in 30% of the patients during the follow-up period.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7669</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i2p141-146</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 2 (2000); 141-146</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 2 (2000); 141-146</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 2 (2000); 141-146</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7669/9207</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7670</identifier>
+        <datestamp>2020-06-25T16:16:31Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Prevenção da AIDS entre estudantes universitátrios: existe influência dos pares?</dc:title>
+          <dc:title xml:lang="en-US">Aids prevention among college students: do their peers influence them?</dc:title>
+          <dc:creator>Gil, Antonio Carlos</dc:creator>
+          <dc:creator>Temporini, Edmea Rita</dc:creator>
+          <dc:subject xml:lang="en-US">Acquired Immunodeficiency Syndrome. Prevention &amp; Control. Risk-Taking. Students.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome de Imunodeficiência Adquirida. Prevenção &amp; Controle. Risco. Estudantes.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Transversal analítico. Objetivo do estudo: Verificar percepções de estudantes da Grande São Paulo acerca de comportamentos de risco assumidos por seus pares, grau de risco dos colegas de contrair aids, sua competência para usar preservativo e situações em que aceitam a influência de seus pares na prevenção da aids.&amp;nbsp;Metodologia:&amp;nbsp;Foi elaborado um questionário auto-aplicável, após estudo exploratório. A amostra foi constituída por 1039 estudantes universitários, solteiros, de instituições particulares de ensino da Região da Grande São Paulo, obtida por critério de conveniência. Resultados:&amp;nbsp;Em relação a comportamentos de risco assumidos por colegas, 56,2% dos homens e 56,4% das mulheres referem uso eventual de preservativo. Sexo com muitos parceiros foi admitido por 12,2% dos homens e 5,7% das mulheres. Quanto ao proprio risco de contrair aids, foi baixo o grau de percepção e menos acentuado entre as mulheres. Conclusões: Apesar de reconhecerem o uso de preservativo pelos pares a fim de evitar a aids, parece haver alguma incoerência nas percepções próprias acerca dos riscos de contrair aids, e nas dos colegas.</dc:description>
+          <dc:description xml:lang="en-US">Study design: Analytical surgery.&amp;nbsp;Study purpose: To check on the students’perceptions living in the Great São Paulo, State of São Paulo, Brazil, about risky behaviors adoptedby their peers; the information about the proper risk for contracting aids, use of condom and the ability to insure their peers in using it and the circumstances in which they accepted being influenced by their peers concerning aids prevention.&amp;nbsp;Methodology:&amp;nbsp;After an exploratory study, a self-applied questionnaire was administered among students. The sample was obtained by a convenience criterion, constituted of 1,039 college students attending private schools in the Great São Paulo area.&amp;nbsp;Results:&amp;nbsp;As to peers risky behaviors 56,2% of men and 56,4% of women reported the inconsistent condom use; sexual intercourse with many partners was admitted by 12,2% of men and by 5,7% of women. As to their own risky behavior of contracting aids, the degree of perception was low, being less marked among women.&amp;nbsp;Conclusions:&amp;nbsp;Though acknowledging the condom use on the part of their peers as a means for avoiding aids for themselves and to their peers, it seems to exist some incoherence concerning their perception of risk contracting aids, their own and that of their peers.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7670</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i2p147-154</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 2 (2000); 147-154</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 2 (2000); 147-154</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 2 (2000); 147-154</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7670/9208</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7671</identifier>
+        <datestamp>2020-06-25T16:18:59Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Interstitial lung diseases</dc:title>
+          <dc:title xml:lang="pt-BR">Doenças intersticiais pulmonares</dc:title>
+          <dc:creator>Martinez, José Antônio Baddini</dc:creator>
+          <dc:subject xml:lang="en-US">Lung Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Interstitial.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença Pulmonar Intersticial.</dc:subject>
+          <dc:description xml:lang="pt-BR">As doenças intersticiais pulmonares são um grupo heterogêneo de patologias, cujas maiores anormalidades ocorrem distalmente aos bronquíolos terminais. Tais doenças costumam ser estudadas conjuntamente, porque compartilham características clínicas, radiológicas, e funcionais comuns. No presente artigo, é discutido o diagnóstico diferencial desse conjunto numeroso de doenças, e, em maior detalhe, algumas das enfermidades mais importantes na prática clínica diária.</dc:description>
+          <dc:description xml:lang="en-US">The interstitial lung diseases are a non homogeneous group of disorders, which anatomical abnormalities occur within the regions of the lung distal to the terminal bronchioles. These diseases are generally studied all together, because they share common clinical, radiological, and physiological features. In this article we discuss the differential diagnosis of these complex processes. We also discuss in greater detail some of the most important interstitial lung diseases in the daily clinical practice.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7671</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p247-256</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 247-256</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 247-256</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 247-256</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7671/9209</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7672</identifier>
+        <datestamp>2020-06-25T16:18:58Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Doe.+Pulm.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Pulmonary thromboembolism</dc:title>
+          <dc:title xml:lang="pt-BR">Tromboembolismo pulmonar</dc:title>
+          <dc:creator>Marques, Leila John</dc:creator>
+          <dc:subject xml:lang="en-US">Pulmonary Embolism. Thrombophebitis. Anticoagulants.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Embolia pulmonar. Tromboflebite. Anticoagulantes.</dc:subject>
+          <dc:description xml:lang="pt-BR">Este capítulo objetiva oferecer conceitos básicos e atualizados, ligados ao tromboembolismo pulmonar, visando, principalmente, o aluno da graduação e médicos generalistas.</dc:description>
+          <dc:description xml:lang="en-US">The aim of this section is to present currents concepts of Pulmonary Thromboembolism for undergrade students and general doctors.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7672</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v31i2p257-265</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 31 No. 2 (1998); 257-265</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 31 Núm. 2 (1998); 257-265</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 31 n. 2 (1998); 257-265</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7672/9210</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:18Z" completeListSize="1467" cursor="600">84e0f4499063d65d0575f048b5f001b1</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

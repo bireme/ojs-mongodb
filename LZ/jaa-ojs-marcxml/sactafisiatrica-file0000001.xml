@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:49:51Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/101988</identifier>
+<datestamp>2020-07-31T22:18:17Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960411 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">O uso da cinesioterapia no pré e pós-operatório das cirurgias na articulação temporomandibular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vasconcellos, Henrique Ayres de</subfield>
+<subfield code="u">Universidade Estadual do Rio de Janeiro - UERJ</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Campos, Antônio Eduardo de Siqueira</subfield>
+<subfield code="u">Universidade Estadual do Rio de Janeiro - UERJ</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> As condições funcionais da articulação temporomandibular (ATM) dependem do seu equilíbrio biomecânico com as estruturas do sistema estomatognático (oclusão dentária, músculos da mastigação) e demais peças músculo-articulares do crânio e da coluna cervical. No atendimento pré e pós-operatório do paciente que sofre cirurgia da ATM, a redução dos desvios funcionais de braço de alavanca, da hipotonia muscular, da contratura dos músculos da cabeça, pescoço e da mastigação facilitam as correções e melhoram a recuperação funcional da ATM com a utilização da cinesioterapia. Temos observado resultados eficientes na recuperação da dinâmica normal e redução do tempo e das seqüelas funcionais ao nível da ATM. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-04-11 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/101988</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 1 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/101989</identifier>
+<datestamp>2020-07-31T22:18:21Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960411 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Interferência do alinhamento na performance biomecânica do joelho durante a marcha em pacientes com osteoartrite</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Luci Fuscaldi</subfield>
+<subfield code="u">Universidade Federal de Minas Gerais - UFMG</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Olney, Sandra Jean</subfield>
+<subfield code="u">Queen’s University</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Onze pacientes portadores de osteoartrite foram avaliados para investigar a interferência do alinhamento estático obtido através do Raio-X nas medidas cinéticas e cinemáticas da articulação do joelho durante a marcha. Um procedimento radiográfico preciso e padronizado (QPR) foi utilizado para medir o alinhamento estático do membro inferior, e um sistema óptico-eletrônico tridimensional foi utilizado para medir a performance biomecânica do joelho durante a marcha. Correlações entre as medidas angulares estáticas obtidas através do QPR com as medidas angulares dinâmicas e medidas de momentos articulares durante a marcha foram calculadas. Uma correlação significativa foi observada entre os parâmetros radiológicos, ângulos articulares e momentos de força na marcha, sugerindo que existe uma complexa intercalação entre o alinhamento estático, alinhamento dinâmico e medidas cinéticas dinâmicas. Esses achados sugerem que medidas de alinhamento estático associadas com medidas cinéticas e cinemáticas devem ser utilizadas em conjunto para melhor justificar as alterações biomecânicas na articulação do joelho em pacientes com osteoartrite. Dados de alinhamento estático e de medidas dinâmicas obtidas durante a marcha em um grupo de pacientes portadores de osteoartrite moderada do joelho são apresentados. Os achados indicam que as medidas estáticas tanto no plano coronal quanto sagital foram associadas com a intensidade dos momentos de força articulares, ângulos articulares e tempo dos eventos. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-04-11 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/101989</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 1 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/101991</identifier>
+<datestamp>2020-07-31T22:18:25Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960411 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Protocolo de avaliação funcional de joelho em patologias ortopédicas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Shinzato, Gilson Tanaka</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vasconcelos, Jeane Cintra Peixoto de</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ogawa, Cristina Tiyomi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sampaio, Isabel Cristina da Silva Prado</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gonçalves, Adilson</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Neves, Elenita Magalhães</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Existe uma grande dificuldade em se estabelecer critérios de progressão funcional nos exercícios de propriocepção e atividades esportivas durante o processo de reabilitação das patologias do joelho, sendo estes critérios ainda mais cruciais nos protocolos de reabilitação acelerada em atletas de alto nível. Para permitir que o atleta inicie o trote, corrida, saltos e retorne aos treinos necessitamos da quantificação de alguns parâmetros de função, como força, potência, resistência e agilidade. Desta forma evitamos os erros que decorrem de uma avaliação exclusivamente subjetiva e baseada em sintomas, ou de medidas totalmente vinculadas à função, como a utilização da medida do perímetro da coxa para inferir a função muscular. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-04-11 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/101991</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 1 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/101992</identifier>
+<datestamp>2020-07-31T22:18:29Z</datestamp>
+<setSpec>actafisiatrica:Pont.+Vista</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960411 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Atividade física e saúde</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Santarem, José Maria</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Os profissionais da área médica em geral têm plena consciência de que a saúde das pessoas depende da interação de fatores ambientais com a constituição genética dos indivíduos. No que diz respeito à atividade física, o consenso atual é no sentido de que os exercícios habituais sejam benéficos para a saúde das pessoas. Os efeitos da atividade física reconhecidos como salutares são os que afastam as pessoas de condições estatisticamente relacionadas com a ocorrência de doenças. Os mais importantes são o alívio de tensões emocionais, a normalização dos níveis e do perfil bioquímico das gorduras do sangue, a melhor eficiência do metabolismo glicídico, o estímulo ao aumento da massa muscular, o aumento da massa óssea e a diminuição do tecido adiposo. A evolução dos conhecimentos em fisiologia do esforço tem demonstrado efeitos dos exercícios físicos sobre o sistema endócrino e imunológico que ampliam as possibilidades de utilização profilática e terapêutica da atividade física. A questão da longevidade e sua possível relação com uma vida fisicamente ativa é um aspecto ainda não esclarecido mas que continua sendo bastante estudado. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-04-11 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/101992</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 1 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/101997</identifier>
+<datestamp>2020-07-31T22:20:24Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960818 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Reabilitação baseada na comunidade: uma proposta viável para o Brasil</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Maior, Isabel de Loureiro</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro - UFRJ</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A Reabilitação Baseada na Comunidade (RBC) é uma estratégia para ampliar e viabilizar a cobertura de atenção às PPD, a partir das necessidades identificadas pela comunidade. Deverá ser executada em conjunto com os setores governamentais e não governamentais; o objetivo geral é valorizar e desenvolver o potencial da PPD e da própria comunidade como agentes do processo de reabilitação e de inclusão social. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-08-18 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/101997</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 2 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/101999</identifier>
+<datestamp>2020-07-31T22:20:28Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960818 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Comparação de uma forma modificada de DuoDERM (DuoDERM Extra Fino) e um curativo convencional no tratamento de lacerações, abrasões e pequenas lesões cirúrgicas no Departamento de Acidentes e Emergência</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Heffernan, A.</subfield>
+<subfield code="u">University College Hospital. Accident and Emergency Department</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Martin, A. J.</subfield>
+<subfield code="u">University College Hospital. Accident and Emergency Department</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Um estudo clínico de 96 pacientes comparou um novo curativo hidrocolóide (DuoDERM Extra Fino) com um curativo não aderente (curativo absorvente de película perfurada) no tratamento de lacerações, abrasões e pequenas incisões cirúrgicas no Pronto-Socorro (PS) do Hospital Faculdade da Universidade de Galway. Enquanto que o tempo de cicatrização era semelhante para ambos os grupos, os pacientes que usaram DuoDERM Extra Fino experimentaram menos dor (P &lt; 0,001), necessitaram menos analgesia (P = 0,0154) e puderam desempenhar suas atividades diárias normais incluindo o banho ou chuveiro sem afetar o curativo ou a ferida. A satisfação do paciente com o novo curativo pareceu ser bastante alta, especialmente naqueles pacientes que possuíam um estilo de vida ativo. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-08-18 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/101999</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 2 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102008</identifier>
+<datestamp>2020-07-31T22:20:31Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960818 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Escola de Coluna: experiência do Hospital das Clínicas da Universidade de São Paulo</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Chung, Tae Mo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A Escola de Coluna representa um programa educacional e terapêutico eficaz para os pacientes com afecções da coluna vertebral, principalmente as que decorrem de posturas inadequadas. Estudamos 32 pacientes tratados na escola de coluna do Hospital das Clínicas da Universidade de São Paulo. Em 89% dos casos houve melhora da dor. 66% dos pacientes, seis meses após terem participado da escola, continuavam a seguir as suas recomendações. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-08-18 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102008</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 2 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102012</identifier>
+<datestamp>2020-07-31T22:20:37Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960818 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Reabilitação pulmonar na doença pulmonar obstrutiva crônica</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fonseca, Ana Paula Coutinho</subfield>
+<subfield code="u">Hospital Arapiara</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pereira, Claudia Fonseca</subfield>
+<subfield code="u">Hospital Arapiara</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fonseca, Gilberto de Almeida</subfield>
+<subfield code="u">Hospital Arapiara</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O treinamento com exercícios físicos é um componente essencial do programa de Reabilitação Pulmonar. A presente revisão objetiva enfocar as diferentes formas de atividades físicas que podem ser prescritas aos pacientes portadores de Doença Pulmonar Obstrutiva Crônica (D.P.O.C.). As repercussões deste programa são relacionadas com as incapacidades funcional e psicossocial já instaladas nestes pacientes. Os autores propõem um protocolo de treinamento para que estes pacientes alcancem uma melhor qualidade de vida. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-08-18 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102012</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 2 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102015</identifier>
+<datestamp>2020-07-31T22:20:41Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"960818 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Técnicas de análise de marcha</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Saad, Marcelo</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Masiero, Danilo</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A análise de marcha oferece dados importantes para a compreensão e tratamento de distúrbios da locomoção. Sua importância é tal que justificou a criação dos chamados Laboratórios de Movimento. Este campo tem se desenvolvido muito nas últimas décadas. Este artigo mostra esta evolução, e a situação atual da análise de marcha no Brasil e no mundo. Expõe também os termos técnicos usados neste tipo de estudo. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-08-18 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102015</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 2 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102022</identifier>
+<datestamp>2020-07-31T22:23:42Z</datestamp>
+<setSpec>actafisiatrica:Edit</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"961217 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A fisiatria na formação do médico generalista</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A resolução do problema do incapacitado, isto é, o tratamento de reabilitação, é um processo de grande complexidade, exigindo na maior parte dos casos a ação de uma Equipe Multidisciplinar, que trabalha com objetivos comuns, mesmo atuando em áreas diferentes: com o paciente diretamente, sua família, sua comunidade. É notório o fato que a fragmentação do tratamento fisiátrico, em qualquer fase de sua execução, conduz ao insucesso, pois são inúmeras as variáveis em jogo e nunca um único elemento será capaz de fornecer todos os subsídios necessários ao paciente em questão. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-12-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102022</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 3 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102023</identifier>
+<datestamp>2020-07-31T22:23:46Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"961217 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Ciências da atividade física: algumas perguntas</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Böhm, György Miklós</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Dois amigos convidaram-me para que desse uma aula. À menção da platéia de pessoas interessadas em atividade física e que gostariam de ouvir algo relacionado de como é que se faz Ciência, eu imediatamente aceitei, diria sem nenhuma hesitação, por um ato reflexo. O responsável por esta imprudência certamente foi o meu tendão esquerdo dos gêmeos, lá onde se incere na tuberosidade do calcâneo, ou seja, o tendão de Aquiles esquerdo. Trata-se de uma parte do meu corpo cronicamente inflamada e que dialoga comigo a toda hora. Existem outras regiões incômodas, metatarso do pé direito, joelho direito, coluna lombar, próstata isto quando não estou com gota ou tromboflebite ! contudo, o tendão é o mais eloqüente e antes que pudesse pensar, refletir seriamente, ele adian-tou-se e respondeu positivamente ao convite. Depois que me despedi dos colegas, ao sentar junto à mesa de trabalho, o tendão deu uma pequena ferroada dizendo: &quot;está vendo? agora agüenta&quot; A palestra começou com uma curta introdução, em que abordei alguns aspectos gerais da Ciência, e, depois, passei à parte central do tema, cujo conteúdo transcrevo. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-12-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102023</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 3 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102029</identifier>
+<datestamp>2020-07-31T22:23:49Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"961217 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Dificuldades na reabilitação de pacientes amputados devido a tumores</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Saad, Marcelo</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Masiero, Danilo</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Os pacientes amputados d evido a tumores possuem particularidades, como intercorrências clín icas, que os diferenciam dos amputados por outras causas. Estas particularidades interferem de forma significa tiva no processo reabilitacional. podendo até inviabilizá-lo. Este levantamento mostra a evolução dos pacientes amputados devido a tumores atendidos no Lar Escola São Francisco. Verificou-se que nenhum dos 6 pacientes atingiu a meta da protetização, apesar de reunirem alguns pré-requisitos favoráveis para reabilitação, como pouca idade e início precoce do treinamento. Is to evidencia que o prognóstico reabilitacional destes pacientes pode ser mod ificado subitamente em qualquer momento. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-12-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102029</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 3 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102030</identifier>
+<datestamp>2020-07-31T22:23:53Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"961217 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Amputações parciais do pé: análise das soluções protéticas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Saad, Marcelo</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Masiero, Danilo</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Em amputações parciais do pé, a solução protética mais utilizada é o preenchimento anterior do calçado, adaptado à palmilha ou goteira . Entretanto, tanto do ponto de vista funcional quanto estético, estas soluções deixam a desejar. Comumente, as forças atuantes causam lesões de pele no coto e deformidade do calçado, quando não se usa goteria anti-eqüino de tornozelo. A goteira mantém a articulação tibio-társica rígidida. Este trabalho analisa os aspectos favoráveis e desfavoráveis da protetização a este nível de amputação. Cinco pacientes do sexo masculino, portadores de amputação parcial do pé, foram avaliados clinicamente e submetidos à análise de marcha. O processo de análise consistiu de filmagem da marcha em perfil e interpretação quadro-a-quadro em videocassete profissional. Os parâmetros da marcha analisados foram: cadência, comprimento do passo e da passada, e velocidade. A solução protética de preenchimento anterior do pé, adaptada à goteira, nos pareceu ser uma boa solução biomecânica . </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-12-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102030</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 3 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102031</identifier>
+<datestamp>2020-07-31T22:23:57Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"961217 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Distrofia muscular de Becker: relato de caso e revisão de literatura</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gavi, Maria Bernadete Renoldi Oliveira</subfield>
+<subfield code="u">Universidade Federal do Espírito Santo - UFES</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pimentel, Manoel Neves</subfield>
+<subfield code="u">Universidade Federal do Espírito Santo - UFES</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Marcelo Nogueira</subfield>
+<subfield code="u">Universidade Federal do Espírito Santo - UFES</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bortolini, Eliete Rabbi</subfield>
+<subfield code="u">Universidade Federal do Espírito Santo - UFES</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nascimento, Alípio Cesar</subfield>
+<subfield code="u">Universidade Federal do Espírito Santo - UFES</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Distrofias musculares são doenças pouco freqüentes e desconhecidas por alguns médicos. Apresentamos um paciente com diagnóstico de Distrofia Muscular do tipo Becker; em fase avançada da doença, com achados físicos exuberantes, história familiar e patológica pregressa compatíveis e biópsia muscular característica. Embora a analise de DNA não tenha mostrado deleções no gene responsável, o diagnóstico foi confirmado clinicamente. Foram relacionados alguns diagnósticos diferenciais. Comentamos os aspectos terapêuticos. Estas doenças devem ser consideradas em todos os pacientes com queixa de fraqueza muscular; principalmente crianças, tendo em vista a necessidade de aconselhamento fisiátrico e genético precoces. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-12-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102031</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 3 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102032</identifier>
+<datestamp>2020-07-31T22:24:02Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"961217 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Análise comparativa dos resultados funcionais obtidos em 100 artroplastias totais do joelho pela fisioterapia convencional isolada ou associada à movimentação passiva contínua</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Máximo, Eliane Machado</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Masiero, Danilo</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mestriner, Luiz Aurélio</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Estudo prospectivo de 85 pacientes submetidos a 100 artroplastias totais dos joelhos (15 bi laterais) no período compreendido entre junho de 1991 a junho de 1994. Os pacientes foram distribuídos em dois grupos. O grupo I, constituído de 44 pacientes (50 joelhos), foi submetido à fisioterapia convencional isolada e o grupo II de 45 pacientes (50 joelhos) à fisioterapia convencional associada à MPC (movimentação passiva contínua). O objetivo foi estabelecer possíveis diferenças entre os dois tipos de tratamento fisioterápico com relação ao tempo mínimo necessário para atingir 60 graus de flexão, tempo de hospitalização, variação percentual do arco de movimento pré e pós-operatório e condições da ferida operatória. Foi também analisada a evolução do arco de movimento por ocasião da alta hospitalar; e aos três, seis, nove e doze meses. Não houve diferença estatisticamente significante em relação aos parâmetros analisados.     </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-12-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102032</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 3 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102033</identifier>
+<datestamp>2020-07-31T22:24:05Z</datestamp>
+<setSpec>actafisiatrica:Art.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"961217 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Baropodometria computadorizada</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Jorge Filho, Donaldo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Teste que visa medir as pressdes desenvolvidas nos diferentes pontos da região plantar dos pés, quer em ortostatismo quer em marcha. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-12-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102033</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 3 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102034</identifier>
+<datestamp>2020-07-31T22:24:09Z</datestamp>
+<setSpec>actafisiatrica:Pont.+Vista</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"961217 1996                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Patologias inflamatórias sistêmicas do pé: visão do reumatologista</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Egri, Débora</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Os pés são frequentemente acometidos pelas patologias reumatológicas, tanto quando nos referimos às patologias de ordem inflamatória, degenerativas, infecciosas, auto-imunes e metabólicas. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1996-12-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102034</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 3 n. 3 (1996)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1996 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header status="deleted">
+<identifier>oai:revistas.usp.br:article/102053</identifier>
+<datestamp>2021-09-09T18:17:54Z</datestamp>
+<setSpec>actafisiatrica:Edit</setSpec>
+<setSpec>driver</setSpec>
+</header>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102054</identifier>
+<datestamp>2020-07-31T22:26:47Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970417 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação crítica do acompanhamento dos pacientes com bexiga neurogênica e propostas de tratamento</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Cristiane Hernandes da</subfield>
+<subfield code="u">Hospital Arapiara</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Borges, Eugênio Dumont de Paiva</subfield>
+<subfield code="u">Hospital Arapiara</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O presente estudo tem por objetivo avaliar como é realizado o acompanhamento dos pacientes com bexiga neurogênica secundária à lesão medular. Foram analisados 37 pacientes, 26 (70,3%) do sexo masculino e 11 (29,7%) do sexo feminino que es tiveram internados no Hospital Arapiara no período de maio/1994 a maio/1995. Apesar das infecções urinárias baixas terem sido freqüentes, não observamos uma grande incidência de outras complicações relacionadas com o trato urinário nesses pacientes. O manejo vesical foi investigado em todos os casos, notamos a importância das manobras de esvaziamento (Tapping, Credé ou Valsalva) e do cateterismo intermitente como forma de prevenir o aparecimento de complicações do trato urinário alto. Diante da pouca sintomatologia desses pacientes, desenvolvemos um protocolo para melhor seguimento e tratamento do lesado medular com bexiga neurogênica. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-04-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102054</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 1 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102057</identifier>
+<datestamp>2020-07-31T22:26:50Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970417 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo do reflexo H do músculo semitendinoso em pessoas normais</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Saito, Elizabete Tsubomi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ribeiro Sobrinho, José Brenha</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Desde o início da década de 50, com o advento da eletroneuromiografia clinica, passou-se a utilizar rotineiramente o reflexo miotático para avaliação dos segmentos proximais dos nervos e raízes nervosas. O objetivo deste trabalho é pesquisar se os músculos isquiotibiais apresentam reflexo H de modo constante e de fácil obtenção e saber qual seu significado e valor propedêutico. Foram escolhidos seis pacientes com exame clínico neurológico normal, para testarmos o reflexo H captado no músculo semitendinoso com estimulação do nervo ciático próximo ao ponto motor proximal do mesmo. Todos os pacientes apresentaram o reflexo H com constância no valor da latência , indicando que talvez este teste possa ser usado como indicativo de lesão de raiz L5 no futuro. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-04-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102057</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 1 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102060</identifier>
+<datestamp>2020-07-31T22:26:53Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970417 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Uso da toxina botulínica tipo A no manejo dos membros inferiores espásticos em crianças com paralisia cerebral: relato de 4 casos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Habu, Neuza Sayuri</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chung, Tae Mo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Carlos Alberto</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vasconcelos, Jeane Cintra Peixoto de</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ribeiro, Carla Paschoal Corsi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lima, Cristiane Araújo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lima, Fátima Aparecida de</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Madureira, Nilza Cecília Mammana</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Para o uso da toxina botulínica tipo A, foram selecionadas quatro crianças com paralisia cerebral, com idades entre 4 a 7 anos, apresentando diparesia espástica de membros inferiores dinâmicos, com deformidades redutíveis e sem comprometimento ortopédico. De acordo com o protocolo, após a injeção, todas foram submetidas a fisioterapia diária, que consistiu no alongamento dos músculos injetados, fortalecimento dos antagonistas, treino de marcha e uso de órtese noturno. Uma das crianças foi submetida ao gesso seriado. Durante três meses, houve avaliação mensal, verificando-se a amplitude articular; tônus muscular, comprimento da passada e da largura durante a deambulação e o ortostatismo. Resultado: ganho significativo na amplitude articular em todos os pacientes, redução de tônus e uma melhora no padrão de marcha e ortostatismo. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-04-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102060</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 1 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102063</identifier>
+<datestamp>2020-07-31T22:26:58Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970417 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Dor central em pacientes com traumatismo raquimedular: proposta de um protocolo terapêutico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nucera, Paulo Alberto</subfield>
+<subfield code="u">Associação Brasileira Beneficente de Reabilitação - ABBR</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Baptista, Ana Luiza Marques</subfield>
+<subfield code="u">Associação Brasileira Beneficente de Reabilitação - ABBR</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Quintas, Luis Eduardo Menezes</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro - UFRJ</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mello, Simone Lino</subfield>
+<subfield code="u">Associação Brasileira Beneficente de Reabilitação - ABBR</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Foram analisados aleatoriamente e escolhidos 28 prontuários da Unidade de Traumatismo Raquimedular (TRM) da Associação Brasileira Beneficente de Reabilitação de maneira retrospectiva, a fim de comparar com a literatura as condutas terapêuticas físicas e farmacológicas utilizadas no tratamento da dor centra l causada por TRM no ano de 1995-1996 com o objetivo de expor dados epidemiológicos gerais e propor um protocolo simplificado de tratamento. Após aplicação de um questionário na forma de entrevista voluntária, os grupos que receberam tratamento físico e farmacológico foram analisados estatisticamente, assim como a resposta clínica de cada método terapêutico. A dor central foi encontrada em 34% dos pacientes. A etiologia principal foi projétil de arma de fogo (53,5%), o nível de lesão mais acometido foi o torácico-baixo (43%) e o tipo de dor mais relatado foi queimor (43% ). A espasticidade foi evidenciada em 64% dos casos, sendo que 71,5% foram submetidos a cirurg ias. Em relação aos tratamentos realizados a amitriptilina, clomipramina, carbamazepina , TENS, cinesioterapia tiveram índices de melhora de 60%, 87,5%, 50%, 80% e 83%, respectivamente. Quanto ao tratamento farmacológico e físico não houve diferença significativa entre os grupos (p &gt; 0,05). Por outro lado, quando a análise foi realizada intragrupo, evidenciamos que apenas a clomipramina apresentou uma resposta clínica estatisticamente comprovada (p &lt; 0,002), provavelmente devido a nossa amostragem limitada (n=28) . Assim, propomos os seguintes protocolos terapêuticos: 1) c1omipramina + TENS + cinesioterapia; (2) amitriptilina + TENS + cinesioterapia; (3) carbamazepina + TENS + cinesioterapia. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-04-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102063</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 1 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102064</identifier>
+<datestamp>2020-07-31T22:27:02Z</datestamp>
+<setSpec>actafisiatrica:Art.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970417 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Ergoespirometria computadorizada ou calometria indireta: um método não invasivo de crescente valorização na avaliação cardiorrespiratória ao exercício</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Romano, Angela</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Yazbek Junior, Paulo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cordeiro, José Roberto</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O desenvolvimento tecnológico de sistemas computadorizados utilizados em ergoespirometria ou calorimetria indireta tem sido de grande valor na avaliação de indivíduos com graus variados de capacidade funcional. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-04-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102064</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 1 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102065</identifier>
+<datestamp>2020-07-31T22:26:37Z</datestamp>
+<setSpec>actafisiatrica:Pont.+Vista</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970417 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A hipoterapia na medicina de reabilitação</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Botelho, Luiz Antônio de Arruda</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O uso do cavalo com fins terapêuticos, segundo literatura médica européia, iniciou-se por volta de 1735. Em 1950, esses programas se estabeleceram na Inglaterra e logo depois nos outros países europeus. Na Alemanha e na Suíça a montaria vem sendo utilizada como forma de terapia há mais de 20 anos. O Deutsches Kuratorium für Therapeutisches Reiten, centro alemão especializado neste tipo de tratamento forma profissionais hipoterapeutas e edita regularmente a revista Terapeutisches Reiten. Por volta de 1960 foi iniciada a hipoterapia nos Estados Unidos. Em 1969, foi criada a Associação Americana de Hipoterapia para Deficientes, coordenando esforços para divulgar o método naquele país, que conta hoje com mais de 400 programas de hipoterapia. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-04-17 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102065</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 1 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header status="deleted">
+<identifier>oai:revistas.usp.br:article/102073</identifier>
+<datestamp>2016-10-07T18:24:43Z</datestamp>
+<setSpec>actafisiatrica:Cart.</setSpec>
+</header>
+</record>
+<resumptionToken expirationDate="2023-08-08T14:49:51Z" completeListSize="935" cursor="25">e2c5845b0c1dba41dec803e6c80584ca</resumptionToken>
+</ListRecords>
+</OAI-PMH> 

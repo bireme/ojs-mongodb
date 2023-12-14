@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:33Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108157</identifier>
+        <datestamp>2020-06-25T16:03:38Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Refluxo gastroesofágico e a fisioterapia respiratória: revisão.</dc:title>
+          <dc:title xml:lang="en-US">Gastroesophageal reflux and chest physiotherapy: review</dc:title>
+          <dc:creator>Gonçalves, Renata M.</dc:creator>
+          <dc:creator>Assumpção, Maíra S. de</dc:creator>
+          <dc:creator>Schivinski, Camila I. S.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Refluxo Gastroesofágico . Fisioterapia. Criança.</dc:subject>
+          <dc:subject xml:lang="en-US">Gastroesophageal Reflux. Physical Therapy Specialty. Child. Respiratory</dc:subject>
+          <dc:subject xml:lang="en-US">chest</dc:subject>
+          <dc:description xml:lang="en-US">Objective: to present scientific evidence on the impact of respiratory physiotherapy techniques (RPT) in episodes of gastroesophageal reflux (GER) and gastroesophageal reflux disease (GERD) in pediatric population, as well as characteristics of the studied samples, evaluation tools, RPT applied and the results obtained. Method: Systematic review operationalized through electronic search of three databases: LILACS, MEDLINE and Science Direct, in the period February to April 2014, using the keywords: gastroesophageal reflux, gastro-oesophageal reflux, physiotherapy / physical therapy, respiratory / chest. Studies evaluating the effects of RPT (conventional and modern) in children with GER and / or diagnosed with GERD were selected. Results: 73 articles were identified on the subject, and a sequential process excluded those who did not meet the inclusion criteria previously established. At the end of the calculation we included eight articles, seven clinical trials and one report series of cases. There was a higher frequency in the assessment of the impact on the conventional RPT about GER in children with cystic fibrosis, and postural drainage, associated or not with other techniques, applied in most studies, however, the effects of the described RPT may be still controversial. More recent studies have analyzed other RPT (increased expiratory flow handlings and method thoracoabdominal rebalancing) verifying their capability of causing reflux and security in the application of handlings. Conclusions: there is lack of research on the subject, there is no consensus as to the effect of RPT on GER in the pediatric population, especially in children with cystic fibrosis. In these investigations it was found that most of the examination of images used for the identification of GER.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: apresentar evidências científicas sobre a repercussão das técnicas de fisioterapia respiratória (TFR) nos episódios de refluxo gastroesofágico (RGE) e na doença do refluxo gastroesofágico (DRGE) na população pediátrica, bem como, características das amostras estudadas, instrumentos de avaliação utilizados, TFR aplicadas e os resultados obtidos. Método: revisão sistemática operacionalizada por meio de busca eletrônica em três bases de dados: LILACS, MEDLINE e Science Direct, no período de fevereiro a abril de 2014, utilizando os descritores: gastroesophageal reflux, gastro-oesophageal reflux, physiotherapy/ physical therapy, respiratory/ chest. Foram selecionados os estudos que avaliaram os efeitos de TFR (convencionais e modernas) em crianças com RGE e/ou com DRGE diagnosticada. Resultados: foram identificados 73 artigos sobre o tema, e excluídos por um processo sequencial aqueles que não corresponderam aos critérios de inclusão previamente estabelecidos. Ao final da apuração incluíram-se oito artigos, sendo sete ensaios clínicos e um relato de série de casos. Houve uma maior frequência na avaliação da repercussão de TFR convencionais sobre o RGE em crianças com fibrose cística, sendo a drenagem postural, associada ou não a outras técnicas, aplicada na maioria dos trabalhos, contudo, os efeitos descritos dessas TFR apresentam-se ainda controversos. Estudos mais recentes analisaram outras TFR (aumento do fluxo expiratório e manuseios do método reequilíbrio tóracoabdominal) verificando sua potencialidade refluxogênica e a segurança na aplicação dos manuseios. Conclusões: observa-se carência de pesquisas sobre o tema, não havendo um consenso quanto aos efeitos das TFR sobre o RGE na população pediátrica e em especial nas crianças com fibrose cística. Nas presentes investigações verificou-se que a maior parte utilizaram exames de imagens para a identificação dos episódios de RGE.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108157</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p392-400</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 392-400</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 392-400</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 392-400</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108157/106473</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108158</identifier>
+        <datestamp>2020-06-25T16:03:37Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Anemia ferropriva na gestação: controvérsias na suplementação do ferro</dc:title>
+          <dc:title xml:lang="en-US">Iron deficiency anemia in pregnancy: controversies in iron supplementation</dc:title>
+          <dc:creator>Modott, Maria Teresa C. F.</dc:creator>
+          <dc:creator>Modott, Cauê C.</dc:creator>
+          <dc:creator>Marcelino, Mônica Y.</dc:creator>
+          <dc:creator>Oliva, Taís B. de</dc:creator>
+          <dc:creator>Dias, Daniel S.</dc:creator>
+          <dc:creator>Dias, Flávia N. B.</dc:creator>
+          <dc:creator>Rodrigues, Natália Pavoni</dc:creator>
+          <dc:creator>Modott, Waldir P.</dc:creator>
+          <dc:subject xml:lang="en-US">Anemia</dc:subject>
+          <dc:subject xml:lang="en-US">Iron-Deficiency. Pregnancy. Iron. clinical and laboratory diagnosis</dc:subject>
+          <dc:subject xml:lang="en-US">iron supplementation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anemia Ferropriva. Gestação. Ferro. diagnóstico clínico e laboratorial</dc:subject>
+          <dc:subject xml:lang="pt-BR">suplementa- ção de ferro.</dc:subject>
+          <dc:description xml:lang="pt-BR">O período gestacional está associado a uma série de alterações fisiológicas e anatômicas, tais como mudanças no sistema hematológico, respiratório e cardiovascular. Além das alterações funcionais, a anemia por deficiência de ferro (anemia ferropriva) destaca-se como uma das complicações mais comuns de uma gravidez e dependendo da gravidade, pode acarretar prejuízo para mãe e/ou feto. A administração de ferro para as gestantes, com ou sem diagnóstico prévio de anemia, é uma prática comum na área de obstetrícia. Embora não existam evidências concretas a respeito dos beneficios da suplementa- ção profilática de ferro para as gestantes, esta conduta apresenta-se como um procedimento adequado, visto que reduz a prevalência de anemia ferropriva na gestante e após o parto. Entretanto, há uma série de relatos na literatura que descrevem os aspectos deletérios da reposição indiscriminada de ferro durante a gestação. Neste contexto, pretende-se com essa revisão da literatura apresentar os principais aspectos das alterações hematológicas decorrentes da gravidez, em especial a anemia por deficiência de ferro, mostrar as ventagens e desvantagens da suplementação com ferro, bem como orientar o obstetra em realizar um diagnóstico mais preciso de anemia ferropriva durante a gestação e propor uma alternativa coerente de reposição de ferro para as gestantes, minimizando os riscos indesejáveis do excesso ou deficiência dessa suplementação.</dc:description>
+          <dc:description xml:lang="en-US">The gestational period is associated with a series of physiological and anatomical modifications, such as changes in the hematological, respiratory and cardiovascular system. In addition to functional modifications, anemia due to iron deficiency stands out as one of the most common complications of pregnancy and depending on severity can cause harm to mother and/or fetus. The administration of iron for pregnant women, with or without a previous diagnosis of anemia, is a common practice in obstetrics. Although there’s no evidence about the benefits of prophylactic iron supplementation for pregnant women, this approach appears as an appropriate procedure, since it reduces the prevalence of iron deficiency anemia during pregnancy and after childbirth. However, there are reports in the literature that describe the harmful aspects of indiscriminate use of iron during pregnancy. Thus, this literature review intend to present the main aspects of hematological changes that takes place during pregnancy, particularly iron deficiency anemia, to show advantages and disadvantages of iron supplementation, and to guide the obstetrician to perform a more accurate diagnosis of iron deficiency anemia during pregnancy. This literature also intend to propose a consistent alternative of iron supplementation for pregnant women, minimizing the undesirable risks of excess or deficiency of this supplementation.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108158</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p401-407</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 401-407</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 401-407</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 401-407</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108158/106474</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108306</identifier>
+        <datestamp>2020-06-25T16:03:37Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Clustered risk factors to health in children</dc:title>
+          <dc:title xml:lang="pt-BR">Agregação de fatores de risco à saúde em crianças.</dc:title>
+          <dc:creator>Legnani, Rosimeide Francisco Santos</dc:creator>
+          <dc:creator>Legnani, Elto</dc:creator>
+          <dc:creator>Silva, Michael Pereira da</dc:creator>
+          <dc:creator>Gasparotto, Guilherme da Silva</dc:creator>
+          <dc:creator>Bacil, Eliane Denise Araújo</dc:creator>
+          <dc:creator>Campos, Wagner de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Fatores de Risco. Atividade Motora. Questionários.</dc:subject>
+          <dc:subject xml:lang="en-US">Risk Factors. Motor Activity. Questionnaires.</dc:subject>
+          <dc:description xml:lang="en-US">Study design: Cross-sectional descriptive correlational study. Objectives: To identify the prevalence of clustered Risk Factors to Health (RFH) in children from Curitiba, PR, as well as the association between clustered RFH and demographic variables. Methods: Was selected 1054 children (7-10 years) from public and private schools in Curitiba / PR. The assessment of Physical Activity (PA) was performed by 11 pictures to indicate the type of PA performed in a typical week (Webdafa electronic questionnaire). The scores sum of PA categories generated a General Physical Activity Score (GPAS: 0-187 points). Questions about screen time and sleep were added to Webdafa. Also was measured, body weight and height to calculate BMI (Body Mass Index). Data were categorized in insufficient level of physical activity (GPAS &amp;lt;84), screen time (&amp;gt; 2 hours / day), hours of sleep (&amp;lt;10 hours), and students were classified according to BMI in overweight or eutrophic. Results: Among those evaluated, 484 (45.9%) were boys, 548 (52%) studied during the afternoon, the age mean was 8.9 (± 0.9) years, body weight 33.5 kg (± 8.9), height of 1.36 m (± 0.08) and BMI 17.8 (± 3.4). Only 5.5% (58) children had one RFS, 35.1% (370) presented two RFH and 59.4% (626) of the children had 3 or more RFH in cluster form. Clustered RFH were significantly associated with the variables: gender, school type and class period in the day (p &amp;lt;0.005). Conclusion: There was a high prevalence of 2 or more RFH evaluated in children and association between clustered RFH with sociodemographic variables.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo descritivo correlacional de corte transversal. Objetivos: Identificar a prevalência de fatores de risco à saúde (FRS) de forma agregada em crianças de Curitiba, PR, bem como, associar os FRS agregados com as variáveis demográficas. Métodos: foram selecionadas 1054 crian- ças (7 a 10 anos) de escolas públicas e particulares de Curitiba/PR. A avaliação da prática da Atividade Física (AF) foi realizada por meio do questionário eletrônico Webdafa. A soma dos escores das categorias de AF gerou um Escore Geral de Atividade Física (EGAF: 0 a 187 pontos). Ao Webdafa foram adicionadas questões sobre o tempo de tela e horas de sono. Mediu-se também, a massa corporal e a estatura para classificação do Índice de Massa Corporal (IMC). Os dados foram categorizados em nível insuficiente de Atividade Física (EGAF &amp;lt; 84), tempo de tela (&amp;gt; 2 horas/dia), horas de sono (&amp;lt; 10 horas). Resultados: Entre os avaliados, 484 (45,9%) foram meninos, 548 (52%) estudavam no turno vespertino, a média de idade foi de 8,9 (±0,9) anos, peso corporal de 33,5 kg (±8,9), estatura de 1,36 m (±0,08) e IMC de 17,8 (±3,4). Apenas 5,5% (58) das crianças apresentaram um FRS, 35,1% (370) apresentaram dois FRS e 59,4% (626) apresentaram três ou mais FRS agregados. Os FRS agregados associaram-se significativamente com as variáveis: sexo, tipo de escola e turno escolar (p&amp;lt; 0,05). Conclusão: observou-se elevada prevalência de dois ou mais FRS nas crianças avaliadas e associação destes fatores agregados com variáveis sociodemográficas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108306</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p328-335</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 328-335</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 328-335</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 328-335</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108306/106622</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108307</identifier>
+        <datestamp>2020-06-25T16:03:36Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Superior vena cava syndrome idiopathic: case report</dc:title>
+          <dc:title xml:lang="pt-BR">Síndrome da Veia Cava Superior Idiopática: Relato de Caso</dc:title>
+          <dc:creator>Nogueira, Thaís A.</dc:creator>
+          <dc:creator>Oliveira, Luciana F. de</dc:creator>
+          <dc:subject xml:lang="en-US">Superior Vena Cava Syndrome. Vena Cava</dc:subject>
+          <dc:subject xml:lang="en-US">Superior. Venous Thrombosis. Thrombosis.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome da Veia Cava Superior. Veia Cava Superior. Trombose Venosa. Trombose.</dc:subject>
+          <dc:description xml:lang="en-US">The Superior Vena Cava Syndrome(SVCS) is a set of signs and symptoms resulting from venous stasis caused by the obstruction of the superior vena cava(VCS) due to thrombosis, extrinsic compression or direct invasion of the vein. The most common causes of SVCS are malignant, lung cancer being the leading cause. There are few reports in the literature on SVCS of benign etiology. We describe a case of SVCS of idiopathic origin, where the author studied and excluded all benign etiologies of SVCS, until arriving at etiological diagnosis.</dc:description>
+          <dc:description xml:lang="pt-BR">A Síndrome da Veia Cava Superior(SVCS) é um conjunto de sinais e sintomas decorrentes da estase venosa gerada pela obstrução da veia cava superior(VCS), seja por trombose, compressão extrínseca ou invasão direta da veia. As causas mais comuns de SVCS são malignas, sendo o câncer de pulmão a principal causa. Existem poucos relatos na literatura sobre SVCS de etiologia benigna. Descrevemos um caso de SVCS de origem Idiopática, onde o autor estudou e excluiu todas as etiologias benignas de SVCS, até chegar ao diagnóstico etiológico.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108307</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p408-411</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 408-411</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 408-411</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 408-411</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108307/106623</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108308</identifier>
+        <datestamp>2020-06-25T16:03:35Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Siderose superficial do sistema nervoso central: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Superficial siderosis of the central nervous system: case report</dc:title>
+          <dc:creator>Vilaça, Celmir de Oliveira</dc:creator>
+          <dc:creator>Magella, Carla Baars</dc:creator>
+          <dc:creator>Afonso, Cristiane</dc:creator>
+          <dc:creator>Py, Marco Oliveira</dc:creator>
+          <dc:creator>Santos, Alair Sarmet</dc:creator>
+          <dc:creator>Novellino, Pietro</dc:creator>
+          <dc:creator>Orsini, Marco</dc:creator>
+          <dc:subject xml:lang="en-US">Superficial Siderosis. Cerebellar Ataxia. Deafness.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Siderose Superficial</dc:subject>
+          <dc:subject xml:lang="pt-BR">. Ataxia Cerebelar. Surdez.</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: A Siderose Superficial do Sistema Nervoso Central (SS) é uma doença rara caracterizada pelo depósito de hemossiderina no encéfalo e na medula espinhal. Clinicamente se caracteriza por ataxia e surdez neurossensorial progressivas associados a lesão do neurônio motor superior. O diagnóstico é feito através do exame de ressonância nuclear magnética (RNM) de Encéfalo e Medula Espinhal. Objetivo: Relatar um caso de paciente com elementos característicos da síndrome, associados à presença incomum de epilepsia. Método: Relatamos o caso de um paciente com SS acompanhado no Instituto de Neurologia Deolindo Couto da UFRJ-RJ. Conclusão: A Siderose Superficial do Sistema Nervoso Central é uma afecção do SNC que deve ser pensada em todo paciente com quadro de ataxia e surdez neurossensorial progressivas, necessitando de RNM, preferencialmente as imagens de Gradiente eco em T2 para o diagnóstico.</dc:description>
+          <dc:description xml:lang="en-US">Introduction: Superficial Siderosis Central Nervous System (SS) is a rare disease characterized by the deposition of hemosiderin in the brain and spinal cord. Clinically there is progressive ataxia and sensorineural deafness associated with upper motor neuron lesion. The diagnosis is made by examination of magnetic resonance imaging (MRI) Brain and Spinal Cord. Objective: Report a case of a patient with characteristic features of the syndrome, associated with the unusual presence of epilepsy. Method: We report the case of a patient with SS followed at the Institute of Neurology Deolindo Couto da UFRJ-RJ. Conclusion: The Superficial Siderosis Central Nervous System is a disease of the CNS that must be considered in any patient with ataxia and progressive deafness, requiring MRI, preferably images Gradient echo T2 for diagnosis.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108308</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p412-415</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 412-415</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 412-415</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 412-415</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108308/106624</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112587</identifier>
+        <datestamp>2020-06-25T16:03:55Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Relationship between peripheral and respiratory muscle strength and quality of life in patients with chronic obstructive pulmonary disease</dc:title>
+          <dc:title xml:lang="pt-BR">Relação entre força muscular periférica e respiratória e qualidade de vida em pacientes com doenças pulmonar obstrutiva crônica</dc:title>
+          <dc:creator>Santos, Karoliny dos</dc:creator>
+          <dc:creator>Karloh, Manuela</dc:creator>
+          <dc:creator>Gulart, Aline A.</dc:creator>
+          <dc:creator>Munari, Anelise B.</dc:creator>
+          <dc:creator>Mayer, Anamaria F.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doença Pulmonar Obstrutiva Crônica. Qualidade de Vida. Força Muscular. Atividades Cotidianas.</dc:subject>
+          <dc:subject xml:lang="en-US">Pulmonary Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Chronic Obstructive</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life. Muscle Strength. Activities of Daily Living.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo transversal. Objetivo: Investigar se existe associação entre qualidade de vida relacionada à saúde e força muscular periférica e respiratória em pacientes com DPOC, bem como investigar se há diferença no comprometimento da qualidade de vida de pacientes com e sem fraqueza muscular. Metodologia: Vinte pacientes foram submetidos à avaliação antropométrica, função pulmonar, aplicação do Questionário do Hospital Saint George na Doença Respiratória (SGRQ) e avaliação de força de músculos respiratórios, de preensão palmar e quadríceps. Utilizou-se o teste de Shapiro-Wilk para verificar a normalidade dos dados e coeficiente de correlação de Pearson para testar a correlação dos domínios e do escore total do SGRQ (SGRQtotal) com a força muscular periférica e respiratória e seus percentuais do previsto (%prev). Para comparar o domínio “impacto” entre os subgrupos de força de quadríceps, utilizou-se o teste U de Mann-Whitney. O teste t para amostras independentes foi utilizado para comparar os demais escores de qualidade de vida entre os subgrupos. Resultados: Verificou-se moderada correlação do SGRQtotal e dos domínios “atividades” e “impacto” com o %prev da força de quadríceps (r=-0,51; r=-0,52 e r=-0,46, respectivamente). O domínio “atividades” também correlacionouse com o valor absoluto da força de quadríceps (r=-0,44) enquanto o %prev da pressão expiratória máxima apresentou correlação com o SGRQtotal (r=-0,45) e com o domínio “impacto” (r=-0,49). Conclusões: A força de quadríceps e de músculos expiratórios é capaz de refletir o impacto que a limitação das atividades de vida diária exerce sobre a qualidade de vida de pacientes com DPOC.</dc:description>
+          <dc:description xml:lang="en-US">Design: Cross-sectional study. Objective: Investigate whether there is an association between healthrelated quality of life and peripheral and respiratory muscle strength in patients with COPD. Secondly, it was aimed to investigate if there are differences quality of life in patients with and without muscle weakness. Methods: Twenty patients underwent anthropometric, lung function, quality of life (Saint George’s Respiratory Questionnaire), respiratory, handgrip and quadriceps muscle strength assessments. The normality of the data was verified using the Shapiro-Wilk test. Pearson correlation coefficient test was performed to evaluate the correlation between the total score and domains of the SGRQ (SGRQtotal) and peripheral and respiratory muscle strength and their percentage of predicted (%pred). To compare the domain “impact” between the subgroups of quadriceps strength, it was used the Mann-Whitney test. The t test for independent samples was used to compare the other scores of quality of life among subgroups. Results: There was a moderate correlation of the SGRQtotal and the domains “activities” and “impact” with the quadriceps strength %pred (r=-0.51, r=-0.52 and r=-0.46, respectively). The domain “activities” also correlated with the absolute value of quadriceps strength (r=-0.44) while the maximal expiratory pressure %pred correlated with SGRQtotal (r=-0.45) and with the domain “impact” (r=-0.49). Conclusions: Quadriceps and expiratory muscles strengthare able to reflect the impact that the impairment of activities of daily living have on the quality of life of patients with COPD</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112587</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p417-424</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 417-424</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 417-424</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 417-424</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112587/110488</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112588</identifier>
+        <datestamp>2020-06-25T16:03:54Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Comunicação médico-paciente em ambulatórios de pediatria de um hospital universitário</dc:title>
+          <dc:title xml:lang="en-US">Physician-patient communication in at outpatient of pediatrics university hospital</dc:title>
+          <dc:creator>Lira, Haline G.</dc:creator>
+          <dc:creator>Machado, Camila V. B.</dc:creator>
+          <dc:creator>Del Ciampo, Ieda R. L.</dc:creator>
+          <dc:creator>Del Ciampo, Luiz A.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Cuidados Médicos. Serviços de Saúde. Educação Médica. Satisfação do Paciente</dc:subject>
+          <dc:subject xml:lang="en-US">Medical Care. Health Services. Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical . Patient Satisfaction</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: a relação médico-paciente depende de fatores relacionados aos indivíduos e às condições sociais e culturais que propiciam o encontro desses dois personagens. Objetivo: analisar alguns aspectos relacionados ao atendimento de crianças que frequentam os ambulatórios do HCFMRPUSP, no que diz respeito ao contato e ao diálogo com o corpo clínico. Metodologia: estudo retrospectivo, observacional e descritivo desenvolvido nos ambulatórios do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto – USP, por meio de entrevistas com as mães de crianças que aguardavam atendimento médico. Foi utilizado um questionário com perguntas relativas à criança (idade, sexo, tempo de acompanhamento no serviço), à mãe (idade, grau de escolaridade e situação conjugal) e à consulta (relacionamento com o médico, entendimento das orientações, aspectos positivos e negativos do atendimento e sugestões). O estudo foi aprovado pelo Comitê de Ética em Pesquisa do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo. Resultados: participaram 118 mães com mediana de idade foi de 32 anos, sendo 53,3% casadas e 22,8% solteiras. Entre as crianças, 57,6% eram do sexo feminino e 42,3% masculino. A mediana de escolaridade das mães apontou o segundo grau completo e o tempo médio de seguimento nos ambulatórios foi de 2 anos e 1 mês. 50% das mães referiram que a terminologia técnica era a principal causa de dificuldade de entendimento durante a consulta, 34,7% destacaram a atenção dispensada pelo médico como o fator mais positivo, enquanto que 57,6% destacaram que a demora era o principal fator negativo durante o atendimento. Conclusões: as dificuldades de comunicação entre médico e paciente e o acolhimento foram aspectos considerados importantes no atendimento oferecido pelo hospital universitário, devendo fazer parte do contexto dos profissionais que nele atuam.</dc:description>
+          <dc:description xml:lang="en-US">Introduction: the doctor-patient relationship depends on factors related to individuals and their social and cultural conditions that enable the meeting of these two characters. Objective: to examine some aspects related to the care of children attending the outpatient clinics of the university hospital, with respect to the contact and dialogue with the clinical staff. Methodology: retrospective, observational and descriptive study developed in the clinics of the Hospital das Clínicas, Faculty of Medicine of Ribeirão Preto - USP, through interviews with mothers of children awaiting medical care. We used a questionnaire with questions concerning to child (age, gender, followup time in service), to mother (age, educational level and marital status) and to relationship with the physician, understanding the guidelines, positives and negative attention and suggestions. The study was approved by the Research Ethics Committee of the Hospital of the Faculty of Medicine of Ribeirão Preto, University of São Paulo. Results: 118 mothers participated median age was 32 years, 53.3% married and 22.8% unmarried. Among children, 57.6% were female and 42.3% male. The median educational level of the mothers indicated a high school degree and the mean follow-up in outpatient clinics was 2 years and 1 month. 50% of mothers reported that the technical terminology was the main cause of the difficulty of understanding during the consultation, 34.7% highlighted the attention given by the doctor as the biggest positive, while 57,6% pointed out that the delay was the main negative factor during service. Conclusions: the difficulties of communication between doctor and patient and the host were considered important in the care offered by the university hospital, and should be part of the working professional context.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112588</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p425-430</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 425-430</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 425-430</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 425-430</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112588/110489</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112589</identifier>
+        <datestamp>2020-06-25T16:03:54Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Síndrome de fragilidade em idosos da comunidade: características socioeconômicas e de saúde - um estudo observacional</dc:title>
+          <dc:title xml:lang="en-US">Frailty in elderly community: socioeconomic and health characteristics – an observational study</dc:title>
+          <dc:creator>Buranello, Mariana C.</dc:creator>
+          <dc:creator>Pegorari, Maycon S.</dc:creator>
+          <dc:creator>Castro, Shamyr S. de</dc:creator>
+          <dc:creator>Patrizzi, Lislei J.</dc:creator>
+          <dc:subject xml:lang="en-US">Aging. Frail Elderly</dc:subject>
+          <dc:subject xml:lang="en-US">Frailty. Health Status. Socioeconomic Factors</dc:subject>
+          <dc:subject xml:lang="pt-BR">Envelhecimento. Idoso Fragilizado. Fragilidade. Nível de Saúde. Fatores Socioeconômicos</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Transversal, observacional e analítico. Objetivo: Verificar a associação da síndrome de fragilidade com as condições socioeconômicas e de saúde em idosos residentes na comunidade. Metodologia: Amostra composta por 54 idosos adscritos à Equipe Saúde da Família do município de Uberaba/MG. A coleta de dados consistiu na avaliação do estado cognitivo, variáveis socioeconômicas, percepção de saúde, morbidades, número de medicamentos e fenótipo de fragilidade, categorizados em não frágil (GN) (nenhum item do fenótipo), pré-frágil (GP) (dois itens do fenótipo) e frágil (GF) (três ou mais itens do fenótipo). Resultados: Constatou-se que 11,1% dos idosos eram frágeis, 46,3% pré-frá- geis e 42,6% não frágeis. Não houve diferença significativa para as variáveis socioeconômicas e de saúde entre os grupos, exceto para a maior proporção do número de medicamentos no grupo frágil quando comparado ao pré-frágil e não frágil (p&amp;lt;0,0028). O GF apresentou maior percentual de mulheres, sem escolaridade, viúvos e que moravam com filhos; enquanto que no GP observou-se que a maioria pertencia à faixa etária de 75 anos e mais, 1 a 4 anos de escolaridade e renda de até 1 salário mínimo. Conclusões: O consumo de medicamentos foi maior para os idosos frágeis, indicando a necessidade de atenção especial a essa característica, dado o perfil apresentado. Além disso, os achados da pesquisa ressaltam a relevância dos componentes socioeconômicos e de saúde do idoso em condição de fragilidade&amp;gt;&amp;lt;0,0028). O GF apresentou maior percentual de mulheres, sem escolaridade, viúvos e que moravam com filhos; enquanto que no GP observou-se que a maioria pertencia à faixa etária de 75 anos e mais, 1 a 4 anos de escolaridade e renda de até 1 salário mínimo. Conclusões: O consumo de medicamentos foi maior para os idosos frágeis, indicando a necessidade de atenção especial a essa característica, dado o perfil apresentado. Além disso, os achados da pesquisa ressaltam a relevância dos componentes socioeconômicos e de saúde do idoso em condição de fragilidade.</dc:description>
+          <dc:description xml:lang="en-US">Study design: Cross-sectional, observational and analytical study. Objective: To investigate the association between frailty syndrome with socioeconomic and health conditions in elderly community residents. Material and Methods: A sample of 54 elderly ascribed to the Family Health Team of Uberaba/MG. Data collection consisted of the evaluation of cognitive status, record of socioeconomic, health perception, morbidities, number of medications and the frailty phenotype, categorized into non-frail (GN) (no items of the phenotype), pre-frail (GP) (two items of the phenotype) and frail (GF) (three or more items of the phenotype). Results: 11.1% of the group was classified as frail, 46.3% as pre-frail and 42.6% as non frail. There was no significant difference for the socioeconomic and health variables between groups. However, the frail group had lower education and income, greater number of morbidities and predominantly female. The use of drugs was statistically higher in the frail group compared to pre-frail and non frail with 100% of the frail group consuming 3 or more medications. Conclusions: Drug consumption was higher for the frail elderly, indicating the need for special attention to this characteristic, given the different consumption profile shown. Furthermore, the findings of the study emphasize the importance of social components in elderly health impact seen in frailty condition</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112589</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p431-439</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 431-439</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 431-439</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 431-439</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112589/110490</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112590</identifier>
+        <datestamp>2020-06-25T16:03:53Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Jalecos de trabalhadores de saúde: um potencial reservatório de microrganismos</dc:title>
+          <dc:title xml:lang="en-US">Healthcare workers coats: a potential reservoir of microorganisms</dc:title>
+          <dc:creator>Oliveira, Adriana C. de</dc:creator>
+          <dc:creator>Silva, Marlene das Dores M.</dc:creator>
+          <dc:subject xml:lang="en-US">Cross Infection. Clothing. Health Personnel.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infecção Hospitalar. Vestuário. Trabalhadores de saúde.</dc:subject>
+          <dc:description xml:lang="en-US">The objective was to determine the epidemiological characteristics of microorganisms present in the healthcare workers coats in a large hospital. It was a cross-sectional study carried out from January to August 2011. The samples were obtained by swabs from the pocket and abdominal region of professionals’ coats. Data were analyzed by descriptive statistics and chi-square test. The study included 100 professionals. We obtained 200 samples of coats. Of these 47% were positive with microbial growth, 73.6% showed resistance to one or more antimicrobials being 55.7% in the pockets and 44.3% in the abdominal region. The most important was the recovery of Staphylococcus spp in the two analyzed areas with resistance to various antibiotics, including oxacillin. The highest contamination was observed between nursing professionals coats (p &amp;lt;0.05) The coat of healthcare workers can become contaminated by microorganisms of epidemiological relevance, contributing to the potential spread of pathogens between patients and different environments.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivou-se determinar as características epidemiológicas de microrganismos presentes nos jalecos de trabalhadores de saúde em um hospital de grande porte. Tratou-se de um estudo transversal conduzido no período de janeiro a agosto de 2011. Realizou-se a rolagem de swabs no bolso e região do abdômen do jaleco. Foi realizada estatística descritiva e teste qui-quadrado de Pearson. Participaram do estudo 100 profissionais. Foram obtidas 200 amostras dos jalecos. Dessas 47% foram positivas com crescimento microbiano, 73,6% apresentaram resistência a um ou mais antimicrobiano sendo 55,7% nos bolsos e 44,3% na região abdominal. A recuperação do Staphylococcus ssp nas duas áreas analisadas com resistência a vários antimicrobianos, dentre eles a oxacilina mereceu destaque. A maior contaminação foi verificada entre jalecos dos profissionais de enfermagem (p &amp;lt;0.05). Os jalecos de trabalhadores de saú- de podem tornar-se contaminados por microrganismos de relevância epidemiológica, contribuindo, para a possível disseminação de patógenos entre diferentes pacientes e ambientes.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112590</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p440-448</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 440-448</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 440-448</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 440-448</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112590/110491</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112591</identifier>
+        <datestamp>2020-06-25T16:03:52Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Auditory processing: time markers for hearing ability</dc:title>
+          <dc:title xml:lang="pt-BR">Processamento auditivo: marcadores de tempo por habilidade auditiva</dc:title>
+          <dc:creator>Deveikis, Marcela B.</dc:creator>
+          <dc:creator>Mantello, Erika B.</dc:creator>
+          <dc:creator>Mandrá, Patricia P.</dc:creator>
+          <dc:creator>Isaac, Myriam L.</dc:creator>
+          <dc:creator>Castro, Monica P.</dc:creator>
+          <dc:creator>Reis, Ana Cláudia M. B.</dc:creator>
+          <dc:subject xml:lang="en-US">Auditory Perception. Rehabilitation. Hearing. Auditory Perceptual Disorders</dc:subject>
+          <dc:subject xml:lang="pt-BR">Percepção Auditiva. Reabilitação. Audição. Transtornos da Percepção Auditiva</dc:subject>
+          <dc:description xml:lang="en-US">Model of study: descriptive study and cross. Purpose: to characterize the acquisition time of each hearing ability worked with children diagnosed with Disturbance of Central Auditory Processing, school age, from a speech therapy program pre-established, which lasted 20 sessions. Methods: participated in speech therapy 8 patients aged seven to nine years, school age, in a public school. For the analysis of the data set as a criterion for participation, the individual who completed at least 16 sessions of therapy, or one that reached the proposed objectives (adequacy of skills) in fewer sessions. For each session, which occurred weekly, lasting 40 minutes each, was conducted cursive record the child’s performance for each of the skills worked (location, discrimination, recognition, figure-ground/closing, comprehension e memory). Subsequently, we performed a descriptive content analysis of similarity between the skills. In the record was marked session considered the end of the activity, that is, the acquisition of skill. Results: the number of sessions held by the study subjects ranged from 10 to 20 sessions and the average length of sessions for each skill acquisition of auditory worked varied from three to 16 sessions. Conclusion: it was possible to observe adequacy in auditory skills in all subjects of the group, with a range of time worked for each skill. Studies with larger samples are essential to achieve time markers for the acquisition of auditory skills in this population segment.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo de estudo: estudo descritivo e transversal. Objetivo do estudo: caracterizar o tempo de aquisi- ção de cada habilidade auditiva trabalhada em crianças diagnosticadas com Distúrbio do Processamento Auditivo Central, em idade escolar, a partir de um programa de intervenção fonoaudiológica pré-estabelecido, com duração máxima de 20 sessões. Metodologia: foram selecionados, para a intervenção fonoaudiológica, 8 indivíduos na faixa etária de sete a nove anos, em idade escolar, de uma escola pública e que completasse, no mínimo, 16 sessões de terapia, ou, ainda, aquele que atingisse os objetivos propostos (adequação das habilidades) em menor número de sessões. Para cada sessão, que ocorreu semanalmente, com duração de 40 minutos, foi realizado registro cursivo do desempenho da crian- ça, para cada uma das habilidades trabalhadas (localização, discriminação, reconhecimento, figura-fundo/ fechamento, compreensão e memória). Posteriormente, foi realizada análise do conteúdo descritivo por semelhança entre as habilidades. No registro, foi assinalada a sessão considerada como término da atividade, isto é, a aquisição da habilidade. Resultados: o número de sessões realizadas pelos indivíduos do estudo variou de 10 a 20 sessões, sendo que o tempo médio de sessões para a aquisição de cada habilidade auditiva trabalhada oscilou entre três e 16 sessões. Conclusões: foi possível observar adequação das habilidades auditivas em todos os indivíduos do estudo, com variação de tempo para cada habilidade trabalhada. Estudos com maior casuística são fundamentais para que se alcancem marcadores de tempo para aquisição de habilidades auditivas, nesse segmento populacional.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112591</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p449-456</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 449-456</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 449-456</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 449-456</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112591/110492</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112592</identifier>
+        <datestamp>2020-06-25T16:03:51Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Aptidão física e nível habitual de atividade física associados à saúde cardiovascular em adultos e idosos</dc:title>
+          <dc:title xml:lang="en-US">Physical fitness and habitual level of physical activity associated with cardiovascular health in adults and elderly</dc:title>
+          <dc:creator>Trapé, Átila A.</dc:creator>
+          <dc:creator>Lizzi, Elisangela A. S. S.</dc:creator>
+          <dc:creator>Jacomini, André M.</dc:creator>
+          <dc:creator>Hott, Sara C.</dc:creator>
+          <dc:creator>Bueno Júnior, Carlos R.</dc:creator>
+          <dc:creator>Zago, Anderson S.</dc:creator>
+          <dc:subject xml:lang="en-US">Physical Fitness. Motor Activity. Cardiovascular Diseases. Aging. Exercise</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aptidão Física. Atividade Motora. Doenças Cardiovasculares. Envelhecimento. Exercício.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: Transversal Fundamento: O nível habitual de atividade física (NHAF) vem sendo utilizado para estabelecer uma relação entre estilo de vida ativo e saúde cardiovascular. No entanto, a avaliação da aptidão física permitiria a avaliação real das condições físicas do indivíduo, podendo assim apresentar melhores relações com a saúde cardiovascular. Objetivos: Relacionar o NHAF e aptidão física com a saúde cardiovascular de adultos e idosos e verificar a associação da prática regular de exercícios físicos supervisionada com os diferentes níveis de aptidão física. Método: Foram avaliados 213 adultos e idosos (&amp;gt; 50 anos) participantes de projetos comunitários. Os participantes realizaram as seguintes avaliações: NHAF por meio do questionário IPAQ, aptidão física por meio de uma bateria de testes motores que permitiu o cálculo do Índice de Aptidão Funcional Geral (IAFG), pressão arterial, perfil lipídico e índice de massa corporal. Resultados: O modelo linear generalizado evidenciou um maior número de diferenças com relação às variáveis relacionadas à saúde cardiovascular quando os participantes foram subdivididos em grupos tendo o IAFG como variável independente, comparado ao NHAF. O teste exato de Fisher evidenciou que os grupos de IAFG classificados como “bom” e “muito bom” apresentaram maior proporção de indivíduos com prática regular de exercícios físicos superior a 6 meses, com destaque para um maior número realizando a prática com supervisão (p &amp;lt; 0,0001). Conclusão: O IAFG apresenta melhor associação com a saúde cardiovascular do que o NHAF e o tempo de prática e a supervisão estão associados ao nível de aptidão física</dc:description>
+          <dc:description xml:lang="en-US">Study design: cross-sectional Background: The habitual level of physical activity (HLPA) has been used to establish the relation between active lifestyle and cardiovascular health. However, the assessment of physical fitness would review the actual physical condition of the individual, and thus can have better relations with cardiovascular health. Objectives: Relate HLPA and physical fitness with cardiovascular health of adults and elderly and to verify the association of supervised regular physical exercise with different levels of fitness. Method: 213 adults and elderly (&amp;gt; 50 years) participating in community projects were evaluated. The HLPA were assessed by the IPAQ and physical fitness through a battery of motor tests that allowed the calculation of the General Functional Fitness Index (GFFI). Blood pressure, lipid profile and body mass index were considered as indicators of cardiovascular health. Results: The generalized linear model showed a greater number of differences with respect to variables related to cardiovascular health when participants were subdivided having GFFI as an independent variable, compared to HLPA. The Fisher exact test showed that the groups GFFI classified as “good” and “very good” showed a higher proportion of individuals with regular practice for more than 6 months exercise, especially for a larger number performing the practice under supervision (p &amp;lt; 0,0001). Conclusion: The GFFI has better association with cardiovascular health than HLPA and time of practice and supervision are associated with the level of physical fitness</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112592</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p457-466</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 457-466</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 457-466</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 457-466</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112592/110493</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112595</identifier>
+        <datestamp>2020-06-25T16:03:50Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Práticas de utilização e perfil de contaminação microbiológica de jalecos em escola médica</dc:title>
+          <dc:title xml:lang="en-US">Use practices and profile of microbiological contamination of lab coats in medical school</dc:title>
+          <dc:creator>Scheidt, Katia Liberato S.</dc:creator>
+          <dc:creator>Ribeiro, Rachel L.</dc:creator>
+          <dc:creator>Araújo, Augusto Righetti V. F. de</dc:creator>
+          <dc:creator>Chagas, Geórgia Marielle S.</dc:creator>
+          <dc:creator>Carneiro, Marianna S.</dc:creator>
+          <dc:creator>Canuto, Rubens</dc:creator>
+          <dc:creator>Corbelli, Camila Cecilia O.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Jaleco. Biossegurança. Contaminação</dc:subject>
+          <dc:subject xml:lang="en-US">Lab Coat. Biosafety. Contamination</dc:subject>
+          <dc:description xml:lang="en-US">The coats are a potential microbiological transmission means and its misuse brings risks to health professionals and population. The goal of this study was to know the usage practices and the profile of contamination of the smock worn by professors and students of the University Center Serra dos Órgãos (UNIFESO). It is a quantitative study, cross-sectional and exploratory. Respecting ethical principles, a questionnaire on the use of the white coat was applied and the microbiological analysis was held. The data were analyzed manually, expressed in percentages and demonstrated through tables. As a result, 73 (seventy-three) coats studied showed varied flora and predominance of Gram-positive cocci. The region of the wrist, the most contaminated, presented a UFC 23 average per field. As for the usage profile, the majority, 42, (57%) are between the ages of 18 and 25 years, 46 (63%) are female, 32 (44%) are medical students in the 3rd term and only 13 (18%) are professors. On the frequency of changing of lab coat, 35 (48%) change it once a week, however with inappropriate handling. After use, 36 (49%) do not wash the coat separately, 43 (58%) do not use disinfectant products, 54 (73%) use ironing as an additional measure against microbiological contamination. It is concluded that there is imperious need for awareness of scholars and professors of appropriate use/handling of the lab coat and the importance of clothing in the epidemiology of infections intra/extra health care environment.</dc:description>
+          <dc:description xml:lang="pt-BR">Os jalecos são um veículo potencial de transmissão microbiológica e seu uso inadequado traz riscos à saúde de profissionais e da população. O objetivo deste estudo foi o de conhecer as práticas de utiliza- ção e o perfil de contaminação dos jalecos brancos usados como uniforme por docentes e discentes do Centro Universitário Serra dos Orgãos (UNIFESO). Trata-se de um estudo quantitativo, transversal e exploratório. Respeitados os princípios éticos, aplicou-se questionário sobre o modo de uso e se realizou a análise microbiológica. Os dados foram analisados de forma manual, expressos em percentuais e demonstrados por meio de tabelas. Como resultado, 73 (setenta e três) jalecos estudados apresentaram variada flora, com predomínio de cocos Gram positivos. A região do punho, a mais contaminada, apresentou em média 23 UFC por campo. Quanto ao perfil de uso, a maioria, 42, (57%) tem idade entre 18 e 25 anos, 46 (63%) são do sexo feminino, 27 (37%) são acadêmicos de medicina do 3o período e apenas 13 (18%) são docentes. Sobre a frequência de troca do jaleco, 35 (48%) trocam uma vez por semana, entretanto com inadequado manuseio. Após uso, 36 (49%) não lavam o jaleco separadamente, 43 (58%) não usam produto desinfetante e 54 (73%) utilizam a passagem a ferro como medida complementar de contenção microbiológica. Conclui-se que há imperiosa necessidade de conscientização dos acadêmicos e docentes sobre adequados uso e manuseio do jaleco e importância da vestimenta na epidemiologia das infecções intra e extra-ambientes da saúde</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112595</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p467-77</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 467-77</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 467-77</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 467-77</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112595/110494</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112597</identifier>
+        <datestamp>2020-06-25T16:03:49Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Sexual dysfunction in endometriosis: a systematic review</dc:title>
+          <dc:title xml:lang="pt-BR">Disfunção sexual em endometriose: uma revisão sistemática</dc:title>
+          <dc:creator>Marqui, Alessandra B. Trovó de</dc:creator>
+          <dc:creator>Silva, Maria Paula C.</dc:creator>
+          <dc:creator>Irie, Gabriela R. F.</dc:creator>
+          <dc:subject xml:lang="en-US">Sexual Dysfunction</dc:subject>
+          <dc:subject xml:lang="en-US">Physiological. Endometriosis. Risk Factors. Sexuality. Women’s Health.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Disfunção Sexual Fisiológica. Endometriose. Fatores de Risco. Sexualidade. Saúde da Mulher</dc:subject>
+          <dc:description xml:lang="pt-BR">Este estudo teve como objetivo avaliar a função sexual das pacientes com endometriose, bem como a participação de fatores de risco. Foi realizada uma pesquisa bibliográfica no PubMed, em março de 2014, empregando os seguintes descritores: quality of sex life and endometriosis, sexual life and endometriosis, female sexual dysfunction and endometriosis e sexual functioning and endometriosis. Foram encontrados 152 artigos e de acordo com os critérios de inclusão e exclusão previamente estabelecidos, 20 foram selecionados. Treze estudos investigaram a contribuição do tratamento na disfunção sexual feminina. Ansiedade e depressão são fatores que também influenciam a função sexual, mas foram investigadas em apenas três estudos. As pacientes com endometriose exibem comprometimento da função sexual e, portanto, a investigação sobre sua vida sexual deve ser averiguada, tendo em vista os prejuízos causados pela disfunção na qualidade de vida das mulheres.</dc:description>
+          <dc:description xml:lang="en-US">This study aimed to evaluate the sexual function of patients with endometriosis, as well as the involvement of risk factors. A literature search was performed in PubMed, in March 2014, using the following key words: quality of sex life and endometriosis, sexual life and endometriosis, female sexual dysfunction and endometriosis e sexual functioning and endometriosis.152 articles were found, according to the inclusion and exclusion criteria previously established, 20 were selected. Thirteen studies investigated the contribution of treatment in female sexual dysfunction. Anxiety and depression are factors that also influence sexual function, but has been investigated in only three studies. Patients with endometriosis exhibit impaired sexual function and, therefore, research into your sex life should be investigated, in view of the damage caused by dysfunction in the quality of life of women.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112597</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p478-490</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 478-490</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 478-490</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 478-490</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112597/110495</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112600</identifier>
+        <datestamp>2020-06-25T16:03:48Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Effectiveness of transcutaneous electrical diaphragmatic stimulation on respiratory muscle strength, lung volumes and capacities: a systematic review</dc:title>
+          <dc:title xml:lang="pt-BR">Efetividade da estimulação diafragmática elétrica transcutânea na força muscular respiratória, volumes e capacidades pulmonares: revisão sistemática</dc:title>
+          <dc:creator>Ferreira, Lucas Lima</dc:creator>
+          <dc:creator>Mello, Juliana R. C.</dc:creator>
+          <dc:creator>Brito, Marcus Vinicius C.</dc:creator>
+          <dc:creator>Cavenaghi, Odete Maud</dc:creator>
+          <dc:subject xml:lang="pt-BR">Modalidades de Fisioterapia. Estimulação Elétrica. Diafragma. Terapia Respiratória</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Modalities.. Electrical Stimulation. Diaphragm. Respiratory Therapy</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: Transcutaneous electrical diaphragmatic stimulation (TEDS) is to stimulate the diaphragm, through rhythmic electrical stimulation short promoting a negative pleural pressure that can influence both the ventilation and in venous return and cardiac output, representing another important tool for respiratory therapy. Objective: To analyze the outcomes of the application of TEDS on respiratory muscle strength and lung volumes and capacities. Methods: Through a systematic review of the literature, clinical trials published between 2003 and 2013 were analyzed The search involved the LILACS, SciELO, MEDLINE and PEDro database, using the keywords diaphragm, respiratory muscles and physical therapy crossed with the descriptor electrical stimulation. Results: Six studies totaling 105 subjects, aged between 20 and 75 years and showed that the use of TEDS caused a significant increase (p &amp;lt;0,05) in maximal inspiratory pressure (MIP) and maximal expiratory pressure were included maximum (MEP), tidal volume (VT) and the volumes of inspiratory and expiratory reserve. Conclusion: The TEDS promotes an increase in respiratory muscle strength and in some lung volumes in healthy subjects and / or patients with chronic diseases or post-operative recovery.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: A estimulação diafragmática elétrica transcutânea (EDET) consiste em estimular o diafragma, por meio de estímulos elétricos rítmicos de curta duração promovendo uma pressão intrapleural negativa que pode influenciar tanto na ventilação pulmonar quanto no retorno venoso e no débito cardí- aco, representando mais uma importante ferramenta para a fisioterapia respiratória. Objetivo: Analisar os desfechos da aplicação da EDET na força muscular respiratória e nos volumes e capacidades pulmonares. Métodos: Por meio de uma revisão sistemática da literatura, foram analisados ensaios clínicos publicados entre 2003 e 2013. A busca envolveu as bases de dados LILACS, SciELO, MedLine e PEDro, usando os descritores “diaphragm”, “respiratory muscles” e “physical therapy” em cruzamento com o descritor “electrical stimulation”. Resultados: Foram incluídos 6 estudos, que somaram 105 indivíduos, com idade variando entre 20 e 75 anos, e que demonstraram que a utilização da EDET causou incremento significativo (p &amp;lt;0,05) da pressão inspiratória máxima (PImáx) e da pressão expiratória máxima (PEmáx), do volume corrente (VC) e dos volumes de reserva inspiratório e expiratório. Conclusão: A EDET promove aumento na força muscular respiratória e em alguns volumes pulmonares, em indivíduos saudáveis e/ ou pacientes com doenças crônicas ou em pós-operatório de cirurgias.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112600</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p491-500</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 491-500</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 491-500</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 491-500</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112600/110497</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112601</identifier>
+        <datestamp>2020-06-25T16:03:47Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Capacidade de exercício e função pulmonar de escolares com história de displasia broncopulmonar: revisão sistemática</dc:title>
+          <dc:title xml:lang="en-US">Exercise capacity and pulmonary function of school age children with a history of bronchopulmonary dysplasia: a systematic review</dc:title>
+          <dc:creator>Scalco, Janaina C.</dc:creator>
+          <dc:creator>Medeiros, Daiane L. de</dc:creator>
+          <dc:creator>Schivinski, Camila I. S.</dc:creator>
+          <dc:subject xml:lang="en-US">Bronchopulmonary Dysplasia. Lung Diseases. Respiratory Function Tests. Exercise Tolerance. Child. Adolescent</dc:subject>
+          <dc:subject xml:lang="pt-BR">Displasia Broncopulmonar. Doenças Pulmonares. Testes de Função Respiratória. Tolerância ao Exercício. Criança. Adolescente</dc:subject>
+          <dc:description xml:lang="en-US">Bronchopulmonary dysplasia (BPD) is a chronic respiratory disease accused by the need of oxygen and / or mechanical ventilation in the neonatal period. The resulting lung injury of BPD may lead to changes in lung function, with flow limitation and increased airway resistance, which may persist throughout childhood and adolescence to adulthood. Objective: conduct a systematic review studies that evaluated lung function and exercise capacity in school-age children with BPD. Method: we performed systematic searches of three electronic databases Scielo, PEDro and MEDLINE Ovid, being selected articles published up to january 2014. That assessed pulmonary function and exercise capacity in school-age children with bronchopulmonary dysplasia. Results: through the search strategies 376 titles related to the topic were found, after analysis of the inclusion criteria, only five were selected to compose the final sample. Conclusion: children with a history of BPD have variable airflow obstruction at school age and can reach lower maximal values of oxygen, minute volume and tidal volume during exercise. Still, there is no influence lung function on exercise capacity in this population</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: a displasia broncopulmonar (DBP) é uma doença respiratória crônica decorrente da necessidade de oxigênio e/ou ventilação mecânica no período neonatal. A lesão pulmonar decorrente da DBP pode levar a alterações na função pulmonar, com limitação do fluxo e aumento da resistência das vias aéreas, que perduram durante a infância e adolescência. Objetivo: realizar uma revisão sistemática de estudos que avaliaram a função pulmonar e a capacidade de exercício de escolares com DBP. Método: realizadas buscas sistematizadas em três bases de dados eletrônicas SciELO, PEDro e MEDLINE via Ovid, sendo selecionados artigos publicados até janeiro de 2014 que avaliaram tanto a função pulmonar como a capacidade de exercício em escolares com DBP. Resultados: através das estratégias de busca foram encontrados 376 títulos relacionados ao tema. Após análise dos critérios de inclusão, apenas cinco trabalhos foram selecionados para compor amostra final. Conclusões: crianças com história de DBP apresentam variável obstrução ao fluxo aéreo em idade escolar e podem atingir menores valores de consumo máximo de oxigênio, volume minuto e volume corrente durante o exercicio. Ainda assim, a função pulmonar parece não influenciar a capacidade de exercício nesta população</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112601</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p501-511</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 501-511</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 501-511</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 501-511</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112601/110499</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112602</identifier>
+        <datestamp>2020-06-25T16:03:46Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Melanoma ungueal e vitiligo: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Ungueal melanoma and vitiligo: case report</dc:title>
+          <dc:creator>Oliveira, Ciléia I.C.</dc:creator>
+          <dc:creator>Alcântara, Cid C.S.</dc:creator>
+          <dc:creator>Lea, Fernanda N. M.</dc:creator>
+          <dc:creator>Okoba, Willy</dc:creator>
+          <dc:subject xml:lang="pt-BR">Melanoma. Vitiligo. Nail Diseases. Recurrence.</dc:subject>
+          <dc:subject xml:lang="en-US">Melanoma. Vitiligo. Nail Diseases. Recurrence</dc:subject>
+          <dc:description xml:lang="en-US">Subungual melanoma is a rare clinical entity of melanoma. It usually involves an unsuspecting lesion in the thumb or big toe, thus late diagnosis. Majority of patients are middle-aged or older, usually of dark skin ethnicity. The association between melanoma and vitiligo has been described for over 50 years, showing increased survival rates in affected patients suggesting immune response to melanoma. The objective of this report is to describe a clinical case of nail melanoma, presenting as enlargened unilateral inguinal lymph node associated with rapid and progressive vitiligo. However, investigations proved late diagnosis, with subsequent progression of the disease</dc:description>
+          <dc:description xml:lang="pt-BR">O melanoma ungueal é uma forma de apresentação rara do melanoma. É frequente o diagnóstico tardio. Geralmente afeta polegar ou hálux e a maioria dos pacientes é de meia idade ou idosos de pele escura. A associação entre melanoma e vitiligo é tem sido descrita há mais de 50 anos e os pacientes acometidos tem apresentado maior sobrevida sugerindo resposta imune ao melanoma. O objetivo deste relato é descrever um caso de melanoma ungueal com surgimento de linfonodo inguinal e vitiligo associado diagnosticado tardiamente com posterior evolução para doença sistêmica</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112602</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p512-517</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 512-517</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 512-517</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 512-517</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112602/110500</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/112625</identifier>
+        <datestamp>2020-06-25T16:03:46Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Sarcoma de Ewing/Pnet primário pré-sacral: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Ewing Sarcoma/Pnet pre-sacral: case report</dc:title>
+          <dc:creator>Batistão, Guilherme T.</dc:creator>
+          <dc:creator>Tiezzi, Giovana F. M.</dc:creator>
+          <dc:creator>Salge, Ana Karina M.</dc:creator>
+          <dc:creator>Abate, Débora T.R.S.</dc:creator>
+          <dc:creator>Olegário, Janainna G. P.</dc:creator>
+          <dc:creator>Silva Junior, Edgar L. da</dc:creator>
+          <dc:creator>Pereira, Antônio P.</dc:creator>
+          <dc:creator>Padulla, Susimary A. T.</dc:creator>
+          <dc:creator>Silva, Renata C.Rossi e</dc:creator>
+          <dc:subject xml:lang="pt-BR">Sarcoma de Ewing. Diagnóstico por Imagem. Immunohistochemistry.</dc:subject>
+          <dc:subject xml:lang="en-US">Sarcoma</dc:subject>
+          <dc:subject xml:lang="en-US">Ewing. Diagnostic Imaging. Imuno-Histoquímica.</dc:subject>
+          <dc:description xml:lang="en-US">Ewing’s sarcoma is a type of bone tumor that has aggressive behavior, which mainly affects individuals below 30 years and predominantly in males. The family of tumors includes Ewing a spectrum of neuroectodermal of primitive cells tumors which are embryonic cells migrating from the neural crest. In this report we present a male patient, 19 years, admitted to the emergency room with back pain, weakness of the lower limbs, difficulty urinating and right femur fracture a year ago. Requested magnetic resonance imaging of the pelvis and lumbosacral spine showed a presacral mass lesion and extramedullary and intradural lesions. Patient has been subjected to the pathological examination that showed Ewing’s sarcoma / primitive neuroectodermal tumor. Surgery for spinal decompression and subsequent radiotherapy and chemotherapy have been conducted.</dc:description>
+          <dc:description xml:lang="pt-BR">O sarcoma de Ewing é um tipo de tumor ósseo, de comportamento agressivo, que acomete principalmente indivíduos abaixo dos 30 anos e com predomínio no sexo masculino. A família de tumores de Ewing compreende um espectro de neoplasias de células neuroectodérmicas primitivas as quais são células embrionárias que migram da crista neural. Neste relato apresenta-se paciente do sexo masculino, 19 anos, admitido na emergência com quadro de lombalgia, fraqueza de membros inferiores, dificuldade de urinar e fratura de fêmur direito há um ano. Solicitada ressonância magnética da pelve e coluna lombosacra que evidenciaram lesão expansiva pré-sacral e lesões extramedulares e intradurais. Paciente submetido a exame anatomopatológico que evidenciou sarcoma de Ewing/Tumor Neuroectodérmico Primitivo. Realizado tratamento cirúrgico para descompressão medular e posterior radioterapia e quimioterapia</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-10-21</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/112625</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i5p518-522</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 5 (2015); 518-522</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 5 (2015); 518-522</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 5 (2015); 518-522</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/112625/110501</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114908</identifier>
+        <datestamp>2020-06-25T16:03:34Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Efeito agudo do exercício aeróbio em diferentes intensidades no transporte mucociliar de pacientes com DPOC</dc:title>
+          <dc:title xml:lang="en-US">Acute effect of aerobic exercise in different intensities in mucociliary clearance of patients with COPD</dc:title>
+          <dc:creator>Leite, Marceli R.</dc:creator>
+          <dc:creator>Ramos, Ercy Mara C.</dc:creator>
+          <dc:creator>Freire, Ana Paula C. F.</dc:creator>
+          <dc:creator>Silva, Bruna S. de Alencar</dc:creator>
+          <dc:creator>Nicolino, Juliana</dc:creator>
+          <dc:creator>Toledo, Alessandra C. de</dc:creator>
+          <dc:creator>Vanderle, Luiz Carlos M.</dc:creator>
+          <dc:creator>Ramos, Dionei</dc:creator>
+          <dc:subject xml:lang="en-US">Aerobic Treatment. Exercise Therapy. Pulmonary Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Chronic Obstructive. Mucociliary Clearance</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tratamento Aeróbio. Terapia por Exercício. Doença Pulmonar Obstrutiva Crônica. Depuração Mucociliar</dc:subject>
+          <dc:description xml:lang="en-US">Design of the Study: Clinical Trial. Objective (s): To analyze the acute effect of aerobic exercise at different intensities in mucociliary clearance in patients with COPD, and to investigate possible associations of the autonomic nervous system in this response. Methods: 22 COPD patients underwent an initial evaluation for collecting personal data and spirometry to assess lung function. It was performed a progressive treadmill test for aerobic exercise prescription. Finally two randomized sessions of aerobic exercise with intensity of 60 % and 90 % of peak speed reached during the incremental test ( vVO2peack ) were performed with at least 24 hours of rest between them. The mucociliary clerance was assessed before and after the exercise sessions by testing the saccharin transit time (STT). Assessment of autonomic modulation was performed by heart rate variability (HRV) which continued throughout the protocol. Results: The values obtained in the STT test after aerobic exercise at 60 % of vVO2peack (9,08 minutes ± 4,96 ) was lower when compared to the STT before exercise ( 11,96 ± 6,31, p = 0,005 ) . That response also occurred after aerobic exercise at 90% of vVO2peack ( 8,90 ± 4,21 min ) compared to baseline ( 12,94 ± 7,22 , p = 0,023 ). Correlation analysis between the final values of STT test and HRV indexes did not show significant differences. Conclusions: Patients with COPD showed acceleration of mucociliary clerance right after a session of aerobic exercise. It was not possible to observe the association of autonomic modulation in this response</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: Experimental. Objetivo(s) do estudo: Analisar o efeito agudo do exercício aeróbio em diferentes intensidades no transporte mucociliar de pacientes com DPOC, bem como investigar possíveis associações do sistema nervoso autônomo nesta resposta. Metodologia: Foram analisados 22 pacientes com DPOC que realizaram avaliação inicial para coleta de dados pessoais e espirometria a fim de avaliar a função pulmonar. Realizou-se um teste progressivo em esteira ergométrica para prescrição do exercício aeróbio. Por fim foram realizadas duas sessões de exercício aeróbio randomizadas em esteira ergométrica com intensidade de 60% e 90% do pico da velocidade atingida no teste incremental (vVO2pico) com pelo menos 24 horas de descanso entre elas. O transporte mucociliar foi avaliado antes e após realização do exercício por meio do teste do tempo de trânsito da sacarina (TTS). A avaliação da modulação autonômica foi realizada por meio da variabilidade da frequência cardíaca (VFC) a qual prosseguiu durante todo o protocolo. Resultados: Os valores obtidos no teste de TTS dos pacientes com DPOC após exercício aeróbio a 60% da vVO2pico (9,08 ± 4,96 minutos) foi menor comparado ao TTS antes do exercício (11,96 ± 6,31; p = 0,005). O que também ocorreu após exercício aeróbio a 90% da vVO2pico (8,90 ± 4,21 minutos) quando comparado ao momento basal (12,94 ± 7,22; p = 0,023). As análises de correlação entre os valores finais de TTS e índices da VFC não apontaram diferenças significativas. Conclusões: Pacientes com DPOC apresentaram aceleração da transportabilidade mucociliar frente a uma sessão de exercício aeróbio. Não foi possível observar associação da modulação autonômica nesta resposta após o exercício</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114908</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p523-532</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 523-532</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 523-532</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 523-532</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114908/112623</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114912</identifier>
+        <datestamp>2020-06-25T16:03:34Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Reduction of joint nociception induced by formalin in rats treated ith low level laser therapy 670 or 830 nm</dc:title>
+          <dc:title xml:lang="pt-BR">Redução da nocicepção articular induzida pela formalina em ratos tratados com laser de baixa potência 670 ou 830 nm</dc:title>
+          <dc:creator>Karvat, Jhenifer</dc:creator>
+          <dc:creator>Kakihata, Camila M. M.</dc:creator>
+          <dc:creator>Malanotte, Jéssica A.</dc:creator>
+          <dc:creator>Pelissar, Daniele</dc:creator>
+          <dc:creator>Escher, Assis R.</dc:creator>
+          <dc:creator>Bertolini, Gladson R. F.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Terapia a Laser de Baixa Intensidade . Medição da Dor. Sinovite. Modalidades de Fisioterapia</dc:subject>
+          <dc:subject xml:lang="en-US">Laser Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Low-Level . Pain Measurement . Synovitis. Physical Therapy Modalities</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: estudo experimental, de caráter transversal. Objetivo: avaliar os efeitos do laser de baixa potência (LBP), com comprimento de onda de 670nm e 820nm, na nocicepção de ratos Wistar submetidos à hipernocicepção articular no joelho direito. Metodologia: foram utilizados 18 ratos Wistar, separados em 3 grupos: G1 – não tratados; G2 – tratados com LBP 670 nm; G3 – tratados com LBP 830 nm. Para a indução da hipernocicepção foi injetado no espaço articular tíbio-femoral 100 µL de formalina 5%. Para avaliar a nocicepção foi utilizado o filamento de von Frey digital, tanto com pressão sobre o joelho, quanto na região plantar; esta avaliação aconteceu: pré-lesão (AV1), após 15 (AV2), 30 (AV3) e 60 (AV4) minutos da indução da hipernocicepção. Para o tratamento com LBP foi usada fluência de 8 J/cm, logo após AV2. Resultados: o limiar de retirada, quando a pressão foi realizada no joelho, mostrou que 670 nm produziu elevação do limiar em AV3 e AV4, retornando para valores semelhantes aos de AV1. Para a região plantar, apenas 830 nm mostrou restauração dos valores em AV4, e foi maior em AV3 ao comparar com o grupo controle. Conclusão: ambos os comprimentos de onda produziram elevação do limiar de retirada da pata, em ratos com hipernocicepção em joelho</dc:description>
+          <dc:description xml:lang="en-US">Study design: experimental study of cross-cutting nature. Objective: To evaluate the low level laser therapy (LLLT) effects, with a wavelength of 670 and 820nm, in nociception of Wistar rats submitted to hypernociception in his right knee. Methods: 18 Wistar rats, separated into 3 groups: G1 – untreated; G2 – treated with LBP 670 nm; G3 – treated with LBP 830 nm. For the hypernociception induction was injected into the tibiofemoral articular space 100 µL of 5% formalin. To evaluate nociception was used digital von Frey filament, both with pressure on the knee, as in the plantar region. The evaluations occurred: pre-injury (EV1), 15 (EV2), 30 (EV3) and 60 (EV4) minutes after hypernociception induction. For the treatment with LBP was used to 8 J/cm2, after EV2. Results: the withdrawal threshold, when the pressure was held at the knee, showed that 670 nm produced threshold elevation in EV3 and EV4, returning to values similar to those of EV1. For the plantar region, only 830 nm showed restoration of values in EV4, and was higher in EV3 when comparing with G1. Conclusion: Both wavelengths produced raising the paw withdrawal threshold in rats with knee hypernociception</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114912</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p533-538</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 533-538</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 533-538</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 533-538</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114912/112624</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114913</identifier>
+        <datestamp>2020-06-25T16:03:33Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Prevalence of Pain. and analgesic therapy adequacy in patients hospitalized in a university hospital</dc:title>
+          <dc:title xml:lang="pt-BR">Prevalência de dor e adequação da terapêutica analgésica em pacientes internados em um hospital universitário</dc:title>
+          <dc:creator>Sousa-Muñoz, Rilva Lopes de</dc:creator>
+          <dc:creator>Rocha, Geyhsy Elaynne Silva</dc:creator>
+          <dc:creator>Garcia, Bruno Braz</dc:creator>
+          <dc:creator>Maia, Anne Diniz</dc:creator>
+          <dc:subject xml:lang="en-US">Pain. Analgesia. Pain. Measurement. Hospital. Medical Records</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dor. Analgesia. Medição da Dor. Hospital. Registros Médicos</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivos: Avaliar a prevalência de dor e a adequação da terapêutica analgésica administrada aos pacientes de um hospital universitário, assim como aferir a concordância entre o auto-relato álgico e os dados registrados nos prontuários em relação à manifestação dolorosa. Métodos: Estudo observacional e transversal, a partir de entrevistas estruturadas com pacientes adultos que manifestavam queixa de dor até 24 horas anteriores à admissão hospitalar ou em qualquer momento após a internação no Hospital Universitário Lauro Wanderley (HULW). Foram avaliadas características sócio-demográficas e clínicas dos pacientes, tipo de analgésicos, esquemas de tratamento, intensidade e características da dor. Os registros médicos sobre uso de medicamentos foram colhidos através das anotações nos prontuários e listas de prescrições. A dor foi avaliada através de escala visual analógica (EVA) e pela Escala Multidimensional da Dor (EMADOR). Para avaliar a adequação da analgesia utilizou-se o Índice de Manejo da Dor (IMD). A Escada Analgésica da Organização Mundial da Saúde foi usada na avaliação das prescrições. Resultados: No período de realização do estudo, internaram-se 480 pacientes com 18 anos ou mais nas enfermarias de adultos do HULW. Destes, 115 (24%) apresentavam queixa de dor e foram incluídos na amostra. A idade dos 115 participantes variou entre 18 e 90 anos, com média de 48,7 (±17,7). Verificou-se que 60 (52,2%) apresentavam dor intensa e 39 (33,9%), dor moderada. A avaliação de concordância entre o autorelato álgico e os dados registrados nos prontuários em relação à dor demonstrou que em apenas 45 (39,1%) e 42 (36,1%) dos prontuários, nos momentos de admissão e na evolução hospitalar, respectivamente, foi registrada a informação sobre dor. Em relação à adequação da terapêutica analgésica, encontrou-se IMD negativo em 85 (82,6%) dos pacientes. Observou-se prescrição inadequada em 78,3% dos pacientes. Prevaleceu o emprego da monoterapia, com uso de analgésicos não opióides (dipirona/paracetamol) e anti-inflamatórios não hormonais em 87,8% dos pacientes, enquanto os opiáceos foram utilizados em apenas 14,7%. Conclusões: As suposições iniciais desta pesquisa foram parcialmente corroboradas. A prevalência de dor em pacientes internados não foi alta como se presumiu, mas a adequação analgésica foi insatisfatória. Por outro lado, não houve concordância entre o auto-relato de dor e os dados registrados nos prontuários, indicando que possivelmente os médicos não se preocupam em questionar sobre este sintoma ou em registrá-lo nos prontuários. Demonstrou-se insuficiência dos esquemas terapêuticos e necessidade de maior conhecimento sobre o uso de analgésicos no tratamento da dor no HULW</dc:description>
+          <dc:description xml:lang="en-US">Objectives: To evaluate the prevalence of Pain. and adequacy of analgesic therapy administered to patients at a university hospital, as well to assess the agreement between the painful self-reporting and data from medical records regarding Pain. manifestation. Methods: Observational and cross-sectional study, from structured interviews with adult patients who expressed a complaint of Pain. up to 24 hours prior to hospital admission or at any time after admission to the Lauro Wanderley University Hospital (LWUH) interviews. Socio-demographic and clinical characteristics of patients, type of analgesics, treatment regimens, intensity and characteristics of Pain. were evaluated. The medical records of medication use were collected through the notes in the medical report and lists of prescriptions. Pain. was assessed by visual analogue scale (VAS ) and the Multidimensional Pain. Scale (EMADOR). To assess the adequacy of analgesia used the Index of Pain. Management (IMD). The Analgesic Ladder of the World Health Organization was used in evaluating requirements. Results: In the period of the study, 480 patients admitted up to 18 years or more wards for adults of the LWUH. Of these, 115 (24%) complained of Pain. and were included in the sample. The age of the 115 participants ranged from 18 to 90 years, with a mean of 48,7 (± 17,7). It was found that 60 (52,2 %) had severe Pain. and 39 ( 33,9% ) had moderate pain. The assessment of agreement between the painful self-reporting and data from medical records regarding Pain. showed that only 45 (39,1% ) and 42 ( 36,1 %) of the times of admission and in the hospital course respectively, were recorded information about pain. Concerning the adequacy of analgesic therapy, it was found negative IMD in 85 (82,6 % ) patients. There was inappropriate prescribing in 78,3% of patients. The use of monotherapy use of non-opioid analgesics (dipyrone / acetaminophen) and nonsteroidal anti-inflammatory drugs in 87,8 % of patients was predominant, while opiates were used in only 14,7% of patients. Conclusions: The initial assumptions of this research were partially supported. The prevalence of Pain. in hospitalized patients was not high as assumed, but the analgesic adequacy was unsatisfactory. Moreover, there was no agreement between self-reported Pain. and records data, indicating that doctors do not to ask about this symptom or register it in the records. It has been shown inadequate treatment regimens and the need for greater knowledge of the analgesics use in Pain. therapy in the LWUH</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114913</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p539-548</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 539-548</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 539-548</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 539-548</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114913/112625</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114919</identifier>
+        <datestamp>2020-06-25T16:03:32Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Do imaginário normativo a realidade da Rede de Atenção às Urgências</dc:title>
+          <dc:title xml:lang="en-US">From normative imaginary reality of the Network of Emergency Care</dc:title>
+          <dc:creator>Almeida, Adriana C.</dc:creator>
+          <dc:creator>Gusmão Filho, Fernando A. R.</dc:creator>
+          <dc:creator>Caldas Junior, Arnaldo F.</dc:creator>
+          <dc:creator>Vidal, Suely A.</dc:creator>
+          <dc:creator>Campello, Reginaldo I. C.</dc:creator>
+          <dc:subject xml:lang="en-US">Emergency Relief. Ambulances. Emergency Medical System. Emergency Treatment. SAMU</dc:subject>
+          <dc:subject xml:lang="pt-BR">Socorro de Urgência. Ambulâncias. Unidades Móveis de Emergência. Sistema Médico de Emergência. Tratamento de Emergência. SAMU</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: estudo de caso. Objetivo: analisar a Rede de Atenção às Urgências sob a ótica do Serviço de Atendimento Móvel de Urgência (SAMU) Metropolitano do Recife. Material e Método: estudo de caso com múltiplas unidades de análise. O caso foi o SAMU Metropolitano do Recife e as unidades de análise foram os componentes: promoção, prevenção à saúde e vigilância; organização e governança da rede. Optou-se pela triangulação de métodos e de fontes, utilizando entrevista semiestruturada com 57 profissionais que atuavam nesse serviço; observação direta e documentos oficiais (banco de dados, portarias e relatórios). Para a análise dos dados qualitativos utilizou-se a técnica de condensação de significados e para os quantitativos, a frequência média dos eventos. Resultados: O perfil dos profissionais entrevistados mostra que 53% era do sexo masculino, 65% graduados há menos de 12 anos, um pouco mais da metade atuava no SAMU há menos de 2 anos e 77% tinham vínculo empregatício temporários por meio de contratos com as prefeituras. Segundo os entrevistados há estratégias de promoção e prevenção, mas, não conseguem visualizar mudanças no perfil epidemiológico e demográfico como resultado da implantação dessas estratégias. Existe uma distribuição inadequada dos equipamentos de saúde; baixa cobertura populacional dos pontos de atenção à saúde (50% de cobertura de PSF/ESF e déficit de 3.089 leitos hospitalares do SUS) e, falta de coordenação do comitê gestor estadual regional do sistema de atenção as urgências pela Secretaria do Estado de Pernambuco. Conclusão: A falta de gestão de informação dos atendimentos na área de urgência e das estratégias de promoção e prevenção gera descontinuidade no processo de vigilância, corroborada pelas falhas de comunicação em toda a rede de assistência do SAMU, gerando déficit de cobertura populacional e inadequação dos pontos de saúde frente à legislação vigente. A falta de integração dos serviços, a dificuldade de acesso e de continuidade ao tratamento demonstra a inadequada governança da rede de assistência às urgências</dc:description>
+          <dc:description xml:lang="en-US">Study design: a case study. Objective: To analyze the Emergency Care Network from the perspective of the Mobile Emergency Care Service of the Metropolitan Recife (SAMU). Material and Method: a case study with multiple units of analysis. The object of the study was the SAMU and the units of analysis were the components: promotion, prevention and health surveillance; organization and governance of the network. We opted for the triangulation of methods and sources, using semistructured interviews with 57 professionals working in this service; direct observation and official documents (database, ordinances and reports). For the analysis of qualitative data we used the technique of condensing meanings and quantitative, the average frequency of events. Results: The profile of the professionals interviewed shows that 53% were male, 65%, had graduated less than 12 years, a little more than half worked in the SAMU for less than 2 years and 77% had temporary employment through contracts with the municipalities. According to the interviewees there are strategies of promotion and prevention, but one cannot see changes in the epidemiological and demographic profile as a result of the implementation of these strategies. There is an inadequate distribution of health equipment; low health coverage of the population (50% of PSF coverage / ESF and deficit of 3,089 hospital beds) and lack of coordination between the state regional steering committee of the care system emergencies.Conclusion: The lack of information on care management in the emergency area, promotion and prevention strategies generates discontinuity in the process of surveillance, added by communication failures across the SAMU service network. Therefore, there is a deficit and inadequacy of health coverage. The lack of integration between services, the difficulty of access and the patient continuity on the treatment demonstrates the inadequate governance of the service network to the emergency room</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114919</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p557-572</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 557-572</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 557-572</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 557-572</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114919/112630</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114941</identifier>
+        <datestamp>2020-06-25T16:03:31Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Infection with multiple types of human papillomavirus in sexually active young women</dc:title>
+          <dc:title xml:lang="pt-BR">Infecção por múltiplos tipos de Papilomavirus humano em mulheres jovens sexualmente ativas</dc:title>
+          <dc:creator>Almeida, Ana Paula Machado de</dc:creator>
+          <dc:creator>Machado, Ana Paula</dc:creator>
+          <dc:creator>Almeida, Flávia Gatto de</dc:creator>
+          <dc:creator>Ávilla, Leandro Sobrinho</dc:creator>
+          <dc:creator>Prata, Thiago Theodoro Martins</dc:creator>
+          <dc:creator>Almeida, Larissa Zatorre</dc:creator>
+          <dc:creator>Bonin, Camila Mareti</dc:creator>
+          <dc:creator>Padovani, Cacilda Tezelli Junqueira</dc:creator>
+          <dc:creator>Ferreira, Alda Maria Teixeira</dc:creator>
+          <dc:creator>Fernandes, Carlos Eurico dos Santos</dc:creator>
+          <dc:creator>Tozetti, Inês Aparecida</dc:creator>
+          <dc:subject xml:lang="pt-BR">Papillomavirus Humano. HPV. Reação em Cadeia da Polimerase. PCR. Polimorfismo de Fragmento de Restrição. RFLP</dc:subject>
+          <dc:subject xml:lang="en-US">Papillomaviridae. Polymerase Chain Reaction. Polymorphism</dc:subject>
+          <dc:subject xml:lang="en-US">Restriction Fragment Length</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: transversal. Objetivo do estudo: estimar a frequência e a distribuição dos tipos de Papilomavírus humano (HPV) em mulheres jovens sexualmente ativas. Metodologia: foram coletadas amostras do canal vaginal e endocérvice de 158 mulheres, com idade entre 18 e 35 anos, por meio da técnica de autocoleta. O DNA-HPV foi extraído e amplificado pela técnica de PCR end point utilizando os primers consensus PGMY09/11. A genotipagem foi executada pela técnica de PCR tipo específico (TSPCR) e por análise dos fragmentos obtidos com o uso de enzimas de restrição (RFLP). Resultados: DNA-HPV foi detectado em 23% das amostras, 92% foram genótipos de alto risco oncogênico (HR), sendo prevalente o HPV45, seguido do HPV16 e 31. Infecções por múltiplos tipos de HPV foram detectadas em 35% das amostras, demonstrando infecção por mais de dois tipos em 22,2% das genotipadas. Maior frequência do DNA-HPV foi observada entre mulheres com idade ≤ 25 anos. Conclusão: Este estudo demostrou alta frequência da infecção pelo HPV em mulheres jovens sexualmente ativas, assim como uma alta prevalência de infecção múltipla com tipos de alto risco oncogênico</dc:description>
+          <dc:description xml:lang="en-US">Study design: cross. Study objective: estimate the frequency and distribution types of human papillomavirus (HPV) in sexually active young women. Methods: samples of vaginal and endocervical canal of 158 women, aged between 18 and 35 years were collected through self-collection technique. The HPV DNA was extracted and amplified by PCR end point using the consensus primers PGMY09/11 and genotyping was performed by PCR specific type (TS-PCR) and by analysis of the fragments obtained from the use of restriction enzymes (RFLP). Results: HPV DNA was detected in 23% of participants, 92% were high-risk HPV genotypes (HR), being the prevalent HPV45, followed by HPV16 and 31 infections with multiple HPV types were detected in 35% of samples, indicating infection by more than two types in 22.2% of the genotyped. Higher frequency of HPV DNA was detected in women ≤ 25 old. Conclusion: this demonstrated a high frequency of HPV infection in sexually active young women, as well as a high prevalence of infection with multiple types of high oncogenic risk</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114941</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p573-579</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 573-579</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 573-579</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 573-579</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114941/112656</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114951</identifier>
+        <datestamp>2020-06-25T16:03:30Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Health indicators among elderly active and insufficiently active residents in rural areas</dc:title>
+          <dc:title xml:lang="pt-BR">Indicadores de saúde entre idosos ativos e insuficientemente ativos residentes em áreas rurais</dc:title>
+          <dc:creator>Pinto, Lélia L. T.</dc:creator>
+          <dc:creator>Leal Neto, João S.</dc:creator>
+          <dc:creator>Rocha, Saulo V.</dc:creator>
+          <dc:creator>Vasconcelos, Lélia R. C.</dc:creator>
+          <dc:creator>Santos, Mateus C.</dc:creator>
+          <dc:creator>Silva, Diego A. S.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Atividade Física. Idoso. Condições de Saúde. Saúde da População Rural</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Activity. Aged . Health Conditions. Rural Health</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo transversal. Objetivo do estudo: Analisar a associação entre indicadores de saúde em idosos ativos e insuficientemente ativos. Metodologia: Estudo realizado em indivíduos com 60 anos ou mais, residentes na área rural de Jequié – BA, Brasil, cadastrados no programa Estratégia Saúde da Família do distrito de Itajurú. Foram analisadas as características sociodemográficas, comportamentais, estado de saúde, histórico de quedas, estado cognitivo e Índice de Massa Corporal (IMC). Para análise dos dados, utilizaram-se procedimentos da estatística descritiva, testes Qui-quadrado, teste “t” para amostras independentes e U de Mann-Whitney (nível de significância utilizado pd”0,05). Resultados: Foram entrevistados 95 idosos, sendo 55 mulheres e 40 homens com idade entre 60 e 96 anos (73,5 ± 9,4). A prevalência de inatividade física foi de 40%, mostrando-se superior entre os idosos que relataram viver sozinho, que apresentaram déficit cognitivo, que não sabiam ler e escrever, e com histó- rico de quedas no último ano. Os idosos mais jovens e com menor IMC eram mais ativos, quando comparados com seus pares. Conclusão: Os idosos que não alcançaram as recomendações de níveis adequados de atividade física apresentaram condições de saúde mais desfavoráveis. Recomenda-se a implementação de políticas públicas para promoção da atividade física no intuito de melhorar as condi- ções de saúde, em especial os idosos residentes de áreas rurais</dc:description>
+          <dc:description xml:lang="en-US">Study design: cross-sectional study. Study objective: To examine the association between health indicators in active and insufficiently active older adults. Methodology: The study included individuals 60 years or older residing in rural Jequie - BA who were registered in the Family Health Strategy program in the district Itajurú. Sociodemographic data, behavioral characteristics, health status, history of falls, cognitive status and body mass index (BMI) were analyzed. For data analysis, we used the procedures of descriptive statistics, chi-square tests, “t” test for independent samples and the Mann-Whitney test (significance level p ≤0.05). Results: Ninety-five individuals were interviewed, including 55 women and 40 men between the ages of 60 and 96 years (73.5 ± 9.4).The prevalence of physical inactivity was 40%, being higher among the elderly who live alone reported that patients with cognitive impairment, who could not read and write with a history of falls in the last year. The older people with lower BMI were more active compared to their peers. Conclusion: The elderly who not reached the recommended adequate levels of physical activity had health conditions more unfavorable. We recommend the implementation of public policies to promote physical activity in order to improve health conditions, especially the elderly residents of rural areas</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114951</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p580-588</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 580-588</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 580-588</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 580-588</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114951/112668</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114956</identifier>
+        <datestamp>2020-06-25T16:03:29Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Informed consent: analysis of the level of knowledge of medical professionals from Maranhão</dc:title>
+          <dc:title xml:lang="pt-BR">Termo de consentimento livre e esclarecido: análise do nível de conhecimento dos profissionais médicos do Maranhão</dc:title>
+          <dc:creator>Murad Neto, Abdon José</dc:creator>
+          <dc:creator>Ferreira, Evaldo César Macau Furtado</dc:creator>
+          <dc:creator>Cutrim, Patrícia Travassos</dc:creator>
+          <dc:creator>Ribeiro, Carlos Henrique Bento</dc:creator>
+          <dc:creator>Oliveira, Andrieli Barros</dc:creator>
+          <dc:creator>Pestana, Ricardo Henrique Oliveira</dc:creator>
+          <dc:creator>Pires, Cibelle Dutra</dc:creator>
+          <dc:creator>Brito, Luciane Maria Oliveira</dc:creator>
+          <dc:subject xml:lang="en-US">Bioethics . Informed Consent. Personal Autonomy. Physicians</dc:subject>
+          <dc:subject xml:lang="pt-BR">Bioética. Consentimento Livre e Esclarecido. Autonomia Pessoal. Médicos</dc:subject>
+          <dc:description xml:lang="en-US">Design of the Study: Analytical cross-sectional observational study. Introduction: The Informed Consent (IC) is expressed by respect for human dignity requires that all research occurs after informed consent of the subjects, individuals or groups, by themselves and/or their legal representatives express their agreement to participate in the research. However, despite its extreme importance, it is observed that its use is not common in ordinary practice of medicine in our country, because the knowledge about this instrument is still incomplete of many doctors, that consists of a fundamental right of the patient and a ethical requirement for medicine. Objective: Investigate the level of knowledge about the Informed Consent by medical professionals active in Maranhão. Methodology: This is a cross-sectional analytical study with physicians in activity in the period from December 2012 to October 2013. A questionnaire consists of 18 questions about The Informed Consent was sent to 368 doctors who had registered email at the Regional Council of Medicine. Results: 170 (46,2%) questionnaires were answered. The level of knowledge about the IC was rated as average to 83,5% of physicians. Most of participants were specialists (85,7%) and 96,4% correctly recognized that the IC is a right of the patient. When asked about the main function of Informed Consent, 65,9% chose the wrong statement. It was noticed that all interviewees did not know how to proceed when delivering the IC to the patient. Conclusions: The doctors evaluated had a deficient knowledge of the IC, even being rated as average, had flaws in its use and in some main aspects of this term, as its main function and the ability to consent</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo de Estudo: Estudo observacional, analítico e transversal. Introdução: O Termo de Consentimento Livre e Esclarecido (TCLE) se expressa pelo respeito à dignidade humana exigindo que toda pesquisa ocorra após consentimento livre e esclarecido dos sujeitos, indivíduos ou grupos que, por si e/ ou por seus representantes legais, manifestem sua anuência à participação da pesquisa. No entanto, apesar de sua extrema relevância, observa-se que seu uso não é habitual na prática diária da medicina em nosso país, apesar de consistir num direito fundamental do paciente e uma exigência ética para a medicina. Objetivo: Investigar o nível de conhecimento sobre o Termo de Consentimento Livre e Esclarecido dos profissionais médicos ativos no Maranhão. Metodologia: Trata-se de um estudo transversal, analítico, realizado com os médicos em atividade, no período de dezembro de 2012 a outubro de 2013. Foi enviado questionário composto por 18 questões sobre o TCLE para 368 médicos que possuíam emails cadastrados no Conselho Regional de Medicina. Resultados: Foram respondidos 170 questioná- rios (46,2%). O nível de conhecimento sobre o TCLE foi classificado como médio para 83,5% dos avaliados. A maioria dos participantes era especialista (85,7%) e 96,4% reconheceram corretamente que o TCLE é um direito do participante. Quando questionados sobre a principal função do TCLE, 65,9% responderam inadequadamente. Verificou-se também que todos os entrevistados não sabiam como proceder no momento de entregar o TCLE ao paciente. Conclusões: Os médicos avaliados possuíam um conhecimento inadequado sobre o TCLE, que mesmo sendo classificado como médio, apresentou falhas quanto à sua utilização e alguns aspectos fundamentais deste termo, tais como sua principal função e aptidão para consentir</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114956</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p598-609</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 598-609</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 598-609</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 598-609</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114956/112673</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114958</identifier>
+        <datestamp>2020-06-25T16:03:28Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Inter-hospital transport of newborns in critical condition: integrative literature review</dc:title>
+          <dc:title xml:lang="pt-BR">Transporte Inter-Hospitalar de recém-nascido em estado crítico: revisão integrativa da literatura</dc:title>
+          <dc:creator>Balbino, Aldiânia C.</dc:creator>
+          <dc:creator>Cardoso, Maria V. L. M. L.</dc:creator>
+          <dc:creator>Silva, Viviane M. da</dc:creator>
+          <dc:subject xml:lang="pt-BR">Recém-nascido. Transporte de Pacientes. Ambulância</dc:subject>
+          <dc:subject xml:lang="en-US">Infant</dc:subject>
+          <dc:subject xml:lang="en-US">Newborn. Transportation of Patients. Ambulance</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: revisão integrativa. Objetivo: identificar condutas organizacionais descritas na literatura sobre transporte inter-hospitalar de recém-nascido em estado crítico de saúde realizado por meio de ambulância. Metodologia: revisão integrativa com consulta nas bases de dados: LILACS, CINAHL, MEDLINE, Web of Science e SCOPUS, no período de setembro a novembro de 2013. Para realizar a pesquisa, foram utilizados os descritores não controlados newborn transport, newborn infants, protocol e os controlados transporte de pacientes, recém-nascido e ambulâncias. A busca limitou-se a artigos publicados em português, inglês e espanhol, sem período estabelecido, que versassem sobre transporte inter-hospitalar de recém-nascido crítico por ambulância. Resultados: selecionou-se 12 artigos. As condutas identificadas foram: comunicação pré-transporte; composição da equipe que realizará o transporte; referência e contrar-referência; seleção do veículo para o transporte; equipamentos e medicações que poderão ser utilizados durante o transporte. Conclusões: Os estudos encontrados versam sobre importantes condutas a serem aplicadas em todas as fases do transporte inter-hospitalar do recémnascido por ambulância, importantes para uma assistência de qualidade e efetiva</dc:description>
+          <dc:description xml:lang="en-US">Study model: integrative review. Objective: to identify organizational behaviors described in the literature about inter-hospital transport of newborns in critical health condition performed by means of ambulance. Methodology: integrative review with query in the databases: LILACS, CINAHL, MEDLINE, Web of Science and Scopus, during the period from September to November 2013. In order to perform the research, the non-controlled descriptors ‘newborn transport’, ‘newborn infants’ and ‘protocol’ were used, as well as the controlled descriptors ‘transport of patients’, ‘newborn’ and ‘ambulances’. The search was limited to papers published in Portuguese, English and Spanish, without an established period, which addressed the inter-hospital transport of critically ill newborn by ambulance. Results: 12 papers were selected. The identified behaviors were: pre-transport communication; composition of the team that will conduct the transport; reference and counter-reference; selection of vehicle for transportation; equipment and medications that may be used during transportation. Conclusions: The selected studies address the important measures to be applied at all stages of the inter-hospital transport of newborns by ambulance, which are important for quality and effective care</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114958</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p610-618</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 610-618</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 610-618</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 610-618</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114958/112674</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:33Z" completeListSize="1467" cursor="975">63e6c5575471b1caee17b22a65bd49f4</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:36Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/122730</identifier>
+        <datestamp>2020-06-25T16:02:46Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Mentoring: concepts, faculty development and erspectives</dc:title>
+          <dc:title xml:lang="pt-BR">Educação tutorial: conceitos, capacitação e perspectivas futuras</dc:title>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:creator>Soriano, Leonardo Araujo</dc:creator>
+          <dc:creator>Paula, Jayter Silva de</dc:creator>
+          <dc:subject xml:lang="en-US">Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical. Mentors. Learning</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Médica. Tutor. Aprendizado</dc:subject>
+          <dc:description xml:lang="en-US">The mentoring approach had its origins related to the learning processes of industrial functions in the 1970’s and was introduced in medical training by the end of 1990’s. Initially, its inclusion in medical schools was incipient and not a part of the formal curriculum or institutional educational guidelines. These facts have prompted several adjustments and led to a gap from its original aims, being often considered as either scientific initiation or emotional supporting activities. This article discusses the problems related to both the mentoring identity and establishment in the medical teaching environment and proposes a concept related to its former sources. We also emphasized the difficulties in assessing the process efficiency and training of tutors, consequent to the lack of patterns to determine the skills expected in this function. Mentoring needs and magnitude in the medical field are also discussed</dc:description>
+          <dc:description xml:lang="pt-BR">A Educação Tutorial teve suas origens relacionadas ao aprendizado de funções industriais na década de 1970 e foi introduzida na formação médica ao final da década de 1990. Inicialmente, sua inserção nas escolas médicas era incipiente e não constituia parte do do currículo formal ou das diretrizes institucionais. Esses fatos propiciaram diversas adaptações e o seu distanciamento dos objetivos originais, sendo considerada muitas vezes como iniciação científica ou atividade de apoio emocional ao estudante. Esse artigo discute os problemas relacionados a sua identidade e estabelecimento no ambiente de ensino médico e propõe uma definição relacionada a suas raízes. Foram ressaltadas ainda as dificuldades de avaliação da eficácia do processo e de formação de tutores, que se associa em parte à falta de referências que determinem as habilidades esperadas nesta função. Também são discutidas as necessidades e potencialidades da Educação Tutorial focada na área médica</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/122730</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i4p369-373</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 4 (2016); 369-373</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 4 (2016); 369-373</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 4 (2016); 369-373</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/122730/119215</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/122731</identifier>
+        <datestamp>2020-06-25T16:02:45Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">História do Programa de Educação Tutoria da FMRP-USP</dc:title>
+          <dc:title xml:lang="en-US">History of the FMRP-USP Tutorial Education Program</dc:title>
+          <dc:creator>Torina, Helen Furlan</dc:creator>
+          <dc:creator>Almeida, Larissa Oliveira</dc:creator>
+          <dc:creator>Paula, Jayter Silva de</dc:creator>
+          <dc:subject xml:lang="en-US">Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical</dc:subject>
+          <dc:subject xml:lang="en-US">Undergraduate. Mentors. Community-Institutional Relations</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação de Graduação em Medicina. Tutor. Relações Comunidade-Instituição</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de Estudo: Relato de experiência. Importância do problema: Este artigo tem o objetivo de relatar a história da evolução das atividades do Programa de Educação Tutorial da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo (PET-FMRP-USP) durante os 24 anos de existência, com base nos dados do acervo escrito e digital deste grupo. Comentários: O grupo PET-FMRP-USP apresentou incremento e consistência no desenvolvimento das atividades de ensino-pesquisa-extensão, com repercussões de suas ações na comunidade acadêmica e na sociedade</dc:description>
+          <dc:description xml:lang="en-US">Design: Experience report. Relevance: This study was aimed to report the historical landmarks of major activities of the Program of Tutorial Education, from the Ribeirão Preto Medical School (PET-FMRP) during the past 24 years, based on its digital and written documents. Comments: The PET-FMRP group has presented a consistent and increasing development of its teaching-research-extension activities, with repercussions to academy and society</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/122731</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i4p374-380</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 4 (2016); 374-380</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 4 (2016); 374-380</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 4 (2016); 374-380</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/122731/119216</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/122733</identifier>
+        <datestamp>2020-06-25T16:02:44Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Work-based and tutorial education programs: distinct approaches of the ‘PET’ groups in Brazil</dc:title>
+          <dc:title xml:lang="pt-BR">Programas de educação pelo trabalho e tutorial: diferentes enfoques dos grupos ‘PET’ no Brasil</dc:title>
+          <dc:creator>Leite, Pedro Henrique Nunes</dc:creator>
+          <dc:creator>Aniceto, Vinícius</dc:creator>
+          <dc:creator>Santana, Alessa de Andrade</dc:creator>
+          <dc:creator>Vieira, Bárbara Regina</dc:creator>
+          <dc:creator>Lima, Adriane Souza</dc:creator>
+          <dc:creator>Visconde, Luís Felipe Silva</dc:creator>
+          <dc:creator>Paula, Jayter Silva de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação de Graduação em Medicina. Tutor. Relações Comunidade-Instituição</dc:subject>
+          <dc:subject xml:lang="en-US">Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical</dc:subject>
+          <dc:subject xml:lang="en-US">Undergraduate. Mentors. Community-Institutional Relations</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de Estudo: Relato de experiência. Importância do problema: Este artigo tem o objetivo de relatar como se organizam os diferentes programas educacionais designados pela sigla PET no Brasil, traçando semelhanças e contrastes. Ademais, a ideologia do programa e seus aspectos organizacionais são também descritos. Comentários: Há vários grupos ligados aos três programas PET [Programa de Educação Tutorial, o Programa de Educação pelo Trabalho para a Saúde (PET-Saúde) e o Programa de Educação pelo Trabalho - Vigilância em Saúde (PET-VS)] nas universidades brasileiras, com diferentes enfoques e projetos de trabalho. Todos baseados na tríade ensino-pesquisa-extensão, e com o objetivo de formação de profissionais cidadãos, cultos e atuantes nos âmbitos acadêmico e social</dc:description>
+          <dc:description xml:lang="en-US">Design: Experience report. Relevance: This article aims to report how different educational programs under the acronym PET are organized in Brazil, highlighting differences and similarities. Additionally, program’s ideology and its organizational details are also described. Comments: Several groups linked to three distinct PET programs exist in the Brazilian univerties (Tutorial Education Program, Healthaimed Work-base Education Program, and Health Surveillance Work-based Education Program) with different focuses and work projects. All of them are based on the teaching-research-extension goals, with the objective of developing erudit and profissional citizens, which will be actives in the academic and social spheres</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/122733</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i4p381-387</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 4 (2016); 381-387</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 4 (2016); 381-387</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 4 (2016); 381-387</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/122733/119217</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/122735</identifier>
+        <datestamp>2020-06-25T16:02:43Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Da saúde à extensão universitária: cursinho popular do PET-medicina, um projeto bem-sucedido na Faculdade de Medicina de Ribeirão Preto</dc:title>
+          <dc:title xml:lang="en-US">From health to university extention: cursinho popular do PET-medicina, a successful project in the Ribeirão Preto Medical School</dc:title>
+          <dc:creator>Soriano, Leonardo Araujo</dc:creator>
+          <dc:creator>Diniz, Alex Luís Araujo</dc:creator>
+          <dc:creator>Baseio, Maria Clara</dc:creator>
+          <dc:creator>Paula, Jayter Silva de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Relações Comunidade-Instituição. Tutor</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aprendizado</dc:subject>
+          <dc:subject xml:lang="en-US">Community-Institutional Relations. Mentors</dc:subject>
+          <dc:subject xml:lang="en-US">Learning</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de Estudo: Relato de experiência. Importância do problema: O acesso ao ensino superior no Brasil tem sido ampliado por uma série de programas e ações do Estado. Entretanto, ações voltadas à educação nos níveis básicos não evoluiram da mesma forma, deixando lacunas na formação dos jovens. Nesse contexto, muitos cursos pré-vestibulares populares ou comunitários foram criados, na tentativa de suprir a essas necessidades da população que não tem condições financeiras para pagar um cursinho privado. O Programa de Educação Tutorial da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo (PET-FMRP-USP) gere, desde 2008, o Cursinho Popular do PET-Medicina (CPM), que somou ao longo desses sete anos mais de 500 alunos matriculados, com 183 aprovações em vestibulares, tanto em universidades públicas como nas particulares com bolsas de estudo. Comentários: Dentro do tripé ensino-pesquisa-extensão da universidade, o CPM representa um programa de extensão com benefícios a todos os envolvidos, incluindo professores e gestores, que têm a oportunidade de incrementar suas habilidades de relacionamentos interpessoais e praticar atos de cidadania</dc:description>
+          <dc:description xml:lang="en-US">Design: Experience report. Relevance: Brazilian governments have promoted programs and actions to increase the access of students to the University. However, actions aimed to develop basic school levels has not grown accordingly, contributing to the maintanance of gaps in the students’ education and imposes obstacles to their admission in the universities. In this context, many free community preuniversity preparatory courses have been created as an alternative to overcome economic difficulties of people that cannot afford a private pre-university preparatory course. Medical students of the Program of Tutorial Education, from the Ribeirão Preto Medical School, University of São Paulo (PET-FMRP-USP), have managed such a free preparatory course called Cursinho Popular do PET-Medicina (CPM) since 2008. CPM has included, over the past seven years, more than 500 students, and 183 of them have been successfully accepted in public universities or in private ones with scholarships. Comments: Considering the university goals of teaching-research-extension, CPM has guaranteed benefits not only for poor students, but for everyone taking part of this project, including teachers and assistants, since they have improved skills related to inter-personal relationship and practiced citizenship</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/122735</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i4p388-392</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 4 (2016); 388-392</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 4 (2016); 388-392</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 4 (2016); 388-392</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/122735/119218</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125587</identifier>
+        <datestamp>2020-06-25T16:02:43Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação da qualidade de vida, sono e Síndrome de Burnout dos residentes de um programa de residência multiprofissional em saúde</dc:title>
+          <dc:title xml:lang="en-US">Quality of life evaluation, sleep and Burnout Syndrome the residentes of the multidisciplinary residency program in health</dc:title>
+          <dc:creator>Moreira, Ana Paula F</dc:creator>
+          <dc:creator>Patrizzi, Lislei J</dc:creator>
+          <dc:creator>Accioly, Marilita F</dc:creator>
+          <dc:creator>Shimano, Suraya G N</dc:creator>
+          <dc:creator>Walsh, Isabel A P</dc:creator>
+          <dc:subject xml:lang="pt-BR">Internato não Médico. Qualidade de Vida. Sono. Esgotamento Profissional</dc:subject>
+          <dc:subject xml:lang="en-US">Internship</dc:subject>
+          <dc:subject xml:lang="en-US">Nonmedical. Quality of Life. Sleep. Burnout</dc:subject>
+          <dc:subject xml:lang="en-US">Professional</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo transversal, de caráter exploratório, descritivo e quantitativo. Objetivo: Avaliar qualidade de vida (QV), qualidade de sono e Síndrome de Burnout (SB) em residentes multiprofissionais, ao longo da Residência. Metodologia: Foram analisados 60 residentes multiprofissionais, dos quais 24 eram residentes ingressantes, cursando a primeira semana do programa (RIn), 18 estavam no final do primeiro ano (R1) e 18 no final do segundo ano (R2). Foi realizada a aplicação do WHOQOL-bref, Pittsburgh Sleep Quality Index e Maslach Burnout Inventory (MBI). Resultados: A qualidade de sono diminuiu ao longo da residência e foi identificado menor comprometimento em todos os domínios da QV para RIn. Quanto às dimensões isoladas do MBI, R1 apresentou maior número de residentes com exaustão emocional (EE) alta e realização profissional (RP) baixa e R2 despersonaliza- ção (DE) alta. Dois indivíduos do R2 apresentaram a SB; R2 também se destacou no preenchimento de um critério. O R1 apresentou maior porcentagem de sujeitos em situação de risco. A maioria de RIn não obteve classificação significativa em nenhuma das dimensões. A média dos resultados da EE foi alta para R2, limítrofe para R1 e baixa para RIn. Conclusão: Os resultados indicaram que tanto a qualidade do sono quanto a qualidade de vida de residentes passam por repercussões negativas ao longo dos anos da residência e pode ocorrer o desenvolvimento da Síndrome de Burnout nestes profissionais</dc:description>
+          <dc:description xml:lang="en-US">Model Study: Cross-sectional study, exploratory, descriptive and quantitative character. Objective: To evaluate quality of life (QL), Quality of sleep and Burnout Syndrome (SB) in multi professional residents along the residence. Methodology: 60 multi professional residents were analyzed, of which 24 were freshmen residents, attending the first week of the program (RIN), 18 at the end of the first year (R1) and 18 at the end of the second year (R2). The application of the WHOQOL-BREF was performed Sleep Quality Index of Pittsburgh and Maslach Burnout Inventory (MBI). Results: Quality of sleep decreased over the residence and was identified less involvement in all areas of QL for RIn. As for the isolated dimensions of MBI, R1 showed a higher number of residents with emotional exhaustion (EE) high and professional fulfillment (RP) low and R2 depersonalization (DE) high. Two individuals of R2 showed the SB; R2 also excelled in completing a criterion. R1 had a higher percentage of subjects at risk. Most RIn there has been no classification in any of the dimensions. The average of the results of EE was high for R2, R1 and borderline low for RIn. Conclusions: Considering 1ue the physical and emotional exhaustion can be understood as a gradual process that can lead to illness, QL impairment and services, points to an increasing need to propose solutions to better planning and organization of work, for improvements in the general conditions, contributing to better health of residents</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125587</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p393-402</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 393-402</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 393-402</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 393-402</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125587/122531</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125588</identifier>
+        <datestamp>2020-06-25T16:02:42Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação da restrição de participação em atividades de vida diária de idosos usuários de aparelhos de amplificação sonora individual</dc:title>
+          <dc:title xml:lang="en-US">Evaluation of participation restriction in activities of daily living in elderly users of hearing aids</dc:title>
+          <dc:creator>Mantello, Erika B.</dc:creator>
+          <dc:creator>Marino, Mirela V.</dc:creator>
+          <dc:creator>Alves, Ana Claudia</dc:creator>
+          <dc:creator>Hyppolito, Miguel A.</dc:creator>
+          <dc:creator>Reis, Ana Claudia Mirandola B. dos</dc:creator>
+          <dc:creator>Isaac, Myriam de l.</dc:creator>
+          <dc:subject xml:lang="en-US">Questionnaires. Health Services for the Aged. Hearing Aids. Presbycusis</dc:subject>
+          <dc:subject xml:lang="pt-BR">Questionários. Serviços de Saúde para Idosos. Auxiliares de Audição. Presbiacusia</dc:subject>
+          <dc:description xml:lang="en-US">Objective: to evaluate the effects of using hearing aids and counseling in self-perception of participation restriction in activities in the elderly. Model Study: prospective and descriptive study. Method: we selected 29 elderly. They answered the questionnaire Hearing Handicap Inventory for the Elderly Screening Version (HHIE-S), before the hearing aid fitting. After three months was carried out the same questionnaire and the results obtained were compared. Results: quantitatively the difference between the scores (total, social/situation, emotional), before and after the audiological intervention, showed significant results. In qualitative analysis, it was observed in the condition before the adaptation, a significant perception of auditory handicap for the total score; however, in the situation after the hearing aid use, it no longer occurred handicap perception for the three scores. Conclusion: the acoustic stimulation through the use of hearing aids and counseling sessions contributed to the decrease in scores of participation restriction in elderly, valued at HHIE-S questionnaire</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: avaliar o efeito do uso do aparelho de amplificação sonora individual e do aconselhamento na autopercepção da restrição de participação em atividades de vida diária de idosos. Modelo do Estudo: estudo prospectivo e descritivo. Metodologia: foram selecionados 29 idosos, os quais responderam ao questionário Hearing Handicap Inventory for the Elderly Screening Version (HHIE-S) e, em seguida, começaram a fazer uso contínuo de aparelhos de amplificação sonora individual (AASI). Após três meses foi realizada nova aplicação do questionário e comparados os resultados obtidos sobre a restri- ção de participação. Resultados: quantitativamente a diferença entre os escores (total, social/situacional e emocional), antes e depois da adaptação foi significante. Na análise qualitativa, observou-se na condição antes do uso dos AASI, uma auto-percepção significativa da restrição de participação para o escore total e três meses após o uso esta deixa de existir. Conclusão: A estimulação acústica por meio do uso de AASI e das sessões de aconselhamento foram efetivos para a diminuição da restrição de participação dos idosos, avaliados pelo questionário HHIE-S</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125588</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p403-410</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 403-410</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 403-410</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 403-410</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125588/122532</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125600</identifier>
+        <datestamp>2020-06-25T16:02:41Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Entre a gestão e o cuidado da saúde do idoso: enfoque no evento quedas</dc:title>
+          <dc:title xml:lang="en-US">Between management and the elderly health care: focus on falls</dc:title>
+          <dc:creator>Vicentine, Fernanda Bergamini</dc:creator>
+          <dc:creator>Ferreira, Janise Braga Barros</dc:creator>
+          <dc:creator>Vinhoti, Danilo Sérgio</dc:creator>
+          <dc:subject xml:lang="en-US">Aging. Accident Prevention. Family Health. Health Information Systems. Health Policy</dc:subject>
+          <dc:subject xml:lang="pt-BR">Envelhecimento. Prevenção de Acidentes. Saúde da Família. Sistemas de Informa- ção em Saúde. Política de Saúde</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo descritivo, do tipo levantamento e com corte transversal. Objetivos. Estudar o evento quedas e suas consequências em idosos de Ribeirão Preto/SP e identificar os instrumentos relacionados ao registro da ocorrência e de prevenção de quedas em idosos. Metodologia. Foram consultados os bancos oficiais do Departamento de Informática do Sistema Único de Saúde, Instituto Brasileiro de Geografia e Estatística e site oficial da Secretaria Municipal de Saúde de Ribeirão Preto, no período de outubro/2012 a setembro/2013 e os instrumentos disponibilizados para a equipe de saúde registrar as informações sobre quedas e sua prevenção. Resultado e Discussão Encontrou-se, na Atenção Primária, o evento quedas presente apenas na Ficha D do Sistema de Informação da Atenção Básica expresso como uma de suas sequelas: “fratura de colo de fêmur”. No ponto de atenção ambulatorial, a prescrição de medicamentos (90%) teve destaque. Já na atenção hospitalar, é a causa que leva ao maior número de dias de internação hospitalar por causas externas. Considerações finais: Há que se incrementar a prevenção de quedas, com medidas que visem à diminuição de fatores de risco, com ações no ambiente domiciliar e por meio do aprimoramento das ferramentas de gestão do cuidado utilizadas na Atenção Primária à Saúde</dc:description>
+          <dc:description xml:lang="en-US">Study design: Descriptive study, the type and cross-sectional survey. Objectives. Consider the fall event and its consequences in elderly of Ribeirão Preto / SP and identify the instruments related to the recording of the occurrence and prevention of falls in the elderly. Methodology. Official banks were consulted Department of the Unified Health System Informatics, Brazilian Institute of Geography and Statistics and the official site of the Municipal Health of Ribeirão Preto, from October / 2012 to September / 2013. The instruments available about health record information about falls and prevention were consulted. Results and Discussion. In primary care, the event falls were present only in sheet D of Care Information System Basic Express as one of its sequels, “femoral neck fracture.” At the point of ambulatory care, prescription medications (90%) stood out. In the hospital care is the cause that leads to the greatest number of days of hospitalization due to external causes. Conclusion. It is necessary to enhance the prevention of falls, with measures at reducing risK factors and especially with actions in the home environment and by improving the management tools care used in primary health care</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125600</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p411-420</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 411-420</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 411-420</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 411-420</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125600/122534</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125602</identifier>
+        <datestamp>2020-06-25T16:02:40Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Increased chance of metabolic syndrome in women living with HIV/AIDS and lipodystrophic syndrome</dc:title>
+          <dc:title xml:lang="pt-BR">Chance aumentada de síndrome metabólica em mulheres vivendo com HIV/AIDS e Síndrome da Lipodistrofia</dc:title>
+          <dc:creator>Alves, Thiago Cândido</dc:creator>
+          <dc:creator>Moraes, Camila de</dc:creator>
+          <dc:creator>Santos, André Pereira dos</dc:creator>
+          <dc:creator>Venturini, Ana Cláudia Rossini</dc:creator>
+          <dc:creator>Santana, Rodrigo de Carvalho</dc:creator>
+          <dc:creator>Navarro, Anderson Marliere</dc:creator>
+          <dc:creator>Machado, Dalmo Roberto Lopes</dc:creator>
+          <dc:subject xml:lang="pt-BR">Composição Corporal. Lipodistrofia. Obesidade Abdominal. Antropometria</dc:subject>
+          <dc:subject xml:lang="en-US">Body Composition. Lipodystrophy. Obesity</dc:subject>
+          <dc:subject xml:lang="en-US">Abdominal. Anthropometry</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo de prevalência de corte transversal. Objetivo: comparar a sintomatologia critério para Síndrome Metabólica em homens e mulheres que vivem com HIV/aids, pacientes com Síndrome Lipoditrófica em terapia antirretroviral. Método: participaram do estudo 41 pacientes HIV positivos de ambos os sexos (18 a 69 anos), de um programa de orientação de exercício físico como terapia alternativa. Foi determinada a composição corporal total e regional por DXA, estatura, peso, circunferência de abdome, e determinação de parâmetros metabólicos (perfil lipídico e glicêmico) e imunológicos (detecção de carga viral e contagem de células T CD4+). Foram utilizados os critérios da IDF para o diagnóstico de SM. Resultados: As mulheres apresentaram maior gordura relativa (p = 0,001), obesidade central (p = 0,005), colesterol total (p = 0,043), LDL colesterol (p = 0,034) e contagem de CD4+ (p = 0,034) quando comparadas aos homens. Os valores médios para ambos os sexos apresentaram níveis elevados de triglicerídeos (&amp;gt; 211,4 mg.dL-1) e baixos de HDL (&amp;lt; 39,5 mg.dL- 1). A prevalência de Síndrome Metabólica nas mulheres foi duas vezes maior do que nos homens (p = 0,021), com significantes diferenças também na obesidade abdominal central (p = 0,005). Conclusões: A razão de prevalência (RP = 0,465) do sexo associado à Síndrome Metabólica indicou que as mulheres têm maior risco relativo e, portanto requerem ações alternativas na redução das chances de desenvolvimento desta síndrome</dc:description>
+          <dc:description xml:lang="en-US">Study design: cross-sectional and prevalence study. Objective: compare symptoms criteria for Metabolic Syndrome (MS) in men and women living with HIV/aids, patients with lipodystrophy syndrome on antiretroviral therapy. Method: Forty-one patients of both sexes (18-69 years), from an exercise guidance program as alternative therapy. They had their body composition (DXA), height, weight, abdomen circumference, and lipid profile, blood glucose, blood pressure, and CD4+ count, determined. The IDF criteria for diagnosis of MS were used. Results: Women showed greater relative fat (p = 0.001), central obesity (p = 0.005), total cholesterol (p = 0.043) and LDL cholesterol (p = 0.034), and CD4+ count (p = 0.034) when compared to men. The mean values for both sexes showed high levels of triglycerides (&amp;gt; 211.4 mg.dL-1) and low HDL (&amp;lt; 39.5 mg.dL-1). The prevalence ratio of MS was twice in women than men (p = 0.005). Conclusion: The prevalence ratio (PR = 0.465) of sex metabolic syndrome-associated, shown that woman patients have higher relative risk and therefore require alternative actions to reduce the chances of developing this syndrome</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125602</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p421-428</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 421-428</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 421-428</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 421-428</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125602/122535</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125603</identifier>
+        <datestamp>2020-06-25T16:02:40Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Baixa adesão ao uso de medicamentos em pacientes com Síndrome do Intestino Curto dependentes de nutrição parenteral</dc:title>
+          <dc:title xml:lang="en-US">Low medication adherence in patients with Short Bowel Syndrome dependent on parenteral nutrition</dc:title>
+          <dc:creator>Ferreira, Iahel M. L.</dc:creator>
+          <dc:creator>Braga, Camila B. M.</dc:creator>
+          <dc:creator>Dewulf, Nathalie L. S.</dc:creator>
+          <dc:creator>Marchini, Julio S.</dc:creator>
+          <dc:creator>Cunha, Selma F. C.</dc:creator>
+          <dc:subject xml:lang="en-US">Medication Adherence. Short Bowel Syndrome. Therapeutics. Parenteral Nutrition</dc:subject>
+          <dc:subject xml:lang="pt-BR">Adesão à Medicação. Síndrome do Intestino Curto. Tratamento. Nutrição Parenteral</dc:subject>
+          <dc:description xml:lang="en-US">Study design: Cross-sectional. Aim: We aimed to investigate adherence to oral medications in patients with severe Short Bowel Syndrome (SBS). Casuistic and Methods: Ten patients with severe intestinal failure attending a specialized unit in a university hospital were enrolled in this study. All patients received intermittent parenteral nutrition for at least 4 months. The participants (six men and four women) had 56 ± 13 years and body mass index of 18 ± 3 kg/m2. Information related to the use of medications at home was recorded, and adherence behavior was assessed by using the Morisky Medication Adherence Scale. Results: Four patients (40%) had high medication adherence. Among patients with low medication adherence, unintentional behavior was observed in two patients, intentional behavior was observed in one patient, and an association of unintentional with intentional behavior was identified in three patients. Conclusion: Outside the hospital setting, most patients with SBS have low adherence to oral medications. These results suggest the development and implementation of targeted strategies aimed to promote awareness and adherence to medication treatment</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Transversal. Objetivo do estudo: Avaliar a adesão de pacientes com Síndrome do Intestino Curto ao tratamento medicamentoso por via oral. Casuística e Métodos: O estudo inclui 10 pacientes com Síndrome do Intestino Curto (SIC) acompanhados em unidade especializada de um hospital universitário. Todos os pacientes recebiam nutrição parenteral por no mínimo quatro meses. A casuística consistia em seis homens e quatro mulheres, com idade de 56 ± 13 anos e Índice de Massa Corporal de 18 ± 3kg/m2. Foram registradas informações sobre o uso de medicamentos no domicílio. A adesão ao tratamento medicamentoso foi avaliada pelo teste de Morisky e foi identificada a natureza do comportamento em relação à não adesão. Resultados Apenas 40% dos pacientes foram classificados como “mais aderentes”. Dentre os “menos aderentes”, a baixa adesão por associação do comportamento intencional e não intencional foi observada em três casos; dois pacientes apresentavam apenas o comportamento intencional e o comportamento não intencional foi documentado em um paciente. Conclusões: A maioria dos pacientes tem baixa adesão ao tratamento medicamentoso por via oral durante o período em que eles permanecem em seus domicílios. Tais resultados sugerem o desenvolvimento e a implementação de estratégias que visem à percepção da relevância do uso correto dos medicamentos e a promoção da adesão ao tratamento medicamentoso</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125603</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p429-434</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 429-434</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 429-434</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 429-434</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125603/122536</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125604</identifier>
+        <datestamp>2020-06-25T16:02:39Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Perfil clínico-epidemiológico, critérios diagnósticos e tratamento de pacientes com leucemia de células pilosas no Estado de Pernambuco: análise de 50 casos consecutivos em 12 anos</dc:title>
+          <dc:title xml:lang="en-US">Clinical-epidemiological profile, diagnostic criteria and treatment of patients with hairy cell leukemia in the State of Pernambuco: analysis of 50 consecutive cases in 12 years</dc:title>
+          <dc:creator>Galindo, Amanda V.</dc:creator>
+          <dc:creator>Torquato, Ana Claudia S.</dc:creator>
+          <dc:creator>Leitão, Paula C. A.</dc:creator>
+          <dc:creator>Galindo, Clívia M. B. S.</dc:creator>
+          <dc:creator>Machado, Cíntia G. F.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Leucemia. Leucemia de Células Pilosas. Antígenos CD11</dc:subject>
+          <dc:subject xml:lang="en-US">Leukemia. Leukemia</dc:subject>
+          <dc:subject xml:lang="en-US">Hairy Cell. Antigens</dc:subject>
+          <dc:subject xml:lang="en-US">CD11</dc:subject>
+          <dc:description xml:lang="en-US">Study’s model: series of cases. Problem’s relevance: Describing the clinical-epidemiological profile, standard diagnostics and hairy cell leukemia’s (HCL) treatment inside a reference service of hematology in the state of Pernambuco/Brazil, considering that HCL is a little common condition in the related statethat, when suspected, is forwarded to Pernambuco’s Foundation of Hematology and Hemotherapy (HEMOPE).Thereby, a study about HCL will permit the elaboration of investigation’s protocols about the clinic as well as premature and therapeutic diagnostics, according to the laboratory and clinical-epidemiological characters of the patients of the state of Pernambuco/Brazil, propitiating a better assistance to them. Comments: It was realizeda retrospective and descriptive study involving all patients with HCL attended at HEMOPE from January 2002 to April 2014. More than 50 (fifty) cases were analysed. The age group was 54,3± 12,3 (16% women and 84% men). The symptonsverified were dizziness, hemorrhage, asthenia, anorexia, nightly sweat, recurrent infection, splenomegaly, hepatomegaly and adenomegaly. It was observed macrocytosis (22,0%), anemia (88,0%) and thrombocytopenia (98%).In the standard diagnostics, there were hairy cells in the peripheral blood of all patients and the reaction of the phosphatase’s tartar resistant was positive in 81,8% of the cases.The bone marrow’s biopsy revealed hairy cells infiltration in all patients and reticulin fibrosis in 92,0% of the cases. In the immunophenotyping, was found CD11 in 57,1% of the cases, CD25 in 89,8%, CD103 in 77,5%, FMC7 in 81,6%, Kappa in 24,5% and Lambda in 18,3%.As initial treatment, it was realized splenectomy + interferon (4,0%), splenectomy (4,0%), interferon (3,5%) and cladribine (58,0%)</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Série de casos. Importância do problema: Esse estudo objetiva descrever o perfil clínico-epidemiológico, critérios diagnósticos e tratamento de pacientes com leucemia de células pilosas (HCL - Hairy-cell leucemia,) num serviço de referência em hematologia no Estado de Pernambuco, pois a HCL é uma condição pouco frequente no Estado e quando suspeitada é encaminha ao serviço de referência no Estado que é a Fundação de Hematologia e Hemoterapia de Pernambuco (HEMOPE) – Recife/PE, logo um estudo sobre a HCL permitirá elaboração de protocolos de investigação sobre a clínica, diagnóstico precoce e terapêutico de acordo com as características clínicas-epidemiológicas e laboratoriais dos pacientes da região, promovendo uma melhor assistência. Comentários: Foi realizado estudo retrospectivo, descritivo, tipo série de casos de todos os pacientes com HCL atendidos no HEMOPE de jan/2002 a abr/2014. Foram analisados 50 casos. A média de idade foi 54,3±12,3 (16% mulheres e 84% homens). Os sinais/sintomas presentes foram tontura, hemorragias, astenia, anorexia, sudorese noturna, infecção recorrente, esplenomegalia, hepatomegalia e adenomegalia. Observou-se macrocitose (22,0%), anemia (88,0%) e plaquetopenia (98,0%). Nos critérios diagnósticos, houve tricoleucócitos no sangue periférico em todos e a reação de fosfatase tártaro-resistente foi positiva em 81,8% dos casos. A biopsia de medula óssea revelou a infiltração de tricoleucócitos em todos e fibrose reticulínica em 92,0% pacientes. No imunofenotipagem, foi constada: CD11 em 57,1%, CD25 em 89,8%, CD103 em 77,5%, FMC7 81,6%, Kappa em 24,5% e lambda em 18,3% dos pacientes. Como tratamento inicial, foi realizado esplenectomia + interferon (4%), esplenectomia (4%), interferon (35%) e cladribina (58%)</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125604</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p435-439</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 435-439</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 435-439</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 435-439</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125604/122537</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125605</identifier>
+        <datestamp>2020-06-25T16:02:38Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação das prescrições de medicamentos a idosos em um ambulatório de geriatria</dc:title>
+          <dc:title xml:lang="en-US">Evaluation of medications prescribed to in a geriatric outpatient clinic</dc:title>
+          <dc:creator>Malaquias, Bruna S. S.</dc:creator>
+          <dc:creator>Buso, Ana L. Z.</dc:creator>
+          <dc:creator>Silvano, Carla M.</dc:creator>
+          <dc:creator>Nardelli, Giovanna G.</dc:creator>
+          <dc:creator>Martins, Guilherme T.</dc:creator>
+          <dc:creator>Santos, Álvaro S.</dc:creator>
+          <dc:subject xml:lang="en-US">Aged. Pharmaceutical Preparations. Drug Prescriptions</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso. Preparações Farmacêuticas. Prescrições de Medicamentos</dc:subject>
+          <dc:description xml:lang="pt-BR">O estudo teve como objetivo analisar e descrever o perfil das prescrições de medicamentos realizadas aos idosos atendidos no ambulatório de geriatria de um hospital universitário. Trata-se de pesquisa descritiva e transversal, realizada com 194 prontuários de usuários atendidos no período de 2006 a 2012. Verificou-se prevalência do sexo feminino, faixa etária entre 71 e 80 anos e idosos casados. Observou-se o número médio de três comorbidades (dp=1,7), com prevalência no aparelho circulató- rio. O consumo médio de medicamentos foi de 4,78 (dp=2,63), porém 49% dos idosos estavam em polifarmácia, considerando a segunda consulta ambulatorial. Além disso, o consumo de cinco ou mais medicamentos esteve mais relacionado aos idosos de 71 a 80 anos. Observou-se discreta readequação com elevação no número médio de medicamentos prescritos, coerentes com o número de doenças e faixa etária, além de possível condição do idoso no encaminhamento. O referido estudo aponta a necessidade de maior monitoramento daqueles em uso de mais de cinco medicamentos, bem como maior integração com a atenção primária à saúde na prescrição de medicamentos aos idosos, com vistas a reduzir a polifarmácia, eventos adversos, interação medicamentosa e alterações fisiológicas no geronte</dc:description>
+          <dc:description xml:lang="en-US">The study aimed to analyze and describe the profile of the prescriptions of medicines carried out the elderly in geriatric outpatient clinic of a university hospital. It is a descriptive and transversal research, conducted with 194 charts of patients attended between 2006 and 2012. There was a verified female prevalence, the patients were mostly aged between 71 to 80 years and most of them were married. The average number of comorbidities was three (dp=1.7), most of them of the circulatory system. The average consumption of medicines was 4.78 (dp=2.63), but 49% of seniors were on polypharmacy as of the second ambulatory consultation. In addition, the consumption of five or more medicines were especially associated with the elderly of 71 to 80 years. A discrete elevation in the average number of prescribed medicines was observed, adequate to the number of illnesses and age group, besides the possible condition of the senior at the moment of his or her referral. This study points out the need for a greater monitoring of those using more than five medications, as well as for a better integration with primary health care when prescribing drugs for the elderly, in order to reduce polypharmacy, adverse events, drug interaction and physiological changes in elderly patients</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125605</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p440-450</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 440-450</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 440-450</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 440-450</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125605/122538</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125606</identifier>
+        <datestamp>2020-06-25T16:02:37Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Atraso diagnóstico no câncer de mama em hospital público oncológico</dc:title>
+          <dc:title xml:lang="en-US">Delay in diagnosis of breast cancer in a public oncologic hospital</dc:title>
+          <dc:creator>Tramonte, Maiara S.</dc:creator>
+          <dc:creator>Silva, Priscila C. S.</dc:creator>
+          <dc:creator>Chubaci, Silvana R.</dc:creator>
+          <dc:creator>Cordoba, Camila C. R. C.</dc:creator>
+          <dc:creator>Zucca-Matthes, Gustavo</dc:creator>
+          <dc:creator>Vieira, René A. C.</dc:creator>
+          <dc:subject xml:lang="en-US">Breast Neoplasms. Mammography. Mass Screening. Delayed Diagnosis. Health Planning</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neoplasias da Mama. Mamografia. Programas de Rastreamento. Diagnóstico Tardio. Planejamento em Saúde</dc:subject>
+          <dc:description xml:lang="en-US">Study model: A prospective, observational, transversal study. Objective: To evaluate the main factors related to delayed diagnosis of breast cancer. Method: A structured questionnaire was performed at the first clinical consultation, evaluating factors related to delayed in the diagnosis of breast cancer. Results: 156 women were selected for the study, where the majority had low education (58.9%), aged between 40 and 69 years (73.1%), lack of knowledge about breast self-examination (55.8 %) and no regularity of mammography (52.6%). 72.4 % had tumor at advanced stage at diagnosis. There was an association between delayed diagnosis and age. The multiple regression model adjusted for by age, showed increase risk related to health system (OR= 3.08), education (OR=5.46) and adherence (OR=5.67) were associated with late clinical stage at diagnosis. Conclusion: The factors related to advanced stage at diagnosis are linked and multiples. It indicates the necessity to perform strategies related to increase the adherence to mammography</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo prospectivo, observacional, transversal. Objetivo: Avaliar os principais fatores relacionados ao atraso no diagnóstico do câncer de mama. Método: Questionário aplicado na primeira consulta, avaliando os fatores relacionados ao atraso no diagnóstico do câncer de mama. Resultados: 156 mulheres foram avaliadas. A maioria apresentava baixa escolaridade (58,9%), faixa etária entre 40 e 69 anos (73,1%), falta de conhecimento sobre o autoexame mamário (55,8%) e não regularidade do exame mamográfico (52,6%). 72,4% apresentavam tumor de mama avançado ao diagnóstico. Houve associação entre o atraso diagnóstico e a faixa etária. No modelo de regressão múltipla ajustado por idade, o sistema de saúde (OR=3,08), a educação (OR=5,46) e a adesão (OR=5,67) estiveram relacionados a elevação do risco de estádio avançado ao diagnóstico. Conclusão: Os fatores relacionados ao estádio avançado ao diagnóstico são associados e múltiplos, fazendo-se a necessidade de elevação de estratégias visando elevação da adesão ao exame de mamografia</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125606</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p451-462</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 451-462</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 451-462</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 451-462</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125606/122539</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125607</identifier>
+        <datestamp>2020-06-25T16:02:36Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Tecnologia de comunicação alternativa para pessoas laringectomizadas por câncer de cabeça e pescoço</dc:title>
+          <dc:title xml:lang="en-US">Alternative communication technology applied inlaryngectomized people due to head and neck cancer</dc:title>
+          <dc:creator>Gomes, Cristiane A.</dc:creator>
+          <dc:creator>Rugno, Fernanda C.</dc:creator>
+          <dc:creator>Rezende, Gabriela</dc:creator>
+          <dc:creator>Cardoso, Renata C.</dc:creator>
+          <dc:creator>De Carlo, Marysia M. R. P.</dc:creator>
+          <dc:subject xml:lang="en-US">Communication. Quality of Life. Head and Neck Cancer</dc:subject>
+          <dc:subject xml:lang="pt-BR">Comunicação. Qualidade de Vida. Câncer de Cabeça e Pescoço</dc:subject>
+          <dc:description xml:lang="en-US">Study design: Integrative literature review. Aims: To summarize the main results of research and publications related to the use of alternative communication technologies for people with restrictions on their communication skills, particularly those laryngectomized with head and neck cancer. Method: This study was based on bibliographic research in electronic databases: PubMed, LILACS, SCIELO and CINAHL through the use of the following descriptors: “Head and Neck Neoplasms”, “Head and Neck Cancer”, “Quality of Life” and “Communication” , their corresponding in Portuguese and their crosses. Results: Selected 14 articles published in the period from 2004 to 2014, categorized into two units of analysis: I: Illness and treatment impact on quality of life and physical aspects, functional and symptoms (N = 5), II: Psychosocial aspects related to the treatment of head and neck cancer (N = 9). The articles indicated that the disease and the treatment of cancer cause body changes, at times traumatic, with important impacts on the functional and esthetic aspects, with speech, nutrition and physical appearance alterations, besides affecting the psychological factors. The laryngectomy is highly stressing and compromises the communication and social interactions, particularly in relation to their families and the health team. The consequences are manifested in everyday life of these subjects, including emotional responses ranging in a singular way to each individual. The use of alternative communication resources can encourage active social participation by people with communication difficulties and favor therefore their quality of life (QoL). Conclusion: The use of alternative resources for communication, by partial or total laryngectomized favors the exercise of the autonomy, maintaining communication skills, active social participation and improves QoL in person’s with cancer</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Revisão Integrativa da Literatura. Objetivo: sintetizar os principais resultados de pesquisas e publicações relacionados ao uso de tecnologias de comunicação alternativa por pessoas com restrições de sua capacidade de comunicação, particularmente daquelas laringectomizadas por câncer de cabeça e pescoço. Método: estudo baseado em levantamento bibliográfico nas bases de dados eletrônicas: PubMed, LILACS, SCIELO e CINAHL, através do uso dos descritores: “Head and Neck Neoplasms”, “Head and Neck Cancer”, “Quality of Life” e “Communication”, seus correspondentes em português e seus cruzamentos. Resultados: Foram selecionados 14 artigos, publicados no período de 2004 à 2014, categorizados em duas unidades de análise: I: Impacto do adoecimento e do tratamento na qualidade de vida e aspectos físicos, funcionais e sintomas (N=5), II: Aspectos psicossociais relacionados ao tratamento de câncer de cabeça e pescoço (N=9). Os artigos indicaram que o adoecimento e o tratamento do câncer causam alterações corporais, por vezes traumáticas, com impactos importantes sobre os aspectos funcionais e estéticos, com alterações da fala, da alimentação e aparência física, além de afetar fatores psicológicos. A laringectomia é altamente estressante e compromete a comunicação e as interações sociais, particularmente em relação a seus familiares e equipe de saúde. Essas consequências manifestam-se na vida cotidiana desses sujeitos, incluindo respostas emocionais que variam de forma singular a cada individuo. O uso de recursos de comunicação alternativa pode favorecer a participação social ativa por parte de pessoas com dificuldades de comunicação e favorecer, assim, sua qualidade de vida (QV). Conclusão: O uso de recursos alternativos para a comunicação, por parte de laringectomizados parciais ou totais, favorece o exercício da autonomia, a manutenção da capacidade de comunicação, a ativa participação social e melhora da QV da pessoa com câncer</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125607</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p463-474</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 463-474</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 463-474</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 463-474</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125607/122540</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125608</identifier>
+        <datestamp>2020-06-25T16:02:36Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Efeito do metilfenidato na avaliação do processamento auditivo: um estudo de caso</dc:title>
+          <dc:title xml:lang="en-US">Effects of methylphenidate on auditory processing assessment: a case study</dc:title>
+          <dc:creator>Melo, Ândrea de</dc:creator>
+          <dc:creator>Oppitz, Sheila Jacques</dc:creator>
+          <dc:creator>Gois, Marjana</dc:creator>
+          <dc:creator>Garcia, Michele Vargas</dc:creator>
+          <dc:creator>Biaggio, Eliara Pinto Vieira</dc:creator>
+          <dc:subject xml:lang="en-US">Methylphenidate. Auditory Perception. Attention. Evoked Potentials</dc:subject>
+          <dc:subject xml:lang="en-US">Auditory. Adult</dc:subject>
+          <dc:subject xml:lang="pt-BR">Metilfenidato. Percepção Auditiva. Atenção. Potenciais Evocados Auditivos. Adulto</dc:subject>
+          <dc:description xml:lang="en-US">Model of the study: case report. Introduction: The Auditory Processing Disorder (APS) and Attention Deficit Hyperactivity Disorder (ADHD) show similarity for signs and symptoms, however are unique and comorbidities may be presented correlated. Importance of the study: APD and ADHD present similar symptoms and may be correlated, but there is a need for differential diagnosis between such comorbidities to improve the quality of life of the subject. Purpose: This study analyzed the results of the auditory processing assessment in a subject with attention deficit, before and after use of the Methylphenidate medicine. Methods: It was used a battery of behavioral tests of auditory processing and the LongLatency Auditory Evoked Potential (LLAEP) in two different moments, before and after pharmacological treatment for attention deficit disorder. Comments: Participated on this study a subject of 22 years assessed in the Audiology Clinic of a University Hospital, because reported comprehension difficulty of speech in noise. The clinical history showed perinatal complications (prematurity, low birth weight, remain in neonatal ICU) and attention complaints over the years. Results: The results tests showed that there was a subtle improvement in performance during behavioral assessment of auditory processing, as well as in the electrophysiological assessment after the medication methylphenidate. Conclusion: These results emphasize the speech therapists/audiologists about the need to consider the use of medication methylphenidate by the patient at the time of auditory processing evaluation, as well as therapeutic process</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: relato de caso. Introdução: O Distúrbio do Processamento Auditivo (DPA) e o Transtorno de Déficit de Atenção e Hiperatividade (TDAH) apresentam semelhança quanto aos sinais e sintomas, contudo são comorbidades singulares e podem apresentar-se correlacionadas. Importância do estudo: O DPA e o TDAH apresentam semelhança de sintomas e podem estar correlacionados, mas existe a necessidade de diagnóstico diferencial entre tais comorbidades para melhorar a qualidade de vida do sujeito. Objetivo: Este estudo buscou analisar os resultados da avaliação do processamento auditivo, em um sujeito com déficit de atenção, pré e pós uso do medicamento Metilfenidato. Método: Realizou-se uma bateria de testes comportamentais do processamento auditivo e o Potencial Evocado Auditivo de Longa Latência (PEALL) em dois momentos distintos, pré e pós tratamento medicamentoso para o déficit de atenção. Comentários: Participou do estudo, um sujeito de 22 anos avaliado no Ambulatório de Audiologia de um Hospital Universitário, apresentando queixas de dificuldade de compreensão de fala no ruído. A história clínica evidenciou intercorrências perinatais (prematuridade, baixo peso, permanência em UTIneo) e queixa de desatenção ao longo dos anos. Resultados: Houve sutil melhora no desempenho nos testes comportamentais do processamento auditivo, bem como, na avaliação eletrofisiológica após o uso do medicamento Metilfenidato. Conclusão: Tais resultados alertam aos fonoaudiólogos sobre a necessidade de se considerar o uso do medicamento metilfenidato pelo paciente no momento da avaliação de processamento auditivo, bem como, processo terapêutico</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125608</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p475-482</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 475-482</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 475-482</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 475-482</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125608/154313</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125610</identifier>
+        <datestamp>2020-06-25T16:02:35Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Teratoma ovariano imaturo gigante com teratoma maduro bilateral: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Giant ovarian immature teratoma with bilateral mature teratoma: case report</dc:title>
+          <dc:creator>Dan, Vanderson J. L.</dc:creator>
+          <dc:creator>Zacharias, Raquel</dc:creator>
+          <dc:creator>Martins Júnior, Valdir R.</dc:creator>
+          <dc:creator>Genaro, André</dc:creator>
+          <dc:subject xml:lang="pt-BR">Teratoma. Ovário. Procedimentos Cirúrgicos Operatórios. Quimioterapia Adjuvante. Imuno-Histoquímica</dc:subject>
+          <dc:subject xml:lang="en-US">Teratoma. Ovary. Surgical Procedures</dc:subject>
+          <dc:subject xml:lang="en-US">Operative. Chemotherapy</dc:subject>
+          <dc:subject xml:lang="en-US">Ad juvant . Immunohistochemistry</dc:subject>
+          <dc:description xml:lang="en-US">Immature teratoma of the ovary is a malignant neoplasm composed of undifferentiated tissue that arises from embryonic cells. And the mature teratoma is a benign neoplasm composed of differentiated tissues. This paper aims to report the case of a 21-year-old pacient with giant immature teratoma in left ovary associated with mature ovarian teratoma bilateral, due to the association of teratoma with mature teratoma ipsilateral and contralaterally, combined with its outstanding increased size (36 cm), is unusual. Exploratory laparotomy, with cytoreductive pan-hysterectomy and bilateral salpingooferectomia were performed. The patient received adjuvant chemotherapy with BEP regimen (bleomycin, etoposide and cisplatin) in four cycles with intervals of 21 days, coursing with good evolution</dc:description>
+          <dc:description xml:lang="pt-BR">O teratoma imaturo de ovário é uma neoplasia maligna que tem origem em células embrionárias composta de tecidos indiferenciados. E o teratoma maduro é uma neoplasia benigna formada por tecidos diferenciados. Este trabalho tem por objetivo relatar o caso de uma paciente de 21 anos de idade com teratoma imaturo gigante em ovário esquerdo associado a teratoma ovariano maduro bilateral, devido à associação do teratoma com teratoma maduro ipsi e contralateralmente, combinada ao marcante tamanho aumentado (36 cm) ser pouco comum. Foi realizada laparotomia exploratória, citorredutora, com pan-histerectomia e salpingooferectomia bilateral. A paciente recebeu quimioterapia adjuvante, com esquema BEP (bleomicina, etoposídeo e cisplatina) em quatro ciclos com intervalos de 21 dias, cursando com boa evolução</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125610</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p483-489</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 483-489</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 483-489</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 483-489</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125610/122542</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/125611</identifier>
+        <datestamp>2020-06-25T16:02:34Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Tratamento videolaparoscópico da suboclusão intestinal causada por hérnia diafragmática pós-traumática: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Laparoscopic treatment of bowel obstruction as a late presentation of traumatic diaphagmatic hernia: case report</dc:title>
+          <dc:creator>Diniz, Ianê C.</dc:creator>
+          <dc:creator>Rodrigues, Milena M.</dc:creator>
+          <dc:creator>Silva, Thainá S. M.</dc:creator>
+          <dc:creator>Lucena, Carolina B.</dc:creator>
+          <dc:creator>Barbosa, Fábio Colagrossi Paes</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hérnia Diafragmática Traumática. Laparoscopia. Ferimentos e Lesões</dc:subject>
+          <dc:subject xml:lang="en-US">Hernia</dc:subject>
+          <dc:subject xml:lang="en-US">Diaphragmatic</dc:subject>
+          <dc:subject xml:lang="en-US">Traumatic. Laparoscopy. Wounds and Injuries</dc:subject>
+          <dc:description xml:lang="en-US">Design of the study: Case report. Objectives: To present, through a case report, a post-traumatic diaphragmatic hernia with late diagnosis and reinforce the importance of systematic research of diaphragmatic injury in thoracoabdominal trauma. Relevance: the incidence of post traumatic diaphragmatic hernia in polytrauma is 8% and presents little morbidity if diagnosed at the time of trauma. However, the morbidity increases significantly if it is diagnosed late. Surgical repair is the appropriate treatment and laparoscopic approach presents itself as a minimally invasive alternative. Case report: Patient with late left diaphragmatic lesion diagnosed four years after penetrating trauma. As clinical signs presented strong left hypochondrial pain, and stop elimination of gases and faeces. He was submitted to videolaparoscopy, with a view of diaphragmatic hernia, reduction of herniated organs, suture of the diaphragmatic defect and thoracic drainage. Had an uneventful recovery and was discharged on the fourth postoperative day. Comments: post traumatic diaphragmatic hernia should be investigated in all patients with lesions in thoracoabdominal region. As can be asymptomatic, it is necessary systematic research to diagnosis, avoiding late complications associated with high morbidity and mortality rates</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Relato de caso. Objetivos: relatar um caso de hérnia diafragmática pós traumática com diagnóstico tardio, apresentando-se como suboclusão intestinal e reforçar a importância da pesquisa sistematizada de lesão diafragmática em traumatismos toracoabdominais. Importância do problema: a incidência de hérnia diafragmática pós traumática em politraumatizados é de 8% e apresenta pequena morbimortalidade se diagnosticada no momento do trauma. Porém, esta aumenta significativamente se for diagnosticada tardiamente, diante de complicações. O reparo cirúrgico é o tratamento indicado e a abordagem videolaparoscópica apresenta-se como uma alternativa minimamente invasiva. Relato do caso: Paciente com lesão diafragmática esquerda diagnosticada quatro anos após trauma penetrante. Como sinais clínicos, apresentou dor em hipocôndrio l esquerdo, de forte intensidade e parada de eliminação de gases e fezes. Foi submetido à videolaparoscopia, com visualização da hérnia diafragmática, redução dos órgãos herniados, sutura do defeito diafragmático e drenagem torácica. Comentários: a hérnia diafragmática pós traumática deve ser investigada em todo paciente com lesão em região toracoabdominal. Como pode ser assintomática, é necessário investigação sistematizada para seu diagnóstico, evitando complicações tardias, associadas a altas taxas de morbimortalidade</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-11-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/125611</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i5p490-494</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 5 (2016); 490-494</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 5 (2016); 490-494</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 5 (2016); 490-494</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/125611/122543</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127436</identifier>
+        <datestamp>2020-06-25T16:02:33Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Efeitos da laparotomia ou da videolaparoscopia para colecistectomia sobre a mobilidade diafragmática e toracoabdominal</dc:title>
+          <dc:title xml:lang="en-US">Effects of laparotomy or laparoscopicprocedures for cholecystectomy on diaphragmatic and thoracoabdominal mobility</dc:title>
+          <dc:creator>Pedrini, Aline</dc:creator>
+          <dc:creator>Saltiél, Rossana V.</dc:creator>
+          <dc:creator>Gonçalves, Márcia A.</dc:creator>
+          <dc:creator>Leal, Bruna E.</dc:creator>
+          <dc:creator>Matte, Darlan L.</dc:creator>
+          <dc:creator>Paulin, Elaine</dc:creator>
+          <dc:subject xml:lang="en-US">Cholecystectomy. Laparatomy. Laparoscopy. Respiratory Mechanics. Diaphragm mobility. Respiratory Function Tests</dc:subject>
+          <dc:subject xml:lang="pt-BR">Colecistectomia. Laparotomia. Laparoscopia. Mecânica Respiratória. Diafragma. Testes de Função Respiratória</dc:subject>
+          <dc:description xml:lang="en-US">Design of the study: Observational descriptive and cross sectional study. Objective: To verify the effects of laparotomy or laparoscopicprocedures for cholecystectomy on lung function, diaphragmatic and thoracoabdominal mobility. Methods: We evaluated 18 individuals who underwent cholecystectomy by either laparotomy (CLG n=9) or by a laparoscopic procedure (LCG, n=9). The participants were evaluated in preoperative and in the 2nd postoperative day: anthropometrics measures, cardiorrespiratory parameters, intensity of pain, pulmonary function, diaphragmatic mobility and thoracoabdominal mobility. For statistical analysis, the Wilcoxon test was applied to compare the pre and postoperative of both groups, Mann-Whitney test was applied to comparison between groups (p≤0.05). Results: Diaphragmatic mobility was reduced in both groups whereas thoracoabdominal mobitity al all levels were reduced only in CLG (p&amp;lt;0.05). In LCG, there was a significant decrease of thoracoabdominal mobility only in the umbilical region (p&amp;lt;0.008). By comparing the values of thoracoabdominal mobility between groups postoperatively, there was a difference only in umbilical mobility (p=0.02). We found a significant reduction in vital capacity (VC) in LCG only (p=0.05). Conclusion: Laparotomy and laparoscopic procedures for cholecystectomy reduce the mobility of the diaphragm, but only laparotomy impairs thoracoabdominal mobility in the three levels, axillary, xiphoid and umbilical</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127436</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p495-503</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 495-503</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 495-503</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 495-503</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127436/124594</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127437</identifier>
+        <datestamp>2020-06-25T16:02:32Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Comparação de indicadores de perfis glicêmico e lipídico entre crianças e adolescentes obesos egressos de serviço público ou privado da cidade de Ribeirão Preto (SP)</dc:title>
+          <dc:title xml:lang="en-US">Comparison of glycemic and lipid profiles indicators among obese children and adolescents treated at public or private services from the city of Ribeirão Preto (SP)</dc:title>
+          <dc:creator>Nogueira-de-Almeida, Carlos A.</dc:creator>
+          <dc:creator>Pires, Lara A. F.</dc:creator>
+          <dc:creator>Santos, Rafaela G. dos</dc:creator>
+          <dc:subject xml:lang="pt-BR">Obesidade.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Criança. Adolescente. Insulina. Educação em Saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity. Child. Adolescent. Insulin. Health Education</dc:subject>
+          <dc:description xml:lang="en-US">Design: Observational cross-sectional. Objectives: To compare the lipid and glycemic profiles of obese children and adolescents, followed at a public or a private health service. Methods: A cross-sectional study involving 113 obese patients, aged 7 to 18 years, conducted at two clinics, one public (n = 51) and the other private ( n = 62). Anthropometric data and blood samples were collected and glucose, insulin, HOMA and lipid profile have been compared between groups. Results: regarding averages, it was observed differences only for HDL, with lower values for public service. The prevalence of indicators outside the normal range, has always been above 45%, with the exception of hyperglycemia witch was rare. Only the prevalence of individuals with low HDL was different between groups, being lower at the private service. Conclusions: there was almost no hyperglycemia, but the prevalence of dyslipidemia and insulin resistance were high in both services. HDL was the only indicator that showed differences between the two groups and, considering that it is the most sensitive to the quality of nutrition and physical activity, it may be suggested that at the public health and on the individual management, these aspects should be better managed in lower income populations</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo: Observacional transversal. Objetivo: comparar os perfis lipídico e glicêmico de crianças e adolescentes obesos atendidos em serviços de saúde público e privado. Metodologia: estudo transversal, envolvendo 113 indivíduos obesos com idades entre 7 e 18 anos, conduzido em dois ambulatórios, um público (n=51) e outro privado (n=62). Foram colhidos dados antropométricos e amostras de sangue, tendo-se comparado, entre os grupos, glicemia, insulinemia, HOMA e lipidograma. Resultados: em relação às médias, apenas para o HDL houve diferença, sendo os valores inferiores para o serviço público. Quanto à prevalência de indicadores fora da faixa de normalidade, esteve sempre acima de 45%, com exceção da hiperglicemia que se mostrou rara. Apenas a prevalência de indivíduos com HDL baixo foi diferente entre os grupos, sendo inferior para o serviço privado. Conclusões: Não se observou hiperglicemia, mas as prevalências de dislipidemia e resistência insulínica foram elevadas em ambos os serviços. O HDL foi o único indicador que se mostrou diferente entre os dois grupos e, considerando-se que ele é o mais sensível à qualidade da alimentação e à atividades física, pode-se sugerir que, tanto do ponto de vista de saúde pública como individual, esses aspectos devam ser melhor cuidados nas populações de menor renda</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127437</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p504-510</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 504-510</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 504-510</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 504-510</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127437/124595</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127438</identifier>
+        <datestamp>2020-06-25T16:02:32Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Expectations of the pediatric intensive care unit team for the clinical pharmacist performance</dc:title>
+          <dc:title xml:lang="pt-BR">Expectativas da equipe da unidade de terapia intensiva pediátrica quanto à atuação do farmacêutico clínico</dc:title>
+          <dc:creator>Ungari, Andrea Q.</dc:creator>
+          <dc:creator>Pereira, Laura M. V.</dc:creator>
+          <dc:creator>Aragon, Davi C.</dc:creator>
+          <dc:creator>Abramovicius, Alexandra C.</dc:creator>
+          <dc:creator>Penna, Ana T. A.</dc:creator>
+          <dc:creator>Reis, Débora A.</dc:creator>
+          <dc:creator>Malfará, Márcia R. M.</dc:creator>
+          <dc:creator>Sato, Talita C.</dc:creator>
+          <dc:creator>Forster, Aldaísa C.</dc:creator>
+          <dc:creator>Carlott, Ana Paula C. P.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Serviço de Farmácia Hospitalar. Equipe de Assistência ao Paciente. Segurança do Paciente. Pediatria</dc:subject>
+          <dc:subject xml:lang="en-US">Pharmacy Service</dc:subject>
+          <dc:subject xml:lang="en-US">Hospital. Patient Care Team. Patient Safety. Pediatrics</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: O objetivo do estudo foi conhecer as expectativas da equipe da unidade de terapia intensiva pediátrica quanto às atividades a serem realizadas pelo farmacêutico clínico a fim de planejar seu trabalho junto com a equipe multidisciplinar. Desenho do estudo: Estudo transversal, envolvendo a equipe multidisciplinar da unidade de terapia intensiva pediátrica de um hospital universitário terciário. Método: Um questionário autopreenchível contendo perguntas sobre as expectativas da equipe da unidade de terapia intensiva pediátrica em relação ao papel do farmacêutico clínico na equipe multidisciplinar foi aplicado aos membros da equipe, utilizando a escala de resposta do tipo Likert. Resultados: Os auxiliares/ técnicos de enfermagem e fisioterapeutas mostraram maior expectativa em relação a questões relacionadas com a administração de medicamentos; para enfermeiros, a expectativa sobre o desempenho do farmacêutico clínico focou-se em questões relacionadas à prescrição de medicações, como a avaliação da antibioticoterapia, enquanto os médicos consideraram mais importantes informações sobre a terapia medicamentosa, como a notificação de alergias relacionadas às drogas, informações sobre o aprazamento de medicamentos e avaliação da administração de drogas por sonda gástrica ou enteral. Conclusões: As expectativas da equipe variaram de acordo com as necessidades e a rotina de cada categoria profissional. Os resultados deste estudo têm contribuído para a implantação do serviço de farmácia clínica em uma unidade de terapia intensiva pediátrica brasileira</dc:description>
+          <dc:description xml:lang="en-US">Objective: We aimed to know the expectations of a pediatric intensive care unit staff for the activities to be undertaken by the clinical pharmacist, in order to plan her work along with the multidisciplinary team. Study design: A cross-sectional study, involving the multidisciplinary team of the pediatric intensive care unit of a tertiary-care university hospital. Method: A self-completion questionnaire containing questions regarding expectations of the pediatric intensive care unit staff for the role of the clinical pharmacist in the multidisciplinary team was applied to the team members, using a Likert-type scale response. Results: The nursing assistants/technicians and physiotherapists showed higher expectation for issues related to administration of medications; for nurses, the expectation for the clinical pharmacist performance focused on issues related to prescription drugs, such as evaluation of antibiotic therapy, while physicians considered most important information on drug therapy, as notification of allergies related to drugs, information on period of validity of medicines and evaluation of drug administration by gastric or enteral tubes. Conclusions: Team expectations varied according to the needs and routine of each professional category. The results of this study have contributed to implementation of the clinical pharmacy service in a Brazilian pediatric intensive care unit</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127438</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p511-516</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 511-516</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 511-516</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 511-516</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127438/124596</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127440</identifier>
+        <datestamp>2020-06-25T16:02:31Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Panorama da triagem neonatal para fenilcetonúria no Brasil</dc:title>
+          <dc:title xml:lang="en-US">Overview of neonatal screening for phenylketonuria in Brazil</dc:title>
+          <dc:creator>Marqui, Alessandra B. Trovó de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Fenilcetonúrias. Triagem Neonatal. Saúde da Criança. Erros Inatos do Metabolismo</dc:subject>
+          <dc:subject xml:lang="en-US">Phenylketonurias. Neonatal Screening. Child Health. Metabolism</dc:subject>
+          <dc:subject xml:lang="en-US">Inborn Errors</dc:subject>
+          <dc:description xml:lang="en-US">Objectives: To present an overview of neonatal screening for phenylketonuria in Brazil. Methodology: An electronic search was made in LILACS, employing the terms “neonatal screening” and “Brazil” and “Phenylketonuria”. Ten papers were selected for reading because they met the established criteria. Results: The studies were conducted in the states of Sergipe, Tocantins, Bahia, Rio de Janeiro, Santa Catarina, Mato Grosso and São Paulo, and the coverage ranged from 32.3% to 95%. Publications on the situation of neonatal screening for phenylketonuria are scarce in several states of our country, making it difficult to generalize and compare the data. Conclusions: Screening for phenylketonuria needs to be improved, especially with regard to the age of starting treatment. It is a complex public health program that requires greater attention to fully achieve its goals and increase its effectiveness</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Apresentar um panorama da triagem neonatal para Fenilcetonúria no Brasil. Metodologia: Foi realizada uma busca eletrônica, no LILACS, empregando os termos “neonatal screening” e “Brazil” e “Phenylketonuria”. Dez artigos foram selecionados para leitura por cumprirem os critérios previamente estabelecidos. Resultados: Os estudos foram realizados nos estados de Sergipe, Tocantins, Bahia, Rio de Janeiro, Santa Catarina, Mato Grosso e São Paulo, e a cobertura variou de 32,3% a 95%. Há uma escassez de publicações sobre a situação da triagem neonatal para fenilcetonúria nos diversos estados de nosso país, o que dificulta a generalização e comparação dos dados. Conclusão: A triagem para fenilcetonúria precisa ser melhorada, visando principalmente a antecipação da idade de início do tratamento. Constitui um programa de saúde pública complexo, que requer maior atenção para atingir plenamente seus objetivos e aumentar sua efetividade</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127440</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p517-525</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 517-525</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 517-525</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 517-525</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127440/124597</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127441</identifier>
+        <datestamp>2020-06-25T16:02:30Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Prevalence of infections with potential for vertical transmission in pregnant women seen ata University Hospital in southern Brazil</dc:title>
+          <dc:title xml:lang="pt-BR">Prevalência de infecções de possível transmissão vertical em gestantes de um Hospital Universitário no Sul do Brasil</dc:title>
+          <dc:creator>Gonçalves, Carla V.</dc:creator>
+          <dc:creator>Peres, Anna Carolina A</dc:creator>
+          <dc:creator>Zatt, Daniel B</dc:creator>
+          <dc:creator>Zanella, Natália do C</dc:creator>
+          <dc:creator>Schneider, Eliana I</dc:creator>
+          <dc:creator>Daros, Patrícia</dc:creator>
+          <dc:subject xml:lang="en-US">Prevalence. Pregnant Women. Infection</dc:subject>
+          <dc:subject xml:lang="pt-BR">Prevalência. Gestantes. Infecção</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Trata-se de estudo retrospectivo através de revisão de prontuários junto ao Servi- ço de Arquivo Médico e Estatística (SAME) do Hospital Universitário Dr. Miguel Riet Corrêa Jr. (HU-FURG) das mulheres internadas no Serviço de Ginecologia e Obstetrícia de 01/01/2012 a 31/12/2012. Objetivo: Avaliar a prevalência de infecções de possível transmissão vertical entre as gestantes atendidas em um Hospital Universitário. Métodologia: Foram incluídos os prontuários das gestantes que internaram para parto ou aborto e excluídas as mulheres não residentes no município. Foi preenchido questionário estruturado e pré-codificado, com os dados coletados da Declaração de Nascido Vivo (DNV) e/ou da ficha de internação da paciente. O diagnóstico de infecção foi confirmado pelos exames realizados na internação em anexo ao prontuário. Realizou-se a análise bruta e ajustada com o cálculo dos intervalos de confiança de 95%, o p- valor pelo teste de qui-quadrado no programa SPSS 19.0. Resultados: Entre 1070 mulheres incluídas no estudo 77 (7,2%) tinham alguma infecção, sendo 31 (2,9%) HIV, 29 (2,7%) sífilis, 11 (2%) toxoplasmose IgM, 5 (0,5%) hepatite C, 2 (0,2%) hepatite B e 2 co-infectadas. Após a análise ajustada observamos que as mulheres com menos de 5 consultas ou sem pré-natal tinham risco 2 e 5 vezes maior de ter infecção, respectivamente. Conclusões: Encontramos alta prevalência de infecções em gestante principalmente HIV e sífilis. Chamamos a atenção para o fato de que as mulheres que menos procuram o serviço de pré-natal são as mais vulneráveis a apresentarem alguma infecção</dc:description>
+          <dc:description xml:lang="en-US">Study design: This is a retrospective study using chart review at the Medical File and Statistics Service (SAME) of the University Hospital Dr. Miguel Riet Corrêa Jr. (HU-FURG) of women admitted in the service and Gynecology Obstetrics 01/01/2011 to 31/12/2012. Objective: To evaluate the prevalence of infections potentially transmitted vertically in pregnant women seen at a University Hospital. Methods: Only medical records of pregnant women hospitalized for childbirth or abortion were considered for analysis; charts from women not living in the city were excluded. A structured precoded questionnaire was completed with data obtained from the Live Birth Declaration and/or the admission record of the patient. The diagnosis of infection confirmed by tests performed on admission in the attached chart. A crude and adjusted analysis was performed with the calculation of the 95% confidence intervals, p-value for the chi- square test in SPSS 19.0 program. Results: Seventy-seven (77) of the 1070 women included in the study had an infection being 31 (2.9%) HIV, 29(2.7%) syphilis, 11 (2%) IgM toxoplasmosis, 5(0.55) Hepatitis C, 2 (0.2%) Hepatitis B and 2 co-infection. The adjusted risk analysis showed that women with less than five pre-natal visits or none had 2 and 5 times higher risk of infection respectively. Conclusions: A high prevalence of infections with the potential for vertical transmission, especially HIV and syphilis was observed. It is worth remarking that women that do not seek for prenatal care are more likely to have an infectious disease</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127441</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p526-532</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 526-532</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 526-532</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 526-532</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127441/124598</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127443</identifier>
+        <datestamp>2020-06-25T16:02:29Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Alterações estruturais e funcionais relacionadas aos déficits de memória em idosos não dementes</dc:title>
+          <dc:title xml:lang="en-US">Structural and functional changes related to memory deficit in non-demential elderly individuals</dc:title>
+          <dc:creator>Corrêa, Nísea de A.</dc:creator>
+          <dc:creator>Foss, Maria P.</dc:creator>
+          <dc:creator>Diniz, Paula R. B.</dc:creator>
+          <dc:subject xml:lang="en-US">Central Nervous System. Structural Changes. Functional Changes. Memory deficits. Aging. Normal Aging. Magnetic Resonance Imaging</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sistema Nervoso Central. Alterações Estruturais. Alterações Funcionais. Déficits de Memória. Idosos não dementes. Envelhecimento. Imagem por Ressonância Magnética</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Verificar as alterações estruturais e funcionais, evidenciadas através da imagem por ressonância magnética, relacionadas aos déficits de memória identificados em idosos normais, quando comparados a adultos jovens. Metodologia: Procedeu-se à revisão sistemática, cujo protocolo obedeceu ao fluxograma do Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA). Foram investigadas as bases de dados PubMed, Scopus, EBSCO, utilizando o gerenciador de referências JabRef, na versão 2.10, e o Web of Science, pelo website. Foram incluídos artigos de estudos quase experimentais, transversais, em coorte ou tipo caso-controle, publicados entre 2005 e 2014, em periódicos indexados nacionais e internacionais, cuja amostra incluísse idosos a partir de 60 anos, não dementes, submetidos à investigação de alterações estruturais e funcionais do sistema nervoso central, por ressonância magnética e sua associação com déficits de memória avaliados por testes neuropsicológicos. Resultados: Quanto à técnica de imagem empregada, identificaram-se dois estudos com imagem por ressonância magnética estrutural, seis estudos com utilização de imagem por ressonância magnética funcional, e quatro estudos que empregaram ambas as técnicas. Nos 12 estudos foi identificado o emprego de 38 testes neuropsicológicos distintos, com uma média de cinco testes por estudo, com variação de um a 12 testes. Dentre os testes mais usados, estiveram o WAIS Digit Span Backwards (em sete estudos), o Trail Making Test A and B (em quatro estudos) e o Wechsler Memory Scale (em quatro estudos). Conclusão: Os estudos demonstraram que no envelhecimento normal, ocorre redução do volume de substância branca para-hipocampal, do volume do hipocampo e do córtex entorrinal com redução de memória verbal, possivelmente por desmielinização das fibras; redução das vias que ligam o lobo temporal e frontal, contribuindo para a redução da memória episódica, da memória de trabalho e da fluência verbal; redução da supressão de informações irrelevantes, o que contribui para menor registro de informação; alterações das áreas frontal e parietal que comprometem a memória de reconhecimento; modificações na atividade e na conectividade do default mode network; reorganização das funções cognitivas, bem como alentecimento de resposta por provável redução de ativação do córtex pré- frontal</dc:description>
+          <dc:description xml:lang="en-US">Objective: Based on Magnetic Resonance Imaging (MRI), verify the structural and functional changes related to memory deficits in non-demented elderly individuals in comparison with young adults. Methodology: Proceeded a systematic review based on Preferred Reporting Items for Systematic Review and Meta-Analysis (PRISMA) fluxogram. The search was done on PubMed, Scopus and EBSCO databases using JabRef 2.10, and Web of Science. It was included in the analysis quasi-experimental, cross-sectional, cohort and case-control studies published between 2005 and 2014 in national and international indexed periodicals that had as sample: non-demented individuals older than 60 years old, who were submitted to MRI investigation of their for any brain structural and functional changes associated with memory deficits, identified in neuropsychologicals tests. Results: About the imaging technique, we reviewed studies that used structural MRIs (two articles), functional MRIs (six articles), both techniques (four articles). In the 12 studies, 38 distinct neuropsychological tests were used, an average of five different tests for each study (variation of 1-12). The most used tests were WAIS Digit Span Backwards (seven articles), Trail Making Test A and B (four articles) and Wechsler Memory Scale (four articles). Conclusion: The review showed that in normal aging the parahippocampal white substance, the hippocampus volume and entorhinal cortex slightly shrink, causing verbal memory reduction, possibly due to fiber demyelination; reduced connections between temporal and frontal lobes contributing to an impairement of episodic, working memory and verbal fluency; reduction suppression of irrelevant information, affecting the register of information; changes on frontal and parietal areas, compromising recognition memory; modifications in activity and connectivity of the default mode network; reorganization of cognitive functions and also a slower response, probably due to reduction of pre-frontal cortex activation</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127443</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p533-548</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 533-548</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 533-548</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 533-548</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127443/124599</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127445</identifier>
+        <datestamp>2020-06-25T16:02:28Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Meta-analysis of the effectiveness of exercise in reducing blood pressure of postmenopausal hypertensive women</dc:title>
+          <dc:title xml:lang="pt-BR">Metanálise da eficácia do exercício físico em reduzir a pressão arterial de mulheres hipertensas na pós-menopausa</dc:title>
+          <dc:creator>Costa, Janine Araújo da</dc:creator>
+          <dc:creator>Borges, Grasiely Faccin</dc:creator>
+          <dc:subject xml:lang="en-US">Exercise. Hypertension. Arterial Pressure. Postmenopause. Review</dc:subject>
+          <dc:subject xml:lang="en-US">Systematic</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício. Hipertensão. Pressão arterial. Pós-menopausa. Revisão Sistemática</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Revisão sistemática/metanálise. Objetivo: Avaliar a eficácia do exercício físico em reduzir a pressão arterial em mulheres hipertensas na pós-menopausa. Metodologia: Trata-se uma revisão de literatura do tipo metanálise, realizado através das bases de dados LILACS, SCIELO, BIREME e PubMed, considerando artigos originais, publicados no período de 2004 a 2014. Resultados: Foram incluídos 10 estudos que avaliaram o efeito do exercício físico em mulheres hipertensas na pós-menopausa totalizando 192 mulheres no grupo experimental e 177 mulheres no grupo controle. Dos estudos selecionados, a maioria (cinco) avaliou exercícios aeróbios combinados com exercícios resistidos. A metanálise dos dados mostrou que o exercício físico promoveu redução da pressão arterial sistólica [-7,4 (-10,4 a -4,5) mmHg; média e IC95% respectivamente; P&amp;lt;0,0001; Z= 4,95] e diastólica [-4,4 (-6,1 a -2,7) mmHg, média e IC95% respectivamente; P&amp;lt;0,0001; Z= 5,22]. Conclusão: Os resultados da metanálise demonstraram que o exercício físico é eficaz em reduzir a pressão arterial de mulheres na pós-menopausa. Estudos realizados por mais tempo e especialmente os que utilizaram exercícios aeróbios combinados com exercícios resistidos obtiveram melhores resultados</dc:description>
+          <dc:description xml:lang="en-US">Study design: Systematic review/metanalysis. Objective: To determine the effectiveness of exercise in reducing systolic and diastolic systemic blood pressure in postmenopausal hypertensive women. Methodology: A metanalysis type review of original articles published between 2004-2014 in the databases LILACS, SCIELO, PubMed and BIREME.. Results: Ten studies that evaluated the effect of exercise in postmenopausal hypertensive women were considered in the present metanalysis totalizing 192 women in the experimental group and 177 women in the control group. The majority of the studies (five) determined the effect of aerobic exercise combined with resistance exercise. Data metanalysis showed that physical exercise promoted a reduction in systolic and diastolic systemic blood pressure [systolic:-7,4 (-10,4 a -4,5) mmHg; mean and CI95% respectively P&amp;lt;0,0001; Z= 4,95] and [diastolic: -4,4 (-6,1 a -2,7) mmHg, mean and CI95% respectively; P&amp;lt;0,0001; Z= 5,22]. Conclusion: Physical exercise is effective in reducing high blood pressure in hypertensive postmenopausal women. Better results were observed in the studies in which exercise was practiced for longer periods particularly in those that combined aerobic exercise with resistance exercise</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127445</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p549-559</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 549-559</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 549-559</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 549-559</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127445/124600</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127447</identifier>
+        <datestamp>2020-06-25T16:02:28Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Métodos e aplicabilidade do gasto energético de atividade na avaliação de crianças com doenças crônicas: Revisão da Literatura</dc:title>
+          <dc:title xml:lang="en-US">Methods and applicability of activity energy expenditure in the assessment of children: Review of the literature</dc:title>
+          <dc:creator>Davoli, Gabriela B. Q.</dc:creator>
+          <dc:creator>Figueiredo, Marisa M. L.</dc:creator>
+          <dc:creator>Souza, Mariana A.</dc:creator>
+          <dc:creator>Sverzut, Ana Claudia M.</dc:creator>
+          <dc:subject xml:lang="en-US">Energy Metabolism. Child. Neuromuscular Diseases. Cerebral Palsy. Cystic Fibrosis. Heart Rate</dc:subject>
+          <dc:subject xml:lang="pt-BR">Metabolismo Energético. Criança. Doenças Neuromusculares. Paralisia Cerebral. Fibrose Cística. Frequência Cardíaca</dc:subject>
+          <dc:description xml:lang="en-US">Study Design: Literature review. Children with chronic morbidities, progressive and / or functional disabilities are less active than healthy children. The metabolic changes that affect them favour increased energy expenditure (EE). The assessment of energy expenditure activity (EEA) provides specific details of the movement efficiency, and provides resources for establishing a therapeutic protocol.The gold standard for assessment of EEA by maximum oxygen uptake (VO2) is limited in a clinical routine by the complexity of data acquisition and its high charge value. Thus, predictive equations based on the linear relationship between heart rate (HR) and VO2 have been appointed as simple alternatives and easy to perform. However, there is no consensus about the best method to obtain the variables that compose these equations. Then, the aim of this study was to review the methods used to assess the EEA based on HR, pointing out the advantages and disadvantages in order to guide the clinical practice. In this review, 15 studies were analyzed considering (a) different types of route: tests performed on soil and mats; (b) speed: comfortable, self-selected and selected by the researchers; (c) predictive equations and variables analyzed: HR, time, distance traveled; (d) sample group: children with cerebral palsy, muscular dystrophy, cystic fibrosis and / or healthy. In general, the EEA, estimated by the energy expenditure index (EEI), was prevalent among these studies and its use has been reported as practical and reliable. Nevertheless, some methodological parameters could be improved in future studies</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo de estudo: Revisão da literatura. Crianças com morbidades crônicas, progressivas e/ou inabilidades funcionais são menos ativas que crianças saudáveis. As alterações metabólicas que as acometem, favorecem o aumento do gasto energético (GE). A avaliação do gasto energético de atividade (GEA) fornece dados específicos sobre a eficiência da marcha, e serve como ferramenta de auxilio na eleição das intervenções terapêuticas. O método padrão ouro de avaliação do GEA pelo consumo máximo de oxigênio (VO2) tem sua prática limitada na rotina clínica pela complexidade de aquisição de dados e seu valor financeiro elevado. Assim, equações preditivas, baseadas na relação linear entre a frequência cardíaca (FC) e o VO2 têm sido apontadas como alternativas simples e de fácil execução. Entretanto, os estudos científicos são heterogêneos quanto ao melhor método de obtenção das variáveis que compõem estas equações. Diante disto, este estudo objetivou realizar uma revisão da literatura apresentando os métodos mais utilizados para avaliar o GEA baseado na FC, apontando as vantagens e desvantagens, a fim de orientar sua aplicabilidade na prática clínica. Nesta revisão foram inseridos 15 estudos que analisaram diferentes tipos de (a) percurso: testes em esteiras e realizados em solo; (b) velocidade: confortável, auto selecionada e selecionada pelos autores; (c) equações preditivas e variáveis analisadas: FC, tempo, distância percorrida; (d) grupo amostral: crianças com paralisia cerebral, distrofia muscular, fibrose cística e/ou saudáveis. Da análise, conclui-se que o GEA, estimado pelo índice do gasto energético (IGE), foi prevalente entre os estudos e o seu uso foi classificado como prático e confiável. Ainda assim, alguns parâmetros metodológicos podem ser melhor aperfeiçoados em estudos futuros</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127447</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p560-569</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 560-569</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 560-569</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 560-569</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127447/124601</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/127448</identifier>
+        <datestamp>2020-06-25T16:02:27Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Retossigmoidectomia em paciente com tumor de sigmóide prolapsado: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Rectosigmoidectomy in a patient with a prolapsed sigmoid tumor: case report</dc:title>
+          <dc:creator>Ferreira, Andreia S.</dc:creator>
+          <dc:creator>Silva, Luiz F. M. e</dc:creator>
+          <dc:creator>Lima, Rânia A.</dc:creator>
+          <dc:creator>Melo, Elaine A. de</dc:creator>
+          <dc:creator>Oliveira, Fábio H. de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Neoplasias Colorretais. Cirurgia Colorretal. Prolapso</dc:subject>
+          <dc:subject xml:lang="en-US">Colorectal Neoplasms. Colorectal Surgery. Prolapse</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de estudo: Relato de caso. Objetivo do estudo: Relatar o caso de uma paciente com prolapso de tumor colorretal localizado no sigmóide. Metodologia: Relato de caso obtido de prontuário. Resultados: É relatado o caso de uma paciente que aguardava cirurgia para ressecção oncológica de um tumor colorretal, quando foi encaminhada ao serviço de urgências médicas com episódio de prolapso retal contendo massa tumoral pós-evacuação, sem redução espontânea. A paciente foi encaminhada à cirurgia de urgência e submetida a uma abordagem transabdominal, na qual o prolapso foi reduzido, em seguida realizada retossigmoidectomia segundo procedimento de Hartamann com colostomia terminal no cólon descendente. Conclusões: No caso relatado, por tratar-se de um paciente portador de tumor de sigmóide prolapsado, a abordagem de escolha foi a retosigmoidectomia abdominal, seguindo os preceitos oncológicos, com ligadura da artéria mesentérica inferior em sua origem. Importância do problema: O prolapso de tumor de sigmóide, uma situação clínica relativamente incomum na população adulta, e uma complicação mais rara quando se trata dos tumores colorretais, deve ser tratado imediatamente após o diagnóstico para se diminuir o risco de isquemia do segmento prolapsado e sempre que possível oferecer a cirurgia que siga os preceitos oncológicos de tratamento. Comentários: No caso relatado, foi necessário uma abordagem cirúrgica de urgência, sendo a via abdominal escolhida por respeito aos princípios da cirurgia oncológica e ao menor tempo cirúrgico</dc:description>
+          <dc:description xml:lang="en-US">Design of the study: Case report. Objectives: To report a case of a patient with colorectal tumor prolapse located in the sigmoid. Methodology: A retrospective case report obtained from medical records. Results: We report a case of a patient awaiting surgery for tumor resection of a colorectal tumor, when she was sent to the service of medical emergencies with an episode of post-evacuation rectal prolapse with a tumor without spontaneous reduction. The patient was referred to emergency surgery and underwent a transabdominal approach, in which the prolapse was reduced then followed by Hartmann's rectosigmodectomy surgical procedure. Conclusions: Sigmoid tumor prolapse require a surgical approach, the approach of choice was abdominal retosigmoidectomy, following the oncological principles, with ligation of the inferior mesenteric artery at its origin. Relevance: Sigmoid tumor prolapse, a relatively unusual clinical situation in adults, and more rare complication when it comes to colorectal tumors, it must be treated immediately after diagnosis to reduce the risk of ischemia prolapsed segment, and whenever possible offer surgery to follow the precepts of cancer treatment. Comments: In the case reported, an emergency surgical approach was necessary, and the abdominal route was chosen following the principles of cancer surgery and shorter surgical time</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-12-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/127448</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i6p570-573</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 6 (2016); 570-573</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 6 (2016); 570-573</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 6 (2016); 570-573</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/127448/124602</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:36Z" completeListSize="1467" cursor="1050">058158a17149b1b2a0b85b8f7c8db76b</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

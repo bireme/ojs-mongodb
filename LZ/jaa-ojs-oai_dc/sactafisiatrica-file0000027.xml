@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2023-08-07T14:49:34Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162587</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Testosterona e acidente vascular encefálico isquêmico</dc:title>
+          <dc:title xml:lang="en-US">Testosterone and ischemic stroke</dc:title>
+          <dc:creator>Camara, Lucas Caseri</dc:creator>
+          <dc:creator>Gois, Aécio Flávio Teixeira de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Acidente Vascular Cerebral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Androgênios</dc:subject>
+          <dc:subject xml:lang="pt-BR">Testosterona</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="en-US">Stroke</dc:subject>
+          <dc:subject xml:lang="en-US">Androgens</dc:subject>
+          <dc:subject xml:lang="en-US">Testosterone</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:description xml:lang="en-US">Serum testosterone levels have already been related to endothelial function, vascular aging and hemathological factors, possibly contributing to thrombus formation. As aging progresses, epidemiological data shows declining testosterone levels, impaired vascular function and an increasing incidence of vascular diseases like stroke. Objective: The aim of present paper is to describe studies with a possible relation of testosterone levels with stroke prevention, clinical presentation, and prognosis. Methods: A research and selection of articles, filtering for humans studies only, was conducted in three different eletronic scientific databases, (MEDLINE, SCIELO, LILACS), using related and registered terms (english and portuguese) about "stroke" and "testosterone". Only studies that encompasses the role of testosterone in stroke and its different clinical aspects were included in the present review. Results: The search retrieved 12 relevant studies for analysis and discussion relating testosterone and stroke (7 observational, 3 cross sectional, 2 experimental). Observational studies verified a preventive role of testosterone levels on stroke incidence, cross-sectional studies verified endocrinologial alterations like hypogonadism on acute stroke phase and better clinical presentation (severity, brain lesion size). Experimental controled studies observed clinical benefits of testosterone supplementation in rehabilitation patients. Conclusion: Despite the potential benefits of higher levels of testosterne in stroke spectrum, more studies that systematically aproach the role of testosterone in stroke prevention, severity, clinical features, prognosis, rehabilitation and mortality will be welcome to better elaborate future medical management and otimization in stroke spectrum.</dc:description>
+          <dc:description xml:lang="pt-BR">Níveis de testosterona sérica já foram relacionados a piora de fatores hematológicos, função e envelhecimento vascular, contribuindo potencialmente para formação de trombos. Com o envelhecimento, dados epidemiológicos mostram declínio dos níveis de testosterona, prejuízo da função vascular e aumento das incidências de doenças vasculares, como o AVE. Objetivo: Descrever estudos que abordaram a potencial relação dos níveis de testosterona com a prevenção, apresentação clínica e prognóstico do AVE. Métodos: Uma pesquisa e seleção de artigos foi conduzida em três diferentes bases de dados (MEDLINE, SCIELO, LILACS) utilizando termos relacionados a testosterona e AVE (inglês e português), filtrada para estudos em humanos. Apenas estudos que abordaram algum aspecto da relação entre testosterona e AVE foram incluídos para discussão no presente estudo. Resultados: A busca resultou em 12 estudos relevantes para análise e discussão (7 observacionais, 3 transversais, 2 experimentais). Estudos observacionais verificaram um papel protetor da testosterona na incidência de AVE. Estudos transversais verificaram alterações endocrinológicas, como o hipogonadismo, na fase aguda do AVE, bem como melhor apresentação clínica (gravidade, tamanho da lesão). Estudos experimentais controlados verificaram benefícios clínicos e funcionais da suplementação de testosterona em pacientes em reabilitação. Conclusão: Apesar dos potenciais diversos benefícios destacados de níveis mais altos de testosterona no AVE, mais estudos que abordem de forma sistematizada o papel da testosterona em aspectos preventivos, de apresentação clínica, e de reabilitação e prognóstico serão bem vindos, para melhor manejo e otimização do tratamento do AVE.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162587</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162587</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 158-161</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162587/159231</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162643</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Motivation of elderly with Parkinson's disease submitted to functional training, aerobic exercise and exergame</dc:title>
+          <dc:title xml:lang="pt-BR">Motivação de idosos com doença de Parkinson submetidos ao treino funcional, exercício aeróbico e exergame</dc:title>
+          <dc:creator>Gomes, Sara Roza</dc:creator>
+          <dc:creator>Trippo, Karen Valadares</dc:creator>
+          <dc:creator>Guimarães, Daniela Oliveira</dc:creator>
+          <dc:creator>Oliveira Filho, Jamary</dc:creator>
+          <dc:creator>Dominguez-Ferraz, Daniel</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doença de Parkinson</dc:subject>
+          <dc:subject xml:lang="pt-BR">Modalidades de Fisioterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício</dc:subject>
+          <dc:subject xml:lang="pt-BR">Motivação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:subject xml:lang="en-US">Parkinson Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Modalities</dc:subject>
+          <dc:subject xml:lang="en-US">Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Motivation</dc:subject>
+          <dc:subject xml:lang="en-US">Aged</dc:subject>
+          <dc:description xml:lang="en-US">It is recommended that patients with Parkinsons disease (PD) perform physical exercise throughout their lives. Exercise should slow disease progression and motivate the patient. Objective: Verify and compare the motivation of elderly with PD submitted to functional training, stationary bicycle exercise and exergame. Method: A randomized clinical trial was developed at a referral center. Group 1 (G1) performed functional training, group 2 (G2) trained with stationary bicycle and group 3 (G3) played on Xbox 360 with Kinect sensor. At the end of training, an interview was conducted by a single non-blind investigator to evaluate patient motivation about therapeutic exercise programs they were submitted to. For each question there were four answers options: I was not motivated, I was not very motivated, I was motivated and I was very motivated. The variables were summarized in median and interquartile range and in absolute and relative frequencies. The Pearson Chi-square test was used for statistical inference. The level of significance was 5% (p &amp;lt;0.05). Fifty-three older people with PD have participated. Results: Many participants have reported that exercise (G1: 72%, G2: 53%, G3: 44%) and the physiotherapist (G1: 83%, G2: 76%, G3: 94%) were very motivating. Only two participants of G2 rated exercise as not very motivating. However, no significant difference was found between the three groups. Conclusion: Older individuals with PD considered functional training, bicycle exercise and exergame as motivating modalities of physical exercise.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Verificar e comparar a motivação de idosos com DP submetidos ao treinamento funcional, exercício em bicicleta estacionária e com o exergame. Método: Ensaio clínico randomizado foi desenvolvido em um centro de referência. O grupo 1 (G1) foi formado por participantes que realizaram treinamento funcional, o grupo 2 (G2) foi tratado em bicicleta estacionária e o grupo 3 (G3) foi submetido ao exergame Xbox 360 com sensor Kinect. Ao final dos treinamentos, foi realizada uma entrevista para avaliar a motivação dos participantes em relação às intervenções as quais foram submetidos. Para cada pergunta existiam quatro opções de respostas: não estava motivado, estava pouco motivado, estava motivado e estava muito motivado. As variáveis foram sumarizadas em mediana e intervalo interquartil e em frequências absolutas e relativas. O teste de Chi-quadrado de Pearson foi usado na inferência estatística. O nível de significância adotado foi de 5% (p&amp;lt;0,05). Participaram do estudo 53 idosos com DP. Resultados: Muitos participantes relataram que o exercício (G1: 72%, G2: 53%, G3: 44%) e o fisioterapeuta (G1: 83%, G2: 76%, G3: 94%) foram muito motivadores. Apenas dois participantes do G2 classificaram o exercício como não motivador. No entanto, nenhuma diferença significativa foi encontrada entre os três grupos. Conclusão: Os indivíduos idosos com DP consideraram o treinamento funcional, o exercício em bicicleta e o exergame como modalidades motivadoras de treinamento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162643</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162643</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 119-123</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162643/159293</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162645</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Knee and rearfoot alignment´s assessment in womans with and without patellofemoral pain during squat exercise</dc:title>
+          <dc:title xml:lang="pt-BR">Avaliação do alinhamento de joelhos e retropés em mulheres com e sem dor patelofemoral durante o exercício de agachamento</dc:title>
+          <dc:creator>Quadros, Letícia Ruebenich de</dc:creator>
+          <dc:creator>Sehnem, Eduardo</dc:creator>
+          <dc:creator>Tiggemann, Carlos Leandro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Síndrome da Dor Patelofemoral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pé Valgo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Treinamento de Resistência</dc:subject>
+          <dc:subject xml:lang="en-US">Patellofemoral Pain Syndrome</dc:subject>
+          <dc:subject xml:lang="en-US">Flatfoot</dc:subject>
+          <dc:subject xml:lang="en-US">Resistance Training</dc:subject>
+          <dc:description xml:lang="en-US">The Squatting, considered a complex biomechanical movement due to requiring dynamic alignment, is a frequently practiced exercise. If performed in the wrong way, it can become a risk rese for osteomioarticular lesions, such as patellofemoral pain. Objective: The objective of this study was to evaluate the alignment of the knees and the rearfoot during the squatting exercise in women with and without patellofemoral pain. Method: Twenty-five women, aged between 19 and 37 years, were trained for at least six months, who reported knee pain during functional activities. The sample was recruited in four academies of the Taquari Valley. After the application of a Questionnaire, which addressed the intensity and behavior of patellofemoral pain, the volunteers were divided into two groups: 14 with patellofemoral pain and 11 without patellofemoral pain. The execution of the squat exercise and the Step Down Test were recorded to evaluate the alignment of the knees and rearfoot in these functional activities. Results: The data were analyzed using descriptive statistics, Student’s t-test and Pearson’s correlation, with a significance level of p &amp;lt;0.05. There was no difference between the variables, comparing the group with and without patellofemoral pain. The participants with higher angular values ​​of static valgus tend to resente the same characteristic during the Step Down test. Conclusion: An individualized evaluation approach is necessary, with the subgrouping according to the pain’s etiology. It is questioned the classification of biomechanical alterations as cause or effect of patellofemoral pain and compensations performed.</dc:description>
+          <dc:description xml:lang="pt-BR">O agachamento, considerado um movimento biomecânico complexo em função de exigir alinhamento dinâmico, é um exercício frequentemente praticado. Se executado de forma errada, pode tornar-se fator de risco para lesões osteomioarticulares, como a dor patelofemoral. Objetivo: Avaliar o alinhamento dos joelhos e do retropé durante o exercício de agachamento em mulheres com e sem dor patelofemoral. Método: Foram selecionadas 25 mulheres, com idade entre 19 e 37 anos, praticantes de musculação há no mínimo seis meses, que referissem dor no joelho durante atividades funcionais. A amostra foi recrutada em quatro academias do Vale do Taquari. Após a aplicação de um Questionário, que abordou intensidade e comportamento da dor patelofemoral, as voluntárias foram divididas em dois grupos: 14 com dor patelofemoral e 11 sem dor patelofemoral. Foi filmada a execução do exercício de agachamento e do Step Down Test, para avaliar o alinhamento dos joelhos e retropé nestas atividades funcionais. Resultados: Os dados foram analisados por meio de estatística descritiva, teste t Student e Correlação de Pearson, com um nível de significância de p &amp;lt; 0,05. Não houve diferença entre as variáveis, comparando-se o grupo com e sem dor patelofemoral. As participantes com maiores valores angulares de valgismo estático tendem a apresentar a mesma característica durante o teste Step Down. Conclusão: É necessária uma abordagem avaliativa individualizada, com a divisão em subgrupos, de acordo com a etiologia da dor. Questiona-se a classificação das alterações biomecânicas como causa ou efeito da dor patelofemoral e das compensações realizadas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162645</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162645</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 113-118</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162645/159284</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162646</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Effects of a combined exercise program in muscle strength and functional capacity in a individual with Postpoliomyelitis syndrome: case report</dc:title>
+          <dc:title xml:lang="pt-BR">Resultados de um programa de exercício físico combinado na força muscular e capacidade funcional de um indivíduo com síndrome Pós-Poliomielite: relato de caso</dc:title>
+          <dc:creator>Mota, Cristiane Gonçalves</dc:creator>
+          <dc:creator>Silva, Susana Cristina Oliveira</dc:creator>
+          <dc:creator>Teixeira, Barbara Vilar</dc:creator>
+          <dc:creator>Oliveira, Fernanda Melo</dc:creator>
+          <dc:creator>Cardoso, Cristiane Vieira</dc:creator>
+          <dc:subject xml:lang="en-US">Postpoliomyelitis Syndrome</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="en-US">Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Aged</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome Pós-Poliomielite</dc:subject>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:description xml:lang="pt-BR">A Poliomielite Anterior Aguda (PAA) é uma patologia causada por um enterovírus, que predominantemente prejudica os neurônios motores inferiores, o que causa a paralisia muscular flácida e assimétrica, principalmente nos membros inferiores e que, tardiamente causa sintomas neuromusculares e declínio funcional denominados como Síndrome Pós-Poliomielite (SPP). Objetivo: Aplicar um programa de exercícios combinado e verificar os resultados na força muscular e capacidade funcional de um indivíduo idoso, com SPP. Métodos: A amostra foi composta por 1 mulher, idade 66 anos, com SPP, hipertensão arterial sistêmica, dislipidemia, hipotireoidismo. A força muscular foi mensurada por meio do teste de 7 – 10 repetições máximas (RM). A distância percorrida ao pedalar foi realizada por meio do Teste 12 minutos adaptado e o equilíbrio dinâmico foi avaliado por meio do Timed Up &amp;amp; Go Test. Os exercícios foram realizados em 2 séries de 10 repetições, com intensidade de 60% de 1 RM, por 24 semanas. Resultados: Após 24 semanas, a força muscular de MMII apresentou aumento de 333,3% e a força de MMSS 216,5%. O equilíbrio dinâmico melhorou 34,3%. A distância percorrida ao pedalar aumentou 11,8%. Conclusão: Os dados por nós obtidos sugerem que pessoas com SPP, mesmo que idosas, poderão se beneficiar de um programa de exercícios para aumento da força muscular e melhora da capacidade funcional, porém é importante que outros estudos sejam desenvolvidos para verificar esses resultados em um número maior de pessoas.</dc:description>
+          <dc:description xml:lang="en-US">Postpoliomyelitis Syndrome is a enterovirus pathology, which predominantly damages the lower muscles, which cause flaccid and asymmetric muscle paralysis, based on lower and late neuromuscular and functional symptoms denominate Postpoliomyelitis Syndrome (PPS). Objective: To apply a combined exercise program and to verify the results on the muscle strength and functional capacity of an elderly individual with PPS. Methods: The sample was one women, 66 years old, with comorbities hypertension, dyslipidemia, hypothyroidism. Muscle strength was measured by 7 - 10 maximal repetitions (MR) test. The distance traveled pedaling was performed by Adapted 12-minute Test and the balance was evaluated by Timed Up &amp;amp; Go Test. The muscle strength training was intensity 60% of a one maximum repetition. Results: After 24 weeks, the muscular strength of lower limbs increased 333.3% and the upper limbs, 216.5%. The balance improved 34.3%. The distance traveled pedaling increased 11.8%. Conclusion: The results suggest that individuals with PPS, even if elderly, may benefit from an exercise program to increase muscle strength and improve functional capacity, but it is important that other studies are developed to verify these results in a larger number of individuals.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162646</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162646</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 155-157</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162646/159232</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162668</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Thermographic evaluation and adaptation to the prosthesis of people with lower limb amputation: a qualitative approach</dc:title>
+          <dc:title xml:lang="pt-BR">Avaliação termográfica e adaptação à prótese de amputados de membros inferiores: um olhar qualitativo</dc:title>
+          <dc:creator>Luz, Soraia Cristina Tonon da</dc:creator>
+          <dc:creator>Silva, Amanda Reinert</dc:creator>
+          <dc:creator>Honório, Gesilani Júlia da Silva</dc:creator>
+          <dc:creator>Santos, Kadine Priscila Bender dos</dc:creator>
+          <dc:creator>Branco, Ruy Luiz Lorenzetti</dc:creator>
+          <dc:creator>Ruy, Tayla Siqueira</dc:creator>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:subject xml:lang="en-US">Artificial Limbs</dc:subject>
+          <dc:subject xml:lang="en-US">Thermography</dc:subject>
+          <dc:subject xml:lang="en-US">Qualitative Analysis</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Membros Artificiais</dc:subject>
+          <dc:subject xml:lang="pt-BR">Termografia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Análise Qualitativa</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To evaluate qualitatively the characteristics of the thermographic map of the lower limb intact limb and adaptation to the prosthesis of amputated patients of lower limbs. Method: Qualitative research, descriptive and exploratory. The sample consisted of five amputees of lower limbs of both sexes, with transtibial and transfemoral levels, aged between 18 and 65 years, literate and protected by the Unified Health System (SUS). Anamnesis and thermographic evaluation were performed qualitatively analyzing the intact limb and stump applied to the Prothesis Evaluation Questionnaire (PEQ) questionnaire. Results: Thermographic images of transfemoral individuals presented in the residual limb an increase in temperature in the inguinal region, and may be due to the friction of the superior fit of the prosthesis. In all samples, temperature was observed in the lower extremity of the stump, indicating a possible reduction of vascularization in this region. In the PEQ, the domain most strongly cited as unfavorable for the participants was mobility, mainly in the questions of going up and down stairs, climbing and descending steep hills and walking on slippery places. The transpiration within the socket and the swelling of the residual limb were also complaints well cited by the participants. Conclusion: The issues of greatest impact to the adaptation of the prosthesis were the mobility, transfer characteristics related to the edema, sensation of weight and thermal discomfort of the residual limb in the region of the prosthetic fitting. Thermography showed higher values of intact limb temperature, as well as temperature increase in the prosthesis fitting region and temperature reduction at the end of the stump.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar qualitativamente características do mapa termográfico do coto membro inferior íntegro e adaptação à prótese de pacientes amputados de membros inferiores. Método: Pesquisa qualitativa, do tipo descritiva e exploratória. Amostra foi composta por cinco indivíduos amputados de membros inferiores, de ambos os sexos, com os níveis transtibial e transfemural, idade entre 18 e 65 anos, alfabetizados e protetizados pelo Sistema Único de Saúde (SUS). Foi realizada anamnese e avaliação termográfica analisando qualitativamente o membro íntegro e coto aplicado o questionário Prothesis Evaluation Questionnaire (PEQ). Resultados: As imagens termográficas dos indivíduos transfemurais apresentaram no membro residual aumento da temperatura em região inguinal, podendo ser devido à fricção do encaixe superior da prótese. Em toda amostra percebeu-se diminuição da temperatura na extremidade inferior do coto, apontando uma possível redução de vascularização desta região. No PEQ o domínio fortemente mais citado como desfavorável para os participantes foi o de mobilidade, principalmente nas questões de subida e descida de escadas, subida e descida de morros íngremes e andar sobre lugares escorregadios. A transpiração dentro do encaixe e o inchaço do membro residual também foram queixas bem citadas pelos participantes. Conclusão: As questões de maior impacto à adaptação da prótese foram a mobilidade, transferência caraterísticas relacionadas ao edema, sensação de peso e desconforto térmico do membro residual na região do encaixe protético. A termografia evidenciou maiores valores de temperatura do membro íntegro, assim como aumento de temperatura na região do encaixe da prótese e redução de temperatura na extremidade do coto.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162668</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162668</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 107-112</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162668/159289</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162669</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Adaptação transcultural da Trinity Amputation and Prosthesis Experience Scales - Revised (TAPES-R): avaliação dos processos psicossociais envolvidos no ajuste à amputação e à prótese</dc:title>
+          <dc:title xml:lang="en-US">Transcultural adaptation of the Trinity Amputation and Prosthesis Experience Scales - Revised (TAPES-R): evaluation of psychosocial processes involved in adjustment to amputation and prosthesis</dc:title>
+          <dc:creator>Matos, Denise Regina</dc:creator>
+          <dc:creator>Naves, Juliana Fákir</dc:creator>
+          <dc:creator>Araujo, Tereza Cristina Cavalcanti Ferreira de</dc:creator>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:subject xml:lang="en-US">Emotional Adjustment</dc:subject>
+          <dc:subject xml:lang="en-US">Artificial Limbs</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ajustamento Emocional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Membros Artificiais</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:description xml:lang="en-US">The literature indicates the absence of specific instruments for clinical evaluation and research directed at people with amputation, with the TAPES-R scale being relevant for the analysis of psychosocial aspects in this population. This scale was developed to evaluate the processes involved in adapting to lower limb amputation and to the prosthesis. This instrument covers 33 items organized in three domains - psychosocial adjustment, activity restriction and prosthesis satisfaction, as well as issues related to phantom limb and residual limb pain. Objective: To perform transcultural adaptation of the TAPES-R scale for application in the Brazilian population. Method: Transcultural adaptation was carried out in five stages: translation, reverse translation, synthesis of the evaluations, evaluation by expert committee and final test in the population. The comparison between the original and translated versions was performed in relation to the semantic, idiomatic, cultural and conceptual equivalences. The final version was applied to 116 amputees of the lower limbs. Results: There was clarity regarding participants' understanding of the instrument, indicating that it is appropriate to the reality of the target audience in the Brazilian population. Amputation above the knee and time of use of the prosthesis below 10 hours / day are associated with worse fit and less satisfaction with the prosthesis. Conclusion: The use of the TAPES-R scale allowed the evaluation of the individuals' perception about the experience with the amputation and prosthesis, allowing the clinical use to evaluate the results for the rehabilitation of patients with lower limb amputation. Further studies will be developed for the continued validation of the instrument.</dc:description>
+          <dc:description xml:lang="pt-BR">A literatura aponta ausência de instrumentos específicos para avaliação clínica e pesquisa direcionada a pessoas com amputação, sendo a escala TAPES-R relevante para análise dos aspectos psicossociais nessa população. Esta escala foi desenvolvida para avaliar os processos envolvidos na adaptação à amputação de membros inferiores e à prótese. Este instrumento abrange 33 itens organizados em três domínios - ajustamento psicossocial, restrição de atividade e satisfação com prótese, além de questões relacionadas com a dor do membro fantasma e do membro residual. Objetivo: Realizar adaptação transcultural da escala TAPES-R para aplicação na população brasileira. Método: A adaptação transcultural foi realizada em cinco etapas: tradução, tradução reversa, síntese das avaliações, avaliação por comitê de especialistas e teste final na população. Foi realizada a comparação entre as versões original e traduzida em relação às equivalências semântica, idiomática, cultural e conceitual. A versão final foi aplicada em 116 sujeitos amputados de membros inferiores. Resultados: Houve clareza quanto à compreensão do instrumento pelos participantes, indicando que o mesmo esteja apropriado à realidade do público-alvo na população brasileira. Amputação acima de joelho e tempo de uso da prótese abaixo de 10 horas/dia estão associados a pior ajustamento e menor satisfação com a prótese. Conclusão: O uso da escala TAPES-R permitiu avaliar a percepção dos indivíduos acerca da experiência com a amputação e prótese, possibilitando o uso clínico para avaliação de resultados voltados para a reabilitação de pacientes com amputação de membro inferiores. Serão desenvolvidos novos estudos para a continuidade de validação do instrumento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162669</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162669</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 124-130</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162669/159277</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162671</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Inclusão social no mercado de trabalho de pacientes amputados em processo de reabilitação</dc:title>
+          <dc:title xml:lang="en-US">Social inclusion in the labor market of amputees in the process of rehabilitation</dc:title>
+          <dc:creator>Hanashiro, Regina</dc:creator>
+          <dc:creator>Correia, Viviane Duarte</dc:creator>
+          <dc:creator>Sugawara, Andre Tadeu</dc:creator>
+          <dc:subject xml:lang="pt-BR">Pessoas com Deficiência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Mercado de Trabalho</dc:subject>
+          <dc:subject xml:lang="pt-BR">Readaptação ao Emprego</dc:subject>
+          <dc:subject xml:lang="en-US">Disabled Persons</dc:subject>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:subject xml:lang="en-US">Job Market</dc:subject>
+          <dc:subject xml:lang="en-US">Employment, Supported</dc:subject>
+          <dc:description xml:lang="en-US">Objective: Raise awareness regarding social inclusion into the workforce of amputees, identify socio-economic changes due to the physical rehabilitation process, and promote a dataset of socio-economic data of people with disabilities. Method: This is a retrospective quantitative and qualitative research with a dialectical perspective. Data was collected by Institutional Social Evaluation Protocol of outpatients amputees after discharge of a rehabilitation facility in the city of São Paulo, Brazil, from April to September of 2016. Results: The subjects (n=23) were generally male (n=20), with an average of 39,5 years of age, mostly of which with high-school education (n= 9). Most of the patients (n=23) did not resume labor activity. After amputation, reduction of income was observed. Initially, considering the period of data collection, seventeen subjects were under social security assistance, one subject benefited from another source of assistance, and four of them were handling the bureaucracy to receive such assistance. During the rehabilitation program, there was reduction of social security assistance (from 17 to 15), increase of assistance benefits (n=3), three patients started receiving social security assistance, and one of them was released from the social security assistance list. Conclusion: The results suggest that amputees undergo socio-economic changes after the disability is onset, given the lack of labor activity, income reduction, what demand social security assistance. Characteristics such as age, education and number of hospitalizations favoured the amputees to resume their labor activities.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Conhecer o processo de inclusão social no mercado de trabalho, do paciente amputado, e identificar alterações socioeconômicas, após o processo de reabilitação, além de contribuir para o levantamento de dados socioeconômicos acerca da pessoa com deficiência. Método: Pesquisa retrospectiva, quantitativa e qualitativa, sob a perspectiva dialética. Os dados foram obtidos por meio do Protocolo de Avaliação Social Institucional e relatórios sociais dos pacientes amputados, que passaram pelo ambulatório, após alta do processo em um Centro de Reabilitação no município de São Paulo, no período de abril a setembro de 2016. Resultados: Os sujeitos da pesquisa (23) foram, em sua maioria do gênero masculino (20), em idade ativa (média simples de 39,5 anos), com nível de escolaridade no ensino médio (9). A maioria (21) absteve das atividades laborais. Após a instalação da deficiência, houve queda na renda familiar. Inicialmente, (17) usufruem de benefícios previdenciários, (1) benefício assistencial, e (4) estão em processo de solicitação de benefício. Durante o tratamento reabilitativo, houve redução dos benefícios previdenciários (de 17 para 15), aumento nos benefícios assistenciais (3), (1) aguarda concessão de benefício, e 3 obtiveram alta do INSS. Conclusão: Os resultados apontam que os pacientes amputados sofrem alterações socioeconômicas, após a instalação da deficiência, decorrentes à abstenção as atividades laborais e rebaixamento na renda, apontando para a importância da proteção previdenciária e assistencial. Fatores como idade, escolaridade e quantidade de internações favoreceram o retorno dos pacientes amputados no mercado de trabalho.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162671</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162671</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 138-144</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162671/159216</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162672</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Music therapy in the reabilitation process with amputation patients</dc:title>
+          <dc:title xml:lang="pt-BR">Musicoterapia no processo de reabilitação de pacientes com amputação</dc:title>
+          <dc:creator>Smith, Maristela Pires da Cruz</dc:creator>
+          <dc:creator>Alves, Vera Lucia Rodrigues</dc:creator>
+          <dc:subject xml:lang="pt-BR">Pessoas com Deficiência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputados</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ego</dc:subject>
+          <dc:subject xml:lang="pt-BR">Musicoterapia</dc:subject>
+          <dc:subject xml:lang="en-US">Disabled Persons</dc:subject>
+          <dc:subject xml:lang="en-US">Amputees</dc:subject>
+          <dc:subject xml:lang="en-US">Ego</dc:subject>
+          <dc:subject xml:lang="en-US">Music Therapy</dc:subject>
+          <dc:description xml:lang="pt-BR">A visão de totalidade do homem - homem como ser social - sugere que as ações reabilitadoras, aplicadas a pacientes acometidos por síndromes que os incapacitam fisicamente -&amp;nbsp; como amputações de membros do corpo - mostram-se eficazes resultando numa melhora, e mais rápida readaptação do sujeito, a novas formas de ‘estar no mundo’, mesmo vivenciando um estigma social de “pessoa diferente”. No estudo em questão trabalhou-se com os pressupostos epistemológicos da Psicologia Social Crítica, que foram demonstrados por meio de técnicas da Musicoterapia, pois se esperava que a prática de sessões de musicoterapia poderia facilitar a expressão da música interna dos sujeitos, conteúdo este narrado por meio de palavras, que foram transformadas em palavras cantadas e, posteriormente, em canções compostas. A participação dos envolvidos no trabalho clínico foi conjunta, isto é, entre pesquisadores e cada um dos 5 pacientes participantes, atendidos individualmente, já que se tratou de uma pesquisa-ação-participativa. As análises de discurso das narrativas de histórias de vida, foram feitas com base nas categorias que fundamentam a Psicologia Social Crítica. Os registros foram feitos a partir de observações do comportamento sonoro-musical dos pacientes, aplicando-se o “Modelo de Registro de Reações Sonoro-Rítmico-Musicais, Corpóreo-Vocais e Comportamentais”, tanto para o registro objetivo, quanto para as interpretações musicais subjetivas, tendo como referência teórica principal a ‘identidade como metamorfose’.</dc:description>
+          <dc:description xml:lang="en-US">The holistic view of man –&amp;nbsp; man as a social being – suggests that rehabilitative actions, applied to patients with physical disablement – such as limbs amputation – evidence efficacy, resulting in improvement and faster readaptation of the person to new ways of “being part of the world”, even when experiencing the social stigma of being a “different person”. This study explored the epistemological presuppositions of the Critical Social Psychology, which were demonstrated through Music Therapy techniques. It was expected that the practice of Music therapy sessions could facilitate the expression of the subject’s internal music, whose content was recorded by means of words, subsequently transformed into singing words and then into music composition. It embraced the joint participation of the persons involved in the clinical work, that is between the researcher (author of this project) and in each of the five patients, viewed individually, since it involved a participatory action research. The speech analysis of the narratives of the life stories was based on the categories that substantiated Critical Social Psychology. The recordings entered were based on patients’ sonorous-musical behavior observations, applying the “Recording Model of Sonorous-Rhythmic-Musical, Body-Vocal and Behavioral Reactions”, not only for the objective registration, but also for the subjective musical interpretations, with “the identity as metamorphosis” being the main theoretical reference.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162672</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162672</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 145-148</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162672/159173</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162673</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Resultados de um programa de condicionamento físico para indivíduos com hemiplegia após acidente vascular encefálico: comparação de dois métodos de intervenção</dc:title>
+          <dc:title xml:lang="en-US">Results of a physical fitness training for individuals with hemiplegia after stroke: comparison of two methods of intervention</dc:title>
+          <dc:creator>Cardoso, Cristiane Vieira</dc:creator>
+          <dc:creator>Cruz, Leonardo Danelon</dc:creator>
+          <dc:creator>Mota, Cristiane Gonçalves</dc:creator>
+          <dc:creator>Miyahara, Katia Lina</dc:creator>
+          <dc:creator>Sabbag, Livia Maria dos Santos</dc:creator>
+          <dc:subject xml:lang="en-US">Hemiplegia</dc:subject>
+          <dc:subject xml:lang="en-US">Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemiplegia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício</dc:subject>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:description xml:lang="en-US">Objective: Compare the results in lower limbs muscle strength and functional capacity in people post stroke, obtained with two intervention methods: exercise with elastic band and gym equipment. Methods: 14 individuals 58,5±9,4 age (07 group A; 07 group B), participated in a program exercises (Group A elastic band intrvention and Group B gym equipment intervention). Results: There was a increase in muscle strength, balance and functional capacity in sit and up from the chair in both groups. Conclusion: Exercises with elastic bands area benefits to people post stroke.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Comparar os resultados obtidos na força muscular de membros inferiores e capacidade funcional de pessoas com sequelas neurológicas após Acidente Vascular Encefálico, obtidos por meio de dois métodos de intervenção: uso de faixas elásticas e aparelhos de musculação. Métodos: 14 pessoas idades 58,5±9,4 (07 Grupo A; 07 Grupo B) participaram do programa de exercícios (grupo A intervenção com faixas elásticas e grupo B intervenção em aparelhos de musculação). Resultados: Houve aumento da força muscular, melhora do equilíbrio dinâmico e na capacidade funcional em sentar e levantar da cadeira para ambos os grupos. Conclusão: Exercícios físicos realizados com uso de faixas elásticas trazem benefícios para essas pessoas, tanto quanto os realizados em aparelhos de musculação.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162673</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162673</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 149-154</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162673/159230</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162674</identifier>
+        <datestamp>2020-10-05T18:58:51Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Perfil neuropsicológico de pacientes com amputação maior de membros inferiores por etiologia vascular</dc:title>
+          <dc:title xml:lang="en-US">Neuropsychological aspects of a population of patients with vascular lower extremity amputations</dc:title>
+          <dc:creator>Pessoa, Claudia Vohringer</dc:creator>
+          <dc:creator>Paik, Sergio</dc:creator>
+          <dc:creator>Correia, Gabriela Paixão</dc:creator>
+          <dc:creator>Nobre, Isadora Di Natale</dc:creator>
+          <dc:creator>Pardini, Adriana Cristina Guimarães</dc:creator>
+          <dc:creator>Ingham, Sheila Jean McNeill</dc:creator>
+          <dc:subject xml:lang="pt-BR">Cognição</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neuropsicologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Testes Psicológicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença Arterial Periférica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="en-US">Neuropsychology</dc:subject>
+          <dc:subject xml:lang="en-US">Cognition</dc:subject>
+          <dc:subject xml:lang="en-US">Psychological Tests</dc:subject>
+          <dc:subject xml:lang="en-US">Peripheral Arterial Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To describe the neuropsychological profile of patients with major lower limb amputation and to investigate the existence of correlations between these cognitive aspects, socio-demographic and clinical aspects. Method: This is a cross-sectional, analytic, descriptive study carried out at an outpatient rehabilitation center. The instruments used were Hospital Anxiety and Depression Scale (HADS), a brief neuropsychological assessment instrument (Neupsilin) along with a questionnaire to characterize the sample. Results: Cognitive performance was worse in functions that require arithmetic skills (42,2% of the patients underperformed); perception (46,3% underperformed); executive functions, notably in constructive praxis (40,6% underperformed) and verbal fluency (35,9% underperformed) and language (31,2% underperformed). The best performances were in spacial orientation (92,2% performed as expected) and verbal memory (87,5% performed as expected). Conclusion: The cognitive profile of these patients revealed alterations in most of the assessed cognitive functions, especially in functions directly related to functionalities of the patient.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: O estudo objetivou traçar um perfil neuropsicológico breve de pacientes com amputação maior de membros inferiores por etiologia vascular e investigar a existência de correlações dos aspectos cognitivos com fatores sociodemográficos e clínicos. Método: Trata-se de um estudo transversal descritivo, realizado em um centro de reabilitação física de São Paulo - Brasil, em que foram aplicados: um instrumento de avaliação neuropsicológica breve (Neupsilin), um questionário de caracterização da amostra próprio e a Escala de Ansiedade e Depressão Hospitalar (HAD). Resultados: O desempenho cognitivo foi pior em funções que requerem habilidades aritméticas (42,2% dos pacientes com desempenho abaixo do esperado); percepção (46,3% dos pacientes abaixo do esperado); funções executivas, notadamente nas tarefas praxia construtiva (40,6% abaixo do esperado) e fluência verbal (35,9% abaixo do esperado), e linguagem (31,2% abaixo do esperado). Conclusão: O perfil cognitivo dos pacientes deste estudo revelou dificuldades relevantes das funções cognitivas avaliadas, especialmente em funções diretamente relacionadas à funcionalidade do paciente.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162674</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i3a162674</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 3 (2018); 131-137</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162674/159271</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162888</identifier>
+        <datestamp>2019-12-24T16:50:40Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Effects of intensive treatment with body weight support in children with cerebral paralysis</dc:title>
+          <dc:title xml:lang="pt-BR">Influência do tratamento intensivo com suporte de peso corporal na função motora de crianças com paralisia cerebral</dc:title>
+          <dc:creator>Reitz, Geison Sebastião</dc:creator>
+          <dc:creator>Chirolli, Milena Julia</dc:creator>
+          <dc:creator>Assunção, Mariana Neis</dc:creator>
+          <dc:creator>Crippa, Patricia Vieira de Souza</dc:creator>
+          <dc:creator>Pereira, Suzana Matheus</dc:creator>
+          <dc:creator>Roesler, Helio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Atividade Motora</dc:subject>
+          <dc:subject xml:lang="pt-BR">Marcha</dc:subject>
+          <dc:subject xml:lang="pt-BR">Paralisia Cerebral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fisioterapia</dc:subject>
+          <dc:subject xml:lang="en-US">Motor Activity</dc:subject>
+          <dc:subject xml:lang="en-US">Gait</dc:subject>
+          <dc:subject xml:lang="en-US">Cerebral Palsy</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Specialty</dc:subject>
+          <dc:description xml:lang="pt-BR">A aquisição da marcha sob o aspecto neuromotor da reabilitação vem a ser o principal desígnio do terapeuta durante a elaboração do plano de tratamento do paciente com paralisia cerebral, uma vez que a marcha representa não só um ganho da habilidade de locomover-se, mas também um conjunto de reações e padrões de movimento que auxiliam na função motora. Objetivo: Analisar os efeitos de um tratamento intensivo por meio do suporte de peso corporal em crianças com paralisia cerebral. Métodos: Participaram do estudo 10 crianças com paralisia cerebral, GMFCS nível IV ou V, idade entre 4 a 9 anos. Onde foram realizadas sessões diárias com suporte de peso corporal em esteira ergométrica com auxílio de terapeutas para executar o padrão de marcha mais próximo da normalidade, com pontos chaves em joelho e tornozelo com duração de 30 minutos de tratamento e intervalo de 24 horas, por um período de 10 dias. Para fins de avaliação pré e pós-intervenção, utilizando a escala de medição da função motora grossa GMFM, e da flexibilidade pelo Flexiteste. Resultados: Foi possível constatar um aumento relevante na função motora grossa dos sujeitos, onde o domínio Deitar e Rolar obteve maior pontuação, com um aumento de 10,77%. Sentar demonstrou aumento de 3,80%, Engatinhar e Ajoelhar 6,43% e o domínio Em Pé 3,45%. Relativo ao Flexiteste, a média entre os sujeitos relatou aumento expressivo de 4,2 pontos. Já em análise individual, percebe-se que 3 indivíduos obtiveram aumento de score de 6 pontos. Conclusão: Um protocolo intensivo de curta duração é capaz de trazer ganhos de flexibilidade e motores rápidos a crianças que possuem quadro de paralisia cerebral.</dc:description>
+          <dc:description xml:lang="en-US">The acquisition of gait under the neuromotor aspect of rehabilitation is the main goal of the therapist during the elaboration of the treatment plan of the patient with cerebral palsy, since gait represents not only a gain in the ability to move, but also a set of reactions and movement patterns that aid in motor function. Objective: To analyze the effects of intensive treatment by means of body weight support in children with cerebral palsy. Method: Ten children with cerebral palsy, GMFCS level IV or V, age between 4 and 9 years participated in the study. Where daily sessions were performed with body weight support on a treadmill with the help of therapists to perform the walking pattern closest to normal, with key points in the knee and ankle lasting 30 minutes of treatment and 24 hour intervals for one period of 10 days. For purposes of pre and post-intervention evaluation, using the GMFM gross motor function measurement scale, and Flexitest flexibility. Results: It was possible to observe a significant increase in the gross motor function of the subjects, where the lie down and roll domain obtained a higher score, with an increase of 10.77%. To sit demonstrated a 3.80% increase, Crawling and Kneeling 6.43% and the Standing Foot 3.45%. Relative to Flexitest, the mean between subjects reported a significant increase of 4.2 points. In the individual analysis, it was observed that 3 subjects had a 6-point score increase. Conclusions: An intensive short-duration protocol is capable of bringing flexibility gains and fast motor to children with cerebral palsy.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/162888</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i4a162888</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 4 (2018); 195-199</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/162888/159132</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163003</identifier>
+        <datestamp>2020-08-24T20:03:47Z</datestamp>
+        <setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Phenol as a neurolithic agent in the treatment of focal and multifocal spasticity</dc:title>
+          <dc:title xml:lang="pt-BR">Fenol como agente neurolítico no tratamento da espasticidade focal e multifocal</dc:title>
+          <dc:creator>Carvajal, Dayrin Vanessa Tarazona</dc:creator>
+          <dc:creator>Silva, Natália de Oliveira</dc:creator>
+          <dc:creator>Maeda, Lucas Soiti</dc:creator>
+          <dc:creator>Riberto, Marcelo</dc:creator>
+          <dc:subject xml:lang="en-US">Phenol</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Spasticity</dc:subject>
+          <dc:subject xml:lang="en-US">Nerve Block</dc:subject>
+          <dc:subject xml:lang="en-US">Therapeutics</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fenol</dc:subject>
+          <dc:subject xml:lang="pt-BR">Espasticidade Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Bloqueio Nervoso</dc:subject>
+          <dc:subject xml:lang="pt-BR">Terapêutica</dc:subject>
+          <dc:description xml:lang="en-US">The pyramidal syndrome occurs in central nervous system injuries that affect the corticospinal pathways and are defined by the triad of muscular weakness, increased myotatic reflexes and spasticity, which is defined by the involuntary increase in resistance to passive movement that varies in intensity according to the velocity of joint movement. When spasticity interferes with the patient's functioning, making it difficult to actively move, causing pain, or making it difficult to receive care from others, treatment must be stated. For the treatment of generalized spasticity or for large portions of the body, drug intervention may be used either orally or intrathecally, depending on available resources, but undesirable and variable intensity side effects may occur, especially impairment of attention or awareness, which further delays the rehabilitation process. Focal treatment of spasticity utilizes botulinum toxin or nerve blocks with phenol or alcohol. This article reviews the literature on the most suitable techniques for performing phenol neurolysis. Neuromuscular blockade with phenol is an effective treatment, with immediate action, low cost, prolonged duration and few adverse effects when the regular care of application is respected.</dc:description>
+          <dc:description xml:lang="pt-BR">A síndrome piramidal ocorre nas lesões do sistema nervoso central que afetam as vias corticoespinhais e são definidas pela tríade de fraqueza muscular, aumento dos reflexos miotáticos e espasticidade, que é definida pelo aumento involuntário da resistência ao movimento passivo cuja intensidade varia com a velocidade do movimento. Quando a espasticidade interfere na funcionalidade do paciente, dificultando o movimento ativo, causando dor ou dificultando a prestação de cuidados por terceiros, há necessidade de iniciar seu tratamento. Para o tratamento da espasticidade generalizada ou de grandes porções do corpo, a intervenção medicamentosa ocorre por via oral ou intratecal, conforme os recursos disponíveis, mas efeitos colaterais de intensidade variável e indesejáveis podem ocorrer, especialmente o comprometimento da atenção ou da consciência, que prejudicam o processo de reabilitação. O tratamento focal da espasticidade utiliza a toxina botulínica ou os bloqueios nervosos com fenol ou álcool. Este artigo revisa a literatura sobre as técnicas mais adequadas para realizar a neurólise com fenol. Os bloqueios neuromusculares com fenol são um tratamento efetivo, de ação imediata, baixo custo, duração prolongada e de poucos efeitos adversos quando são respeitados os cuidados regulares de aplicação.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163003</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163003</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 59-65</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163003/159083</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163003/162996</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2019 Acta Fisiátrica</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163005</identifier>
+        <datestamp>2020-08-19T18:31:52Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Características do perfil de indivíduos amputados atendidos em um instituto de reabilitação</dc:title>
+          <dc:title xml:lang="en-US">Characteristics of the profile of amputated individuals attended at a rehabilitation institute</dc:title>
+          <dc:creator>Utiyama, Daniela Mitiyo Odagiri</dc:creator>
+          <dc:creator>Santos, Heyriane Martins dos</dc:creator>
+          <dc:creator>Papa, Leticia Gori Alves del</dc:creator>
+          <dc:creator>Silva, Nadja Moreira da</dc:creator>
+          <dc:creator>Sales, Viviane Caroline</dc:creator>
+          <dc:creator>Ayres, Denise Vianna Machado</dc:creator>
+          <dc:creator>Alfieri, Fabio Marcon</dc:creator>
+          <dc:creator>Battistella, Linamara Rizzo</dc:creator>
+          <dc:subject xml:lang="en-US">Amputees</dc:subject>
+          <dc:subject xml:lang="en-US">Inpatients</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation Services</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputados</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pacientes Internados</dc:subject>
+          <dc:subject xml:lang="pt-BR">Serviços de Reabilitação</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Apresentar características do perfil de indivíduos amputados unilaterais na fase pré protética atendidos em um instituto de reabilitação hospitalar. Método: Estudo retrospectivo a partir dos registros dos prontuários dos pacientes amputados do Instituto de Medicina Física e Reabilitação da Universidade de São Paulo que realizaram reabilitação hospitalar na instituição. Foram analisados os prontuários de julho de 2015 até novembro de 2018. Nestes prontuários foram coletadas as informações sobre: idade, gênero, tipo de lesão, tempo da lesão, etiologia da lesão, mobilidade funcional por meio do teste Timed Up and Go (TUG), equilíbrio/funcionalidade por meio do teste Amputee Mobility Predictor (AMP), capacidade de caminhar por meio do teste de caminhada de 2 minutos (TC2Min). Análises descritivas foram feitas para avaliar as características demográficas e clínicas dos pacientes. Resultados: A média de idade foi de 43,59±16,52 anos, com tempo de amputação de 21,9±32,7 meses. Houve predominância do gênero masculino e a etiologia traumática e amputação transfemoral foram as mais prevalentes. Os dados clínicos encontrados foram: tempo de execução do teste TUG: 18,7 segundos, da AMP: 31,2 pontos, TC2Min: 111,2 metros.&amp;nbsp; Conclusão: Na fase pré-protética, a origem traumática foi predominante, sendo a maioria do gênero masculino. A amputação transfemoral foi superior às demais. O tempo médio da amputação até a internação é quase de dois anos. Os testes clínicos embora apresentem bons resultados, mostram a necessidade de serem aprimoradas as questões como, por exemplo, a mobilidade funcional que é condizente com risco de quedas nestes indivíduos.&amp;nbsp;</dc:description>
+          <dc:description xml:lang="en-US">Objective: To present characteristics of the profile of unilateral amputees in the pre-prosthetic phase treated at a hospital rehabilitation institute. Method: A retrospective study based on medical records of amputated patients of the Institute of Physical Medicine and Rehabilitation of the University of São Paulo who underwent hospital rehabilitation at the institution. The medical records from July 2015 to November 2018 were analyzed. Information on: age, gender, type of injury, time of injury, etiology of the injury, functional mobility by the Timed Up and Go (TUG) test was collected, balance/functionality through the Amputee Mobility Predictor (AMP) test, ability to walk through the 2-minute walk test (TC2Min). Descriptive analyzes were performed to evaluate the demographic and clinical characteristics of the patients. Results: The mean age was 43.59 ± 16.52 years, with amputation time of 21.9 ± 32.7 months. There was a predominance of males and traumatic etiology and transfemoral amputation were the most prevalent. The clinical data found were: TUG test execution time: 18.7 seconds, AMP: 31.2 points, TC2Min: 111.2 meters. Conclusion: In the pre-prosthetic phase, the traumatic origin was predominant, most of them male. Transfemoral amputation was superior to the others. The average time from amputation to hospitalization is almost two years. Clinical tests, although successful, show the need to improve issues such as functional mobility that is commensurate with the risk of falls in these individuals.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163005</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163005</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 14-18</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163005/159111</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163008</identifier>
+        <datestamp>2020-08-21T14:43:21Z</datestamp>
+        <setSpec>actafisiatrica:Comun.+Breve</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Medo de cair, funcionalidade e dor em indivíduos com osteoartrite de joelho</dc:title>
+          <dc:title xml:lang="en-US">Fear of falling, functionality and pain in knee osteoartritis</dc:title>
+          <dc:creator>Alfieri, Fabio Marcon</dc:creator>
+          <dc:creator>Silva, Natália Cristina de Oliveira Vargas</dc:creator>
+          <dc:subject xml:lang="en-US">Osteoarthritis, Knee</dc:subject>
+          <dc:subject xml:lang="en-US">Fear</dc:subject>
+          <dc:subject xml:lang="en-US">Accidental Falls</dc:subject>
+          <dc:subject xml:lang="pt-BR">Osteoartrite do Joelho</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Acidentes por Quedas</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar a relação entre o medo de cair e mobilidade funcional, incapacidade e dor em indivíduos com osteoartrite de joelho. Método: Trata-se de um estudo transversal observacional do qual participaram indivíduos com osteoartrite de joelho. Os participantes foram submetidos às avaliações de funcionalidade pelos questionários de Lequesne e WOMAC, medo de cair pela Falls Eficacy Scale, intensidade de dor pela Escala Visual Analógica, e mobilidade funcional pelo teste Timed Up and Go. Resultados: 61 indivíduos foram divididos segundo o medo de cair em: baixo risco de queda, queda esporádica e queda recorrente. Os dados mostraram que, quanto maior o medo de cair, piores foram os resultados em relação à dor, funcionalidade e mobilidade funcional. Conclusão: Em indivíduos com osteoartrite, existe associação entre medo de cair, funcionalidade, mobilidade e dor.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To evaluate the relationship between fear of falling, functional mobility, disability and pain in individuals with knee osteoarthritis. Method: This is an observational cross-sectional study involving knee osteoarthritis patients. Participants underwent functionality assessments by the Lequesne and WOMAC questionnaires, fear of falling by the Falls Eficacy Scale, pain intensity by the Visual Analog Scale, and functional mobility by the Timed Up and Go test. Results: 61 subjects were divided according to the fear of falling in: low risk of fall, sporadic fall and recurrent fall. Data revealed that the greater the fear of falling, the worse were the results regarding pain, functionality and functional mobility. Conclusion: In individuals with osteoarthritis, there is association between fear of falling, functionality, mobility and pain.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163008</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163008</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 49-51</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163008/159100</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2019 Acta Fisiátrica</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163012</identifier>
+        <datestamp>2020-08-20T14:29:02Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Core set da Classificação Internacional da Funcionalidade para lesão medular: construção e validação de instrumento</dc:title>
+          <dc:title xml:lang="en-US">Core set of the International Classification of Functioning for spinal cord injury: instrument construction and validation</dc:title>
+          <dc:creator>Vianna, Patrícia Carla</dc:creator>
+          <dc:creator>Rabeh, Soraia Assad Nasbine</dc:creator>
+          <dc:creator>Coelho, Juliana Nogueira</dc:creator>
+          <dc:creator>Riberto, Marcelo</dc:creator>
+          <dc:creator>Castro, Fabiana Faleiros Santana</dc:creator>
+          <dc:creator>Teodoro, Maria Lorena</dc:creator>
+          <dc:subject xml:lang="pt-BR">Traumatismos da Medula Espinal/reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudos de Validação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Classificação Internacional de Funcionalidade, Incapacidade e Saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Spinal Cord Injuries/rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Validation Studies</dc:subject>
+          <dc:subject xml:lang="en-US">International Classification of Functioning, Disability and Health</dc:subject>
+          <dc:description xml:lang="en-US">The research aimed to describe the instrument development and validation process based on the brief Core Set of the International Classification of Functioning, Disability and Health for individuals with Acute Spinal Cord Injury. In the methodological study, an instrument was developed to evaluate the functionality of individuals with acute traumatic spinal cord injury. The face and content validation of the instrument was performed by an expert committee, understanding the steps recommended in the literature. As part of this process, a pretest was performed with 10 individuals with acute traumatic spinal cord injury with up to 6 months of injury. In the results, in most items of the instrument, participants made suggestions to modify technical terms, to be replaced or reformulated for better understanding by the target audience. For data analysis the minimum agreement established was 80%. In conclusion, the contribution of the study refers to the possibility of using an innovative tool by the multidisciplinary team in clinical practice.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Descrever o processo de desenvolvimento e validação do instrumento baseado no Core Set resumido da Classificação Internacional da Funcionalidade, Incapacidade e Saúde para indivíduos com lesão medular aguda. Método: No estudo metodológico foi desenvolvido um instrumento para avaliação da funcionalidade de indivíduos com lesão medular aguda traumática. A validação de face e conteúdo do instrumento foi realizada por um comitê de especialistas, compreendendo as etapas preconizadas na literatura. Como parte desse processo, foi realizado o pré-teste, com 10 indivíduos com lesão medular aguda traumática, com até 6 meses de lesão. Resultados: Na maioria dos itens do instrumento, os participantes fizeram sugestões que visavam à modificação de termos técnicos, para serem substituídos ou reformulados para melhor compreensão pelo público alvo. Para a análise de dados o mínimo de concordância estabelecido foi de 80%. Conclusão: A contribuição do estudo refere-se à possibilidade de utilizar uma ferramenta inovadora pela equipe multidisciplinar na prática clínica.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163012</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163012</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 19-24</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163012/159086</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2019 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163015</identifier>
+        <datestamp>2020-08-21T11:34:11Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação do limite de estabilidade pelo Teste Alcance Funcional anterior em idosos</dc:title>
+          <dc:title xml:lang="en-US">Assessment of the limits of stability through the forward Functional Reach Test in older adults</dc:title>
+          <dc:creator>Rosa, Matheus Augusto Braga Marques Vieira</dc:creator>
+          <dc:creator>Coimbra, Arlete Maria Valente</dc:creator>
+          <dc:creator>Nascimento, Adriana Ferreira do</dc:creator>
+          <dc:creator>Ricci, Natalia Aquaroni</dc:creator>
+          <dc:subject xml:lang="en-US">Postural Balance</dc:subject>
+          <dc:subject xml:lang="en-US">Primary Health Care</dc:subject>
+          <dc:subject xml:lang="en-US">Aged</dc:subject>
+          <dc:subject xml:lang="pt-BR">Equilíbrio Postural</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atenção Primária à Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:description xml:lang="pt-BR">O Teste Alcance Funcional avalia o limite de estabilidade, isto é, o quanto o indivíduo pode se movimentar sem alterar sua base de sustentação. Objetivo: Avaliar idosos pelo Teste Alcance Funcional (AF) e verificar os fatores associados ao seu desempenho. Métodos: Pesquisa observacional de corte transversal com análise secundária de dados coletados em estudo prévio. Amostra de idosos da comunidade (≥ 65 anos), de Unidade de Saúde da Família, de ambos os sexos e com deambulação independente. Foram coletadas do banco as informações sociodemográficas, antropométricas, clínicas e de equilíbrio corporal (AF, Time Up and Go-TUG e Escala de Equilíbrio de Berg). O AF foi mensurado em uma única tentativa pelo deslocamento anterior do idoso, sendo classificado de forma numérica (cm) e categórica pela Berg. Foi realizada estatística descritiva e inferencial (testes de correlação e associação) Resultados: Foram avaliados 96 idosos com média de 74,8 anos, AF de 22,5±7,2 cm e 49% conseguiram alcançar à frente mais que 25 cm. Houve correlação entre o AF e variáveis sociodemográficas (idade), antropométricas (altura, peso e comprimento do pé), clínicas (força de preensão palmar e dor) e de equilíbrio (TUG e Berg). Idosos com faixa etária mais avançada, com doença endócrina, baixa acuidade visual, sedentários, com histórico de quedas, com queixas de dor e tontura apresentaram estatisticamente pior desempenho no AF. Conclusão: Idosos de Unidade de Saúde da Família apresentam AF levemente reduzido em relação à normalidade. Alguns fatores estão associados ao desempenho no AF e devem ser considerados na interpretação de seus resultados.</dc:description>
+          <dc:description xml:lang="en-US">The Functional Reach assesses the limits of stability, that is, how far the individual can move without changing the base of support. Objective: To evaluate the Forward Functional Reach Test (FR) in older adults and to verify the factors associated with the test performance. Method: Observational cross-sectional study with secondary analysis of data from a previous study. Sample of community-dwelling older adults (≥ 65 years) from the Family Health Program, both sexes and independent for ambulation. Socio-demographic, anthropometric, clinical and balance control (FR, Time Up and Go-TUG and Berg Balance Scale) information were collected. The FR was measured in a single attempt by the anterior displacement of the subject classified numerically (cm) and categorically according to the Berg Balance Scale. Descriptive and inferential statistical analysis (correlation and association tests) were performed. Results: 96 older adults were evaluated with mean age of 74.8 years, FR of 22.5±7.2 cm and 49% achieved more than 25 cm. There was a correlation between FR and sociodemographic (age), anthropometric (height, weight and foot length), clinical (grip strength and pain) and balance (TUG and Berg Scale) data. Old people with more advanced age, with endocrine disease, low visual acuity, sedentary, with history of falls, with complaints of pain and dizziness presented statistically worse performance in FR. Conclusion: Older adults from the Family Health Program have a slightly reduced in FR compare to normative data from community-dwelling elderly. Some factors are associated with FR performance and should be considered when interpreting their results.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163015</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163015</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 37-42</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163015/159109</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2019 Acta Fisiátrica</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163071</identifier>
+        <datestamp>2020-08-21T13:50:53Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Repercussions of training with non immersive virtual reality in manual skills of pepople with Parkinson’s disease</dc:title>
+          <dc:title xml:lang="pt-BR">Repercussões do treinamento com realidade virtual não imersiva nas habilidades motoras manuais de pessoas com doença de Parkinson</dc:title>
+          <dc:creator>Silva, Gabriela Letícia Oliveira</dc:creator>
+          <dc:creator>Ceron, Bárbara Morais</dc:creator>
+          <dc:creator>Borba, Karolyne Monteiro</dc:creator>
+          <dc:creator>Amaral, Daniela Salgado</dc:creator>
+          <dc:creator>Marcelino, Juliana Fonseca de Queiroz</dc:creator>
+          <dc:creator>Coriolano, Maria das Graças Wanderley de Sales</dc:creator>
+          <dc:creator>Sanguinetti, Danielle Carneiro de Menezes</dc:creator>
+          <dc:subject xml:lang="en-US">Parkinson Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Video Games</dc:subject>
+          <dc:subject xml:lang="en-US">Occupational Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença de Parkinson</dc:subject>
+          <dc:subject xml:lang="pt-BR">Jogos de Vídeo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Terapia Ocupacional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:description xml:lang="pt-BR">Dentre os problemas motores e não motores que acometem as pessoas com Doença de Parkinson, existem as dificuldades na escrita manual, denominada micrografia. No treino com realidade virtual não imersiva para escrita, o terapeuta ocupacional tem competência para planejar o tratamento por meio da análise da atividade, a fim de amenizar e prevenir os impactos da Doença de Parkinson nas ocupações. Objetivo: Analisar as repercussões do treinamento com realidade virtual não imersiva nas habilidades motoras manuais de pessoas com Doença de Parkinson. Métodos: Trata-se de um estudo de intervenção, do tipo ensaio clínico não controlado, de natureza quantitativa. O treinamento com realidade virtual não imersiva contemplou o uso do tablet e dos aplicativos Dexteria®, Smash Hit e Dots. O estudo foi vinculado ao Programa de Extensão Pró-Parkinson e ao Projeto Pró-Parkinson: Terapia Ocupacional. Resultados: A amostra foi composta por dez participantes de ambos os sexos. Em relação à dominância do membro superior, apenas um participante era canhoto. A análise da atividade foi fundamental para estimular as habilidades requeridas pelos aplicativos. De acordo com o analisado, os resultados encontrados são favoráveis aos participantes da pesquisa por corresponder a uma doença neurodegenerativa. A realidade virtual não imersiva é um recurso favorável para fornecer estímulos visuais com propósito de melhorar a velocidade de movimento, refletindo na mobilidade funcional. Conclusão: O treino com os aplicativos selecionados pela técnica de análise da atividade, em realidade virtual não imersiva melhorou e/ou manteve as habilidades motoras dos participantes, mesmo nos estágios mais avançados da doença.</dc:description>
+          <dc:description xml:lang="en-US">Among the motor and non-motor problems that affect people with Parkinson’s disease, there are difficulties in manual writing, called micrography.&amp;nbsp;In training with non-immersive virtual reality for writing, the occupational therapist has the competence to plan treatment through activity analysis, in order to mitigate and prevent the impacts of Parkinson’s Disease on occupations.&amp;nbsp;Objective: To analyze the repercussions of training with non-immersive virtual reality in the motor skills of people with Parkinson’s disease. Methods: This is an intervention study of the non-controlled clinical trial type of a quantitative nature. Training with non-immersive virtual reality included the use of tablet and applications Dexteria®, Smash Hit and Dots. The study was linked to the Pro-Parkinson Extension Program and the Pró-Parkinson Project: Occupational Therapy. Results: The sample consisted of ten participants of both sexes. Regarding the dominance of the upper limb, only one participant was left-handed. Activity analysis was instrumental in stimulating the skills required by the applications. According to the analyzed, the results are favorable to the participants of the research for corresponding to a neurodegenerative disease.&amp;nbsp;Non-immersive virtual reality is a favorable resource to provide visual stimuli for the purpose of improving speed of movement, reflecting functional mobility. Conclusion: Training with applications selected by activity analysis technique, in non-immersive virtual reality improved and/or maintained the motor skills of participants, even in the most advanced stages of the disease.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163071</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163071</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 43-48</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163071/159108</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2019 Acta Fisiátrica</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163302</identifier>
+        <datestamp>2020-08-18T20:10:59Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Confiabilidade de um aplicativo de goniometria para dispositivo móvel (Android): Goniôapp</dc:title>
+          <dc:title xml:lang="en-US">Reliability of a goniometry application for mobile device (Android): Goniôapp</dc:title>
+          <dc:creator>Bobsin, Estéfani Teixeira</dc:creator>
+          <dc:creator>Brehm, Taís Espíndula</dc:creator>
+          <dc:creator>Silva, Gabriel Gomes</dc:creator>
+          <dc:creator>Mengue, Luiz Fernando</dc:creator>
+          <dc:creator>Carlos, Analu Engler</dc:creator>
+          <dc:creator>Dohnert, Marcelo Baptista</dc:creator>
+          <dc:creator>Daitx, Rodrigo Boff</dc:creator>
+          <dc:subject xml:lang="pt-BR">Artrometria Articular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amplitude de Movimento Articular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aplicativos Móveis</dc:subject>
+          <dc:subject xml:lang="en-US">Arthrometry, Articular</dc:subject>
+          <dc:subject xml:lang="en-US">Range of Motion, Articular</dc:subject>
+          <dc:subject xml:lang="en-US">Mobile Applications</dc:subject>
+          <dc:description xml:lang="pt-BR">A goniometria é uma técnica utilizada para avaliar a amplitude de movimento (ADM) das articulações do corpo humano. O goniômetro universal (GU) é o instrumento mais utilizado pelos fisioterapeutas para avaliar a ADM. O aplicativo Goniôapp foi desenvolvido com a função de um goniômetro universal para avaliar a ADM. Objetivo: Avaliar a confiabilidade do aplicativo Goniôapp para aparelho móvel (Android) na avaliação da ADM de indivíduos saudáveis. Método: Estudo de validação de tecnologia com 44 alunos de fisioterapia da Ulbra Torres RS sendo 10 alunos do sexo masculino e 34 do sexo feminino. Foi avaliado a ADM da articulação glenoumeral do lado direito através da goniometria e do Goniôapp por três avaliadores previamente treinados com os instrumentos. Resultados: Foi verificado um nível de confiabilidade inter examinador moderado para extensão, flexão, abdução e rotação externa entre todos os avaliadores. Já na avaliação de confiabilidade intra examinador, o avaliador 1 e o 2 apresentaram um nível de confiabilidade alto para o movimento de extensão e os demais movimentos apresentaram nível moderado, porém, somente o avaliador 3 apresentou um nível alto para todos os movimentos. Conclusão: O aplicativo para dispositivo móvel (Android) Goniôapp apresenta nível de confiabilidade semelhantes a técnica do GU tanto intra quanto interavaliadores.</dc:description>
+          <dc:description xml:lang="en-US">Goniometry is a technique used to evaluate a range of motion (ROM) of the joints of the human body. The universal goniometer is the instrument most used by physiotherapists to evaluate an ROM. The Goniôapp application was developed with a function of a universal goniometer to evaluate an ROM. Objective: To evaluate whether the goniometry application for mobile devices (Android), Goniôapp, presents results for the universal goniometer in the evaluation of healthy WMD. Method: An applied research was conducted in the technology validation modality, in physiotherapy students of Ulbra Torres RS. Primeved was signed the TCLE, and collected the demographic data. After having done an assessment of the glenohumeral joint on the right side in 10 male students and 34 female, by three evaluators who evaluate as two measures measured, universal goniometer and Goniôapp. Results: A moderate inter-examiner reliability level was verified for extension, flexion, abduction and external rotation among all the evaluators. In the intra-examiner reliability assessment, the evaluator 1 and 2 presented a high level of reliability for the movement of extension and the other movements presented moderate level, however, only the evaluator 3 presented a high level for all the movements. Conclusion: At the end of the present research, a goniometry application for mobile device (Android) was concluded, Goniôapp presents results similar to the GU technique, both results had a moderate IC both intra and between evaluators.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163302</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163302</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 1-5</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163302/159085</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2019 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163420</identifier>
+        <datestamp>2020-08-19T14:51:20Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Effect of 12 weeks of home-based physical exercise in the fitness of elderly women with breast cancer: a randomized clinical trial</dc:title>
+          <dc:title xml:lang="pt-BR">Efeito de 12 semanas de exercício físico domiciliar na aptidão física de idosas com câncer de mama em hormonioterapia: ensaio clínico randomizado</dc:title>
+          <dc:creator>Souza Filho, Breno Augusto Bormann de</dc:creator>
+          <dc:creator>Silva Júnior, José Roberto da</dc:creator>
+          <dc:creator>Smethurst, William Serrano</dc:creator>
+          <dc:creator>Santos, Dalmir Cavalcanti dos</dc:creator>
+          <dc:creator>Carmo, Cleber Nascimento do</dc:creator>
+          <dc:creator>Mattos, Inês Echenique</dc:creator>
+          <dc:creator>Alves, João Guilherme Bezerra</dc:creator>
+          <dc:subject xml:lang="pt-BR">Neoplasias da Mama</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aptidão Física</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:subject xml:lang="en-US">Breast Neoplasms</dc:subject>
+          <dc:subject xml:lang="en-US">Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Fitness</dc:subject>
+          <dc:subject xml:lang="en-US">Aged</dc:subject>
+          <dc:description xml:lang="en-US">Objective: &amp;nbsp;To evaluate the effects of a home-based physical exercise program on fitness of elderly women with breast cancer. Methods: A randomized clinical trial with 75 elderly patients receiving treatment of breast cancer was developed in a General Hospital of Recife, Brazil, from April to November 2015. 38 were randomized for a home–based physical exercise program during 12 weeks and 37 were Control Group, which received monthly lectures on the importance of maintaining an active lifestyle. An instructional material of physical exercise with a brochure and DVD was previously developed and distributed to the Intervention Group. The Senior Fitness Test was used to evaluated physical fitness. Results: A significant&amp;nbsp; improvement in muscle strength, flexibility, balance and&amp;nbsp; aerobic resistance&amp;nbsp; was&amp;nbsp; observed in the Group Intervention according to the&amp;nbsp; Senior Fitness Test items; 30-s arm curl (13.74 – 17.10 repetitions, p&amp;lt;0.01); 30-s chair stand (12.03 – 14.55 repetitions, p&amp;lt;0.01); 8-foot up-and-go (6.85 – 6.00 seconds, p&amp;lt;0.01); 2-min step test (79.08 – 123.37 past doubles, p&amp;lt;0.01); Back scratch (-8.74 to -0.42 centimeters, p&amp;lt;0.01); Chair sit-and-reach (-6.76 to 4.76 centimeters, p&amp;lt;0.01). However, BMI and manual grip strength did not show any change in both groups. Conclusion: A home-based physical exercise program showed efficacy to improve physical fitness in elderly patients receiving treatment of breast cancer.&amp;nbsp;</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar os efeitos de um programa de exercícios físicos domiciliares na aptidão física de idosas com câncer de mama em tratamento. Métodos: Ensaio clínico randomizado com 75 idosas com câncer de mama, realizado em um Hospital Geral do Recife, Brasil, de abril a novembro de 2015. 38 foram alocadas para um programa de exercícios físicos domiciliares, durante 12 semanas, e 37 para o Grupo Controle, o qual recebeu palestras mensais sobre a importância da manutenção de um estilo de vida ativo. Um manual de exercícios físicos e DVD foi previamente desenvolvido e distribuído para o Grupo Intervenção. Foi utilizada a bateria Senior Fitness Test para avaliar a aptidão física. Resultados: Foi observada melhora significativa da força muscular, flexibilidade, equilíbrio e resistência aeróbica no Grupo Intervenção, de acordo com os itens da SFT; Flexão de Antebraço (13,74 - 17,10 repetições, p &amp;lt;0,01); Levantar e Sentar (12,03 - 14,55 repetições, p &amp;lt;0,01); Ir e Vir (6,85 - 6,00 segundos, p &amp;lt;0,01), marcha estacionária de 2 minutos (79,08 - 123,37 duplas passadas, p &amp;lt;0,01); Alcançar as Costas (-8,74 a -0,42 centímetros, p &amp;lt;0,01); e Sentar e Alcançar (-6,76 a 4,76 centímetros, p &amp;lt;0,01). Não foram observadas melhoras com relação ao IMC e força de preensão manual. Conclusão: O programa de exercícios físicos domiciliares mostrou eficácia para melhorar a aptidão física em idosas com câncer de mama em tratamento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163420</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163420</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 6-13</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163420/159114</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2019 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163787</identifier>
+        <datestamp>2020-08-20T19:58:07Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Aplicabilidade dos qualificadores da Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) em pacientes neurológicos adultos em um centro de reabilitação em São Paulo, Brasil</dc:title>
+          <dc:title xml:lang="en-US">Feasibility of the International Classification of Functioning, Disability and Health (ICF) qualifiers in adult neurological patients on a rehabilitation center in Sao Paulo, Brazil</dc:title>
+          <dc:creator>Gomes, Juliana Leme</dc:creator>
+          <dc:creator>Lopes, Uleida de Brito Lima</dc:creator>
+          <dc:creator>Freitas, Simone Ferreira de</dc:creator>
+          <dc:creator>Ferreira, Luana Talita Diniz</dc:creator>
+          <dc:creator>Oliveira, Clarissa Barros de</dc:creator>
+          <dc:subject xml:lang="en-US">International Classification of Functioning, Disability and Health</dc:subject>
+          <dc:subject xml:lang="en-US">Disabled Persons</dc:subject>
+          <dc:subject xml:lang="en-US">Neurologic Manifestations</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation Centers</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Specialty</dc:subject>
+          <dc:subject xml:lang="pt-BR">Classificação Internacional de Funcionalidade, Incapacidade e Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pessoas com Deficiência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Manifestações Neurológicas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Centros de Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fisioterapia</dc:subject>
+          <dc:description xml:lang="en-US">The International Classification of Functioning, Disability and Health (ICF) has been used in the Association of Assistance for Disabled Children (AACD) since 2011 in the Adult Physiotherapy division. Since then, the Classification serves as foundation for guiding the functional objectives set, improving communication between multiprofissional divisions and indicating quality of care for institutional audit service purposes. The experience was valid for the institution and well accepted by its employees, and the use was expanded. The World Health Organization (WHO) suggests that the ICF codes’ use is not complete without their qualifiers. Therefore, this paper aims to describe the implementation of ICF and its qualifiers in the adult physiotherapy division of the institution. The instrument, which was adapted for use in our servisse, allows the patients to be evaluated on their admission and to monitor the evolution throughout their rehabilitation process, in order to be used as an evolution indicator. This study will report the process we performed: the implementation of the Classification; the study to deepen knowledge on the recommended qualification; development of an appropriate instrument to be used for clinical practice of this service; staff training and pilot application; and, in addition, to report initial data as progress indicators.</dc:description>
+          <dc:description xml:lang="pt-BR">A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) vem sendo utilizada na Associação de Assistência à Criança com Deficiência (AACD) desde 2011 no setor de Fisioterapia Adulto. Esta Classificação, desde então, serve como base para nortear os objetivos funcionais traçados, para melhorar a comunicação entre os setores multiprofissionais e para indicar qualidade assistencial para fins de auditoria de serviço institucional. A experiência foi válida para a instituição e bem aceita pelos seus colaboradores, e seu uso pôde ser expandido. A Organização Mundial da Saúde (OMS) sugere que o uso dos códigos da CIF não está completo sem a utilização dos seus qualificadores. Dessa forma o presente trabalho tem como objetivo descrever a implantação da CIF e seus qualificadores no setor de fisioterapia de adultos da instituição. O instrumento adaptado para uso neste serviço permite avaliar o paciente na sua admissão e acompanhar sua evolução ao longo do seu processo de reabilitação, de forma a ser utilizado como indicador de evolução setorial. Será relatado nesse trabalho o processo que foi realizado: a implantação da classificação, o estudo de aprofundamento na qualificação preconizada; desenvolvimento de um instrumento adequado para a prática clínica do serviço; treinamento dos profissionais e projeto piloto; além de reportar dados iniciais na forma de indicadores de evolução.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163787</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163787</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 25-36</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163787/159084</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163789</identifier>
+        <datestamp>2020-08-21T17:58:55Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Instrumentos de avaliação da sexualidade em homens e mulheres após a lesão medular: uma revisão sistemática</dc:title>
+          <dc:title xml:lang="en-US">Assessment instruments of sexuality in men and women after spinal cord injury: a systematic review</dc:title>
+          <dc:creator>Moura, Ana Carolina Monteiro Lessa de</dc:creator>
+          <dc:creator>Costa, Pollyana Helena Vieira</dc:creator>
+          <dc:creator>Polese, Janaine Cunha</dc:creator>
+          <dc:subject xml:lang="pt-BR">Traumatismos da Medula Espinal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação da Deficiência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sexualidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aconselhamento Sexual</dc:subject>
+          <dc:subject xml:lang="en-US">Spinal Cord Injuries</dc:subject>
+          <dc:subject xml:lang="en-US">Disability Evaluation</dc:subject>
+          <dc:subject xml:lang="en-US">Sexuality</dc:subject>
+          <dc:subject xml:lang="en-US">Sex Counseling</dc:subject>
+          <dc:description xml:lang="pt-BR">A disponibilidade de instrumentos para avaliação da saúde sexual é muito importante para uma boa prática clínica, pois permite que os profissionais da área da saúde avaliem e intervenham de forma eficaz, atingindo os melhores padrões de avaliação e intervenção, e assim, melhorem a vida sexual dessa população. Objetivo: Revisar sistematicamente os instrumentos de avaliação da sexualidade em homens e mulheres após a lesão medular disponíveis na literatura, em relação ao seu uso e propriedades de medida. Método: Trata-se de uma revisão sistemática da literatura das bases de dados Pubmed, Lilacs, Scielo e Cinahl, de todos os estudos até maio de 2019, em que a estratégia de busca consistiu na utilização das palavras-chave: sexuality, spinal cord injury, evaluation, assessment e questionnaires. Os artigos identificados pela estratégia de busca inicial foram avaliados conforme critérios de inclusão pré-estabelecidos. Os desfechos foram mecanismos sexuais (excitação, ejaculação, ereção e orgasmo), desejo, satisfação, frequência sexual, ajuste, educação sexual e relação com o parceiro. Os dados foram organizados em tabelas foram apresentados através de uma análise descritiva dos resultados dos estudos incluídos. Resultados: Dezoito estudos atenderam aos critérios de elegibilidade e foram incluídos. Foram encontrados sete instrumentos validados para avaliação da sexualidade em indivíduos com lesão medular, nove genéricos e doze instrumentos para avaliação de fatores possivelmente relacionados a sexualidade. Dois avaliaram as propriedades de medida, sendo que em ambos foram adequadas. Conclusão: Esta revisão identificou um total de 28 instrumentos que foram utilizados na avaliação da sexualidade em indivíduos com lesão medular, entretanto, apenas sete desses instrumentos foram validados.</dc:description>
+          <dc:description xml:lang="en-US">The availability of tools for sexual health assessment is very important for good clinical practice as it enables health professionals to evaluate and intervene effectively, achieving the best standards of assessment and intervention, and thus improving sex life of this population. Objective: To systematically review the instruments for assessing sexuality in men and women after spinal cord injury available in the literature regarding their use and measurement properties. Methods: This is a systematic literature review of the Pubmed, Lilacs, Scielo and Cinahl databases from all studies up to May 2019, in which the search strategy consisted of using the keywords: sexuality, spinal cord injury, evaluation, assessment and questionnaires. The articles identified by the initial search strategy were evaluated according to the pre-established inclusion criteria. Outcomes were sexual mechanisms (arousal, ejaculation, erection and orgasm), desire, satisfaction, sexual frequency, adjustment, sex education and relationship with the partner. Data were organized into tables were presented through a descriptive analysis of the results of the included studies. Results: Eighteen studies met the eligibility criteria and were included. We found seven validated instruments for assessing sexuality in individuals with spinal cord injury, nine generic and twelve instruments for assessing factors possibly related to sexuality. Two evaluated the measurement properties, and both were adequate. Conclusion: This review identified a total of 28 instruments that were used to assess sexuality in individuals with spinal cord injury, however, only seven of these instruments were validated.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2019-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163789</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v26i1a163789</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 26 n. 1 (2019); 52-58</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163789/159106</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2019 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163839</identifier>
+        <datestamp>2020-02-05T18:48:52Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Uso da terapia por ondas de choque para o tratamento do linfedema associado ao câncer de mama: uma revisão sistemática</dc:title>
+          <dc:title xml:lang="en-US">Use of shockwave therapy for the treatment of lymphedema associated to breast cancer: a systematic review</dc:title>
+          <dc:creator>Bagatini, Otávio Augusto</dc:creator>
+          <dc:creator>Bertin, Camila</dc:creator>
+          <dc:creator>Hong, Fernando</dc:creator>
+          <dc:creator>Guarita, Maria Lucia Costacurta</dc:creator>
+          <dc:creator>Shinzato, Gilson Tanaka</dc:creator>
+          <dc:creator>Imamura, Marta</dc:creator>
+          <dc:creator>Brito, Christina May Moran de</dc:creator>
+          <dc:creator>Battistella, Linamara Rizzo</dc:creator>
+          <dc:subject xml:lang="en-US">Breast Cancer Lymphedema</dc:subject>
+          <dc:subject xml:lang="en-US">Extracorporeal Shockwave Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Manual Lymphatic Drainage</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Linfedema Relacionado a Câncer de Mama</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tratamento por Ondas de Choque Extracorpóreas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Drenagem Linfática Manual</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:description xml:lang="en-US">Lymphedema associated with breast cancer is a cause of significant impairment of the quality of life and is a frequent complication of the necessary interventions in this type of cancer. It is known that the treatment used in lymphedema associated with breast cancer involves Complex Physical Therapy (CPT), whose efficacy is limited and does not act directly in the pathogenesis of this comorbidity. As demonstrated in some studies, the use of Shock Wave Therapy (TSWT) is potentially beneficial in reducing lymphedema by inducing neoangiogenesis and lymphangiogenesis. Objective: To evaluate the impact of TSWT on the treatment of lymphedema associated with breast cancer compared to the use of CPT. Methods: The following databases were used: PubMed / MedLine; BIREME; LILACS; The Cochrane Library and EMBASE, and through manual article search. We adopted the PICO search method and the Mesh descriptors were adjusted according to the respective database. Results: A total of 262 articles were found and selected by reading the title or abstract a total of 17 studies. Six were excluded because they were duplicates, totaling 11 articles elected to verify the inclusion criteria. Of these, no article met the outline of the methodology proposed. Three of them were closer to the proposed theme and were discussed. Conclusion: It is necessary to carry out studies with adequate methodological quality to evaluate the potential benefit of the use of TSWT, in order to contribute to the composition of a more effective and safe treatment, that acts in the pathogenesis of the disease.</dc:description>
+          <dc:description xml:lang="pt-BR">O linfedema associado ao câncer de mama é causa de prejuízo significativo da qualidade de vida deste grupo de pacientes e constitui complicação frequente das intervenções necessárias nesse tipo de câncer. Sabe-se que o tratamento utilizado no linfedema associado ao câncer de mama envolve a Terapia Física Complexa (TFC), cuja eficácia é limitada e não atua diretamente na patogênese dessa comorbidade. Conforme já demonstrado em alguns estudos, o uso da Terapia por Ondas de Choque (TOC) demonstra-se potencialmente benéfico para reduzir o linfedema pela indução de neoangiogênese e linfangiogênese. Objetivo: Avaliar o impacto da TOC no tratamento do linfedema associado ao câncer de mama comparado ao uso da TFC. Métodos: Foram utilizadas as seguintes bases de dados: PubMed/MedLine; BIREME; LILACS; The Cochrane Library e EMBASE, e através de busca manual de artigos. Adotou-se o método de pesquisa PICO e os descritores MeSH ajustados conforme a respectiva base de dados. Resultados: Foram encontrados um total de 262 artigos e selecionados por leitura do título ou resumo um total de 17 estudos. Seis foram excluídos por serem duplicatas, totalizando 11 artigos eleitos para verificação dos critérios de inclusão. Destes, nenhum artigo atendeu ao delineamento da metodologia proposta para esta revisão. Três deles se destacaram por se aproximarem mais da temática proposta e foram discutidos. Conclusão: É necessária a realização de estudos com qualidade metodológica adequada para avaliar o potencial benefício do uso da TOC, visando contribuir para a composição de um tratamento mais eficaz, seguro e que atue na patogênese da doença.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163839</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i4a163839</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 4 (2018); 205-210</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163839/159124</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163840</identifier>
+        <datestamp>2019-12-24T16:50:40Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Muscle strength of trunk extensors measurement in different angular velocity in an isokinetic dynamometer an individual post traumatic brain injury: case report</dc:title>
+          <dc:title xml:lang="pt-BR">Mensuração da força muscular dos extensores do tronco em diferentes velocidades angulares no dinamômetro isocinético em uma pessoa após traumatismo crânio encefálico: relato de caso</dc:title>
+          <dc:creator>Montelli, Rita de Cássia</dc:creator>
+          <dc:creator>Gonçalves, Adilson</dc:creator>
+          <dc:creator>Duran, Tania Cristina</dc:creator>
+          <dc:creator>Miyahara, Katia Lina</dc:creator>
+          <dc:creator>Mota, Cristiane Gonçalves</dc:creator>
+          <dc:creator>Shinzato, Gilson Tanaka</dc:creator>
+          <dc:subject xml:lang="en-US">Brain Injuries, Traumatic</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength Dynamometer</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lesões Encefálicas Traumáticas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dinamômetro de Força Muscular</dc:subject>
+          <dc:description xml:lang="en-US">Objective: The objective of this study was to evaluate the velocity of trunk extension movement, in three angular phases, within the range of 15 degrees per second (º/s) at 60º/s, in a person with double hemiparesis after traumatic brain injury. Methods: The sample consisted of a male participant, 18 years old, with predominant right hemiparesis, limitation of range of motion of the hip and right knee after TBI caused by automobile accident. The muscle strength of the trunk extensors was verified by isokinetic evaluation in a Cybex® model 6000 dynamometer. The isokinetic training program was performed twice a week, in 60-minute sessions, for 35 weeks. Results: After 10 sessions, the peak torque increase 193.0% and 160.0% in the concentric muscle strength of the trunk extensors performed at angular velocity of 15 and 30 degree per second respectively and, after 70 sessions, the improvement presented was 102% for angular velocity of 60 degree per second. Conclusion: Isokinetic training may contribute to the improvement of the muscular strength of the trunk extensors of a young adult with a neurological sequel after traumatic brain injury, and contributes to an improvement in balance, a decrease in pain and risk of future musculoskeletal injuries.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar a velocidade de movimento de extensão do tronco, em três fases angulares, dentro do intervalo de movimento de 15 graus por segundo (º/s) a 60º/s, em uma pessoa com dupla hemiparesia, após traumatismo crânio encefálico. Métodos: A amostra foi composta por um participante do sexo masculino, idade 18 anos, com dupla hemiparesia predominante à direita, limitação de amplitude de movimento de quadril e joelho direito após TCE causado por acidente automobilístico. A força muscular dos extensores do tronco foi verificada por meio da avaliação isocinética, em um dinamômetro da marca Cybex® modelo 6000. O programa de treinamento isocinético foi realizado duas vezes por semana, em sessões de 60 minutos, durante 35 semanas no Serviço de Condicionamento Físico - IMREA HCFMUSP, unidade Vila Mariana, São Paulo / SP. Resultados: Após 10 sessões, o pico do torque apresentou aumento de 193,0% e 160,0% na força muscular concêntrica dos extensores do tronco realizada em velocidade angular de 15 e 30 graus por segundo respectivamente e, após 70 sessões, a melhora apresentada foi de 102% para velocidade angular de 60 graus por segundo. Conclusão: O treinamento isocinético pode contribuir para melhora da força muscular dos extensores do tronco de um adulto jovem com sequela neurológica após traumatismo crânio-encefálico, contribuindo para melhora do equilíbrio, diminuição de dores e de riscos de futuras lesões musculoesqueléticas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163840</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i4a163840</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 4 (2018); 211-213</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163840/159122</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163850</identifier>
+        <datestamp>2019-12-24T16:50:40Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Métodos de avaliação da composição corporal em pessoas com amputação de membros</dc:title>
+          <dc:title xml:lang="en-US">Methods of assessing body composition in people with limb amputation</dc:title>
+          <dc:creator>Silvestre, Orcizo Francisco</dc:creator>
+          <dc:creator>Buratti, Jessica Reis</dc:creator>
+          <dc:creator>Mattosinho, Rafael Ribeiro</dc:creator>
+          <dc:creator>Borges, Mariane</dc:creator>
+          <dc:creator>Gorla, José Irineu</dc:creator>
+          <dc:subject xml:lang="pt-BR">Composição Corporal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Antropometria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="en-US">Body composition</dc:subject>
+          <dc:subject xml:lang="en-US">Anthropometric</dc:subject>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Identificar quais métodos foram utilizados para avaliar a composição corporal de indivíduos com amputação de membros a partir da revisão da literatura. Método: Para atingir o objetivo definido, utilizou-se as bases de dados Pubmed e Scielo, através dos descritores (em combinação com amputação) composição corporal, massa gorda e massa magra de 1986 a 2019. Resultados: Os artigos encontrados passaram pela inclusão e critérios de exclusão e 17 artigos, todos utilizando medidas antropométricas (massa corporal e estatura), seguidas de densitometria óssea (DXA) e espessura das dobras cutâneas. Pode-se observar, também, que a maioria dos estudos está focada no aspecto saúde, com foco em nutrição e fatores de risco. Conclusão: Através desta revisão, observou-se que os métodos antropométricos foram utilizados principalmente para avaliar a composição corporal em indivíduos com amputação de membros, seguida de densitometria óssea. No entanto, os estudos eram escassos e muitos procedimentos não eram tão claros para inviabilizar uma análise mais cuidadosa. Além disso, faltam estudos longitudinais e, principalmente, na área do desempenho esportivo nessa população, indicando uma lacuna importante a ser explorada.</dc:description>
+          <dc:description xml:lang="en-US">Objective: Identify which methods of have been used to assess the body composition individuals with limb amputation from the literature review. Method: In order to reach the defined objective, the Pubmed and Scielo databases were used, through the descriptors (in combination with amputation) body composition, fat mass and lean mass from 1986 to 2019. Results: Found articles went through the inclusion and exclusion criteria and 17 articles were selected, all of them using anthropometric measures (body mass and stature), followed by bone densitometry (DXA) and thickness of skinfolds. It can also be observed that most of the studies are focused on the health aspect which focused on nutrition and risk factors. Conclusion: Through this review we observed that the anthropometric methods were mostly used to evaluate body composition in individuals with limb amputation followed by bone densitometry. However, the studies were scarce and many procedures were not so clear to make a more careful analysis unfeasible. In addition, there is a lack of longitudinal studies and especially in the area of sports performance in this population, indicating an important gap to be explored.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163850</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i4a163850</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 4 (2018); 200-204</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163850/159127</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163852</identifier>
+        <datestamp>2020-02-06T20:35:02Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Análise da assimetria de força de preensão manual entre os sexos</dc:title>
+          <dc:title xml:lang="en-US">Analysis of the asymmetry of hand gripping force between the sexes</dc:title>
+          <dc:creator>Fernandes, Lidiane Aparecida</dc:creator>
+          <dc:creator>Bruno, Mateus Gonçalves</dc:creator>
+          <dc:creator>Lage, Guilherme Menezes</dc:creator>
+          <dc:creator>Matos, Cíntia de Oliveira</dc:creator>
+          <dc:creator>Walker, Paula Carolina Leite</dc:creator>
+          <dc:creator>Souza, Tércio Apolinário</dc:creator>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lateralidade Funcional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dinamômetro de Força Muscular</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="en-US">Functional Laterality</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength Dynamometer</dc:subject>
+          <dc:description xml:lang="en-US">It is of the nature of human beings to have preferences to performing daily tasks. This preference is associated with the laterality. One of the fields of the laterality study is lateral asymmetry, that is present in both preference and performance dimensions. Objective: This study aimed to compare manual grip strength asymmetry between genders and to identify if there is an association between asymmetry of performance and preference asymmetry. Method: The sample consisted of 50 university students who performed maximum manual grip strength tests. Results: The results indicated that the men had higher absolute values, higher Asymmetry Index and lower consistency when compared to the women. In addition, the preferred hand presented higher strength values in both sexes. Conclusion: In general, it is suggested that genetic, social, cultural and gender factors influence the motor behavior of the individuals and consequently the appearance of the lateral asymmetries.</dc:description>
+          <dc:description xml:lang="pt-BR">É da natureza dos seres humanos apresentarem preferências na realização de tarefas do dia-a-dia. Esta preferência está associada à lateralidade. Um dos campos de estudo sobre a lateralidade é a assimetria lateral, que está presente tanto na dimensão da preferência quanto no desempenho. Objetivo: Este estudo teve como objetivo comparar a assimetria de força de preensão manual entre os sexos, e identificar se há associação entre assimetria de desempenho e assimetria de preferência. Método: A amostra foi composta por 50 estudantes universitários que realizaram teste de força de preensão manual máxima. Resultados: Os resultados indicaram que o os homens apresentaram valores absolutos maiores, maior índice de assimetria e menor consistência quando comparados às mulheres. Além disso, a mão preferida apresentou valores maiores de força em ambos os sexos.&amp;nbsp; Conclusão:&amp;nbsp; Em linhas gerais, sugere-se que fatores genéticos, sociais, culturais e sexo influenciam o comportamento motor dos indivíduos e, consequentemente, as assimetrias de desempenho.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2018-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/163852</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v25i4a163852</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 25 n. 4 (2018); 162-166</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/163852/159167</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2018 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2023-08-08T14:49:34Z" completeListSize="935" cursor="675">e122a7fb03d081bc19e1f5c6203495fc</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

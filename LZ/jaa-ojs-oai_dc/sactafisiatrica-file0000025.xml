@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2023-08-07T14:49:31Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153470</identifier>
+        <datestamp>2019-09-23T18:08:52Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Physical activity levels of a primary health care users: comparisons between healthy subjects and subjects with stroke</dc:title>
+          <dc:title xml:lang="pt-BR">Nível de atividade física de usuários da atenção primária: comparação entre indivíduos saudáveis e pós acidente vascular cerebral</dc:title>
+          <dc:creator>Simões, Tamires Fernanda Pedrosa</dc:creator>
+          <dc:creator>Ferreira, Ananda Jacqueline</dc:creator>
+          <dc:creator>Martins, Júlia Caetano</dc:creator>
+          <dc:creator>Faria, Christina Danielli Coelho de Morais</dc:creator>
+          <dc:subject xml:lang="en-US">Stroke</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Modalities</dc:subject>
+          <dc:subject xml:lang="en-US">Human Activities</dc:subject>
+          <dc:subject xml:lang="en-US">Unified Health System</dc:subject>
+          <dc:subject xml:lang="pt-BR">Acidente Vascular Cerebral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Modalidades de Fisioterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atividades Humanas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sistema Único de Saúde</dc:subject>
+          <dc:description xml:lang="pt-BR">Indivíduos acometidos pelo Acidente Vascular Cerebral (AVC) comumente apresentam um baixo nível de atividade física (AF), o que é fator de risco para recorrência do AVC, surgimento de outras doenças cardiovasculares e aumento das incapacidades. A manutenção de um bom nível de AF associa-se a uma melhora funcional e da saúde desses indivíduos. Objetivo: Comparar o nível de AF de indivíduos saudáveis e indivíduos pós-AVC usuários da atenção primária do SUS. Método: Todos os indivíduos pós-AVC (G1; n=37) usuários de uma Unidade Básica de Saúde (UBS) da cidade de Belo Horizonte, MG com condições clínicas para responder a um questionário, e indivíduos saudáveis pareados (G2; n=37), também usuários da UBS, foram avaliados quanto ao nível de AF pelo questionário Perfil de Atividade Humana (PAH). Estatísticas descritivas, teste-t de student, teste qui-quadrado e teste de Mann-Whitney foram utilizados para as análises (α=0,05). Resultados: Os grupos foram semelhantes quanto à idade, sexo e nível de exercício físico (p&amp;gt;0,05). Houve diferença estatisticamente significativa entre os grupos para todas as variáveis do PAH (0,001≤p≤0,011). Conclusão: Indivíduos pós-AVC apresentaram piores pontuações ou classificações quando comparados a indivíduos saudáveis pareados para todos os desfechos do PAH relacionados ao nível de atividade física.</dc:description>
+          <dc:description xml:lang="en-US">Subjects with stroke have a low physical activity level which may lead to recurrence of stroke events, occurrence of other cardiovascular diseases and increase of disabilities. The maintenanceof an adequate physical activity level is associated with improvements on functionality and health of these subjects. Objective: To compare the physical activity levels of subjects with stroke andmatched healthy subjects from a Primary Health Care unit. Method: Subjects with stroke (G1; n = 37) from a Primary Health Care unit, with clinical conditions to answer a questionnaire, andhealthy matched subjects (G2; n = 37), from the same unit, were assessed for physical activity level by the Human Activity Profile (HAP) questionnaire. Descriptive statistics, t-test student, chi-square test and Mann-Whitney test were used for analysis (α = 0.05). Results: The groups were similar in age, sex and exercise level (p&amp;gt;0.05). There was a significant difference between groups on HAP (0.001≤p≤0.011). Conclusion: Individuals with stroke are worse classified and have worse scores on physical activities levels of the HAP, when compared to matched healthy individuals.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153470</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170011</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 56-61</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153470/150043</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153470/150044</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153490</identifier>
+        <datestamp>2019-09-23T15:03:29Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Estresse infantil e a percepção do suporte familiar das crianças submetidas à cirurgia ortopédica</dc:title>
+          <dc:title xml:lang="en-US">Childhood stress and the perception of family support of children undergoing orthopedic surgery</dc:title>
+          <dc:creator>Nakao, Gabriella Ribeiro</dc:creator>
+          <dc:creator>Ito, Paula Hiromi</dc:creator>
+          <dc:creator>Pontes, Rafael Oliveira</dc:creator>
+          <dc:creator>Costa, Regina Célia Villa</dc:creator>
+          <dc:subject xml:lang="pt-BR">Ortopedia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Adaptação Psicológica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Relações Familiares</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Orthopedics</dc:subject>
+          <dc:subject xml:lang="en-US">Adaptation</dc:subject>
+          <dc:subject xml:lang="en-US">Psychological</dc:subject>
+          <dc:subject xml:lang="en-US">Family Relations</dc:subject>
+          <dc:description xml:lang="en-US">Objective: The objective of this study is to investigate the correlation between the levels of stress of children from 11 to 14 years of age after orthopedic surgery, and their perceived quality of family support received during the process of physical rehabilitation. Method: This is a cross-sectional study with qualitative and quantitative analysis, developed in a rehabilitation center, in Sao Paulo. The following instruments were applied in the patients: Childhood Stress Scale (CSS) and Perceived Family Support Inventory (PFSI), along with a characterization questionnaire of the participants, which was applied to the patients caretakers. Results: Data was statistically analyzed and statistical significance was observed between the adaptation factor (PFSI) and the domain of psychological reactions with depressive component (CSS). There was significant correlation between the total score of the CSS and PFSI – 73%. Children with significant levels of stress presented low/mediumlow perception of family support. Discussion: Patient`s perception regarding their environment and relations is an important indication of how they deal with adverse situations of their social life, according to association found in this study. Conclusion: The aspects related to child’s cognitive and emotional maturity contribute to the perception of family support quality. It is important that further studies are conducted to enlarge discussions in this area</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo:&amp;nbsp;Investigar a correlação existente entre o nível de estresse de crianças pós-operadas, de 11 a 14 anos de idade, em relação à qualidade da percepção destes pacientes sobre o suporte familiar recebido durante o processo de reabilitação física.&amp;nbsp;Método:&amp;nbsp;Trata-se de um estudo transversal, com análise qualitativa e quantitativa, desenvolvido em um centro de reabilitação, no município de São Paulo. Os instrumentos aplicados nos pacientes foram: Escala de Stress Infantil (ESI), Inventário de Percepção do Suporte Familiar (IPSF) e no respectivo cuidador, um questionário de caracterização dos participantes.&amp;nbsp;Resultados:&amp;nbsp;Os dados foram analisados estatisticamente e se observou significância estatística entre o fator Adaptação (IPSF) com a dimensão Reações psicológicas com componente depressivo (ESI). Houve associação significativa entre o escore total da ESI e do IPSF. Neste estudo, das crianças com sinais significativos de estresse, a maioria apresentou baixa/ médio-baixa percepção do suporte familiar.&amp;nbsp;Discussão:&amp;nbsp;A percepção do paciente sobre o meio pelo qual se relaciona é um importante indício do enfrentamento às situações adversas vividas no meio social, conforme associação encontrada neste estudo.&amp;nbsp;Conclusão:&amp;nbsp;Os aspectos relacionados à maturidade cognitiva e emocionais da criança contribuem na qualidade da percepção do suporte familiar. É importante que novos estudos sejam realizados para ampliar as discussões nessa área</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153490</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170012</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 62-66</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153490/150048</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153490/150049</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153527</identifier>
+        <datestamp>2019-09-23T18:12:57Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Barriers to cardiovascular rehabilitation care in a northeast city of Brazil</dc:title>
+          <dc:title xml:lang="pt-BR">Barreiras da reabilitação cardíaca em uma cidade do nordeste do Brasil</dc:title>
+          <dc:creator>Santos, Luciano Sá Teles de Almeida</dc:creator>
+          <dc:creator>Gomes, Emanuella</dc:creator>
+          <dc:creator>Vilaronga, Júlia</dc:creator>
+          <dc:creator>Nunes, Walleska</dc:creator>
+          <dc:creator>Santos, Alan Carlos Nery</dc:creator>
+          <dc:creator>Almeida, Fernanda Oliveira Baptista</dc:creator>
+          <dc:creator>Petto, Jefferson</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doenças Cardiovasculares</dc:subject>
+          <dc:subject xml:lang="pt-BR">Insuficiência Cardíaca</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medicina Física e Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Barreiras de Comunicação</dc:subject>
+          <dc:subject xml:lang="en-US">Cardiovascular Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Heart Failure</dc:subject>
+          <dc:subject xml:lang="en-US">Physical and Rehabilitation Medicine</dc:subject>
+          <dc:subject xml:lang="en-US">Communication Barriers</dc:subject>
+          <dc:description xml:lang="en-US">Identifying barriers by regions of Brazil can be a valuable strategy to improve the insertion and adherence of patients with cardiopathy to cardiovascular rehabilitation programs.&amp;nbsp;Objective:&amp;nbsp;To identify and describe the reasons that lead to the non-inclusion of individuals with cardiopathy in cardiovascular rehabilitation programs.&amp;nbsp;Methods:&amp;nbsp;Descriptive cross-sectional study with 79 individuals of both sexes, aged over 50 years, with cardiopathy from five private cardiology clinics. To identify the factors that interfered with the inclusion of patients in cardiovascular rehabilitation programs, the scale of barriers for cardiac rehabilitation was applied. This instrument is composed of 22 items, 21 of which are closed and objective questions. Individuals were instructed to tick "YES" or "NO" for each target item on the scale if they identified the item as a barrier to inclusion / adherence.&amp;nbsp;Results:&amp;nbsp;64 (81%) of the sample did not know about the existence of cardiovascular rehabilitation and its benefits. For 50 (63%) the distance from the residence to the rehabilitation center was a barrier. In addition, the cost of urban mobility 37 (47%) and the lack of indication of the physician as unnecessary 32 (40%) were also pointed as barriers.&amp;nbsp;Conclusion:&amp;nbsp;The results of this study indicate that the main reasons for non-insertion in cardiovascular rehabilitation programs were the lack of knowledge about the benefits of this type of program, the distance of the patients' residence to the nearest center and the displacement cost.</dc:description>
+          <dc:description xml:lang="pt-BR">Averiguar as barreiras por regiões do Brasil, pode ser uma valiosa estratégia para melhorar a inserção e adesão dos pacientes cardiopatas a programas de reabilitação cardiovascular.&amp;nbsp;Objetivo:&amp;nbsp;Identificar e descrever os motivos que levam a não inclusão de indivíduos cardiopatas em programas de reabilitação cardiovascular.&amp;nbsp;Métodos:&amp;nbsp;Estudo descritivo de corte transversal com 79 indivíduos de ambos sexos, com idade superior a 50 anos, cardiopatas provenientes de cinco clínicas particulares de cardiologia. Para identificação dos fatores que interferiam na inclusão dos pacientes aos programas de reabilitação cardiovascular, foi aplicada a escala de barreiras para reabilitação cardíaca. Esse instrumento é composto de 22 itens, sendo que 21 são questões fechadas e objetivas. Os indivíduos foram instruídos a assinalar "SIM" ou "NÃO" para cada item objetivo da escala, caso identificassem o item como uma barreira ou não para a inclusão/adesão.&amp;nbsp;Resultados:&amp;nbsp;64(81%) da amostra não sabia da existência da reabilitação cardiovascular e dos seus benefícios. Para 50(63%) a distância da residência até o centro de reabilitação foi uma barreira. Além disso, o custo com mobilidade urbana 37 (47%) e a não indicação do médico por achar desnecessário 32 (40%) também foram apontadas como barreiras.&amp;nbsp;Conclusão:&amp;nbsp;Os resultados deste estudo indicam que as principais bramireis para a não inserção em programas de reabilitação cardiovascular foram a falta de conhecimento sobre os benefícios desse tipo de programa, a distância da residência dos pacientes até o centro mais próximo e o custo com deslocamento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153527</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170013</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 67-71</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153527/150050</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153527/150051</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153538</identifier>
+        <datestamp>2019-09-23T15:17:13Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Desempenho isocinético dos músculos do joelho de atletas de futsal durante a pré-temporada e o meio de temporada</dc:title>
+          <dc:title xml:lang="en-US">Isokinetic performance of knee muscles in futsal athletes during pre-season and middle-season</dc:title>
+          <dc:creator>Stedile, Augusto Rech</dc:creator>
+          <dc:creator>Pasqualotto, Lidiane Aparecida</dc:creator>
+          <dc:creator>Tadiello, Gerson Saciloto</dc:creator>
+          <dc:creator>Finger, André Luis Temp</dc:creator>
+          <dc:creator>Marchi, Thiago de</dc:creator>
+          <dc:creator>Bonetti, Leandro Viçosa</dc:creator>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Joelho</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atletas</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="en-US">Knee</dc:subject>
+          <dc:subject xml:lang="en-US">Athletes</dc:subject>
+          <dc:description xml:lang="pt-BR">O futsal é um esporte de múltiplos sprints, com constantes mudanças de direção, de velocidade e chutes. Além disso, as demandas impostas aos atletas durante uma temporada regular podem resultar em desequilíbrios musculares entre os membros e entre os músculos extensores e flexores do joelho, consequentemente, diminuindo a performance muscular e aumentando o risco de lesões nos atletas. Objetivo: Analisar as diferenças bilaterais; e o impacto de uma temporada regular na força dos músculos do joelho e as relações entre os músculos extensores e flexores. Método: As informações provenientes de um banco de dados sobre as avaliações de pré-temporada e meio de temporada de 15 atletas profissionais de futsal do sexo masculino foram analisadas. O dinamômetro isocinético foi utilizado no modo concêntrico-concêntrico para avaliar os músculos extensores e flexores do joelho nas velocidades angulares de 60º/s, 120º/s, 180º/s e 240º/s. Resultados: Não foram encontradas diferenças significativas nos valores de pico de torque (PT) dos extensores e flexores do joelho e na razão flexores/extensores na comparação entre os membros quando comparados na mesma avaliação e velocidade angular. Entretanto, os valores de PT da avaliação do meio de temporada mostraram-se, em sua maioria, significativamente maiores quando comparados às avaliações de pré-temporada. Conclusão: Estes achados indicam que o treinamento prescrito durante a temporada foram adequados, permitindo aos atletas o aumento da força muscular e evitando desequilíbrios musculares.</dc:description>
+          <dc:description xml:lang="en-US">Futsal is a multiple sprint that require constant changes in direction, speed, kicks and tackles, therefore the lower limbs, and specifically the knee muscles, play a crucial role during these futsal's actions, as the intense demands put on athletes during a futsal regular season can result in muscle imbalances between the lower limbs and between the extensor and flexor muscles of the knee, thereby, decreasing the muscular performance and increasing the risk of knee injuries.&amp;nbsp;Objective:The aims of this study were to analyze the lower limbs differences after the demands of a regular season on the knee's muscles' strength, and the relations between the extensor and flexor muscles.Method:&amp;nbsp;Data on 15 professional futsal players at pre-season and middle-season, provided by a database were analyzed. The database provided data from isokinetic dynamometer evaluations in a concentric-concentric mode for the knee extensor and flexor muscles at angular velocities of 60º/s, 120º/s, 180º/s and 240º/s.&amp;nbsp;Results:&amp;nbsp;No significant differences in peak torque (PT) of the extensor and flexor muscles, and of the flexor/extensor ratios were found between the limbs when compared at the same angular velocity and at the same time, either pre-season or middle-season. However, the PT values for the middle-season were almost always significantly higher when compared to the pre-season.&amp;nbsp;Conclusion:&amp;nbsp;These findings indicate that the training prescribed during the season was adequate and allowed to increase the muscle strength and also prevented imbalances.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153538</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170014</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 72-76</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153538/150052</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153538/150053</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153580</identifier>
+        <datestamp>2019-09-23T16:36:37Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Comparison between electrhyphysiological changes and functional gains of patients with Guillain Barré syndrome in the Rehabilitation and Readaptation Center Dr. Henrique Santillo (CRER)</dc:title>
+          <dc:title xml:lang="pt-BR">Comparação entre alterações eletrofisiológicas e ganhos funcionais de pacientes com síndrome de Guillain Barré internados no Centro de Reabilitação e Readaptação Dr. Henrique Santillo (CRER)</dc:title>
+          <dc:creator>Melo Neto, Cícero Soares</dc:creator>
+          <dc:creator>Jácomo, Juliana Lima</dc:creator>
+          <dc:creator>Moreira, Rickella Aparecida Alves</dc:creator>
+          <dc:creator>Pedroso, João Henrique Vieira</dc:creator>
+          <dc:creator>Ferreira, Joenice Almeida</dc:creator>
+          <dc:creator>Medeiros, Rodrigo Parente</dc:creator>
+          <dc:subject xml:lang="pt-BR">Síndrome de Guillain-Barré</dc:subject>
+          <dc:subject xml:lang="pt-BR">Eletromiografia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Centros de Reabilitação</dc:subject>
+          <dc:subject xml:lang="en-US">Guillain-Barre Syndrome</dc:subject>
+          <dc:subject xml:lang="en-US">Electromyography</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation Centers</dc:subject>
+          <dc:description xml:lang="en-US">Progressive acute inflammatory polyradiculopathy, Guillain Barré syndrome (GBS) is commonly associated to a post exposition to an infectious agent or a stimulus, thereby compromising peripheral motor neurons. Objective: The objective is to compare electrophysiological changes with functional improvements of GBS on the relation between prognosis and alterations of the electroneuromyography assessment, and to evaluate patients after one year of onset GBS. Methods: Retrospective study based on medical reports of the Centro de Reabilitação e Readaptação Dr. Henrique Santillo - CRER of patients registered from 2008 to 2014. Results: Forty-eight cases were found, nineteen reports were selected, once they attended the time period criteria. One of these was excluded due to lack of electroneuromyography data, therefore data of eighteen patients were analyzed. Conclusion: Rehabilitation is substantial in the final results and in the long term of patients with GBS, whereas rehabilitation program for hospitalized patients is a distinctive work to diminish the losses imposed by GBS, regardless of the functional deficits. The data have shown that the functional improvements acquired one year after GBS onset have no evident relation to what is found in electroneuromyography.</dc:description>
+          <dc:description xml:lang="pt-BR">Polirradiculopatia inflamatória, aguda, de caráter progressivo, a Síndrome de Guillain Barré normalmente acontece pós exposição a um agente infeccioso, ou a um estímulo, desencadeando o comprometimento dos motoneurônios periféricos. Objetivo: Comparar alterações eletrofisiológicas com ganhos funcionais na SGB, observando a relação entre prognóstico e alteração no exame eletroneuromiográfico e verificando a condição dos pacientes após um ano do início do quadro clínico. Métodos: Revisão de prontuários dos pacientes atendidos no Centro de Reabilitação e Readaptação Dr. Henrique Santillo - CRER, no período de 2008 a 2014. Resultados: Inicialmente localizados quarenta e oito casos, destes apenas dezenove, inicialmente, foram selecionados por terem estado internados no CRER no período selecionado para o estudo, houve exclusão de um paciente por não constar em prontuário o resultado da eletroneuromiografia, permanecendo na pesquisa, então, dezoito pacientes. Conclusão: A reabilitação tem um papel fundamental no resultado final e cuidados ao longo prazo em pacientes que tiveram SGB, sendo um trabalho diferenciado a internação em centro de reabilitação melhorando a capacidade de diminuir os danos causados pela doença, independente dos déficits funcionais adquiridos. Os dados apontaram que os ganhos funcionais ao longo de um ano após início da doença, não têm relação direta com o que é encontrado no exame eletroneuromiográfico.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153580</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170015</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 77-81</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153580/150056</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153580/150057</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153634</identifier>
+        <datestamp>2019-09-23T16:42:08Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Funcionalidade na doença de Alzheimer leve, moderada e grave: um estudo transversal</dc:title>
+          <dc:title xml:lang="en-US">Functionality on mild, moderate and severe Alzheimer's disease: a cros-sectional study</dc:title>
+          <dc:creator>Haskel, Maria Vaitsa Loch</dc:creator>
+          <dc:creator>Bonini, Juliana Sartori</dc:creator>
+          <dc:creator>Santos, Suzane Cristina</dc:creator>
+          <dc:creator>Silva, Weber Cláudio Francisco Nunes</dc:creator>
+          <dc:creator>Bueno, Camilla Fagundes de Oliveira</dc:creator>
+          <dc:creator>Bortolanza, Marciane Conti Zornita</dc:creator>
+          <dc:creator>Daniel, Christiane Riedi</dc:creator>
+          <dc:subject xml:lang="en-US">Alzheimer Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Dementia</dc:subject>
+          <dc:subject xml:lang="en-US">Aged</dc:subject>
+          <dc:subject xml:lang="en-US">Activities of Daily Living</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença de Alzheimer</dc:subject>
+          <dc:subject xml:lang="pt-BR">Demência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atividades Cotidianas</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar a funcionalidade de pacientes com Doença de Alzheimer (DA) residentes na comunidade, no município de Guarapuava - PR, região Sul do Brasil. Métodos: Foi realizado um estudo transversal, com pacientes com DA residentes na comunidade, no município de Guarapuava - PR. Os participantes foram classificados de acordo com a Escala Clínica de Demência em CDR 1 (DA leve), CDR 2 (DA moderada) e CDR 3 (DA severa). O estado mental foi avaliado através do Mini Exame do Estado Mental; as atividades básicas de vida diária (ABVD) através do Índice de Barthel e as atividades instrumentais de vida diária (AIVD) através do Índice de Lowton e Brody. Resultados: Foram avaliados 58 idosos com diagnóstico de DA, dos quais 14 (24,1%) estavam em CDR 1, 21 (36,2%) em CDR 2 e 23 (39,7%) em CDR 3. Houve diferença significativa entre os níveis de dependência para a realização das ABVD e AIVD entre todas as fases da DA (p &amp;lt;0,001), sendo que a dependência foi maior nos participantes estadeados em CDR 2 e CDR 3. Conclusão: O nível de dependência para a realização das atividades básicas e instrumentais de vida diária é maior nas fases mais avançadas da DA e a dependência para a realização das AIVD está presente em todas as fases da doença, sendo maior do que a dependência para a realização das ABVD desde a fase inicial da DA, sugerindo uma perda progressiva da funcionalidade.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To evaluate the functionality of patients with Alzheimer's disease (AD) living in a community, in the city of Guarapuava PR, South of Brazil. Methods: A cross-sectional study was performed with patients with AD living in the community. Participants were classified according to Clinical Dementia Rating as CDR 1 (mild AD), CDR 2 (moderate AD) and CDR 3 (severe AD). The mental state was assessed by the Mini Mental State Examination; the basic activities of daily living (ADLs) was determined by the Barthel Index and instrumental activities of daily living (IADLs) via by Lowton and Brody Index. Results: 49 elderly patients with AD diagnosis were evaluated, 14 (24.1%) of which were classified as CDR 1, 21 (36.2%) as CDR 2, and 23 (39.7%) as CDR 3. There was a significant difference between the levels of dependence for the performance of the basic ADLs and IADLs among all phases of AD (p &amp;lt;0.001). The dependence was higher in both CDR 2 and CDR 3. Conclusion: Functional dependence for basic activities of daily living becomes more frequent in the most advanced stages of AD, whereas dependence for IADLs is onset since early stages of AD, even more noticeable than dependence for basic ADLs, what suggests a progressive loss of functionality.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153634</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170016</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 82-85</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153634/150064</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153636</identifier>
+        <datestamp>2019-09-23T17:08:11Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">The role of rehabilitation with virtual reality in functional ability and quality of life of individuals with Parkinson's disease</dc:title>
+          <dc:title xml:lang="pt-BR">Papel da reabilitação com realidade virtual na capacidade funcional e qualidade de vida de indivíduos com doença de Parkinson</dc:title>
+          <dc:creator>Fontoura, Vanessa Carla Bezerra</dc:creator>
+          <dc:creator>Macêdo, João Gabriel Figuêredo</dc:creator>
+          <dc:creator>Silva, Liliane Pereira</dc:creator>
+          <dc:creator>Silva, Ivson Bezerra</dc:creator>
+          <dc:creator>Coriolano, Maria Graças Wanderley de Sales</dc:creator>
+          <dc:creator>Monteiro, Douglas</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doença de Parkinson</dc:subject>
+          <dc:subject xml:lang="pt-BR">Modalidades de Fisioterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">erapia de Exposição à Realidade Virtual</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:subject xml:lang="en-US">Parkinson Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Modalities</dc:subject>
+          <dc:subject xml:lang="en-US">Virtual Reality Exposure Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life</dc:subject>
+          <dc:description xml:lang="pt-BR">A doença de Parkinson (DP) é uma patologia neurodegenerativa e progressiva podendo causar algumas limitações motoras que, por sua vez, podem impactar negativamente na qualidade de vida (QV) de indivíduos com DP. A realidade virtual (RV) vem sendo utilizada como tratamento destes pacientes. Objetivo: Avaliar a capacidade funcional e a QV de indivíduos com DP submetidos à RV com X-Box Kinect®. Método: Foram selecionados 20 indivíduos entre 50 a 80 anos, nos estágios 1 a 3 da doença. Divididos através de sorteio em dois grupos, o controle (GC) e o experimental (GE). O GC tratado com fisioterapia convencional, no período de cinco semanas, com duas sessões semanais de 60 minutos, enquanto o GE passou a metade do tempo com fisioterapia convencional e a outra metade realizou a RV. Os indivíduos foram submetidos a avaliações antes e após o tratamento através das seguintes escalas: UPDRS e PDQ-39. Resultados: Encontrou-se redução nos escores de todos os domínios da UPDRS e do PDQ-39 de ambos os grupos, sendo significativo apenas no grupo da GE. Conclusão: A RV aliada à fisioterapia é um método eficiente, influenciando no aspecto clínico e melhora da QV de indivíduos com DP.</dc:description>
+          <dc:description xml:lang="en-US">Parkinson's disease (PD) is a progressive neurodegenerative disorder of dopaminergic neurons that can cause some mobility limitations, which in turn, can negatively impact quality of life (QOL) of individuals with PD. Virtual reality (VR) has been used to treat these patients. Objective: Evaluate the functional capacity and QOL of individuals with PD using VR with X-Box Kinect®. Methods: 20 individuals classified as stages 1-3, aged 50-80 years were selected. They were randomly divided into two groups (control and experimental) with ten patients in each. The control group (CG) was treated with conventional therapy for five weeks, with two 60-minute sessions per week, whereas the experimental group (EG) had they sessions split in half: conventional physical therapy and virtual rehabilitation (VR). Subjects were evaluated before and after the treatment with the following scales: Unified Parkinson's Disease Rating Scale - (UPDRS) and Parkinson's Disease Questionnaire (PDQ-39). Result: We found a reduction in scores for all domains of UPDRS and PDQ-39 in both groups, but only in the EG this finding was significant. Conclusion: VR combined with physiotherapy is an efficient method, what may influence the clinical aspect and improve QOL of individuals with PD.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153636</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170017</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 86-91</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153636/150065</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153636/150066</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153637</identifier>
+        <datestamp>2019-09-23T18:19:53Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Teste de caminhada de seis minutos em pediatria: discutindo evidências em situações específicas</dc:title>
+          <dc:title xml:lang="en-US">Six minutes walk test in pediatrics: discussing evidence in specific situations</dc:title>
+          <dc:creator>Parazzi, Paloma Lopes Francisco</dc:creator>
+          <dc:creator>Okuro, Renata Tiemi</dc:creator>
+          <dc:creator>Ribeiro, José Dirceu</dc:creator>
+          <dc:creator>Ribeiro, Maria Ângela Gonçalves de Oliveira</dc:creator>
+          <dc:creator>Basso-Vanelli, Renata Pedrolongo</dc:creator>
+          <dc:creator>Schivinski, Camila Isabel Santos</dc:creator>
+          <dc:subject xml:lang="en-US">Walk Test</dc:subject>
+          <dc:subject xml:lang="en-US">Pediatrics</dc:subject>
+          <dc:subject xml:lang="en-US">Asthma</dc:subject>
+          <dc:subject xml:lang="en-US">Cystic Fibrosis</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity</dc:subject>
+          <dc:subject xml:lang="pt-BR">Teste de Caminhada</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pediatria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Asma</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fibrose Cística</dc:subject>
+          <dc:subject xml:lang="pt-BR">Obesidade</dc:subject>
+          <dc:description xml:lang="pt-BR">Teste de caminhada de seis minutos (TC6) tem se mostrado uma ferramenta bem tolerada, confiável e de baixo custo para monitorar a capacidade funcional de crianças e adolescentes saudáveis e em diferentes situações clínicas. Objetivo: Verificar e discutir as evidências científicas do TC6 utilizado em 4 situações específicas da criança com: 1) asma; 2) fibrose cística 3) obesidade e 4) higidez. Método: A busca nas bases de dados foi conduzida utilizando-se as palavras-chaves: teste de caminhada de seis minutos, crianças, adolescentes, obesos, fibrose cística e asma. Consultou-se as bases Pubmed (Medline), Lilacs e PEDro. Foram considerados os ensaios clínicos em português, inglês e espanhol, publicados no período de 2005 a 2016 e incluídos os estudos que abordam o TC6como método de avaliação, monitorização e prognóstico de crianças e adolescentes saudáveis, com diagnósticos de asma, fibrose cística e obesidade. Resultados: Identificou-se 97 artigos, sendo 48 duplicados. Conduziu-se a pré-seleção de 43 estudos dos quais 6foram excluídos, pelo título ou resumo, por não atenderem aos critérios de inclusão. A seleção final totalizou 39 manuscritos para a apreciação na íntegra e discussão na presente revisão. Conclusão: TC6 é reprodutível e validado para a população pediátrica, sendo considerado um instrumento importante para avaliar as implicações das doenças crônicas na capacidade funcional. 1) TC6 tem se mostrado útil pra identificação do prejuízo das atividades de vida diária durante a crise de asma e fora dela, assim como do comprometimento da capacidade funcional diante do hábito de vida sedentário. 2) É adequado para avaliação de programas de reeducação alimentar na obesidade. 3) Na fibrose cística é uma boa ferramenta para avaliação de programas de reabilitação pulmonar e acompanhamento da progressão da doença. 4) Entre os saudáveis observa-se a busca por valores de referência e falta de um consenso sobre a forma de aplicabilidade do teste.</dc:description>
+          <dc:description xml:lang="en-US">The six-minute walk test (6MWT) is regarded as a well-tolerated, reliable and cost-effective tool to monitor the functional capacity of healthy children and adolescents and in different clinical situations. Objective: To verify and discuss the scientific evidence of the 6MWT in four specific situations of children with: 1) asthma; 2) cystic fibrosis 3) obesity and 4) healthy controls. Method: A search was conducted in Pubmed (Medline), Lilacs and PEDro databases with the key words: sixminute walk test, children, adolescents, obesity, cystic fibrosis and asthma. The selected articles were those that reported clinical trials in Portuguese, English or Spanish, published between 2005- 2016 that included studies that assessed the 6MWT as a method of evaluation for monitoring and prognosis of healthy or diseased children and adolescents. Results: We identified 97 articles, 48 of them were duplicate. A pre-selection of 43 remaining studies based on title or summary excluded 6 articles for not meeting the inclusion criteria. Finally, 39 manuscripts were included in this review. Conclusion: 6MWT is reproducible and validated for the pediatric population and is considered an important instrument to assess the implications of chronic diseases on functional status. 1) 6MWT has proven useful to identify function losses to the activities of daily living during or in-between asthma attacks, as well as the functional jeopardy of sedentary habit; 2) It is suitable for assessing nutritional education programs in obesity; 3) In cystic fibrosis, it is a good tool for evaluating pulmonary rehabilitation programs and monitoring of the disease progression; and 4) Among healthy subjects, however, there is still lack of consensus of a reference as well as the most suitable applicability of this test.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153637</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170018</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 92-97</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153637/150067</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153639</identifier>
+        <datestamp>2019-09-23T17:14:28Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Physiotherapy intervention during pre and post-prosthetic fitting of lower limb amputees: a systematic review</dc:title>
+          <dc:title xml:lang="pt-BR">Intervenções fisioterapêuticas utilizadas em pessoas amputadas de membros inferiores pré e pós-protetização: uma revisão sistemática</dc:title>
+          <dc:creator>Vieira, Rafael Isac</dc:creator>
+          <dc:creator>Luz, Soraia Cristina Tonon</dc:creator>
+          <dc:creator>Santos, Kadine Priscila Bender</dc:creator>
+          <dc:creator>Gonçalvez Junior, Erádio</dc:creator>
+          <dc:creator>Campos, Paloma Vanessa Coelho</dc:creator>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:subject xml:lang="en-US">Lower Extremity</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Modalities</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Extremidade Inferior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Modalidades de Fisioterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:description xml:lang="pt-BR">Intervenções fisioterapêuticas no paciente amputado antes e após a colocação de uma prótese são utilizadas em diversos serviços de fisioterapia, no entanto, faz-se necessária a sistematização de evidências sobre protocolos para condução da reabilitação. Objetivo: Agregar evidências científicas para guiar a prática fisioterapêutica nas fases pré e pós protetização da pessoa amputada de membro inferior. Método: Realizou-se uma revisão sistemática durante os meses de agosto à dezembro de 2014 nas bases de dados: Lilacs, Medline, Pedro, Pubmed, Scielo e Cochrane. Selecionaram-se artigos publicados no período de 2000 até o primeiro semestre de 2014, utilizando unitermos em português, inglês e espanhol. Resultados: Seis artigos atenderam aos critérios de inclusão, sendo que apenas um esteve relacionado à fase pré-protetização destacando a intervenção: enfaixamento do coto. As demais intervenções referiram-se à fase pós-protetização como fortalecimentos musculares, treino aeróbio, funcional e de marcha. Conclusão: Foram encontrados poucos artigos com evidências científicas relacionadas às principais intervenções pré e pós protetização rotineiramente usadas pelo fisioterapeuta, o que dificulta o estabelecimento de protocolos e conclusões sobre a eficácia das terapêuticas comumente descritas.</dc:description>
+          <dc:description xml:lang="en-US">Physical therapy interventions in amputee patient before and after the placement of a prosthesis are cited in a variety of physical therapy services, however, it is necessary to systematize evidence of rehabilitation protocols. Objective: The objective of this study was to add scientific evidence to guide the physical therapy practice in pre- and post-fitting of lower limb amputee. Method: We conducted a systematic review during the months of August to December 2014 in the databases Lilacs, Medline, Pedro, Pubmed, Scielo and Cochrane. Articles published from 2000 to the first half of 2014 were selected by key words in Portuguese, English and Spanish. Results: Six articles met the inclusion criteria, and only one was related to the pre-fitting stage highlighting the intervention: bandaging of the stump. The other interventions referred to the post-fitting stage as muscle force training, aerobic training, functional and gait. Conclusion: Few articles were found with scientific evidence related to major interventions pre and post prosthesis routinely used by the physiotherapist, which hinders the establishment of protocols and the reinforcement of the effectiveness of commonly described therapies.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153639</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170019</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 98-104</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153639/150068</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153639/150069</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153640</identifier>
+        <datestamp>2020-07-18T08:19:01Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Relação entre força e ativação da musculatura glútea e a estabilização dinâmica do joelho: revisão sistemática da literatura</dc:title>
+          <dc:title xml:lang="en-US">Relationships between strength and activation of the gluteal muscles and dynamic stabilization of the knee: a systematic review</dc:title>
+          <dc:creator>Morais, Lucas Martins de</dc:creator>
+          <dc:creator>Faria, Christina Danielli Coelho de Morais</dc:creator>
+          <dc:subject xml:lang="en-US">Hip Joint</dc:subject>
+          <dc:subject xml:lang="en-US">Knee Joint</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Specialty</dc:subject>
+          <dc:subject xml:lang="pt-BR">Articulação do Quadril</dc:subject>
+          <dc:subject xml:lang="pt-BR">Articulação do Joelho</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fisioterapia</dc:subject>
+          <dc:description xml:lang="pt-BR">O joelho recebe, absorve e dissipa importante parte das forças impostas por atividades diárias, como marcha, subir e descer degraus e saltos. Dada a grande demanda imposta a esta articulação, as disfunções no joelho são muito comuns. A capacidade para responder a esta demanda parece estar relacionada com as funções da musculatura do quadril, que parece ter um papel importante nas características biomecânicas, dentre elas a estabilidade dinâmica, da articulação do joelho. Objetivo: Realizar revisão sistemática da literatura para apontar as possíveis características e ações da musculatura glútea relacionadas com a estabilização dinâmica do joelho e investigar a eficácia de programas de intervenção direcionados à musculatura glútea na melhora de desfechos funcionais ou sintomatológicos relacionados às disfunções na articulação do joelho. Métodos: Revisão sistemática desenvolvida de acordo com o protocolo PRISMA (Preferred Report Items for Systematic Reviews and Meta-Analyses). Foram realizadas buscas nas bases de dados eletrônicas MEDLINE, SCIELO, COCHRANE, LILACS e PEDro, conforme estratégia de busca dada pela combinação de termos referentes ao assunto da pesquisa. Critérios de inclusão: estudos publicados até março de 2016, amostra de indivíduos com idade entre 18 e 60 anos, sem restrição de idioma de publicação, ter envolvido a avaliação ou o tratamento de alguma característica da musculatura do quadril relacionando à estabilização dinâmica do joelho. Resultados: Dos 109 estudos encontrados, onze foram incluídos por atenderem aos critérios de inclusão. Destes, oito (73%) foram do tipo observacional exploratório e três (27%) ensaio clínico aleatorizado (ECA) (5≤PEDro≤8). Todos os ECA incluíram adultos jovens, do sexo feminino, com síndrome da dor femoropatelar e avaliaram o músculo glúteo médio. Segundo os resultados da maioria dos estudos, os músculos glúteos apresentam relação com a manutenção do alinhamento do membro inferior no plano frontal, reduzindo o valgo dinâmico em atividades funcionais, sendo mais importante a magnitude da ativação muscular do que o tempo desta ativação. Os ECA evidenciaram a importância de se intervir no fortalecimento da musculatura glútea em programas de reabilitação do joelho: em indivíduos sintomáticos com síndrome da dor femoropatelar houve melhora funcional e sintomatológica significativa após este tipo de intervenção, que foi realizada associada ao tratamento convencional no joelho ou tronco. Conclusão: A magnitude de ativação e a força muscular dos músculos glúteos têm papel importante na estabilidade dinâmica do joelho. Intervenções nestas musculaturas, associadas ao tratamento convencional, são eficazes para melhora de desfechos funcionais e sintomatológicos relacionados à articulação do joelho.</dc:description>
+          <dc:description xml:lang="en-US">The knee undergoes, absorbs and dissipate important part of the forces imposed by daily activities such as walking, climbing and going down stairs, and jumping. Given the great demands imposed on this joint, knee dysfunctions are very common. The ability to respond to this demand seems to be related to the functions of the hip muscles, which seems to play an important biomechanical role in certain aspects, as the dynamic stability of the knee joint. Objective: To conduct a systematic review of the literature to identify possible characteristics and actions of gluteal muscles in dynamic knee stabilization and to investigate the effectiveness of interventional programs that focus on the gluteal muscles in improving the functional or symptomatologic outcomes associated with the knee joint. Methods: This is a systematic review performed according to PRISMA protocol (Preferred Report Items for Systematic Reviews and Meta-Analyses). Electronic databases (MEDLINE, SCIELO, COCHRANE, LILACS and PEDro) were searched under a strategy of different combinations of terms related to the study goals. Inclusion criteria were: studies published up to March 2016, of subjects aging 18-60 years, with unrestricted language of publication, involving assessment or treatment of any feature of the hip muscles in relation to dynamic knee stabilization. Results: Of the 109 studies found, eleven met inclusion criteria and were included. Of these, eight (73%) were observational exploratory studies and three (27%) were randomized controlled trials (RCTs) (5≤PEDro≤8). All RCTs included young female adults with patellofemoral pain syndrome and assessed the gluteus medius muscle. According to the results of the most part of the included studies, gluteal muscles are involved in maintaining frontal plane lower limb alignment that reduces dynamic valgus during functional activities, therefore revealing the great importance of magnitude of muscle activation rather than only time of activation. The RCTs provided evidence of the importance of gluteal muscle interventions in knee rehabilitation programs: in symptomatic subjects with patellofemoral pain syndrome, there was significant improvement in function and symptoms after this kind of intervention, which was performed in association with conventional knee or trunk treatment. Conclusion: Magnitude of activation and gluteal muscle strength play an important role in dynamic knee stability. Gluteal muscle interventions, associated with conventional treatment, effectively improved functional and symptomatologic outcomes related to the knee joint.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153640</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170020</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 2 (2017); 105-112</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153640/150070</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153686</identifier>
+        <datestamp>2019-09-23T14:06:27Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Analysis of the muscle strength increase for recovery of ortostatism in elderlies with temporary immobility syndrome</dc:title>
+          <dc:title xml:lang="pt-BR">Análise do incremento da força muscular para reaquisição de ortostatismo em idosos com síndrome do imobilismo temporário</dc:title>
+          <dc:creator>Silva, Jefferson Lucio da</dc:creator>
+          <dc:creator>Eduardo Filoni, Eduardo Filoni</dc:creator>
+          <dc:creator>Suguimoto, Carolina Miyuki</dc:creator>
+          <dc:subject xml:lang="en-US">Frail Elderly</dc:subject>
+          <dc:subject xml:lang="en-US">Resistance Training</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso Fragilizado</dc:subject>
+          <dc:subject xml:lang="pt-BR">Treinamento de Resistência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:description xml:lang="en-US">The immobility syndrome (IS), a comon issue among elderly people, occurs in patients who are bedridden for long periods, and causes loss of muscle strength and morbidity and mortality consequently. Objective: To analyze the necessary muscle strength increase for the recovery of orthostatism in the elderly with temporary IS. Method: Thirty elderly with IS were screened for inclusion/exclusion criteria, and 14 elderly were included. They had their quadriceps and gluteus muscle strength evaluated (in kilograms), and then performed strengthening sessions. At the end of the program, orthostatic attempts were made. Those who reacquired the posture were called G1; those who did not reacquire were called G2. The exercise load increase, number of sessions required, participant weight at baseline, age and immobility time were analyzed. Results: Ten participants of G1 (71.4%) reacquired orthostatism (G1), after a mean of 21.4 sessions, a mean quadriceps muscle strength increase of 6kg (177%), and a mean gluteus muscle strength increase of 2.2kg (102%), whereas in the G2, whose participants did not recover orthostatism, the mean quadriceps and gluteus muscle strength increase were 4.125kg (117%) and 1.625kg (39%) respectively. The p value of the group comparisons were 0.001 for the quadriceps strength increase and 0.0002 for the gluteus strength increase. There was a strong correlation between the participant's baseline weight and the quadriceps and gluteus muscle strength increase (-0.96 and -0.84 respectively) and moderate correlation between age of G1 and G2 and muscle strength increase (0.59 and 0.58 respectively) and between immobility time and muscle strength increase (0.53 for gluteus and 0.50 for quadriceps). Conclusion: Muscle strength increase was essential for recovering orthostatism, whereas weight, age and time of immobilism are significantly correlated with muscle strength increase.</dc:description>
+          <dc:description xml:lang="pt-BR">A Síndrome do Imobilismo (SI), frequente entre idoso, ocorre no indivíduo acamado por período prolongado, acarretando perda de força muscular (FM) e consequentemente morbidade e mortalidade. Objetivo: Analisar ganho de FM necessário para reaquisição de ortostatismo em idosos com SI temporário. Métodos: Trinta idosos com SI foram triados pelos critérios de inclusão/exclusão, e 14 idosos obedeceram aos critérios. Eles foram avaliados quanto à FM (em quilogramas) dos músculos quadríceps e glúteos, e posteriormente realizaram sessões de fortalecimento. Ao final do programa, realizou-se tentativa de ortostatismo. Aqueles que readquiriram a postura foram chamados de G1; aqueles que não readquiriram foram chamados de G2. Analisou-se incremento das cargas, número de sessões necessárias, peso do participante, idade e tempo de imobilismo. Resultados: Dez participantes (71,4%) readquiriram o ortostatismo (G1), obtendo média de 21,4 sessões e incremento de força para quadríceps em média de 6kg, correspondendo a um aumento de 177%; e G2 aumentou em média 4,125kg, aumentando-se 117% (p=0,001). Para m glúteo, houve ganho de FM em média de 2,2kg (aumento de 102%) para G1 e 1,625kg para G2, aumentando-se 39%. (p=0,0002). Houve forte correlação para peso do participante com ganho de FM de quadríceps e glúteos (-0,96 e -0,84 respectivamente) e moderada correlação com idade de G1 e G2 (0,59 e 0,58 respectivamente) e com tempo de imobilismo (0,53 para glúteos e 0,50 para quadríceps). Conclusão: O incremento da FM foi essencial para reaquisição do ortostatismo, e o peso, idade e tempo de imobilismo interferiram na reaquisição desta postura.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153686</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170021</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 113-119</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153686/150110</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153686/150111</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153688</identifier>
+        <datestamp>2019-09-23T14:22:26Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Quality of life, physical disability, and the human figure drawing assessment of patients with neuropathies in leprosy</dc:title>
+          <dc:title xml:lang="pt-BR">Avaliação da qualidade de vida, grau de incapacidade e do desenho da figura humana em pacientes com neuropatias na hanseníase</dc:title>
+          <dc:creator>Benedicto, Camila Beltrame</dc:creator>
+          <dc:creator>Marques, Tatiani</dc:creator>
+          <dc:creator>Milano, Arianni Pereira</dc:creator>
+          <dc:creator>Galan, Noêmi Garcia de Almeida</dc:creator>
+          <dc:creator>Nardi, Susilene Tonelli</dc:creator>
+          <dc:creator>Duerksen, Frank</dc:creator>
+          <dc:creator>Marciano, Lúcia Helena Soares Camargo</dc:creator>
+          <dc:creator>Prado, Renata Bilion Ruiz</dc:creator>
+          <dc:subject xml:lang="pt-BR">Pessoas com Deficiência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Imagem Corporal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:subject xml:lang="en-US">Disabled Persons</dc:subject>
+          <dc:subject xml:lang="en-US">Leprosy</dc:subject>
+          <dc:subject xml:lang="en-US">Body Image</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life</dc:subject>
+          <dc:description xml:lang="en-US">In Leprosy, the presence of dermatoneurological symptoms with potential evolution to physical disabilities may influence the quality of life (QoL) and the patient's body image. Objective: To evaluate possible associations between the QoL, degree of disability (DoD) and human figure drawing (HFD) in individuals with leprosy neuropathy. Method: This is a descriptive study with a quanti-qualitative approach. Four evaluation instruments were used: a sociodemographic questionnaire, quality of life in neurological disorder questionnaire (Neuro-QoL), HFD and DoD evaluation form. Patients with DoD grades 1 or 2 of the feet and age equal to or greater than 18 were included in this study. Results: One hundred individuals were evaluated. Individuals with DoD grade 2 tended to omit the nose (p=0.050) and the HFD was small (p=0.047). An association was identified between the HFD and the QoL with dominance of diffuse sensory-motor symptoms (p=0.035) suggesting that omission of the feet in the HFD may represent a loss of QoL. Conclusion: Individuals with leprosy neuropathy have a good to moderate QoL but the omission of body segments may indicate conflicts and feelings of uncertainty. There is evidence of loss of autonomy when the subject omits or cuts off the feet in the HFD.</dc:description>
+          <dc:description xml:lang="pt-BR">Na hanseníase, a presença de sintomas dermatoneurológicos com potencial evolução para incapacidades físicas pode comprometer a qualidade de vida (QV) e a imagem corporal do paciente. Objetivo: Avaliar as possíveis associações entre a QV, o Grau de Incapacidade (GI) e o Desenho da Figura Humana (DFH) em indivíduos com neuropatia hansênica. Método: Este estudo consiste em um estudo descritivo, com abordagem quanti-qualitativa. Foram utilizados quatro instrumentos de avaliação: Questionário sociodemográfico, NeuroQol (Neuropathy – Specific Quality of Life Questionnaire), DFH e Formulário de avaliação do GI. Foram incluídos pacientes com GI 1 ou 2 nos pés e idade igual ou superior a 18 anos. Resultados: Foram avaliados 100 indivíduos. Entre aqueles com GI 2, houve uma tendência à omissão do nariz (p=0,050) e DFH no tamanho pequeno (p=0,047). Houve associação entre o DFH e o domínio QV Sintomas difuso sensitivo-motores (p=0,035), sugerindo que a omissão dos pés no DFH pode representar perda da QV. Conclusão: Indivíduos com neuropatia hansênica apresentam QV boa à moderada. A omissão de segmentos do corpo pode indicar conflitos e sentimentos de insegurança. Há indícios de perda de autonomia quando o paciente omite ou corta os pés no DFH.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153688</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170022</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 120-126</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153688/150115</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153688/150116</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153694</identifier>
+        <datestamp>2019-09-23T14:34:21Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Performance of quality of life and functional capacity in women with knee osteoarthritis treated with viscosupplementation and strength training</dc:title>
+          <dc:creator>Hamdan, Paulo Cesar</dc:creator>
+          <dc:creator>Bica, Blanca Elena Rios Gomes</dc:creator>
+          <dc:creator>Mendonça, Laura Maria Carvalho de</dc:creator>
+          <dc:creator>Paula, Thiago Gomes de</dc:creator>
+          <dc:creator>Cossich, Victor Rodrigues Amaral</dc:creator>
+          <dc:creator>Nicoliche, Eduardo Becker</dc:creator>
+          <dc:subject xml:lang="en-US">Osteoarthritis, Knee</dc:subject>
+          <dc:subject xml:lang="en-US">Viscosupplementation</dc:subject>
+          <dc:subject xml:lang="en-US">Resistance Training</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life</dc:subject>
+          <dc:subject xml:lang="pt-BR">Viscossuplementação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Osteoartrite do Joelho</dc:subject>
+          <dc:subject xml:lang="pt-BR">Treinamento de Resistência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:description xml:lang="en-US">The viscosupplementation and strength training are interventions accepted in the treatment of knee osteoarthritis. Objective: The study describes the effect of two interventions in quality of life and functional capacity. Method: Thirty women diagnosed with bilateral knee osteoarthritis of grade II and III by radiological criteria of Kellgren &amp;amp; Lawrence, were randomized into three groups with ten patients each: VSTF group submitted to viscosupplementation and strength training, TF group submitted only to strength training and VS group submitted only to viscossuplementation. Moments of the study were defined as pre-procedure (PRE), after 48 hours of VS (POS-VS) after 12 weeks of training (POS T) and after eight weeks of detraining (POS D). Quality of life was assessed by the SF-36 BRAZIL, functional capacity by Lequesne index. Intraarticular infiltrations were carried out with a single dose of 6 ml / 48 mg with 6,000,000 kDa Hylan GF-20 and strength training sessions were held for twelve weeks. Results: Strength training and viscosupplementation were effective in the treatment of knee osteoarthritis. Both interventions promoted improvements in quality of life and in functional capacity (p &amp;lt; 0.001), with advantage to the groups that trained force. Conclusion: Strength training is a possible replacement of viscosupplementation in the treatment of osteoarthritis of women's knees. However, the beneficial effect of viscosupplementation in pain reduction suggests better efficiency in the strength training execution which may be an advantage of the association of both.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153694</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170023</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 127-132</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153694/150117</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153697</identifier>
+        <datestamp>2019-09-23T14:46:54Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A importância pratica da cinesioterapia em grupo na qualidade de vida de idosos</dc:title>
+          <dc:title xml:lang="en-US">The importance of kinesiotherapy group practice on the quality of life of the elderly</dc:title>
+          <dc:creator>Vilela-Junio, Juscelino Francisco</dc:creator>
+          <dc:creator>Soares, Vitor Marcilio Gomes</dc:creator>
+          <dc:creator>Maciel, Ana Maria Sá Barreto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Envelhecimento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:subject xml:lang="en-US">Aging</dc:subject>
+          <dc:subject xml:lang="en-US">Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Health</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life</dc:subject>
+          <dc:description xml:lang="en-US">Objective: Analyze the effect of group kinesiotherapy on quality of life, adherence and discontinuation of the program, functional ability, balance and gait of sedentary elderly women. Method: Experimental study, with a sample of elderly women over the age of 60 years (N=30). They were submitted to a kinesiotherapy protocol for twelve weeks after being randomized into three groups: collective kinesiotherapy (CK), individual kinesiotherapy (IK), and control group (CG). Quality of life with SF-36 survey, and the variables of balance and gait with Tinetti test were assessed. Descriptive statistical procedures and the Wilcoxon test were applied to evaluate the effect intra group and the Kruskal-wallis test for analyzing the variance between groups, with significance of p&amp;lt;0.05. Results: Adherence were: CK, n=10; IK, n=10; and CG, n=10. Tinetti test (before x after): CK total score, 9.26 X 13.1; IK total score, 11.37X14.5. There was not improvement in CG. SF-36 (mean scores, before x afer): CK Pain, 33.2 X 70.7; CK Emotional wellbeing 33.3X66.6; IK Functional capacity: 64X 85.5; IK Emotional aspects: 77.7 X 88; IK Functional limitation: 72.5X 100. There were no statistically significant changes in CG. Conclusion: We found no expressive differences regarding the kinesiotherapy program discontinuation between the intervention groups. However, both groups presented significant differences after the interventions in improvement of the emotional aspects, improvement of physical impairments, pain reduction, improvement of balance and gait, what evidences the efficacy and the relevance of this activity.</dc:description>
+          <dc:description xml:lang="pt-BR">Analisar o efeito da cinesioterapia em grupo sobre a qualidade de vida, adesão e desistência do programa, capacidade funcional, equilíbrio e marcha de idosas sedentárias. Método: Estudo experimental, amostra de idosas com média de idade de 69,83 (±7,76), que foram submetidas a um protocolo de cinesioterapia e randomizadas em três grupos (N=48), cinesioterapia em grupo (CG), cinesioterapia individual (CI) e controle (C); durante 12 semanas. A qualidade de vida foi avaliada por meio do questionário SF-36, e as variáveis de equilíbrio e marcha através do teste de Tinetti. Utilizando os procedimentos estatísticos descritivos (média e desvio padrão) e o teste de Wilcoxon, admitindo-se o nível de significância de p &amp;lt; 0, 05. Resultados: Taxa de permanência: CG:n=9; GI:n=10; C:n=8 ;Teste de Tinetti:Grupo CG: escore total 9.26 X 13.1; Grupo GI 11.37 X 14.5. Não houve melhora no grupo C. SF-36: média de escores: (CG) Dor: 33.2 X 70.7; Aspectos emocionais 33.3 X 66.6; (GI) Capacidade funcional: 64 X 85.5; Aspectos emocionais: 77.7 X 88; Limitação funcional: 72.5X 100. Não houve melhora estatisticamente significativas no grupo C. Conclusão: Não foram encontradas diferenças expressivas em relação a taxa de desistência entre a dinâmica em grupo e a dinâmica individual no programa de cinesioterapia, no entanto os grupos experimentais apresentaram diferenças significativas com os testes, antes e pós intervenção, para melhora nos aspectos emocionais, melhora de limitações físicas, redução de dor, melhora no equilíbrio e marcha, mostrando assim eficácia e importância dessa atividade.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153697</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170024</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 133-137</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153697/150124</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153697/150125</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153699</identifier>
+        <datestamp>2019-09-23T15:07:11Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Análise das variáveis espaços temporais e angulares da marcha em indivíduos cegos</dc:title>
+          <dc:title xml:lang="en-US">Analysis of the spatial-temporal and angular variables of gait of blind individuals</dc:title>
+          <dc:creator>Santo, Caroline Cunha do Espírito</dc:creator>
+          <dc:creator>Tavares, Graziela Morgana Silva</dc:creator>
+          <dc:creator>Libardoni, Thiele de Cássia</dc:creator>
+          <dc:creator>Sinhorim, Larissa</dc:creator>
+          <dc:creator>Santos, Gilmar Moraes</dc:creator>
+          <dc:subject xml:lang="pt-BR">Pessoas com Deficiência Visual</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fenômenos Biomecânicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Marcha</dc:subject>
+          <dc:subject xml:lang="en-US">Visually Impaired Persons</dc:subject>
+          <dc:subject xml:lang="en-US">Biomechanical Phenomena</dc:subject>
+          <dc:subject xml:lang="en-US">Gait</dc:subject>
+          <dc:description xml:lang="pt-BR">Analisar e descrever as variáveis espaços temporais e angulares da marcha de indivíduos cegos totais. Método: Estudo foi composto por 19 indivíduos com idade média de 28±6 anos, sendo estes divididos em dois grupos, o primeiro composto por oito indivíduos cegos totais (GCT), e o segundo grupo por 11 indivíduos com visão normal (GVN). As variáveis foram coletadas pelo sistema Peak Motus e analisadas no software Ariel Performance Analysis System. Os indivíduos caminharam em um trajeto com sete metros de extensão, livre de obstáculos, em velocidade auto selecionada, até que seis passadas fossem consideradas válidas. Para o tratamento estatístico dos dados utilizou-se o Teste t de student, com nível de significância de p≤0,05. Resultados: Os sujeitos do GCT apresentaram redução significativa da velocidade da marcha, cadência, comprimento da passada, fase de balanço e do ângulo máximo de flexão do joelho, bem como aumento da fase de apoio e do período de duplo apoio, quando comparados com os sujeitos no GVN. Não foi encontrada diferença significativa para ângulo máximo de extensão do quadril entre os grupos pesquisados. Conclusão: Os achados deste estudo mostraram que a ausência da informação visual induz nos sujeitos cegos uma marcha mais lenta, com redução do comprimento da passada, ângulo de flexão do joelho e fase de balanço, e, aumento da fase de apoio e do período de duplo apoio, quando comparados a sujeitos de visão normal.</dc:description>
+          <dc:description xml:lang="en-US">Analyze and describe the spatial-temporal and angular variables of gait of total blind individuals. Method: The present study included 19 individuals with a mean age of 28±6 years, who were divided into two groups, the first composed of eight blinded individuals, and the second group of 11 individuals with normal vision. The variables were collected by the Peak Motus system and were analyzed with the Ariel Performance Analysis System Software. The subjects walked at a self-selected speed on a seven-meter long, obstacle-free route, until reaching six valid strides. For statistical analysis, the Student t test was applied, with significance level of p≤0.05. Results: The blind individuals showed a significant reduction of gait velocity, cadence, stride length, swing phase and maximum angle of knee flexion, as well as increased support phase and double-support period, compared to the subjects with normal vision. No significant difference was found for maximum hip extension angle between the groups. Conclusion: The findings of this study showed that the absence of visual information associated with postural and balance changes induce the blind subjects to have slower gait, with reduced stride length, angle of knee flexion and swing phase, and increased support phase and period of double-support, when compared to subjects with normal vision.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153699</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170025</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 138-142</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153699/150126</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153699/150127</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153700</identifier>
+        <datestamp>2019-09-23T15:16:57Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Treatment of medial tibial stress syndrome with extracorporeal shockwave treatment: a literature review</dc:title>
+          <dc:title xml:lang="pt-BR">Tratamento por ondas de choque extracorpórea na síndrome do estresse tibial: uma revisão da literatura</dc:title>
+          <dc:creator>Pai, Marcus Yu Bin</dc:creator>
+          <dc:creator>Nakagawa, Mariana Hida</dc:creator>
+          <dc:creator>Toma, Juliana Takiguti</dc:creator>
+          <dc:creator>Santos, Bruno Schiefer dos</dc:creator>
+          <dc:creator>Santos, Paulo Roberto Dias dos</dc:creator>
+          <dc:creator>Andreoli, Carlos Vicente</dc:creator>
+          <dc:creator>Ejnisman, Benno</dc:creator>
+          <dc:subject xml:lang="pt-BR">Condutas Terapêuticas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Resultado do Tratamento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ondas de Choque de Alta Energia</dc:subject>
+          <dc:subject xml:lang="en-US">Therapeutic Approaches</dc:subject>
+          <dc:subject xml:lang="en-US">Treatment Outcome</dc:subject>
+          <dc:subject xml:lang="en-US">High-Energy Shock Waves</dc:subject>
+          <dc:description xml:lang="en-US">Medial tibial stress syndrome is a common injury due to mechanical overload, especially in athletes due to local inflammation and bone stress. Shockwave therapy (ESWT) has been used as a treatment for this pathology due to its analgesic and anti-inflammatory effects.&#160;Objective: To evaluate the effectiveness of ESWT in the analgesic treatment of medial tibial stress syndrome and measures of functionality. Methods:&#160;A review of the literature was conducted, with clinical studies in humans included.&#160;Results: 3 articles fulfilled the inclusion criteria, including 166 patients. The trials involved a wide variety of interventions, types of devices, frequency and energy used, as well as differences in the number of sessions and types of shock waves used in treatment. Conclusion: There is still no consistent evidence regarding the use of ESWT in the conservative treatment of medial tibial stress syndrome, with small studies of low methodological quality. Studies included in this review did not report significant side effects.</dc:description>
+          <dc:description xml:lang="pt-BR">A síndrome do estresse tibial medial é uma lesão comum devido a sobrecarga mecânica, principalmente em atletas, devido a inflamação local e estresse ósseo. A terapia de ondas de choque (TOC) vem sendo utilizada como tratamento para esta patologia por seus efeitos analgésicos e anti-inflamatórios. Objetivo: Avaliar a eficácia da TOC no tratamento analgésico da síndrome do estresse tibial medial e medidas de funcionalidade. Métodos: Foi realizada uma revisão da literatura, sendo incluídos estudos clínicos em humanos. Resultados: 3 artigos preencheram os critérios de inclusão, incluindo 166 pacientes. Os trabalhos trouxeram uma ampla variedade de intervenções, tipos de aparelhos, frequência e energia utilizada, além de diferenças nas quantidades de sessões e tipos de ondas de choque utilizado no tratamento. Conclusão: Ainda não há evidências consistentes quanto ao uso da TOC no tratamento conservador da síndrome do estresse tibial medial, com estudos pequenos, de qualidade metodológica baixa. Os estudos inclusos no trabalho não relataram efeitos colaterais significativos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153700</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170026</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 143-146</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153700/150128</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153702</identifier>
+        <datestamp>2019-09-23T15:23:01Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">The use of thermography as an assessment tool in physical medicine and rehabilitation: a review study</dc:title>
+          <dc:title xml:lang="pt-BR">Uso da termografia como método de avaliação na medicina física e de reabilitação: revisão de literatura</dc:title>
+          <dc:creator>Alfieri, Fábio Marcon</dc:creator>
+          <dc:creator>Santos, Artur Cesar Aquino dos</dc:creator>
+          <dc:creator>Battistella, Linamara Rizzo</dc:creator>
+          <dc:subject xml:lang="en-US">Thermography</dc:subject>
+          <dc:subject xml:lang="en-US">Evaluation</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Termografia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:description xml:lang="en-US">The infrared thermographic evaluation, given its capacity of detecting body temperature, may reveal physiological changes in clinical conditions that require physical rehabilitation. Objective: Was to identify publications that reported the use of thermography as a tool for evaluating clinical research outcomes in physical medicine and rehabilitation. Method: The MeSH term Thermography was the only descriptor in the search in PubMed database. Results: Out of 6957 articles, 316 were clinical trials, from which 304 were excluded for not fulfilling the eligibility criteria, and only 12 studies were included in the review. The articles were then classified according to the JADAD scale. Only three studies were rated as having good methodological quality. In the studies included, the clinical conditions were delayed onset muscle soreness, low back pain, rheumatoid arthritis, complex regional pain syndrome, myofascial pain syndrome, osteoarthritis, Raynaud's disease, and tendonitis. Several therapeutic interventions were used and laser therapy was reported in 5 different studies. Only one study did not manage to identify body temperature changes after the rehabilitation intervention, as measured by the thermography. Conclusion: This review has shown that a few studies, with low methodological quality, applied the thermography as a tool for evaluating physical medicine rehabilitation programs.</dc:description>
+          <dc:description xml:lang="pt-BR">Por indicar a temperatura corporal, a avaliação termográfica pode servir como indicativo de alteração fisiológica em algumas condições clínicas nas quais a reabilitação se faz necessária. Objetivo: Conhecer a quantidade de publicações sobre o uso da termografia como instrumento de avaliação de desfecho de pesquisa clínica em estudos de reabilitação. Método: Foi feita uma busca na base de dados PubMed. Como descritor foi utilizado somente o MeSH term Thermography e escolhidos os artigos que reportavam pesquisa clínica. Resultados: De 6957 artigos encontrados, 316 eram Clinical trials, destes, 304 foram excluídos por não atenderem os critérios de inclusão, permanecendo assim 12 estudos. Estes foram classificados segundo a escala de JADAD. Apenas três estudos foram considerados com boa qualidade metodológica. Nos estudos incluídos, as condições clínicas avaliadas foram: dor muscular tardia, lombalgia, artrite reumatoide, síndrome da dor complexa regional, dor miofascial, osteoartrite, Fenômeno de Raynaud's, e tendinites. Diversos recursos terapêuticos foram utilizados, sendo o laser usado em 5 estudos. Apenas um estudo não conseguiu identificar mudanças após os procedimentos de reabilitação quando usada a termografia como avaliação. Conclusão: Essa revisão mostrou que poucos estudos e com baixa qualidade metodológica usaram a termografia como método de avaliação em programas de reabilitação.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153702</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170027</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 147-150</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153702/150129</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153703</identifier>
+        <datestamp>2019-09-23T16:57:53Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Manifestações musculoesqueléticas na síndrome de Klippel-Trenaunay</dc:title>
+          <dc:title xml:lang="en-US">Musculoskeletal manifestations in syndrome Klippel-Trenaunay</dc:title>
+          <dc:creator>Capucho, Patricia Yuri</dc:creator>
+          <dc:creator>Thinen, Natalia Cristina</dc:creator>
+          <dc:creator>Carvalho, Mariana Cavazzoni Lima de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Síndrome de Klippel-Trenaunay-Weber</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipertrofia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemangioma</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sindactilia</dc:subject>
+          <dc:subject xml:lang="en-US">Klippel-Trenaunay-Weber Syndrome</dc:subject>
+          <dc:subject xml:lang="en-US">Hypertrophy</dc:subject>
+          <dc:subject xml:lang="en-US">Hemangioma</dc:subject>
+          <dc:subject xml:lang="en-US">Syndactyly</dc:subject>
+          <dc:description xml:lang="en-US">Klippel-Trenaunay syndrome is a rare congenital disease with undefined etiology characterized by the presence of the triad: port wine stains, venous malformations or varicose veins, and bone and/or tissue hypertrophy. It affects the lower limbs more commonly. Treatment is generally conservative, with interventions limited to the treatment of complications. Objective: To present a case report of a child with musculoskeletal manifestations of the syndrome evaluated by a multiprofessional team, composed of social work, psychology, physiotherapy, occupational therapy, phonoaudiology, nursing and a physiatrist. Methods: After evaluation, it was decided that awareness and correction of posture as well as body perception, performance of orthostatic activity, balance training, dissociation of waists, and postural changes would be approached by the multiprofessional team. Results: The patient received multiprofessional care for two months, obtained better gait stability, and had independent gait in the community, with higher speed and lower number of falls. Conclusion: She was discharged after achieving the goals and after her parents were sensitized regarding the importance of maintaining the multiprofessional follow up and follow the goals set for homecare.</dc:description>
+          <dc:description xml:lang="pt-BR">A síndrome de Klippel-Trenaunay é uma doença congênita rara de etiologia não definida, caracterizada pela presença da tríade: manchas vinho do porto, malformações venosas ou veias varicosas e hipertrofia óssea e/ou tecidual. Acomete mais frequentemente os membros inferiores. O tratamento em geral é conservador, sendo as intervenções limitadas ao tratamento das complicações. Objetivo: Apresentar relato de caso de uma criança com manifestações musculoesqueléticas da síndrome avaliada por equipe multiprofissional, composta pelo serviço social, psicologia, fisioterapia, terapia ocupacional, fonoaudiologia, enfermagem e médico fisiatra. Método: Após avaliação foi definido trabalhar consciência e correção da postura assim como a percepção corporal, realização de atividade em ortostatismo, treino de equilíbrio, dissociação de cinturas e trocas posturais. Resultados: Paciente participou dos atendimentos multiprofissionais por dois meses, obteve melhor estabilidade da marcha, passando a ter marcha independente na comunidade, com velocidade maior e menor número de quedas. Conclusão: Recebeu alta com objetivos atingidos e pais sensibilizados quanto à importância de manter o seguimento multiprofissional e seguir os objetivos traçados em domicílio.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153703</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170028</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 151-153</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153703/150130</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153703/150131</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153705</identifier>
+        <datestamp>2019-09-23T17:13:53Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">3D print orthesis for shoulder: case report</dc:title>
+          <dc:title xml:lang="pt-BR">Órtese com impressão 3D para ombro: relato de caso</dc:title>
+          <dc:creator>Assad, Danielle Aline Barata</dc:creator>
+          <dc:creator>Elui, Valeria Meirelles Carril</dc:creator>
+          <dc:creator>Wong, Vincent</dc:creator>
+          <dc:creator>Fortulan, Carlos Alberto</dc:creator>
+          <dc:subject xml:lang="en-US">Upper Extremity</dc:subject>
+          <dc:subject xml:lang="en-US">Orthotic Devices</dc:subject>
+          <dc:subject xml:lang="en-US">Technological Development</dc:subject>
+          <dc:subject xml:lang="en-US">Printing, Three-Dimensional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Extremidade Superior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aparelhos Ortopédicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Desenvolvimento Tecnológico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Impressão Tridimensional</dc:subject>
+          <dc:description xml:lang="pt-BR">Subluxação do ombro é a complicação musculoesquelética mais comum das afecções do Sistema Nervoso Central e Periférico, que leva a diminuição do movimento, da função e aumento de dor. Órtese é um dos recursos auxiliares utilizados no tratamento desta patologia e visa corrigir deformidade, diminuir dor e proporcionar função ao membro acometido. Objetivo: Este trabalho propõe uma nova metodologia para projetar e fabricar órteses customizadas estabilizadoras de ombro utilizando as tecnologias de aquisição 3D por escaneamento e de fabricação por Impressão 3D, e assegurar melhor adaptabilidade e maior conforto para o usuário. Método: A metodologia foi dividida em cinco fases: estudo de caso, escaneamento, modelagem e impressão em 3D e acabamento. O estudo de caso do usuário com lesão de plexo braquial motivou o projeto de desenho original de órtese híbrida, personalizada e manufaturada em 3D, usando estrutura rígida e faixas de tração, com objetivo de estabilizar o ombro, diminuir a dor e permitir função. Resultados: Após escaneamento em 3D utilizou-se softwares especializados para processar a imagem tridimensional STL. Realizaram-se otimizações do projeto com geração de modelos e peças prototipadas em FDM; avaliada pelo usuário. O conceito desenvolvido foi: órtese personalizada, fácil de higienizar e vestir, resistente, articulada, veste nos dois braços com faixas de tração em tecido rígido acoplado à cintura. Conclusão: O teste com usuário corroborou com o conceito projetado e mostrou um protótipo preliminar com bom acoplamento ao tronco, tração satisfatória e possibilidade de realizar um maior número de AVD´s com menos dor e/ou sensação de cansaço.</dc:description>
+          <dc:description xml:lang="en-US">Subluxation of the shoulder is the most common musculoskeletal complication of Central and Peripheral Nervous System disorders, which leads to decreased movement, function, and increased pain. Objective: Orthosis is one of the assistive devices used in the treatment of this pathology and it focuses in correcting deformity, decreasing pain and providing function to the affected member. This study proposes a new methodology for designing and manufacturing customized shoulder stabilization orthoses with 3D scan image acquisition and 3D printing technologies, for ensuring better adaptability and comfort for the user. Method: The methodology used in this study was divided into five phases: case study, scanning, modeling and 3D printing; and finishing. The case study included a user with brachial plexus injury that motivated the original design of hybrid orthosis, personalized and manufactured in 3D, with rigid structure and traction straps, for stabilizing the shoulder, reduce pain and allowing function. Results: After 3D scanning, we used specialized software to process the three-dimensional STL image. Optimization of the project with generation of models and prototyped parts in FDM based on the user evaluations was performed. The developed concept was: personalized orthosis, easy to clean and wear, resistant, articulated, for wearing in both arms with traction straps in rigid fabric coupled to the waist. Conclusion: The user test corroborated with the designed concept and showed a preliminary prototype with good trunk coupling, satisfactory traction and possibility of performing a greater number of ADLs with less pain and/or tiredness.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153705</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170029</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 154-159</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153705/150132</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153705/150133</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/153706</identifier>
+        <datestamp>2019-09-23T17:24:41Z</datestamp>
+        <setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Practical use of AbobotulinumtoxinA for the treatment of spasticity in children with cerebral palsy</dc:title>
+          <dc:title xml:lang="pt-BR">Uso prático da AbobotulinumtoxinA no tratamento de espasticidade em crianças com paralisia cerebral</dc:title>
+          <dc:creator>Dorf, Sandro Rachevsky</dc:creator>
+          <dc:creator>Caldas, Carla Andrea Cardoso Tanuri</dc:creator>
+          <dc:creator>Chueire, Regina Helena Morganti Fornari</dc:creator>
+          <dc:creator>Carvalho, José Henrique</dc:creator>
+          <dc:creator>Brito, João Amaury Francês</dc:creator>
+          <dc:creator>Maciel, Simone Carazzato</dc:creator>
+          <dc:creator>Sarmento, Elder Machado</dc:creator>
+          <dc:creator>Ramos, Arquimedes Moura</dc:creator>
+          <dc:subject xml:lang="en-US">Disabled Children</dc:subject>
+          <dc:subject xml:lang="en-US">Cerebral Palsy</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Spasticity</dc:subject>
+          <dc:subject xml:lang="en-US">Botulinum Toxins, Type A</dc:subject>
+          <dc:subject xml:lang="pt-BR">Crianças com Deficiência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Paralisia Cerebral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Espasticidade Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Toxinas Botulínicas Tipo A</dc:subject>
+          <dc:description xml:lang="en-US">AbobotulinumtoxinA (ABO) has been used for the treatment of spasticity in children with cerebral palsy (CP). Its use requires careful administration, regarding dosing, selection of local of application, interval between applications and efficacy and safety monitoring. This was the first panel of experts on the treatment of spasticity, which developed a guide to provide an overview on important issues related to therapeutic strategies adopted by physicians using ABO, including its dosage to be applied per muscle.Treatment should be initiated as soon as possible, ideally between two and six years old. A clinical evaluation should identify muscles presenting spastic activity, and determine desired outcome: improvement of function, esthetics/aspect, pain treatment, easing care and positioning, preventing hips dislocation, improvement of walking and posture, and to provide conditions for education and social participation. Pre-requisites to achieve good results are adequate muscle selection, adequate ABO dosage and exact injection technique. Many common pathological patterns can be adequately treated if several muscles are simultaneously injected in a single treatment session; planning ABO dosage per muscle should take into consideration the maximum dosage in units per muscle and the total maximum ABO dosage per session (30 U/kg patient´s body weight, not exceeding 1000 U).After application children should be submitted to physical therapy and occupational therapy, focused on home therapy, and family involvement, increasing chances of therapeutic gain. Treatment with ABO is multidisciplinary and requires integrated approaches.</dc:description>
+          <dc:description xml:lang="pt-BR">AbobotulinumtoxinA (ABO) tem sido utilizada para o tratamento da espasticidade em crianças com paralisia cerebral (PC). Seu uso requer uma administração cuidadosa, quanto à dosagem, seleção de locais de aplicação, intervalo entre aplicações, eficácia e segurança. Este foi o primeiro painel de especialistas no tratamento da espasticidade que desenvolveu um guia sobre questões gerais relacionadas a terapêutica de médicos que utilizam ABO, incluindo a indicação da dosagem a ser aplicada por músculo. O tratamento deve ser iniciado o mais rápido, idealmente entre dois e seis anos de idade. Uma avaliação clínica deve identificar os músculos espásticos e determinar o objetivo: melhora funcional, analgesia, facilidade de cuidados e posicionamento, prevenção da luxação dos quadris, melhora da marcha e postura, facilitação do processo de educação, maior participação social e/ou melhora estética. Os pré-requisitos para alcançar bons resultados são a seleção muscular adequada, a dosagem de ABO e a técnica de injeção. Muitos padrões patológicos comuns podem ser tratados se vários músculos forem simultaneamente injetados em uma única sessão de tratamento; O planejamento da dose de ABO por músculo deve levar em consideração a dosagem máxima em unidades por músculo e a dose de ABO máxima total por sessão (30 U / kg de peso corporal do paciente, não superior a 1000 U). Após a aplicação, as crianças devem ser submetidas a programas de fisioterapia e terapia ocupacional, focadas em orientações domiciliares e em orientações para a família, aumentando as chances de ganho terapêutico. O tratamento com ABO é multidisciplinar e requer abordagens integradas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/153706</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170030</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 3 (2017); 160-164</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153706/150134</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/153706/150135</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/154135</identifier>
+        <datestamp>2019-09-23T13:37:10Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Influence of long and short term ballet practice on balance and pelvic stabilization</dc:title>
+          <dc:title xml:lang="pt-BR">Influência do tempo de prática do ballet sobre equilíbrio e estabilização pélvica</dc:title>
+          <dc:creator>Sentena, Janaína Teixeira</dc:creator>
+          <dc:creator>Soares, Patrícia Morales</dc:creator>
+          <dc:creator>Lara, Simone</dc:creator>
+          <dc:creator>Teixeira, Lilian Pinto</dc:creator>
+          <dc:creator>Tavares, Graziela Morgana Silva</dc:creator>
+          <dc:creator>Balk, Rodrigo de Souza</dc:creator>
+          <dc:subject xml:lang="en-US">Postural Balance</dc:subject>
+          <dc:subject xml:lang="en-US">Pelvis</dc:subject>
+          <dc:subject xml:lang="en-US">Dancing</dc:subject>
+          <dc:subject xml:lang="pt-BR">Equilíbrio Postural</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pelve</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dança</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Identificar se o tempo de pratica do ballet influencia o equilíbrio postural (EP) e a capacidade de estabilização pélvica (CEP). Métodos: Foram incluídas bailarinas, alocadas em dois grupos: o grupo 1, que praticou o ballet por um período mínimo de um ano e máximo de dois anos e 11 meses (N=11) e grupo 2, que praticou o ballet por um período superior a três anos (N=10). O EP foi avaliado através da posturografia dinâmica computadorizada, por meio dos testes de organização sensorial (TOS). A CEP foi avaliada através do teste da ponte com extensão unilateral do joelho. Resultados: O tempo de prática do ballet influenciou o EP das meninas, uma vez que as bailarinas mais experientes obtiveram valores superiores relacionados ao sistema vestibular; porém não houve diferença entre os grupos em relação a estabilidade pélvica. Conclusão: O maior tempo de prática do ballet influenciou positivamente o EP das bailarinas.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To identify whether the practice time of ballet influences the postural balance (PB) and pelvic stabilization capacity (PSC). Methods: Ballerinas were assigned to two groups: group 1, who practiced the ballet for a minimum of one year and a maximum of two years and eleven months (N = 11) and group 2, those who practiced ballet for more than three years (N = 10). The PB was evaluated by computerized dynamic posturography, with sensory organization tests (SOT). The PSC was assessed by the unilateral knee extension test. Results: Longer time of practice of ballet influenced the PB of teenage girls, once the more experienced dancers obtained higher vestibular system related values, but there was no difference on the pelvic stabilization between both groups. Conclusion: Longer ballet time improved PB in dancers.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-12-27</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/154135</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170031</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 4 (2017); 165-169</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154135/150380</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154135/151648</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/154183</identifier>
+        <datestamp>2019-09-23T17:31:25Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Physiotherapy prescription among elderly users of primary healthcare facilities</dc:title>
+          <dc:title xml:lang="pt-BR">Uso de fisioterapia entre idosos usuários de serviços de atenção primária</dc:title>
+          <dc:creator>Terada, Natalia Akemi Yamada</dc:creator>
+          <dc:creator>Santos, Scarlet Feitosa</dc:creator>
+          <dc:creator>Zucoloto, Miriane Lucindo</dc:creator>
+          <dc:creator>Martinez, Edson Zangiacomi</dc:creator>
+          <dc:subject xml:lang="en-US">Primary Health Care</dc:subject>
+          <dc:subject xml:lang="en-US">Old Age Assistance</dc:subject>
+          <dc:subject xml:lang="en-US">Health Services</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Specialty</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atenção Primária à Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Assistência a Idosos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Serviços de Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fisioterapia</dc:subject>
+          <dc:description xml:lang="en-US">The physiotherapy has an important role in the health promotion and autonomy for the elderly, and the healthcare system should be able to provide adequate support for older age groups. Objective: The objectives of this cross-sectional study were to determine the lifetime prevalence of physiotherapy utilization among elderly users (60 years of age or more) of primary healthcare facilities in Ribeirão Preto, Brazil, and to investigate its association with variables such as sex, age, educational level and socioeconomic status. Methods: Data were collected during face-to-face interviews. Participants were invited to participate in the study while they waited for their medical appointment in a primary healthcare facility. Log-binomial regression models were used for adjusting the data. The sample was composed of 224 (63%) women and 133 (37%) men. Results: Overall, 141 (39.5%) individuals reported undertaking physiotherapy sessions some time along their lifetimes. The prevalence of physiotherapy utilization among women was 42.0% (95% CI: 35.4 - 48.7) and among men was 35.3% (95% CI: 27.2 - 44.1). The utilization of physiotherapy was more frequent among elderlies who had health insurance coverage, higher socioeconomic status and higher educational level. This suggests that some groups of population have more access to physiotherapy due to a higher capacity to pay for healthcare when compared to uninsured people. Conclusion: The participation of physiotherapists in the primary care setting should be encouraged, in order to reduce inequalities in access to such resources.</dc:description>
+          <dc:description xml:lang="pt-BR">A fisioterapia ocupa um papel importante na promoção da saúde e da autonomia para os idosos, e o sistema de atenção à saúde deve estar apto a oferecer suporte adequado para as pessoas desta faixa etária. Objetivo: Determinar a prevalência de uso de fisioterapia entre idosos (60 anos ou mais) usuários de serviços de atenção primária à saúde de Ribeirão Preto, Brasil, e investigar suas associações com variáveis como sexo, idade, nível educacional e classe socioeconômica. Métodos: Os dados foram coletados por entrevistas pessoais. Os idosos foram convidados a participar do estudo enquanto aguardavam por um atendimento médico em uma unidade de saúde. Modelos de regressão log-binomiais foram utilizados para ajustar os dados. A amostra foi composta por 224 (63%) mulheres e 133 (37%) homens. Resultados: Ao todo, 141 (39,5%) idosos relataram ter usado fisioterapia em algum momento de suas vidas. A prevalência de utilização da fisioterapia entre as mulheres foi de 42,0% (IC 95%: 35,4% - 48,7%) e entre homens foi de 35,3% (IC 95%: 27,2% - 44,1%). A utilização de fisioterapia foi mais frequente entre pessoas idosas portadoras de plano de saúde, classe socioeconômica mais privilegiada e maior escolaridade. Isto sugere que grupos mais privilegiados da população possuem maior acesso à fisioterapia e maior possibilidade de pagar por atendimento que pessoas sem cobertura de planos de saúde. Conclusão: A participação de fisioterapeutas na atenção primária à saúde deve ser encorajada, objetivando reduzir as desigualdades no acesso a tais recursos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-12-27</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/154183</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170032</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 4 (2017); 170-174</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154183/150417</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/154184</identifier>
+        <datestamp>2019-09-23T17:35:55Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Terapia de ondas de choque focal para osteoartrose de joelho: um ensaio clínico randomizado duplo-cego</dc:title>
+          <dc:title xml:lang="en-US">Focused extracorporeal shockwave therapy (f-ESWT) for knee osteoarthritis: a double-blind randomized clinical trial</dc:title>
+          <dc:creator>Cavalieri, Fabíola</dc:creator>
+          <dc:creator>Shinzato, Gilson Tanaka</dc:creator>
+          <dc:creator>Leite, Victor Figueiredo</dc:creator>
+          <dc:creator>Uchiyama, Sabrina Saemy Tome</dc:creator>
+          <dc:creator>Miyazaki, Margarida Margarida</dc:creator>
+          <dc:creator>Kirihara, André Kazuyoshi</dc:creator>
+          <dc:creator>Battistella, Linamara Rizzo</dc:creator>
+          <dc:subject xml:lang="en-US">High-Energy Shock Waves</dc:subject>
+          <dc:subject xml:lang="en-US">Osteoarthritis</dc:subject>
+          <dc:subject xml:lang="en-US">Knee</dc:subject>
+          <dc:subject xml:lang="en-US">Disability Evaluation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ondas de Choque de Alta Energia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Osteoartrite do Joelho</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação da Deficiência</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To assess the efficacy of focused extracorporeal shockwave therapy (f-ESWT) when compared to placebo for pain and disability in patients with knee osteoarthritis (OA). Methods: Randomized, parallel, double-blind, placebo-controlled clinical trial. Patients with primary knee OA were given a set of exercises (hamstring stretching and quadriceps strengthening) and randomized into f-ESWT or placebo (sham probe). All patients were submitted to 4 weekly sessions of 7,000 pulses, and in the f-ESWT group energy was up to 0.15mJ/mm2. Primary outcome was visual analog scale (VAS) for pain at 1 month. Secondary outcomes were WOMAC, TUG, Lequesne's index and OMERACT-OARSI responder index at 1 and 3 months; as well as VAS at 3 months and adverse events (AEs). Both patients and outcome assessors were blinded. Mann-Whitney U test and Fisher's exact test were used with alpha=5% and power=80% in an intention-to-treat analysis. Continuous outcomes were reported as mean± standard deviation. Results: 18 patients were included (9 in each group), aging 60.6±8.7, with 33.3% males. There was no significant difference at baseline across groups in any variables. f-ESWT was not superior to placebo at 1 month: VAS=-2.97±3.18 and -2.68±2.33cm, respectively, p=0.96. TUG at 1 month had significant differences: 9.09±2.30 and 11.01±2.85sec, p=0.01. No serious AEs were observed. Conclusions: f-ESWT was not superior to placebo for knee OA. This RCT was underpowered to detect differences in this study. New RCTs should use WOMAC A (pain subscale) as primary outcome and recruit at least 92 patients.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar eficácia da terapia de ondas de choque focal (f-ESWT) comparada ao placebo para dor e incapacidade em pacientes com osteoartrose de joelho (OA). Métodos: Ensaio clínico randomizado, duplo-cego, placebo controlado, pacientes com OA primária de joelhos realizaram exercícios (alongamentos de isquiotibiais e fortalecimento de quadríceps) e randomizados em f-ESWT ou placebo. Todos os pacientes foram submetidos a 4 sessões semanais de 7.000 pulsos, e no grupo f-ESWT a energia foi de até 0.15mJ/mm2. O desfecho primário foi a escala analógica visual (VAS) para dor em 1 mês. Os desfechos secundários foram WOMAC, TUG, Lequesne e índice de resposta OMERACT-OARSI em 1 e 3 meses; bem como VAS aos 3 meses e eventos adversos (EAs). O teste de Mann-Whitney U e o teste exato Fisher foram utilizados com alfa = 5% e poder = 80% em uma análise de intenção de tratar. Os desfechos contínuos foram relatados como média ± desvio padrão. Resultados: 18 pacientes (9 em cada grupo), idade de 60.6±8.7 com 33.3% homens. Não houve diferença significativa entre grupos em qualquer variável. F-ESWT não foi superior ao placebo em 1 mês: VAS = -2,97 ± 3,18 e -2,68 ± 2,33 cm, respectivamente, p = 0,96. Somente o TUG no 1º mês foi significativo: 9.09 ± 2.30 e 11.01 ± 2.85 seg, p = 0.01. Conclusão: f-ESWT não foi superior ao placebo para osteoartrose de joelhos. Este estudo foi insuficiente para detectar diferenças. Novos estudos devem usar WOMAC A (subescala dor) como desfecho primário e recrutar 92 pacientes.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-12-27</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/154184</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170033</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 4 (2017); 175-179</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154184/150418</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154184/151649</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/154186</identifier>
+        <datestamp>2019-09-23T17:44:01Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Dynapenia and quality of life in HIV-infected individuals</dc:title>
+          <dc:title xml:lang="pt-BR">Dinapenia e qualidade de vida em indivíduos infectados pelo HIV</dc:title>
+          <dc:creator>Lédo, Ana Paula de Oliveira</dc:creator>
+          <dc:creator>Neves, Janmille de Sá</dc:creator>
+          <dc:creator>Martinez, Bruno Prata</dc:creator>
+          <dc:creator>Brites, Carlos</dc:creator>
+          <dc:subject xml:lang="pt-BR">Debilidade Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:subject xml:lang="pt-BR">Soropositividade para HIV</dc:subject>
+          <dc:subject xml:lang="en-US">HIV Seropositivity</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Weakness</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life</dc:subject>
+          <dc:description xml:lang="pt-BR">O surgimento da terapia antirretroviral (TARV) eficaz, transformou o perfil evolutivo da infecção pelo vírus da imunodeficiência humana adquirida (HIV) em uma doença crônica, com o aumento da expectativa de vida e complicações relacionadas ao uso desta, como a fraqueza muscular. Objetivo: Descrever a ocorrência de dinapenia e sua relação com qualidade de vida em indivíduos infectados com HIV. Métodos: Estudo observacional, de corte transversal, onde a força de preensão palmar foi avaliada através da dinamometria. Foram incluídos indivíduos infectados pelo HIV com idade ≥18 anos e capacidade para aferição da força muscular. O diagnóstico de dinapenia foi determinado pelos critérios definidos pela literatura para avaliação da força de preensão palmar e o índice de massa corporal (IMC). Para avaliação da qualidade de vida utilizou-se o questionário de qualidade de vida Short-Form Health Survey (SF-36). Outras variáveis mensuradas foram tempo de uso de TARV e o Índice de Comorbidades de Charlson (ICC), além de idade, sexo e peso. Resultados: A presença de dinapenia foi de 11,6% na amostra estudada. Houve associação de dinapenia com as variáveis idade (p=0,0001), presença de cormobidades (p=0,0001), menor força de preensão palmar (p=0,0001) e menor IMC (p=0,033). A qualidade de vida mostrou-se comprometida tanto nos domínios de aspectos físicos quanto nos de aspectos mentais. Conclusão: Existe dinapenia em uma parte dos indivíduos com HIV e houve associação desta com pior qualidade de vida, sugerindo a necessidade de rastreio e tratamento deste problema nessa população, muitas vezes subnotificado.</dc:description>
+          <dc:description xml:lang="en-US">The appearance of effective antiretroviral therapy (ART) has transformed the evolutionary profile of acquired human immunodeficiency virus (HIV) into a chronic disease, with increased life expectancy but complications related to its use, such as muscle weakness. Objective: Describe the occurrence of dynapenia and its relationship with quality of life in HIV infected individuals. Methods: This is a cross-sectional observational study, in which handgrip strength was evaluated with handgrip dynamometry. HIV-infected individuals aged ≥18 years and ability to have muscle strength measured were included. The diagnosis of dynapenia was determined by the literature for handgrip strength evaluation and body mass index (BMI). Short-Form Health Survey (SF-36) was used to evaluate the quality of life, and other variables such as time to use ART and the Charlson Comorbidity Index (CCI), as well as age, gender and weight were recorded. Results: The presence of dynapenia was 11.6% in the sample studied. There was an association of dynapenia with the variables age (p = 0.0001), presence of cormobities (p = 0.0001), lower handgrip strength (p = 0.0001) and lower BMI (p = 0.033). The quality of life has been compromised in both the physical and mental domains. Conclusion: There is dynapenia in part of the individuals with HIV and its association with poorer quality of life was found, what suggests the necessity of screening and treatment of this often underreported health problem in this population.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-12-27</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/154186</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170034</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 4 (2017); 180-185</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154186/150426</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154186/151650</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/154212</identifier>
+        <datestamp>2019-09-23T14:15:54Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Neuromuscular function of braquial biceps in isometric contraction after termotherapy</dc:title>
+          <dc:title xml:lang="pt-BR">Função neuromuscular do bíceps braquial em contração isométrica após termoterapia</dc:title>
+          <dc:creator>Guedes, Fábio Gonçalves</dc:creator>
+          <dc:creator>Andrade, Maraline Cristina de</dc:creator>
+          <dc:creator>Almeida, Maycon Rodrigo Felício de</dc:creator>
+          <dc:creator>Amorim, Hícaro Felizardo</dc:creator>
+          <dc:creator>Antunes, João Eduardo Machado da Costa</dc:creator>
+          <dc:creator>Machado, Josimar Bento</dc:creator>
+          <dc:creator>Dias, Sílvia Regina Costa</dc:creator>
+          <dc:subject xml:lang="en-US">Electromyography</dc:subject>
+          <dc:subject xml:lang="en-US">Ultrasonic Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Cryotherapy</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="pt-BR">Eletromiografia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Terapia por Ultrassom</dc:subject>
+          <dc:subject xml:lang="pt-BR">Crioterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:description xml:lang="pt-BR">A alteração na temperatura de um tecido pode promover efeitos fisiológicos que levam a alterações circulatórias e nervosas, tais como vasodilatação e aumento na flexibilidade. Objetivo: Avaliar, através de uma avaliação neuromuscular não invasiva, como a termoterapia influencia na força muscular e nos sinais mioelétricos do bíceps braquial em contração isométrica. Métodos: Dezessete voluntários foram orientados a fazer contração isométrica do músculo bíceps braquial concomitantemente com a eletromiografia de superfície. A avaliação eletromiográfica e de força foram realizadas antes e após a intervenção com recursos termoterapêuticos: gelo (15 minutos) e ultrassom continuo (1MHz, 0.8W/cm2, 7 minutos). Resultados: Mostraram que as mulheres possuem menos força e ativam menos unidades motoras. No entanto, a frequência de disparos elétricos nas vias efetoras é maior, o que indica maior propensão à fadiga. Após a aplicação do calor, não foram observadas diferenças na resposta neuromuscular do bíceps braquial em contração. Já a crioterapia, promoveu redução significativa na força e no número de unidades motoras ativadas durante a contração. O resfriamento do tecido muscular promove a diminuição da ação das fibras musculares, uma vez que há redução da velocidade da condução do impulso nervoso e do reflexo do arco miotático. Além disso, a crioterapia também diminui a sensibilidade dos órgãos tendinosos de Golgi, aumenta a viscosidade sanguínea, provoca a vasoconstrição. Todos estes fatores, somam-se para culminar na diminuição da ativação neuromuscular e, consequentemente, na redução da força do músculo.</dc:description>
+          <dc:description xml:lang="en-US">The change in temperature of a biological tissue can promote physiological effects that lead to circulatory and nerve changes, such as vasodilation and increased flexibility. Objective: The objective of this study was to evaluate, through a noninvasive neuromuscular assessment, how thermotherapy influences the muscular strength and the myoelectric signals of the biceps brachial in isometric contraction. Methods: Seventeen volunteers were instructed to perform isometric contraction of the brachial biceps muscle concomitantly with surface electromyography. Electromyographic and force evaluation were performed before and after the intervention with thermotherapeutic resources that consisted of ice therapy for 15 minutes and continuous ultrasound (1MHz, 0.8W/cm2) for 7 minutes. Results: Women have less strength and fewer motor units. However, the frequency of electric inputs of the effector pathways is higher, which indicates a greater propensity to fatigue. After the application of heat, no differences were observed in the neuromuscular response of the contracting brachial biceps. The cryotherapy, however, promoted a significant reduction in the strength and number of motor units activated during the contraction. Conclusion: The cooling of muscle tissue promotes a decrease of muscle fibers activities, since there is a reduction in the velocity of nerve impulse conduction and the reflex of the myotatic arch. In addition, cryotherapy also decreases the sensitivity of the Golgi tendon organs, increases blood viscosity, and causes vasoconstriction. All these factors are combined to culminate in the decrease of neuromuscular activation and, consequently, in the reduction of muscle strength.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2017-12-27</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/154212</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20170035</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 24 n. 4 (2017); 186-192</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154212/150433</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/154212/151651</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2017 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2023-08-08T14:49:31Z" completeListSize="935" cursor="625">5832a05cc647f42477c8b554c9005d49</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

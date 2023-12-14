@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:30Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/84704</identifier>
+        <datestamp>2020-06-25T16:04:54Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Erythrodermic psoriasis: a case report and literature review</dc:title>
+          <dc:title xml:lang="pt-BR">Psoríase Eritrodérmica: relato de caso e revisão bibliográfica</dc:title>
+          <dc:creator>Ferreira, Ana Carolina A de F</dc:creator>
+          <dc:creator>Anjos, Fernanda SA dos</dc:creator>
+          <dc:creator>Yoshino, Patrícia M</dc:creator>
+          <dc:creator>Hal, Lívia S</dc:creator>
+          <dc:creator>Pinto, Simone CC</dc:creator>
+          <dc:creator>Lima, Ricardo B</dc:creator>
+          <dc:subject xml:lang="en-US">Dermatitis</dc:subject>
+          <dc:subject xml:lang="en-US">Exfoliative</dc:subject>
+          <dc:subject xml:lang="en-US">Psoriasis</dc:subject>
+          <dc:subject xml:lang="en-US">Cyclosporine</dc:subject>
+          <dc:subject xml:lang="en-US">Acitretin</dc:subject>
+          <dc:subject xml:lang="en-US">Biological Agents.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dermatite Esfoliativa</dc:subject>
+          <dc:subject xml:lang="pt-BR">Psoríase</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ciclosporina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Acitretina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Agentes Biológicos.</dc:subject>
+          <dc:description xml:lang="en-US">Erythroderma is a rare syndrome, responsible for diffuse erythema and scaling, affecting more than 80 or&#160;90% of the body surface. It is potentially serious, because of the association with electrolyte disturbances&#160;and bacterial colonization. Among the etiological causes are present: primary dermatological diseases,allergic reaction to certain drugs, systemic diseases, and neoplasms. In this case report, we illustrate an&#160;example of severe and acute erythroderma initially treated with systemic steroids. The skin biopsy indicated the diagnosis of erythrodermic psoriasis, which responded well to treatment with cyclosporine, acitretin and etanercept. Based on this report, we reviewed the literature on the causes of exfoliative dermatitis and discussed the management of severe cases of psoriasis.</dc:description>
+          <dc:description xml:lang="pt-BR">A eritrodermia é uma síndrome rara, responsável por eritema e descamação difusos, que acometem&#160;mais de 80 ou 90% da superfície corporal. É potencialmente grave, devido à associação com distúrbios&#160;hidroeletrolíticos e à colonização bacteriana. Entre as causas etiológicas estão presentes: doenças dermatológicas primárias, reação alérgica a certas drogas, doenças sistêmicas, além de neoplasias. No&#160;presente relato de caso, ilustramos um exemplo de eritrodermia de instalação grave e aguda, inicialmente tratado com corticoterapia sistêmica. O exame histopatológico da pele indicou o diagnóstico de psoríase eritrodérmica, que respondeu bem ao tratamento com ciclosporina, acitretina e etanercepte. Com base nesse relato, foi realizada uma revisão da literatura sobre as causas de dermatite esfoliativa e discutido o manejo de casos graves de psoríase.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/84704</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i2p185-193</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 2 (2014); 185-193</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 2 (2014); 185-193</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 2 (2014); 185-193</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/84704/87414</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/84706</identifier>
+        <datestamp>2020-06-25T16:04:53Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Contribution to the teaching of Orthopedics through the first league of the specialty in Rondônia</dc:title>
+          <dc:title xml:lang="pt-BR">Contribuição para o ensino de Ortopedia da primeira liga da especialidade em Rondônia</dc:title>
+          <dc:creator>Vieira, Gabriel de Deus</dc:creator>
+          <dc:creator>Quintana, Fernando Tiarajú</dc:creator>
+          <dc:creator>Mendonça, Gabriel Maciel de</dc:creator>
+          <dc:creator>Pinto, Iasmin Cristini Castiel da Silva</dc:creator>
+          <dc:creator>Bezerra, Isabele Christina Andrade</dc:creator>
+          <dc:creator>Braga, João Otávio Salles</dc:creator>
+          <dc:creator>Rocha, Joshua Werner Bicalho da</dc:creator>
+          <dc:creator>Kussler, Thalita Iana Alves</dc:creator>
+          <dc:creator>Serbino Húnior, José Wilson</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação Médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ligas Acadêmicas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ortopedia.</dc:subject>
+          <dc:subject xml:lang="en-US">Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical</dc:subject>
+          <dc:subject xml:lang="en-US">Student Leagues</dc:subject>
+          <dc:subject xml:lang="en-US">Orthopedics.</dc:subject>
+          <dc:description xml:lang="en-US">Among the various forms of medical education, the participation in academic leagues has great importance&#160;in theoretical and technical training of students, due to extracurricular activities exercised by members. In view of this situation, the first league of orthopedics and traumatology of Rondônia was created, with a commitment to provide theoretical and practical knowledge to its members. Thus, this paper aims to report the experience of orthopedics teaching through the creation of the league.</dc:description>
+          <dc:description xml:lang="pt-BR">Dentre as diversas formas de ensino médico, a participação em ligas acadêmicas tem grande importância na formação técnica e teórica dos alunos, devido às atividades extracurriculares exercidas pelos membros. Em vista dessa situação, foi criada a primeira liga de ortopedia e traumatologia do estado de Rondônia, com o compromisso de fornecer conhecimento teórico e prático aos seus membros. Com isso, esse artigo tem como objetivo relatar a experiência do ensino da ortopedia através da criação da liga.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/84706</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i2p201-207</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 2 (2014); 201-207</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 2 (2014); 201-207</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 2 (2014); 201-207</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/84706/87415</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86561</identifier>
+        <datestamp>2020-06-25T16:04:52Z</datestamp>
+        <setSpec>rmrp:APR</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Teacher training and faculty development for health professions education: beyond mastering knowledge and cognitive contents</dc:title>
+          <dc:title xml:lang="pt-BR">A formação e o desenvolvimento docente para os cursos das profissões da saúde: muito mais que o domínio de conteúdos</dc:title>
+          <dc:creator>Troncon, Luiz E.A.</dc:creator>
+          <dc:creator>Bollela, Valdes R.</dc:creator>
+          <dc:creator>Borges, Marcos C.</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes V.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86561</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p245-248</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 245-248</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 245-248</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 245-248</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86561/89403</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86611</identifier>
+        <datestamp>2020-06-25T16:04:51Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Pedagogical approaches and their relationship with the learning theories</dc:title>
+          <dc:title xml:lang="pt-BR">Abordagens pedagógicas e sua relação com as teorias de aprendizagem</dc:title>
+          <dc:creator>Peres, Cristiane Martins</dc:creator>
+          <dc:creator>Vieira, Marta Neves Campanelli Marçal</dc:creator>
+          <dc:creator>Altafim, Elisa Rachel Pisani</dc:creator>
+          <dc:creator>Mello, Michela Bianchi de</dc:creator>
+          <dc:creator>Suen, Kemen Samder</dc:creator>
+          <dc:subject xml:lang="pt-BR">Teorias de Aprendizagem</dc:subject>
+          <dc:subject xml:lang="pt-BR">Modelos Pedagógicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tendências Pedagógicas</dc:subject>
+          <dc:subject xml:lang="en-US">Learning Theories</dc:subject>
+          <dc:subject xml:lang="en-US">Pedagogical Models</dc:subject>
+          <dc:subject xml:lang="en-US">Pedagogical Trends</dc:subject>
+          <dc:description xml:lang="en-US">The teaching practice requires the knowledge of how individuals learn, how the learning originates and develops and becomes as meaningful learning experience. The objective of this paper is to present the theoretical conceptions of the learning process of individuals and their relationship to pedagogical approaches adopted in the models of undergraduate courses. In this sense, the pedagogical models were grouped in a synthesized form, in models that are distinguished by being centered on the teacher; on the student; in the know; on medium of communication or technique; the social context and interaction. Were presented some of the principal aspects discussed in the Psychology Human Development, influencing teaching trends, as Innate, the Environmentalist / Behaviorist, and Interactionist. Discusses the need of educational practices be substantiate conceptually.</dc:description>
+          <dc:description xml:lang="pt-BR">A prática docente demanda o conhecimento de como o indivíduo aprende, como se origina e se desenvolve o aprendizado e como se transforma em experiência significativa de aprendizagem. O objetivo deste artigo é apresentar as concepções teóricas sobre o processo de aprendizagem dos indivíduos e sua relação com as abordagens pedagógicas adotadas nos modelos de cursos de graduação. Nesse sentido, os modelos pedagógicos foram agrupados de forma sintetizada, em modelos que se distinguem por estarem centrados no professor; no estudante; no saber; no meio de comunicação ou na técnica; no contexto social e na interação. Foram apresentadas algumas das principais vertentes discutidas na área da Psicologia do Desenvolvimento Humano, que influenciaram as tendências pedagógicas, como a Inatista, a Ambientalista/Behaviorista, e as Interacionistas. Discute a necessidade das práticas educativas serem conceitualmente fundamentadas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86611</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p249-255</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 249-255</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 249-255</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 249-255</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86611/89541</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86612</identifier>
+        <datestamp>2020-06-25T16:04:50Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Adult learning</dc:title>
+          <dc:title xml:lang="pt-BR">Aprendizado de adultos</dc:title>
+          <dc:creator>Iglesias, Alessandro Giraldes</dc:creator>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Aprendizado de Adulto</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neurociência Cognitiva</dc:subject>
+          <dc:subject xml:lang="pt-BR">Memória</dc:subject>
+          <dc:subject xml:lang="en-US">Adult Learning</dc:subject>
+          <dc:subject xml:lang="en-US">Cognitive Neuroscience</dc:subject>
+          <dc:subject xml:lang="en-US">Memory</dc:subject>
+          <dc:description xml:lang="en-US">Gradually, adult learning has been differentiated pedagogy. This began with the cognitive psychology and currently already have neuroimaging evidence to justify these differences and allow a better understanding of the learning and memory process to support the development of new teaching techniques.</dc:description>
+          <dc:description xml:lang="pt-BR">Gradativamente, o aprendizado de adultos tem se diferenciado da pedagogia. Isso começou com a psicologia cognitiva e atualmente já se dispõe de evidências de neuroimagem que justifiquem essas diferenças e permitam o melhor conhecimento do processo de aprendizagem e memória para embasar o desenvolvimento de novas técnicas de ensino.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86612</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p256-263</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 256-263</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 256-263</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 256-263</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86612/89542</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86614</identifier>
+        <datestamp>2020-06-25T16:04:49Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Educational Environment</dc:title>
+          <dc:title xml:lang="pt-BR">Ambiente educacional</dc:title>
+          <dc:creator>Troncon, Luiz Ernesto de Almeida</dc:creator>
+          <dc:subject xml:lang="pt-BR">Ambiente Educacional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Clima de Aprendizado</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ensino</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aprendizado</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudantes</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Superior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Profissões da Saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Educational Environment</dc:subject>
+          <dc:subject xml:lang="en-US">Learning Climate</dc:subject>
+          <dc:subject xml:lang="en-US">Teaching</dc:subject>
+          <dc:subject xml:lang="en-US">Learning</dc:subject>
+          <dc:subject xml:lang="en-US">Students</dc:subject>
+          <dc:subject xml:lang="en-US">Health Professions Education.</dc:subject>
+          <dc:description xml:lang="pt-BR">O ambiente educacional pode ser definido como um conjunto de elementos que circunda o educando, que nele deve necessariamente se inserir e que o inclui, quando vivencia os processos de ensino e aprendizado. Existem evidências variadas de que o ambiente educacional encontrado pelos educando tem impacto no seu rendimento acadêmico, bem como na sua satisfação com o processo educativo e dão boa medida da sua importância e justificam o seu estudo, no sentido de melhor conhece-lo e poder aperfeiçoa-lo. Os componentes do ambiente educacional são de natureza material, relacionados aos aspectos fisiológicos do educando e de caráter afetivo, relacionados às suas necessidades e respostas emocionais. O ambiente educacional é determinado por fatores ligados à instituição e, em especial, ao professor, que se caracteriza como o principal elemento na sua manutenção e aprimoramento. Uma variedade de instrumentos tem sido descritos para a avaliação do ambiente educacional, que deve ter o sentido de obter informações sobre este importante determinante do aprendizado e do desenvolvimento do estudante. Estas informações podem subsidiar a tomada de medidas visando o aperfeiçoamento do ambiente educacional, o que resulta em aumento da qualidade dos processos educativos.</dc:description>
+          <dc:description xml:lang="en-US">The educational environment is composed by a number of factors that influence learning and affect academic performance and student satisfaction. The components of the educational environment are related to student physiological needs and emotional responses. The educational environment is determined by the school and the teacher, but student also plays a role in its maintenance and improvement. A variety of instruments have been described for the evaluation of the educational environment, which could be understood as a process of collecting data that should inform decision making processes aiming at improving educational environment. This will result in increased quality of student learning and development.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86614</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p264-271</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 264-271</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 264-271</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 264-271</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86614/89544</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86615</identifier>
+        <datestamp>2020-06-25T16:04:48Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Basic principles to curriculum design on health professions education (HPE)</dc:title>
+          <dc:title xml:lang="pt-BR">Princípios básicos de desenho curricular para cursos das profissões da saúde</dc:title>
+          <dc:creator>Reis, Francisco José Candido dos</dc:creator>
+          <dc:creator>Souza, Cacilda da Silva</dc:creator>
+          <dc:creator>Bollela, Valdes Roberto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ocupações em saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Curriculum</dc:subject>
+          <dc:subject xml:lang="en-US">Medical education</dc:subject>
+          <dc:subject xml:lang="en-US">Health professions education.</dc:subject>
+          <dc:description xml:lang="pt-BR">Nesta revisão são discutidos os aspectos conceituais e princípios básicos para a construção de currículos para os cursos de gradaução das profissões da saúde. Serão abordados alguns modelos, fundamentos e passos essenciais para a construção de currículos, em paralelo ao contexto das Diretrizes Curriculares Nacionais. No planejamento e na organização dos currículos, é destacada a relevância do comprometimento do professor, aluno e equipe; do emprego de estratégias apropriadas no processo de ensino-aprendizagem e dos instrumentos de avaliação que possam contribuir para a revisão e melhorias do currículo proposto.</dc:description>
+          <dc:description xml:lang="en-US">In this review we present the concepts and the basic principles for curriculum design in health professions education (HPE), and present some curriculum design models as well as the essential steps for those who are facing this challenge. All the discussion brings the perspective of National Curriculum Guidelines for HPE in Brazil. It is highlighted the importance of the stakeholders’ engagement in this process and the correct use of appropriate strategies of teaching-learning, students’ assessment tools that can contribute to the implementation/review and improvement of curriculum in HPE courses.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86615</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p272-279</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 272-279</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 272-279</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 272-279</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86615/89545</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86616</identifier>
+        <datestamp>2020-06-25T16:04:47Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Educational planning</dc:title>
+          <dc:title xml:lang="pt-BR">Planejamento educacional</dc:title>
+          <dc:creator>Reis, Francisco José Candido dos</dc:creator>
+          <dc:creator>Panúncio-Pinto, Maria Paula</dc:creator>
+          <dc:creator>Vieira, Marta Neves Campanelli Marçal</dc:creator>
+          <dc:subject xml:lang="en-US">Educational Planning</dc:subject>
+          <dc:subject xml:lang="en-US">Curricular Organization</dc:subject>
+          <dc:subject xml:lang="en-US">Learning Plan</dc:subject>
+          <dc:subject xml:lang="pt-BR">Planejamento Ensino-Aprendizagem</dc:subject>
+          <dc:subject xml:lang="pt-BR">Organização Curricular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Plano De Aprendizagem</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo deste artigo é discutir aspectos políticos e pedagógicos do planejamento educacional no contexto da universidade contemporânea. Nesse sentido, o texto aborda os princípios e a importância do planejamento educacional, o lugar e a definição de projeto político pedagógico, da organização curricular e do plano de aprendizagem como aspectos constituintes e integrados do planejamento. A compreensão das etapas apresentadas e da necessária integração entre todos os componentes do planejamento e desses no contexto social concreto é fundamental para todos os que desejam exercer a docência na área da saúde.</dc:description>
+          <dc:description xml:lang="en-US">The purpose of this article is to discuss political and pedagogical aspects of educational planning in the context of the contemporary university. In this direction, the text addresses the principles and the importance of educational planning, the position and definition of political-pedagogic project, curricular organization and learning plan as integrated constituents features of educational planning. Understanding the steps presented and the necessary integration between all these components of the planning and the concrete social context is essential for all who wish to pursue teaching in healthcare field.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86616</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p280-283</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 280-283</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 280-283</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 280-283</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86616/89546</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86617</identifier>
+        <datestamp>2020-06-25T16:04:46Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">New approaches to traditional learning – general aspects</dc:title>
+          <dc:title xml:lang="pt-BR">Estratégias inovadoras para métodos de ensino tradicionais – aspectos gerais</dc:title>
+          <dc:creator>Souza, Cacilda da Silva</dc:creator>
+          <dc:creator>Iglesias, Alessandro Giraldes</dc:creator>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Metodologias de Ensino-aprendizagem</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estratégias inovadoras</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Superior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação em saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Teaching-learning methodologies</dc:subject>
+          <dc:subject xml:lang="en-US">Innovative strategies</dc:subject>
+          <dc:subject xml:lang="en-US">Higher Educational</dc:subject>
+          <dc:subject xml:lang="en-US">Health education.</dc:subject>
+          <dc:description xml:lang="en-US">New challenges are needed in today’s educational settings and highly complex university curricula. To meet the social demands, changes in health professional education and new ways of working with knowledge of the educational institutions were required. In this article will be discussed: the advancement in different spheres, characteristics and barriers to break with the traditional structure and implementation of innovative teaching methodologies and learning. The institutional, the teacher and the student perspectives of this process will be discussed.</dc:description>
+          <dc:description xml:lang="pt-BR">Novos desafios se impõem nos cenários atuais da educação e currículos universitários altamente complexos. Para atender as demandas sociais, transformações na educação de profissionais de saúde e novas formas de trabalhar com o conhecimento foram exigidas do aparelho formador. Nesse artigo serão discutidos: o avanço em diferentes âmbitos, as características e obstáculos para a ruptura com a estrutura tradicional e a implantação de metodologias de ensino-aprendizagem inovadoras, sob a perspectiva institucional, do docente e do aluno.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86617</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p284-292</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 284-292</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 284-292</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 284-292</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86617/89547</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86618</identifier>
+        <datestamp>2020-06-25T16:04:46Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Aprendizagem baseada em equipes: da teoria à prática</dc:title>
+          <dc:title xml:lang="en-US">Team-based learning: from theory to practice</dc:title>
+          <dc:creator>Bollela, Valdes Roberto</dc:creator>
+          <dc:creator>Senger, Maria Helena</dc:creator>
+          <dc:creator>Tourinho, Francis Solange Vieira</dc:creator>
+          <dc:creator>Amaral, Eliana</dc:creator>
+          <dc:subject xml:lang="en-US">Team-based Learning</dc:subject>
+          <dc:subject xml:lang="en-US">Educational Methods</dc:subject>
+          <dc:subject xml:lang="en-US">Medical Education</dc:subject>
+          <dc:subject xml:lang="en-US">Health Professions Education</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aprendizagem Baseada em Equipes</dc:subject>
+          <dc:subject xml:lang="pt-BR">Métodos Educacionais</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação nas Profissões da Saúde.</dc:subject>
+          <dc:description xml:lang="pt-BR">Professores que desejam utilizar a aprendizagem baseada em equipes (ABE) do inglês team-based learning (TBL) precisam compreender os princípios fundamentais envolvidos na aplicação desta estratégia educacional e a seqüência de eventos necessária para sua implantação efetiva. O objetivo deste artigo é auxiliar o leitor na compreensão do potencial desta estratégia educacional, incluindo sua capacidade de promover a aprendizagem significativa. Existem quatro princípios fundamentais para o uso eficaz do TBL, que serão descritos, assim como o passo-a-passo para quem deseja organizar um curso inteiro ou algumas atividades (aulas), utilizando a aprendizagem baseada em equipes. Ao final, apresentamos os principais atrativos e os desafios para aqueles que desejam incorporar o TBL à sua prática de ensino/aprendizagem.</dc:description>
+          <dc:description xml:lang="en-US">Those faculty who want to use Team-based learning in their classes need to understand the basic principles behind this educational strategy and the required steps that should be followed to achieve an effective implementation. The aim of this article is offer a comprehensive view on TBL’s potential as an educational tool, including the expected outcome of students’ meaningful learning and developmental teamwork. The four principles and a step-by-step process to design and deliver a TBL will be described in details, if one wants to use it for a whole discipline or only for isolated insertions within a course. At the end, it will be expected that the reader understand the main strengthens and weaknesses and could able to do an informed decision making about incorporating TBL or not in their teaching practices.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86618</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p293-300</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 293-300</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 293-300</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 293-300</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86618/89548</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86619</identifier>
+        <datestamp>2020-06-25T16:04:45Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Problem-based learning</dc:title>
+          <dc:title xml:lang="pt-BR">Aprendizado baseado em problemas</dc:title>
+          <dc:creator>Borges, Marcos de Carvalho</dc:creator>
+          <dc:creator>Chachá, Silvana Gama Florencio</dc:creator>
+          <dc:creator>Quintana, Silvana Maria</dc:creator>
+          <dc:creator>Freitas, Luiz Carlos Conti de</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pequenos grupos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aprendizagem Baseada em Problemas</dc:subject>
+          <dc:subject xml:lang="en-US">Education</dc:subject>
+          <dc:subject xml:lang="en-US">Problem-Based Learning</dc:subject>
+          <dc:subject xml:lang="en-US">Active Learning</dc:subject>
+          <dc:description xml:lang="en-US">The Problem-Based Learning (PBL), introduced at McMaster University School of Medicine, Canada, in 1969, is a student-centered pedagogical approach based on critical thinking and problem solving. In order to solve a problem, students use their prior knowledge, discuss, study, acquire and integrate new information. This learning integration, combined with a practical application, facilitates knowledge retention. Therefore, students become actively involved in the learning process and improve the capacity of learn how to learn. PBL has several advantages, such as, it stimulates the development of autonomy on learning; interdisciplinary; integration of knowledge and practice; development of teamwork, critical thinking and communication skills; and continuing education. However, to be able to implement PBL on curriculum, it’s necessary investments in human and material resources, including a well-structured training program for teachers and students.</dc:description>
+          <dc:description xml:lang="pt-BR">A Aprendizagem Baseada em Problemas (ABP), introduzida no ensino de Ciências da Saúde na McMaster University, Canadá, em 1969, é uma proposta pedagógica que consiste no ensino centrado no estudante e baseado na solução de problemas, reais ou simulados. Os alunos, para solucionar esse problema, recorrem aos conhecimentos prévios, discutem, estudam, adquirem e integram os novos conhecimentos. Essa integração, aliada à aplicação prática, facilita a retenção do conhecimento. Portanto, a ABP valoriza, além do conteúdo a ser aprendido, a forma como ocorre o aprendizado, reforçando o papel ativo do aluno neste processo, permitindo que ele aprenda como aprender. A ABP oferece diversas vantagens, como o desenvolvimento da autonomia, a interdisciplinaridade, a indissociabilidade entre teoria e prática, o desenvolvimento do raciocínio crítico e de habilidades de comunicação, e a educação permanente. Porém, para a sua utilização são necessários investimentos em recursos humanos e materiais, além de um programa de capacitação de professores e alunos bem estruturado, que devem sempre ser considerados antes de sua implementação.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86619</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p301-307</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 301-307</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 301-307</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 301-307</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86619/89549</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86620</identifier>
+        <datestamp>2020-06-25T16:04:44Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Facts and myths about teaching and learning in small groups</dc:title>
+          <dc:title xml:lang="pt-BR">Trabalho em pequenos grupos: dos mitos à realidade</dc:title>
+          <dc:creator>Costa, Manuel João</dc:creator>
+          <dc:subject xml:lang="pt-BR">Ensino em pequenos grupos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Superior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aprendizagem Baseada em Problemas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ensino.</dc:subject>
+          <dc:subject xml:lang="en-US">Learning</dc:subject>
+          <dc:subject xml:lang="en-US">Research/education</dc:subject>
+          <dc:subject xml:lang="en-US">Students</dc:subject>
+          <dc:subject xml:lang="en-US">Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical/methods</dc:subject>
+          <dc:subject xml:lang="en-US">Group Processes</dc:subject>
+          <dc:subject xml:lang="en-US">Teaching/methods.</dc:subject>
+          <dc:description xml:lang="pt-BR">O trabalho em pequenos grupos está presente em muitas agendas para a reforma da educação e tem vindo a transformar-se numa espécie de mito. De facto, é generalizada a crença na eficácia e na infalibilidade de organizar os alunos em grupos para atingir objetivos específicos ou para desenvolver certos tipos de atividades. Essa crença carece de sustentação empírica tendo mesmo sido batizada como “o romance das equipes”. É necessário e urgente entender o que caracteriza um grupo eficaz e quais as circunstâncias necessárias para garantir tal eficácia, de forma a evitar erros comuns em muitas reformas académicas. Por exemplo, é inadequado adotar de raíz o trabalho em pequenos grupos numa disciplina, usando os materiais, a organização das atividades letivas e a avaliação desenhada para um modelo tradicional da disciplina. A adoção de trabalho em pequenos grupos deve respeitar um conjunto de princípios essenciais e garantir as condições apropriadas para o transformação dos grupos em equipas eficazes. Este artigo apresenta uma revisão crítica e avaliação do uso de pequenos grupos na educação, identifica os fatores-chave no trabalho em grupo pequenos e discute o papel da aprendizagem em pequenos grupos no ensino superior. Para o efeito, percorre alguma da evidência decorrente de pesquisa sobre a eficácia do trabalho em pequenos grupos.</dc:description>
+          <dc:description xml:lang="en-US">Working in small groups is present in many agendas for education reform and has become a kind of myth. Indeed, there is a generalized belief in the efficacy and infallibility of organizing students into groups to achieve specific goals or to develop certain types of activities. Such belief lacks empirical support and has even been dubbed as “the romance of teams.” It is necessary and urgent to understand what characterizes an effective group and what the necessary conditions to ensure such effectiveness to avoid common mistakes in many academic reforms. For example, it is inappropriate to base a whole course on small group work, if the materials, the organization of activities and assessment program have been drawn for a traditional model of the discipline. The adoption of small group work requires that a set of core principles are met and also appropriate conditions for the development of groups into effective teams. This article presents a critical review and evaluation of the use of small groups in education, identifies the key factors in small group work and discusses the role of learning in small groups in higher education. To this end, the article builds on some of the evidence arising from research on the effectiveness of small group work.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86620</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p308-313</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 308-313</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 308-313</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 308-313</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86620/89550</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86684</identifier>
+        <datestamp>2020-06-25T16:04:43Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Student assessment – general aspects</dc:title>
+          <dc:title xml:lang="pt-BR">Avaliação do estudante – aspectos gerais</dc:title>
+          <dc:creator>Panúncio-Pinto, Maria Paula</dc:creator>
+          <dc:creator>Troncon, Luiz Ernesto de Almeida</dc:creator>
+          <dc:subject xml:lang="pt-BR">Avaliação educacional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudante</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação nas profissões da saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Assessment</dc:subject>
+          <dc:subject xml:lang="en-US">Evaluation</dc:subject>
+          <dc:subject xml:lang="en-US">Student</dc:subject>
+          <dc:subject xml:lang="en-US">Health Professions Education</dc:subject>
+          <dc:description xml:lang="en-US">Student assessment plays a central role in health professions education. Assessing means to obtain information that will assist decision-making. It is therefore important that assessment planning and execution take into account its multiple functions, including reinforcing learning (formative assessment). Student assessment should focus not only on knowledge learning but also on the acquisition of psychomotor and affective skills, as well as documenting student progress and development. Assessment planning should be oriented by learning objectives previously defined for each educational step, according to desired outcomes in terms of skills and competences. The choice of methods for assessment should be guided by “what” is intended to be assessed, and also by “why” the assessment is being carried out. Characteristics of methods that determine a good assessment include validity, reliability, feasibility, acceptability, educational impact and catalytic effect. In the current Brazilian educational scenario concerning the health professions education assessments are focused predominantly on cognitive aspects aiming at pass/fail decision-making (summative assessment), with some disregard for considering skills and attitudes and for formative assessment. Transforming and improving assessment procedures involve considering student needs and standpoints and fostering faculty development, which is the responsibility of different stakeholders, such as schools, health systems and regulatory bodies.</dc:description>
+          <dc:description xml:lang="pt-BR">A avaliação do estudante nas profissões da saúde desempenha um papel importante na sua formação. Avaliar significa obter informações que vão ajudar nas tomada de decisões. Assim, é necessário que o planejamento e a execução da avaliação considerem as suas múltiplas finalidades, entre as quais merece destaque a de reforçar o aprendizado (avaliação formativa). O foco da avaliação do estudante deve se concentrar não somente no conhecimento adquirido (habilidades cognitivas), mas também nos domínios psicomotor e afetivo. O planejamento de uma avaliação eficaz no cumprimento de suas funções, leva em conta os objetivos educacionais específicos de cada etapa da formação, de acordo com perfil final desejado de habilidades e competências. A escolha dos métodos deve se pautar no que se deseja avaliar e também nas finalidades da avaliação, considerando validade, fidedignidade, viabilidade, aceitabilidade, impacto educacional e efeito catalítico, como atributos indispensáveis a uma boa avaliação. No cenário atual brasileiro das profissões da saúde ainda prevalece o foco exclusivo na avaliação cognitiva, privilegiando a função somativa, em detrimento da formativa, referenciada por disciplinas e desconsiderando os aspectos afetivos e psicomotores de relevância à sua formação geral. A transformação deste cenário demanda considerar e privilegiar as perspectivas do estudante e capacitar os professores para a avaliação integrativa e transformadora, o que constitui atribuição das escolas, dos sistemas de saúde e dos órgãos reguladores da educação e das profissões.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86684</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p314-323</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 314-323</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 314-323</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 314-323</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86684/89705</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86685</identifier>
+        <datestamp>2020-06-25T16:04:42Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Formative assessment and feedback as learning tools in health professions education</dc:title>
+          <dc:title xml:lang="pt-BR">Avaliação formativa e feedback como ferramenta de aprendizado na formação de profissionais da saúde</dc:title>
+          <dc:creator>Borges, Marcos C.</dc:creator>
+          <dc:creator>Miranda, Carlos H.</dc:creator>
+          <dc:creator>Santana, Rodrigo C.</dc:creator>
+          <dc:creator>Bollela, Valdes R.</dc:creator>
+          <dc:subject xml:lang="en-US">Formative assessment</dc:subject>
+          <dc:subject xml:lang="en-US">Feedback</dc:subject>
+          <dc:subject xml:lang="en-US">Debriefing</dc:subject>
+          <dc:subject xml:lang="en-US">Medical education</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação formativa</dc:subject>
+          <dc:subject xml:lang="pt-BR">Feedback</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ensino médico</dc:subject>
+          <dc:description xml:lang="en-US">The different assessment forms are major elements of any teaching and learning process in educational programs, and should be considered as a core component to be planned and implemented in all curriculums, especially in the health professions education. A regular and qualified students’ assessment is closely related to competence and skills of the professionals that will be delivered to society. In this context, formative assessment and well-trained staff to provide effective and regular feedback are essentials in the formation of the future generation of health professionals. This article focuses primarily on formative assessment, feedback and debriefing.</dc:description>
+          <dc:description xml:lang="pt-BR">As diferentes formas de avaliação são elementos centrais do processo de ensino-aprendizagem de qualquer programa educacional, e devem ser bem planejadas e implementadas em todas as propostas curriculares, especialmente na formação de profissionais na área da saúde. Uma avaliação do estudante adequada e de qualidade guarda estreita relação com a competência e capacitação do profissional que será entregue à sociedade. Neste contexto, a avaliação formativa e a capacitação dos professores para prover feedback efetivo, frequente, e de qualidade são fundamentais na formação dos futuros profissionais da saúde. Este artigo faz uma revisão sobre avaliação formativa, feedback e debriefing.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86685</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p324-331</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 324-331</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 324-331</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 324-331</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86685/89706</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/86686</identifier>
+        <datestamp>2020-06-25T16:04:41Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Program evaluation on health professions education: basic concepts</dc:title>
+          <dc:title xml:lang="pt-BR">Avaliação de programas educacionais nas profissões da saúde: conceitos básicos</dc:title>
+          <dc:creator>Bollela, Valdes R.</dc:creator>
+          <dc:creator>Castro, Margaret</dc:creator>
+          <dc:subject xml:lang="pt-BR">Avaliação educacional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Escolas para profissionais da saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Garantia da qualidade dos cuidados em saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Segurança do paciente</dc:subject>
+          <dc:subject xml:lang="en-US">Educational assessment</dc:subject>
+          <dc:subject xml:lang="en-US">Curriculum</dc:subject>
+          <dc:subject xml:lang="en-US">Institutional evaluation</dc:subject>
+          <dc:subject xml:lang="en-US">Program evaluation</dc:subject>
+          <dc:subject xml:lang="en-US">Medical education</dc:subject>
+          <dc:subject xml:lang="en-US">Quality assurance</dc:subject>
+          <dc:subject xml:lang="en-US">Health care</dc:subject>
+          <dc:subject xml:lang="en-US">Patient safety</dc:subject>
+          <dc:description xml:lang="pt-BR">O conceito de avaliação de programas educacionais ainda é relativamente desconhecido de muitos professores e gestores do ensino superior e, muitas vezes, é confundido com avaliação de estudantes. Avaliação é uma das áreas que mais cresceu em importância nas últimas décadas; em parte pela pressão da sociedade e também pela necessidade de mecanismos estruturados e regulares de avaliação formal para o credenciamento e recredenciamento de cursos superiores na área da saúde. Este movimento no Brasil segue uma tendência mundial de busca de sistemas comuns de certificação e acreditação. O objetivo é garantir, tanto quanto possível, altos padrões de qualidade para programas que formam profissionais da saúde. Este artigo apresenta e discute conceitos básicos e modelos de avaliação de programas educacionais, que subsidiarão qualquer profissional da saúde/educação para compreender a essência desse tema tão amplo e desafiador.</dc:description>
+          <dc:description xml:lang="en-US">The concept of evaluation in programs of health profession education (HPE) is relatively unknown to many teachers and educational managers responsible for higher education. Often, it is misunderstood with students’ assessment. The importance of evaluation in the HPE has grown in recent decades due to the pressure of society but also because structured and formal mechanisms have been required for accreditation and re-accreditation of HPE courses. The growing interest in HPE in Brazil follows a global trend of certification and accreditation programs. The objective is to ensure high quality standards for graduate health professional programs. This article presents the basic concepts and models of evaluation in HPE programs that may be used for health/educational professionals in order to better understand the essence of this broad and challenging topic.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-11-03</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/86686</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i3p333-342</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 3 (2014); 333-342</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 3 (2014); 333-342</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 3 (2014); 333-342</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/86686/89832</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89577</identifier>
+        <datestamp>2020-06-25T16:04:40Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Artigos da revista Medicina (Ribeirão Preto) agora com Digital Object Identifier -DOI</dc:title>
+          <dc:title xml:lang="en-US">Articles of the journal Medicine (Ribeirão Preto) now with Digital Object Identifier -DOI</dc:title>
+          <dc:creator>Silva, Orlando de Castro e</dc:creator>
+          <dc:creator>Faria, Marlene Candida de</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89577</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p343-346</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 343-346</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 343-346</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 343-346</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89577/92399</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89579</identifier>
+        <datestamp>2020-06-25T16:04:40Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Epidemiological and spatial characteristics of the hanseniase, State of Maranhão, Brazil, 2001-2012</dc:title>
+          <dc:title xml:lang="pt-BR">Características epidemiológicas e espaciais da hanseníase no Estado do Maranhão, Brasil, 2001-2012</dc:title>
+          <dc:creator>Barbosa, Débora R.M.</dc:creator>
+          <dc:creator>Almeida, Manoel G.</dc:creator>
+          <dc:creator>Santos, Ariane G. dos</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hanseníase/epidemiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Distribuição Espacial da População</dc:subject>
+          <dc:subject xml:lang="pt-BR">Maranhão</dc:subject>
+          <dc:subject xml:lang="en-US">Leprosy/epidemiology</dc:subject>
+          <dc:subject xml:lang="en-US">Residence Characteristics</dc:subject>
+          <dc:subject xml:lang="en-US">Maranhão</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: Brazil is the second country in prevalence of leprosy in the world, a fact that rectifies the assertion it is important health problem in our country, being specific public policies to combat disease. Objective: To describe and analyze the spatial profile of leprosy cases reported in the state of Maranhão. Methods: a quantitative descriptive epidemiological study approach to time series, using data from the Epidemiological Surveillance System (EVS) for the new leprosy cases in the Maranhão residents between 2001 and 2012. They were analyzed using descriptive statistics, the Tabwin Microssoft 3.2 and Excel 2007 programs were used. Results: of the 54,719 new cases recorded, most were male (56.69 %), aged between 20 and 39 years (35.17%), brown (52.57%), with 4 years of study (43.33%). The most prevalent clinical form and operating class were multibacillary borderline and, respectively, the latter more frequent in males. The highest prevalence was found in St Louis (13.65%) and the highest detection rate was recorded in the municipality of Junco do Maranhão (23.27casos/10.000hab.). Conclusion: the study showed significant changes in the profile of the disease in the state over the years, reducing the absolute number of cases in some regions and endemic or hyperendemic standards in almost every state. The knowledge of spatial characteristics of the epidemiology of the disease enables the analysis of peculiarities and possible points of intervention, enhancing structural reforms with the potential to interfere with the epidemiological situation in the region.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: o Brasil é o segundo país em prevalência de hanseníase no mundo, fato que retifica a assertiva de se tratar de importante problema de saúde em nosso meio, cabendo políticas públicas específicas de combate à enfermidade. Objetivo: descrever e analisar espacialmente o perfil dos casos de hanseníase notificados no Estado do Maranhão. Métodos: estudo epidemiológico quantitativo de abordagem descritiva, de série histórica, através de dados do Sistema de Vigilância Epidemiológico (SVE) referentes aos casos novos de hanseníase em residentes no Maranhão, entre 2001 e 2012. A análise se deu através de estatística descritiva, tendo sido utilizados os programas Tabwin 3.2 e Microssoft Excel 2007. Resultados: dos 54.719 casos novos registrados, a maior parte era do sexo masculino (56,69%), com idade entre 20 e 39 anos (35,17%), pardos (52,57%), com até 4 anos de estudo (43,33%). A forma clínica e classe operacional mais prevalentes foram a dimorfa e multibacilar, respectivamente, esta última mais frequente no sexo masculino. A maior prevalência foi encontrada em São Luís (13,65%) e o maior Coeficiente de Detecção foi registrado no município de Junco do Maranhão (23,27casos/10.000hab.). Conclusão: o estudo demonstrou mudanças significativas no perfil da doença no Estado no decorrer dos anos, com redução do número absoluto de casos em algumas regiões e padrões endêmicos ou hiperendêmicos em quase todo o Estado. O conhecimento das características espaciais da epidemiologia da doença possibilita a análise de suas peculiaridades e possíveis pontos de intervenção, potencializando reformas estruturantes com potencial de interferir no quadro epidemiológico da região.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89579</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p347-356</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 347-356</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 347-356</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 347-356</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89579/92400</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89580</identifier>
+        <datestamp>2020-06-25T16:04:39Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Teaching bioethics in undergraduate of health professionals</dc:title>
+          <dc:title xml:lang="pt-BR">O Ensino da bioética na graduação do profissional de saúde</dc:title>
+          <dc:creator>Paiva, Letícia M.</dc:creator>
+          <dc:creator>Guilhem, Dirce</dc:creator>
+          <dc:creator>Sousa, Ana Luiza L.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Bioética</dc:subject>
+          <dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ensino</dc:subject>
+          <dc:subject xml:lang="pt-BR">Instituições Acadêmicas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tomada De Decisões</dc:subject>
+          <dc:subject xml:lang="en-US">Bioethics</dc:subject>
+          <dc:subject xml:lang="en-US">Curriculum</dc:subject>
+          <dc:subject xml:lang="en-US">Teaching</dc:subject>
+          <dc:subject xml:lang="en-US">Schools</dc:subject>
+          <dc:subject xml:lang="en-US">Decision Making</dc:subject>
+          <dc:description xml:lang="en-US">Study Design: Sistematic Review of literature. Aims: To know the scientific production that explore on the teaching of Bioethics in the teaching learning for health professionals. Methodology: Exploratory study to identify article on the teaching of bioethics in undergraduate health professional, published from 2005 to July 2013, published in Portuguese, English and Spanish languages. Results: 38 articles had been selected, with the biggest publication number in 2009, in the area of medicine, with a predominance of original/empirical articles (50%). The majority of selected articles pointed out the teaching of bioethics for undergraduate courses in the health area (n = 14; 36.84%). Conclusion: In accordance with the results obtained by this research, it was found an agreement between authors related to the importance to introduce the discipline Bioethics in the curriculum matrix for the undergraduate courses on the health area.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Revisão sistemática da literatura. Objetivo: Conhecer a produção científica que explora sobre o ensino da Bioética no processo ensino-aprendizagem dos profissionais de saúde. Metodologia: Estudo exploratório que identificou artigos sobre o ensino da Bioética na graduação do profissional de saúde, publicados no período de 2005 a julho de 2013, publicados nas línguas português, inglês e espanhol. Resultados: Foram selecionados 38 artigos, com o maior número de publicações em 2009, na área de medicina, com predomínio de artigo original/empírico (50%). A maioria dos artigos encontrados abrangeu o ensino da Bioética na graduação (n = 14; 36,84%). Conclusão: De acordo com os resultados obtidos na presente pesquisa, há uma unanimidade entre os autores quanto a importância da introdução da disciplina de Bioética nas matrizes curriculares dos cursos de graduação em saúde.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89580</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p357-369</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 357-369</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 357-369</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 357-369</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89580/92401</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89581</identifier>
+        <datestamp>2020-06-25T16:04:38Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Ion Channels in Epilepsy</dc:title>
+          <dc:title xml:lang="pt-BR">Canais Iônicos na Epilepsia</dc:title>
+          <dc:creator>Silva, Alysson S. da</dc:creator>
+          <dc:creator>Souza, Iara L. L. de</dc:creator>
+          <dc:creator>Silva, Bagnólia A. da</dc:creator>
+          <dc:subject xml:lang="pt-BR">Crise Epiléptica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Canais Iônicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Canalopatias.</dc:subject>
+          <dc:subject xml:lang="en-US">Epileptic Seizure</dc:subject>
+          <dc:subject xml:lang="en-US">Ion Channels</dc:subject>
+          <dc:subject xml:lang="en-US">Channelopathies</dc:subject>
+          <dc:description xml:lang="pt-BR">Dados da Organização Mundial da Saúde apontaram uma prevalência mundial de epilepsia por volta de 50 milhões de pessoas. A crise epiléptica é um período de excitação síncrona anormal de uma população de neurônios. O balanço entre sistemas de controle que impedem uma descarga de potencial de ação excessiva nos neurônios e outros sistemas que facilitam a excitação mantém o bom funcionamento do sistema nervoso. Este trabalho teve como objetivo compilar informações sobre o envolvimento das canalopatias no processo fisiopatológico das crises epilépticas. Foi realizada uma revisão de literatura, através de pesquisas bibliográficas utilizando os bancos de dados Medline/PubMed, Scielo, Scirus, Wiley Online Library e Science Direct. Para tal finalidade, os descritores utilizados foram: epilepsia, crises epilépticas, canais iônicos, canalopatias e epidemiologia, em idiomas português e inglês. As investigações genéticas fizeram com que algumas síndromes epilépticas fossem consideradas canalopatias e, por conseguinte, aumentaram o entendimento da fisiopatologia dos transtonos convulsivos. Dada à incapacidade de cura dos fármacos disponíveis atualmente, o grande desafio para as pesquisas científicas é a descoberta de um tratamento capaz de prevenir ou reverter a epilepsia.</dc:description>
+          <dc:description xml:lang="en-US">Data from the World Health Organization indicated a worldwide prevalence of epilepsy of about 50 million people. An epileptic seizure is a period of abnormal synchronous excitation of a neuronal population. The balance between control systems that prevent neurons from an excessive action potential discharge and other systems that facilitate excitation maintains the proper functioning of the central nervous system. This study aimed to collect information on role of channelopathies in the pathophysiological processess of epileptic seizures, along with considerations about antiepileptic therapy targeting ion channels. We performed a bibliographic review, using the databases Medline/PubMed, Scielo, Scirus, Wiley Online Library and Science Direct. The keywors used were: epilepsy, epileptic seizures, ion channels, channelopathies, antiepileptic drugs and epidemiology, in both Portuguese and English. Some epileptic syndromes were considered channelopathies after genetic investigations and therefore increased the understanding of the pathophysiology convulsive disorders. Given the inability to cure with currently available antiepileptic drugs, the major challenge for scientific research is the discovery of a treatment capable of prevent or reverse epilepsy.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89581</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p370-376</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 370-376</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 370-376</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 370-376</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89581/92402</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89583</identifier>
+        <datestamp>2020-06-25T16:04:37Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Exercício físico e desempenho cognitivo em idosos: revisão sistemática</dc:title>
+          <dc:title xml:lang="en-US">Exercise and cognitive performance in older adults: a systematic review</dc:title>
+          <dc:creator>Guimarães, Alexsander V.</dc:creator>
+          <dc:creator>Rocha, Saulo V.</dc:creator>
+          <dc:creator>Barbosa, Aline R.</dc:creator>
+          <dc:subject xml:lang="en-US">Aging</dc:subject>
+          <dc:subject xml:lang="en-US">Cognition</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Activity</dc:subject>
+          <dc:subject xml:lang="en-US">Older Adults</dc:subject>
+          <dc:subject xml:lang="pt-BR">Envelhecimento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cognição</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atividade Motora</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idosos</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: A proposta do estudo foi realizar uma revisão sistemática de estudos que verificaram o efeito do exercício físico no desempenho cognitivo de indivíduos idosos, sem comprometimento cognitivo. Métodos: Foram pesquisados estudos publicados entre janeiro de 2008 e outubro de 2013, nas seguintes bases de dados: Pubmed/Medline, SportDiscus, Scopus, PsycInfo, Scielo, Lilacs, com os termos exercise, physical activity combinados com cognition, performance cognitive, cognitive function e elderly. A estratégia de pesquisa foi limitada a estudos clínicos controlados randomizados, que descreveram, especialmente, a intensidade, duração e frequência dos exercícios. Resultados: Foram encontrados 562 artigos nas bases de dados, 83 foram selecionados para leitura do resumo, 36 para leitura completa e nove estudos preencheram os critérios de inclusão adotados. Os resultados apontam que a realização de exercícios físicos, aeróbios (ao menos 30 minutos, três vezes por semana, mínimo 12 semanas) ou contra resistência (mínimo uma vez por semana, por 12 semanas), podem ter efeitos positivos no desempenho cognitivo de idosos. Conclusão: Exercícios aeróbios e contra resistência pode representar uma terapia não medicamentosa que pode melhorar o desempenho cognitivo de idosos.</dc:description>
+          <dc:description xml:lang="en-US">Objective: The purpose of present study was to conduct a systematic review of reports on the effect of exercise on the cognitive performance of older adults without cognitive impairment. Methods: Reports published between January 2008 and October 2013 in PubMed/Medline, SPORTDiscus, Scopus, PsycINFO, SciELO, and LILACS, containing the terms exercise, and physical activity combined with cognition, cognitive performance, cognitive function, and elderly were reviewed. The search strategy was limited to randomized controlled clinical studies, describing specifically the intensity, duration, and frequency of exercises. Results: Five hundred and sixty two reports were identified, of which 83 were subjected to abstract reading, 36 for complete reading, and nine met the inclusion criteria. The results indicate that aerobic (&amp;gt; 30 min, three times a week, minimum of 12 weeks) or resistance (minimum once a week for 12 weeks) exercises imparted positive effects on the cognitive performance among the elderly. Conclusion: Aerobic and resistance exercises are non-drug approaches that can improve cognitive performance in the older adults.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89583</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p377-386</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 377-386</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 377-386</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 377-386</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89583/92403</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89586</identifier>
+        <datestamp>2020-06-25T16:04:36Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Relationship between body fat, number of steps and cardiorespiratory fitness in postmenopausal women</dc:title>
+          <dc:title xml:lang="pt-BR">Relação entre gordura corporal, número de passos e capacidade cardiorrespiratória de mulheres na pós-menopausa</dc:title>
+          <dc:creator>Rossi, Fabrício E.</dc:creator>
+          <dc:creator>Buonani, Camila</dc:creator>
+          <dc:creator>Rosa, Clara S. C.</dc:creator>
+          <dc:creator>Diniz, Tiego A.</dc:creator>
+          <dc:creator>Christofaro, Diego G. D.</dc:creator>
+          <dc:creator>Freitas Junior, Ismael F.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Obesidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Acelerometria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atividade Física</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pós-Menopausa</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity</dc:subject>
+          <dc:subject xml:lang="en-US">Accelerometry</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Activity</dc:subject>
+          <dc:subject xml:lang="en-US">Postmenopause</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo Transversal. Objetivos: Verificar a relação entre gordura corporal, número de passos e capacidade cardiorrespiratória em mulheres na pós-menopausa. Métodos: 57 mulheres acima dos 50 anos foram divididas em quatro grupos de acordo com a mediana da faixa etária (&amp;lt; 60,8 ≥ 60,8 anos) e gordura corporal (&amp;lt;22,8 ≥ 33,2 Kg). Para estimativa da gordura corporal total, percentual de gordura e gordura de tronco, foi utilizado o DEXA. O teste de caminhada de seis minutos foi utilizado para analisar a capacidade cardiorrespiratória, e o número de passos por dia foi obtido por meio do acelerômetro tri-axial. Resultados: As mulheres jovens acumularam mais passos por dia (&amp;lt;60,8=7727,5 x ≥ 60,8=6173,2; p&amp;lt;0,014) e as mulheres mais jovens com menor gordura corporal foram as que acumularam mais passos/ dia (menor gordura = 8405 passos x alta gordura= 6118 passos; p&amp;lt;0,031), não diferindo nas mulheres com maior idade e maior gordura. Quanto à capacidade cardiorrespiratória, não houve diferença significativa entre os grupos. Todas as variáveis de gordura corporal apresentaram relação baixa e negativa com o número de passos no grupo mais jovem e com a capacidade cardiorrespiratória no grupo com idade mais avançada. Conclusão: A gordura corporal apresenta relação baixa e negativa com o número de passos e a capacidade cardiorrespiratória de mulheres na pós-menopausa, além disso, a idade parece influenciar nessa relação.</dc:description>
+          <dc:description xml:lang="en-US">Model of the study: Cross-sectional study. Objective: To verify the relationship between body fat, number&#160;of steps and cardiorespiratory fitness in postmenopausal women. Methods: 57 women over 50 years&#160;were divided into four groups according to the median of age (&amp;lt;60.8 and ≥ 60.8 years) and median of body&#160;fat (&amp;lt;22.8 ≥ 33.2 Kg). The dual-energy X-ray absorptiometry (DXA) was used to estimate total fat mass,&#160;percentage of body fat and trunk fat. The test of six-minute walk was used to analyze the cardiorespiratoryfitness and a tri-axial accelerometer to determinate the number of steps per day. Results: Younger women&#160;accumulated more steps per day (&amp;lt;60.8= 7727.5 x ≥ 60.8= 6173.2, p &amp;lt;0.014) and among the younger&#160;women group, the one with lower body fat accumulated more steps/day (lower fat = 8405 steps x higher&#160;fat= 6118 steps, p &amp;lt;0.031). There was no significant difference between women with higher age and&#160;higher body fat. Regarding to the cardiorespiratory fitness, there was no significant difference between&#160;the groups. All variables of body fat presented low and negative relationship with both number of steps inthe younger group and cardiorespiratory fitness in older age group. Conclusion: Body fat present low and&#160;negative correlation with the number of steps and cardiorespiratory fitness in postmenopausal women,&#160;furthermore, the age seems to influence this relationship.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89586</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p387-393</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 387-393</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 387-393</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 387-393</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89586/92404</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89592</identifier>
+        <datestamp>2020-06-25T16:04:35Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Surgical treatment of stress urinary incontinence with a Mini Sling (OPHIRA™) – a pilot study</dc:title>
+          <dc:title xml:lang="pt-BR">Tratamento cirúrgico da Incontinência Urinária de Esforço com o minisling OPHIRA – um estudo piloto</dc:title>
+          <dc:creator>Marra, Joana Espagiari</dc:creator>
+          <dc:creator>Mendes, Guilherme P.</dc:creator>
+          <dc:creator>Moroni, Rafael M.</dc:creator>
+          <dc:creator>Magnani, Pedro S.</dc:creator>
+          <dc:creator>Rodrigues, Heitor L. P.</dc:creator>
+          <dc:creator>Reis, Francisco Jose Candido dos</dc:creator>
+          <dc:creator>Brito, Luiz Gustavo O.</dc:creator>
+          <dc:subject xml:lang="en-US">Mini Sling</dc:subject>
+          <dc:subject xml:lang="en-US">Urinary Incontinence</dc:subject>
+          <dc:subject xml:lang="en-US">Stress</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life</dc:subject>
+          <dc:subject xml:lang="en-US">Kings Health Questionnaire.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Mini Sling</dc:subject>
+          <dc:subject xml:lang="pt-BR">Incontinência Urinária de Esforço</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:subject xml:lang="pt-BR">Kings Health Questionnaire.</dc:subject>
+          <dc:description xml:lang="pt-BR">Desenho do estudo: Transversal. Objetivos: Avaliar a eficácia do minisling Ophyra ™ em mulheres com incontinência urinária de esforço (IUE). Métodos: Estudo prospectivo, observacional, que abrangeu 13 pacientes que realizaram cirurgia de minisling entre 2010 e 2011. As seguintes variáveis foram analisadas: idade, taxa subjetiva de sucesso (cura e /ou melhora), complicações cirúrgicas imediatas e tardias. Os parâmetros de qualidade de vida (King’s Health Questionnaire - KHQ) foram analisados antes e depois de um ano de cirurgia. Resultados: Treze (3/13) por cento das mulheres recidivaram a IUE, com 87,5% de sucesso subjetivo depois de um ano de seguimento. Depois de 12 meses de seguimento, as mulheres foram consideradas subjetivamente curadas em todos os domínios dos questionários de qualidade de vida KHQ, exceto por relações pessoais e domínio de sono/energia. Quatro pacientes tiveram sintomas irritativos depois da cirurgia e duas pacientes com retenção urinária crônica. Conclusão: O minisling Ophira foi efetivo para melhorar a IUE e promover melhor qualidade de vida em mulheres com IUE. Maior amostragem é necessária para posteriormente comparar essas pacientes com mulheres que foram submetidas a técnicas retropúbicas clássicas.</dc:description>
+          <dc:description xml:lang="en-US">Design of the study: Cross-sectional. Objectives: To evaluate the efficacy of minisling (Ophyra ™) in women with stress urinary incontinence (SUI). Methods: A prospective, observational study comprised 13 patients who underwent minisling surgery from 2010 to 2011. It was analyzed the following variables: age, subjective success rate (cure and/or improvement), immediate and late surgical complications. Quality of life (QoL) parameters (King’s Health Questionnaire - KHQ) were analyzed before and after one year of surgery. Results: Thirteen per cent (3/13) of women had their SUI relapsed, with 87.5% of subjective success after one year of follow-up. After 12 months of follow-up, women who were considered subjectively cured had improvement in all domains of KHQ QoL scores, except for personal relationships and sleep/energy domains. Four patients had irritative symptoms after surgery and two patients evolved with chronic urinary retention. Conclusion: Minisling Ophira was effective to improve SUI and to promote better QoL on women with SUI. A larger sampling is needed to further compare these patients with women who underwent to classic retropubic techniques.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89592</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p394-398</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 394-398</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 394-398</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 394-398</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89592/92406</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89593</identifier>
+        <datestamp>2020-06-25T16:04:34Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Eating habits and risk of cardiovascular disease in college students</dc:title>
+          <dc:title xml:lang="pt-BR">Hábitos alimentares e risco de doenças cardiovasculares em universitários</dc:title>
+          <dc:creator>Oliveira, Gustavo A.</dc:creator>
+          <dc:creator>Oliveira, Samuel H.V.</dc:creator>
+          <dc:creator>Morais, Charles A.S.</dc:creator>
+          <dc:creator>Lima, Luciana M.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hábitos Alimentares</dc:subject>
+          <dc:subject xml:lang="pt-BR">Adulto Jovem</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Cardiovasculares</dc:subject>
+          <dc:subject xml:lang="en-US">Food Habits</dc:subject>
+          <dc:subject xml:lang="en-US">Young Adult</dc:subject>
+          <dc:subject xml:lang="en-US">Cardiovascular Diseases.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de estudo: Pesquisa descritiva, observacional, transversal. Objetivo: Descrever qualitativamente a frequência de ingestão de determinados alimentos, considerados de risco e de proteção para doenças cardiovasculares (DCV), além de determinar o Escore de Risco de Framingham (ERF) em indivíduos supostamente saudáveis, estudantes de graduação de uma universidade pública brasileira. Metodologia: Participaram 97 estudantes, 45 homens e 52 mulheres, na faixa etária de 18 a 25 anos. Após assinatura do Termo de Consentimento Livre e Esclarecido (TCLE), aprovado pelo Comitê de Ética em Pesquisa, os estudantes preencheram um questionário com os dados da pesquisa. Foram estudados alimentos classificados como de risco e de proteção, conforme sua composição química avaliada por tabelas de alimentos. O teste Qui-quadrado fui utilizado quando as frequências esperadas foram iguais ou superiores a 5. Para os demais parâmetros foi utilizado o teste exato de Fischer. Resultados: Entre os alimentos protetores destacou-se a ingestão diária de legumes (33%), verduras (22%) e frutas (17%) e entre os de risco estão a ingestão diária de café/chás com açúcar (39%), maionese/ margarina/manteiga (34%) e doces (14%). Houve variação de consumo conforme o sexo, para as frequências de 0,1, 2 e 4 vezes por semana para os alimentos: farinha de milho/mandioca, biscoito maisena/caseiro/água e sal, aveia, frango com pele. Houve variação significativa de consumo diário entre os sexos para os alimentos: frutas, doces, maionese/margarina/manteiga, biscoito maisena/caseiro/ água e sal. Conclusões: Este estudo demonstrou que os estudantes universitários apresentaram uma maior frequência diária de ingestão de alimentos considerados de proteção para DCV do que alimentos de risco. Em adição, o ERF calculado demonstrou baixo risco de desenvolvimento de DCV nos indivíduos avaliados.</dc:description>
+          <dc:description xml:lang="en-US">Study Design: Descriptive, observational, cross-sectional. Aims: The aims of this study were to qualitatively describe the frequency of eating certain foods, as risk and protective for cardiovascular disease (CVD), and determine the Framingham Risk Score (FRS) in supposedly healthy individuals, graduate students from a Brazilian public university. Methodology: Participants were 97 students, 45 males and 52 females, 18-25 years. After signing the consent form, approved by the Ethics Committee on Research, students completed a questionnaire survey data. We studied food classified as risk and protection, as assessed by its chemical composition tables. The Chi-square test was used when the expected frequencies greater than or equal to 5. For other parameters we used the Fisher exact test. Results: Among the foods considered protective stood out the daily intake of vegetables (33%), greens (22%) and fruit (17%). Among the foods considered at risk are the daily intake of coffee / tea with sugar (39%), mayonnaise / margarine / butter (34%) and sweets (14%). There was variation in consumption according to sex, for the frequencies of 0, 1, 2 and 4 times a week for food: corn flour / cassava, cornstarch cookie /homemade cookie / water and salt cookie, oats, chicken with skin. There was significant variation in daily consumption between the sexes for food: fruit, sweets, mayonnaise / margarine / butter, cornstarch cookie / homemade cookie / water and salt cookie. Conclusion: This study showed that college students presented higher frequency of daily intake of foods considered protective for CVD than risk food. In addition, the calculated FRS demonstrated low risk of developing CVD in studied individuals.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89593</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p399-405</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 399-405</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 399-405</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 399-405</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89593/92407</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89594</identifier>
+        <datestamp>2020-06-25T16:04:33Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Conjugal violence, alcohol use and mental suffering of male users of a primary care unity</dc:title>
+          <dc:title xml:lang="pt-BR">Violência conjugal, uso de álcool e sofrimento mental em homens atendidos na atenção primária</dc:title>
+          <dc:creator>Wagner, Luciane Carniel</dc:creator>
+          <dc:creator>Krug, Juliana Cordeiro</dc:creator>
+          <dc:creator>Koeche, Flávia</dc:creator>
+          <dc:subject xml:lang="en-US">Marital Conflict</dc:subject>
+          <dc:subject xml:lang="en-US">Mental Suffering</dc:subject>
+          <dc:subject xml:lang="en-US">Alcohol Abuse</dc:subject>
+          <dc:subject xml:lang="pt-BR">Conflito Conjugal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sofrimento Mental</dc:subject>
+          <dc:subject xml:lang="pt-BR">Abuso de Álcool</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo quantitativo, descritivo, transversal, de caráter observacional. Introdução: A violência conjugal é um grave problema de saúde pública, freqüentemente associada ao consumo de álcool, trazendo conseqüências adversas à saúde mental e física das famílias. Seu manejo tem sido um desafio para as políticas sociais, especialmente por causa do medo e do silêncio das vítimas. Em função disso, é bastante interessante a utilização de avaliações de estratégias de resolução de conflito que permitam dimensionar indiretamente (e sutilmente) a violência presente no cotidiano conjugal. Objetivo: Identificar a prevalência de violência conjugal, abuso de álcool e sofrimento mental em homens atendidos (por motivos diversos) em uma unidade básica de saúde de um bairro socialmente carente da periferia de Porto Alegre. Metodologia: Foram avaliados 109 homens, escolhidos ao acaso, utilizando-se como instrumentos de pesquisa a Escala de Avaliação de Táticas de Resolução de Conflitos Conjugais; o CAGE, que acessa o abuso atual e passado de álcool; e o Questionário Geral de Saúde (QSG), que identifica sofrimento mental. Resultados: Os 109 participantes tinham idade média de 39±12,8 anos; 59,6% eram brancos; 75,2% tinham companheira estável; predomínio de baixa escolaridade; 65,1% exerciam alguma atividade laboral; 80,7% com renda média mensal de três salários mínimos ou menos. No que tange às táticas de resolução de conflitos conjugais, 24,8% foram agressivos fisicamente e 84,4% verbalmente ao menos uma vez no ano anterior à pesquisa. Sofrimento mental considerável foi diagnosticado em 49,5% dos entrevistados. Com relação ao uso de álcool, 22,9% responderam afirmativamente para abuso e dependência e outros 24,7% apresentaram risco de abuso e dependência. Conclusões: O estudo aponta para uma elevada prevalência de comportamento conjugal violento, consumo de álcool e sofrimento mental entre os sujeitos avaliados. Estes sujeitos tinham demandas diversas e não necessariamente buscaram o serviço para resolver estes problemas. Os serviços de saúde devem ficar atentos, promovendo estratégias de identificação indiretas, além de medidas de prevenção, que visem combater a violência conjugal e suas conseqüências.</dc:description>
+          <dc:description xml:lang="en-US">Study model: Quantitative, descriptive and transversal study. Introduction: Conjugal violence is a serious public health issue that is frequently associated with the consumption of alcohol, creating adverse consequences for the mental and physical health of families. Handling this issue has been a challenge for social policy, especially due to the fear and silence of the victims. Therefore, it is very interesting to evaluate conflict resolution strategies that can indirectly (and subtly) affect violence that occurs in day-today married life. Objective: To identify the prevalence of conjugal violence, alcohol abuse, and mental suffering in men given care (for several reasons) in a basic health clinic located in a vulnerable neighborhood in the outskirts of Porto Alegre. Methodology: 109 men were evaluated, chosen at random, using research tools such as the The Conflict Tactic Scale; the CAGE questionnaire that evaluated current and past alcohol abuse; and the General Health Questionnaire (GHQ), that identifies mental suffering. Results: The 109 participants were, on average, 39±12.8 years old; 59.6% were white; 75.2% had partner; mostly of low education level; 65.1% exercised manual labor; 80.7% had an average monthly income of three minimum wages or less. In regard to the conjugal conflict resolution tactics, 24.8% were physically aggressive, and 84.4% were verbally aggressive at least once in the year prior to the research. Considerable mental suffering was diagnosed in 49.5% of those interviewed. In relation to alcohol use, 22.9% responded in the affirmative to abuse and dependence and another 24.7% showed risk of abuse and dependency. Conclusions: The study points to a high prevalence of violent conjugal behavior, alcohol consumption and mental suffering among the evaluated subjects. These subjects had various demands and did not necessarily seek the service to resolve these problems. The health services should be aware and promote indirect identification strategies, as well as prevention measures, that seek to combat conjugal violence and its consequences.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89594</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p406-415</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 406-415</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 406-415</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 406-415</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89594/92408</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89595</identifier>
+        <datestamp>2020-06-25T16:04:32Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Factors associated with unfavorable outcomes following mild pediatric head injuries in a reference center of the north region of Minas Gerais</dc:title>
+          <dc:title xml:lang="pt-BR">Fatores associados a desfechos desfavoráveis após trauma craniano leve pediátrico em um centro de referência da região norte de Minas Gerais</dc:title>
+          <dc:creator>Poswar, Fabiano O.</dc:creator>
+          <dc:creator>Gonçalves, Caroline R.</dc:creator>
+          <dc:creator>Rebouças, Bruno H.</dc:creator>
+          <dc:creator>Souza, Samuel B.F. de</dc:creator>
+          <dc:creator>Rodrigues, Lázaro Inácio A.</dc:creator>
+          <dc:creator>Fonseca Neto, Paulino C.</dc:creator>
+          <dc:creator>Diniz, Ana Júlia B.</dc:creator>
+          <dc:creator>Rocha, Júlia Thalita Q.</dc:creator>
+          <dc:creator>Barros, Laura O.</dc:creator>
+          <dc:creator>Santos, José Flávio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Traumatismos encefálicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Criança</dc:subject>
+          <dc:subject xml:lang="pt-BR">Traumatismos craniocerebrais</dc:subject>
+          <dc:subject xml:lang="en-US">Brain Injuries</dc:subject>
+          <dc:subject xml:lang="en-US">Child</dc:subject>
+          <dc:subject xml:lang="en-US">Craniocerebral Trauma</dc:subject>
+          <dc:description xml:lang="en-US">Study Design: Prospective cohort. Objective: To describe clinical and demographic characteristics of a sample of children with HI referred for acute care in a referral center of the north region of Minas Gerais, Brazil, and assess clinical and radiological markers associated with unfavorable outcomes. Methodology: All children between the ages 0 to 14 years referred with head injury from February to September 2011 were included in this study. Socio-demographic and clinical data were collected at the moment of the initial assessment under informed consent. The patients were also reassessed via telephone calls after 7 and 91 days. Results: A total of 77 patients were included in this study. The mean age was 3.9 years with a standard deviation of 3.76 years. Falls and bicycle collisions were the main mechanisms of trauma. The most relevant clinical marker associated with unfavorable outcomes at 7 days was the parental perception of unusual behavior (Odds Ratio = 11.33; 95% confidence interval: 1.38-93.13; p = 0.02). Computer tomography scan abnormalities were associated with both unfavorable outcomes at 7 days (p=0.03) and at 91 days (p=0.02). Conclusions: The peculiar aspects of head injuries in a Brazilian population were described in this study. It was also found that unusual behavior and abnormalities on CT scan are factors that predict unfavorable outcomes in children with mild HI in this population.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: Coorte prospectivo. Objetivo do Estudo: Descrever características clínicas e demográficas de uma amostra de crianças encaminhadas por traumatismo craniano em um centro de referência na região norte de Minas Gerais e avaliar marcadores clínicos e radiológicos associados a desfechos desfavoráveis. Metodologia: Foram incluídas neste estudo todas as crianças entre 0 e 14 anos atendidas com traumatismo craniano de fevereiro a setembro de 2011. Dados sócio demográficos e clínicos foram coletados no momento da avaliação inicial sob consentimento informado. Os pacientes também foram reavaliados por telefone após 7 e 91 dias. Resultados: Um total de 77 pacientes foi incluído neste estudo. A idade média foi de 3,9 anos, com desvio padrão de 3,76 anos. Quedas e colisões de bicicleta foram os principais mecanismos de trauma. O marcador clínico mais relevante associado a desfechos desfavoráveis com 7 dias foi a percepção pelos pais de comportamento anormal (Odds Ratio = 11,3; intervalo de confiança de 95%: 1,38-93,13; p = 0,02). Alterações na Tomografia Computadorizada foram associadas tanto a desfechos desfavoráveis após 7 dias (p=0,03) como após 91 dias (p=0,02). Conclusões: Os aspectos peculiares do traumatismo craniano em uma população brasileira são descritos neste estudo. Encontrou-se, ainda, que um comportamento anormal e alterações na TC são fatores que predizem desfechos desfavoráveis em crianças com traumatismo craniano leve nessa população.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89595</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p416-421</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 416-421</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 416-421</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 416-421</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89595/92409</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:30Z" completeListSize="1467" cursor="900">5ebc537e1d58ff462aeb3c5bfa29d9f5</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:49:53Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102074</identifier>
+<datestamp>2020-07-31T22:32:59Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970821 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeitos do treinamento físico específico nas respostas cardiorrespiratórias e metabólicas em repouso e no exercício máximo em jogadores de futebol profissional</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Romano, Angela</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Yazbek Junior, Paulo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina/USP</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O objetivo deste estudo foi analisar as alterações provocadas pelo treinamento físico específico (TFE) nas respostas cardiorrespiratórias e metabólicas de 16 jogadores de futebol profissional, com média de idade de 24,2 ± 3,6 anos. Todos os atletas foram avaliados antes e depois de quinze semanas de um programa de TFE, durante período competitivo. Os futebolistas foram submetidos a teste máximo em esteira rolante, utilizando-se o protocolo de Ellestad. A resposta de freqüência cardíaca (FC) foi registrada por meio de um eletrocardiógrafo de 3 derivações simultâneas e a pressão arterial (PA), por meio de método auscultatório. A ventilação pulmonar (VE), o consumo de oxigênio (VO2), a produção de dióxido de carbono (VCO2) e a razão de troca respiratória (RER) foram calculados a partir de valores medidos por um sistema espirométrico computadorizado (BECKMAN) e a capacidade anaeróbia máxima, por meio da concentração sanguínea de ácido lático, utilizando-se analisador automático. O TFE não modificou significativamente a FC máxima (192 ± 8 versus 186 ± 6 bpm) e a PA sistólica máxima (196 ± 10 versus 198 ± 8 mmHg). A resposta ventilatória máxima foi significativamente aumentada (129 ± 19 versus 140 ± 16 L .min-1 [p&lt; 0.05]), enquanto a capacidade aeróbia máxima não foi significativamente modificada (50,0 ± 6,0 vs 53,0 ± 5,0 ml.kg.-1min-1) por esse treinamento. Ao contrário, a capacidade anaeróbia máxima aumentou significativamente (8,3 ± 0,2 versus 9,8 ± 2,4 mmol. L-1 [p&lt; 0,05]). Concluiu-se: 1) O TFE não modificou as respostas de FC e PA no repouso e no exercício máximo; 2) A maior VE no exercício máximo associada a elevada concentração sanguínea de ácido lático demonstraram que o TFE utilizado nesse estudo foi caracterizado por exercícios predominantemente intensos e 3) O TFE não representou estímulo adequado para aumentar a capacidade aeróbia máxima dos futebolistas. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-08-21 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102074</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102075</identifier>
+<datestamp>2020-07-31T22:33:03Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970821 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação funcional multivariada em jogadores de futebol profissional: uma metanálise</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Visconti, Ana Maria</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Roldan, Andrea</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Alberto Alves Azevedo</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Seman, Antonio Palma</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lolla, Júlio Cesar Costa Rosa</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Godoy Junior, Rubens</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lepéra, Cláudio</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pardini, Fernanda Orsi</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Firmino, Mauro Theodoro</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Zanin, Marcelo Thimoteo</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Roxo, Carla Dal Maso Nunes</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Albertina Fontana</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Basílio, Solange de Souza</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Monteiro, José Carlos Simões</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cordeiro, José Roberto</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O objetivo deste trabalho foi verificar, de modo amplo, o comportamento de variáveis importantes para a saúde preventiva e o desempenho atlético, em jogadores de futebol profissional. Além disso, o estudo tece comentários, através de longa revisão bibliográfica, sobre os resultados de nossos atletas e os observados na literatura especializada, nessa modalidade esportiva. Os futebolistas foram submetidos a uma bateria de testes clínicos, laboratoriais e de aptidão cardiorespiratória, metabólica e muscular, pré-participação ao Campeonato Brasileiro de Futebol de 1996, que constou das seguintes variáveis: consumo de oxigênio, limiar anaeróbio ventilatório, eletrocardiografia em repouso e no exercício, potência muscular ( wingate), flexibilidade, hemograma, reações sorológicas para doença de Chagas, protoparasitológico, glicose, uréia, creatinina, colesterol total e frações, hormônios, eletrólitos, minerais, composição corporal, avaliação fisioterápica, odontológica e nutricional. Os resultados obtidos indicaram que o emprego de uma avaliação multifatorial, em atletas de alto rendimento, é um procedimento importante para verificar se o nível de aptidão física está adequado e/ou detectar possíveis deficiências, que possam interferir no desempenho atlético dos futebolistas, durante os treinamentos e jogos. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-08-21 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102075</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102076</identifier>
+<datestamp>2020-07-31T22:33:05Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970821 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Alterações eletrocardiográficas e cardiovasculares em pacientes com infarto do miocárdio pregresso submetidos a programa de reabilitação cardíaca supervisionado</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cardoso-Costa, Cilene Abreu</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Yazbek Júnior, Paulo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sabbag, Livia Maria dos Santos</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dourados, Maristela Palácios</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Shinzato, Gilson Tanaka</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Claudio</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A reabilitação cardíaca é o processo de desenvolvimento e manutenção de nível desejável de atividade física, social e psicológica após o início da doença coronária sintomática, sendo uma terapêutica multiprofissional para a patologia, que é multifatorial. Assim, nas últimas décadas, a prática de exercícios físicos tem sido estimulada entre indivíduos sadios e cardiopatas. Os principais objetivos são: evitar os efeitos negativos do repouso prolongado no leito em pacientes convalescentes de infarto agudo do miocárdio pós-cirurgia cardiovascular, com o retorno mais breve às atividades cotidianas, evitar complicações pulmonares, melhora da capacidade funcional e da qualidade de vida, mudanças de hábitos com modificação de fatores de risco e redução dos índices de morbi-mortalidade. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-08-21 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102076</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102077</identifier>
+<datestamp>2020-07-31T22:33:29Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970821 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Dor miofascial em pacientes com osteoartrose do quadril</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Riberto, Marcelo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kaziyama, Helena Hideko Seguchi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Satiko Tomikawa</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A osteoartrose (OA) do quadril é uma doença de alta prevalência, especialmente nas faixas etárias mais avançadas. Seu tratamento por meio da artroplastia tem resultados muito satisfatórios não apenas no que concerne a dor mas também em termos de melhora funcional. Contudo, diante da presença também elevada de outras afecções que complicam o procedimento anestésico e o acompanhamento pós-operatório, o uso de alternativas terapêuticas menos invasivas é recomendável, sendo, por vezes, a única forma restante de tratamento, mesmo que apenas paliativo. A investigação de outras causas de dor e incapacidade nestes pacientes é uma obrigação do médico preocupado com o bemestar destes pacientes. Neste artigo faremos uma breve revisão de aspectos clínicos da osteoartrose do quadril e proporemos uma nova abordagem, tendo em vista a pesquisa de pontos dolorosos relacionados à síndrome dolorosa miofascial. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-08-21 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102077</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102078</identifier>
+<datestamp>2020-07-31T22:33:13Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970821 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Fibromialgia: o que é, como diagnosticar e como acompanhar?</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Martinez, José Eduardo</subfield>
+<subfield code="u">Pontifícia Universidade Católica de São Paulo. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O objetivo deste artigo é rever as principais características clínicas, critérios diagnósticos e métodos de acompanhamento clínico da fibromialgia. O autor apresenta ainda um pequeno histórico do conhecimento desta síndrome e comenta a necessidade da divulgação do conhecimento adquirido para a partir de um diagnóstico precoce melhorar a qualidade de vida dos pacientes. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-08-21 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102078</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102079</identifier>
+<datestamp>2020-07-31T22:33:08Z</datestamp>
+<setSpec>actafisiatrica:Comun.+Breve</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970821 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Os limites do rendimento físico &quot;considerações fio-metabólicas&quot;</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Visconti, Ana Maria</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Roldan, Andrea</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Seman, Antonio Palma</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Alberto Alves Azevedo</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lolla, Júlio Cesar Costa Rosa</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lépera, Cláudio</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Miele, Fernando</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pardini, Fernanda Orsi</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Firmino, Mauro Theodoro</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Basílio, Solange Souza</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Albertina Fontana</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Roxo, Carla Dal Maso Nunes</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Machado, Gilberto Silva</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cordeiro, José Roberto</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> As ciências agregadas ao esportes e suas pesquisas, trouxeram grande avanço para o desenvolvimento e melhor compreenção sobre os mecanismos que interferem no redimento físico. Portanto, nas últimas décadas, o treinamento ganhou conteúdo científic, o que possibilitou potencializar nos indivíduos qualidades e corrigir suas deficiências. O entusiasmo do passado foi superado pelo método do presente e a individualização foi o ponto chave desta evolução. Dentro da fisiologia do exercício, uma das áreas que tem mais recebido atenção é a relacionada com o metabolismo energético. Isso ocorre, por que é, principalmente a partir dessas informações que se pode realizar a avaliação, prescrição do exercício, controle de treinamento físico, a predição da performace em diferentes tipos de exercícios e a identificação de possíveis mecanismos relacionados a fadiga. Sendo assim, o principal objetivo desse artigo, foi fazer uma abordagem do ponto de vista bioquímico sobre a interação entre os metabolismo aeróbio e anaeróbio relacionado ao treinamento. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-08-21 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102079</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102137</identifier>
+<datestamp>2020-07-31T22:38:19Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"971223 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação isocinética. Análise do desempenho muscular de flexores e extensores de joelho em jovens desportistas praticantes de voleibol</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lúcio, Abel Oliveira</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Shinzato, Gilson Tanaka</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Basyches, Marcio</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O propósito deste estudo foi descrever dados obtidos na medição da força de grupos musculares extensores e flexores de joelhos em jovens desportistas praticantes de voleibol. Quarenta e cinco jovens praticantes de voleibol - vinte e três (12 do sexo masculino e 11 do sexo feminino) classificados como ativos (A) e vinte e dois (10 do sexo masculino e 12 do sexo feminino) classificados como amadores (B) foram avaliados quanto a flexão e extensão de joelho em um dinamômetro isocinético modelo Cybex 6000, na velocidade de 60 graus por segundo. Os parâmetros de Peak Torque (PT), Peak Torque por peso corporal (PTP), Trabalho Total realizado (TI), e Trabalho Total realizado por peso corporal (TIP) foram analisados. Os resultados mostraram diferença significante em favor dos músculos de membros dominantes em relação aos não-dominantes responsáveis pela flexão de joelhos no grupo (A) masculino em todos os parâmetros, diferença significante no desempenho dos extensores de membros não dominantes do grupo (A) masculino em relação ao (B), e desempenho significantemente superior do grupo (B) feminino em relação ao das jovens do grupo (A) quanto aos flexores no parâmetro (TIP). Dados deste estudo mostraram ainda um desempenho significantemente superior dos jovens do sexo masculino comparativamente ao das jovens do sexo feminino nos parâmetros (PT) e (TI) , mesmo quando corrigidos pelo peso corporal, nos dois grupos estudados. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-12-23 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102137</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 3 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102139</identifier>
+<datestamp>2020-07-31T22:38:22Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"971223 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo ergométrico comparativo entre indivíduos portadores de fibromialgia primária e indivíduos normais sedentários</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sabbag, Lívia Maria dos Santos</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dourado, Maristela Palácios</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Yazbek Junior, Paulo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Cilene Abreu Cardoso</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Shinzato, Gilson Tanaka</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Miyazaki, Margarida Harurni</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kaziyama, Helena</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A fibromialgia (FM) é uma síndrome dolorosa crônica caracterizada por dor músculo- esquelética generalizada 1,2.3,4,5 podendo resultar em imobilidade e inatividade física 6. O presente estudo tem por objetivo comparar a resposta de pacientes sedentárias com fibromialgia primária e indivíduos sem patologias frente aos parâmetros do teste ergométrico (TE). Submeteram-se a TE em esteira rolante, protocolo de Ellestad, dois grupos de pacientes sedentárias do sexo feminino: Grupo A (n = 12, média de idade 53,2 anos, portadoras de fibromialgia primária), Grupo B (n = 20, média de idade 51,6 anos, sem patologias). Os critérios de interrupção de TE foram: freqüência cardíaca máxima atingida, cansaço físico, dor e tontura. Não houve referência de precordialgia; não foram observadas alterações isquêmicas ou arritrnias durante o exame. O tratamento estatístico foi teste t de Student. Os resultados comparativos entre os grupos A e B mostraram que quanto à carga máxima comum e freqüência cardíaca final do teste não houve diferença significante entre ambos os grupos. O grupo A realizou menor tempo de exercício (2,1 %) e portanto, menor trabalho total (21,2%), reserva cronotrópica (11,2%), capacidade funcional (15,6%) e OPAS (15,8%). Concluímos que ambos os grupos avaliados sob o aspecto de resposta cardiovascular e eletrocardiográfica ao esforço não mostraram evidências de isquemia ou deficiência da função ventricular esquerda. As pacientes do grupo A apresentaram capacidade funcional significantemente inferior as do grupo B. Os resultados sugerem que as limitações observadas são decorrentes do sistema músculo-esquelético. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-12-23 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102139</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 3 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102141</identifier>
+<datestamp>2020-07-31T22:38:28Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"971223 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A influência do uso de prótese sobre a evolução da cardiopatia isquêmica em pacientes amputados transfemurais</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Jucá, Sueli Satie Hamada</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Haddad, Sandra</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Travassos, Alice Ramos</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fobe, Jean Luc</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lima, Jorge Roberto Perrout de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferraretto, Juan</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O objetivo desse trabalho foi levantar, nos arquivos da AACD, informações que permitissem o estudo da evolução da cardiopatia isquêmica em pacientes engajados no programa de reabilitação pós-amputação. Para isso, os 116 pacientes estudados foram categorizados em protetizados e não-protetizados e com teste ergométrico de membros superiores (TEMS) inicial negativo TEMS inicial positivo. Dentre os 116 pacientes estudados somente 40 (26 protetizados e 14 não-protetizados) realizaram o acompanhamento cardiológico completo (TEMS inicial e reteste); os outros 76 pacientes realizaram somente o TEMS inicial. Dos 40 pacientes com acompanhamento cardiológico completo, 15 (32,5%) tinham TEMS inicial positivo para cardiopatia isquêmica e 25 (67,5%) tinham TEMS negativo, mostrando a alta incidência desta doença entre os amputados. O acompanhamento dos resultados de reteste dos 25 pacientes com TEMS inicial negativo permitiu o estudo da instalação da cardiopatia isquêmica. No grupo acompanhado (25 pacientes), 12 pacientes (48%) apresentaram resultados positivos no reteste. Entretanto a incidência de resultados positivos no reteste é diferente (p&lt;0,05), entre pacientes protetizados (35%) e não-protetizados (100%). Considerando-se as limitações do estudo, conclui-se que existe uma grande incidência de cardiopatia isquêmica em pacientes amputados e que, provavelmente, o uso da prótese pode diminuir a incidência de cardiopatia isquêmica em pacientes amputados unilaterais e bilaterais no nivel da coxa. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-12-23 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102141</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 3 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102144</identifier>
+<datestamp>2020-07-31T22:38:31Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"971223 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Capacidade funcional, desempenho e solicitação metabólica em futebolistas profissionais durante situação real de jogo monitorada por análise cinematográfica</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ananias, Glydiston Egberto Oliveira</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kokubum, Eduardo</subfield>
+<subfield code="u">Universidade Estadual Paulista - UNESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Molina, Renato</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cordeiro, José Roberto</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Foi objetivo deste estudo, caracterizar a relação entre o nível de aptidão física, desempenho e solicitação metabólica em futebolistas durante situação real de jogo. Seis jogadores de futebol profissional com média de idade de 20,8 ± 2,6 anos (17-25), peso 70,4 ± 7,5 kg (63-81,3) e altura 173,3 ± 9,7 cm (166-188) foram submetidos a testes de aptidão física em campo e análise cinematográfica durante a partida. Os testes de aptidão física foram realizados em campo, com medições de lactato sangüíneo. A via metabólica alática foi avaliada por meio de cinco corridas na distância de 30 m, em velocidade máxima, com pausa passiva de um minuto entre cada corrida. As concentrações de lactato foram medidas no 1°, 3° e 5° minuto após o término das cinco corridas. Para detecção do limiar anaeróbio foram realizadas 3 corridas de 1.200 m nas intensidades de 80, 85 e 90% da velocidade máxima para essa distância, com intervalo passivo de quinze minutos entre cada corrida. As dosagens de lactato sangüíneo foram feitas no 1°, 3° e 5° minuto de repouso passivo após cada corrida. Os futebolistas foram submetidos à filmagem individual durante o transcorrer do jogo, e as concentrações de lactato foram medidas antes, no intervalo e no final da partida para análise da solicitação energética e metabólica, respectivamente. Os seguintes resultados foram verificados: 1) O limiar anaeróbio em velocidade de corrida, correspondente à concentração de lactato sangüíneo de 4 mmol.L-! foi encontrado aos 268 ± 28 m.min·! ou 16,1 ± 1,6 km.h·!; 2) a velocidade média e a concentração de lactato máximo nas corridas de 30 m foram 6,9 ± 0,2 m.s·! e 4,5 ± 1,0 mmol.L&quot;!, respectivamente; 3) a distância total percorrida foi de 10.392 ± 849 m, sendo 5.446 ± 550 m para o primeiro e 4.945 ± 366 m para o segundo tempo, respectivamente; 4) os valores médios encontrados nas concentrações de lactato sangüíneo foram de 1,58 ± 0,37; 4,5 ± 0,42 e 3,46 ± 1,54 mmol. L·! antes, no intervalo do primeiro para o segundo tempo e ao final da partida, respectivamente e 5) a distância média total atingida ao final das partidas pelos jogadores de meio-de-campo (10.910 ± 121 m) foi ligeiramente maior que a percorrida pelos atacantes (10.377 ± 224 m) e defensores (9.889 ± 102 m), mas não significativa. Houve correlação negativa (r = - 0,84; P &lt; 0,05) entre o limiar anaeróbio (268 ± 28 m.min-1 ou 16,1 ± 1,6 km.h-1) e a concentração de lactato sangüíneo (4,5 ± 0,42 mmoI.L-1) no primeiro tempo do jogo. Portanto, os resultados sugerem que a capacidade aeróbia é um determinante importante para suportar a longa duração da partida e recuperar mais rapidamente os futebolistas, dos esforços realizados em alta intensidade, com o desenvolvimento de concentrações de lactato sangüíneo menores ao final do primeiro e segundo tempos das partidas. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-12-23 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102144</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 3 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102146</identifier>
+<datestamp>2020-07-31T22:38:34Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"971223 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Equoterapia: Equitação que promove a saúde e a educação</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Severo, José Torquato</subfield>
+<subfield code="u">Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A depressão é considerada o diagnóstico psiquiátrico mais comum nas clínicas de atendimento primário à saúde e a prevalência estimada é de 5% para mulheres e 10% para homens. Algumas evidências têm demonstrado que os exercícios têm sido tão eficientes quanto à psicoterapia e à terapia com antidepressivos no tratamento de pequenas e moderadas depressões e ainda mais efetivos, quando usados em conjunto com terapia convencional. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-12-23 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102146</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 3 (1997)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102151</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Edit</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Osteoporose: um desafio da vida moderna</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> No passado, a osteoporose era entendida como uma manifestação associada ao envelhecimento e por isso mesmo pouco valorizada. Com o aumento da longevidade e uma maior expectativa de vida, a osteoporose passou a ser tratada como um problema de saúde pública. As estatísticas americanas relacionam a ocorrência de fraturas em cerca de 50% das mulheres e 20% dos homens acima de 65 anos portadores de osteoporose. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102151</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102153</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Osteoporose: epidemiologia</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Marques Neto, João Francisco</subfield>
+<subfield code="u">Universidade Estadual de Campinas - UNICAMP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A osteoporose é a doença osteometabólica mais comum, caracterizando-se por diminuição progressiva do volume ósseo, com modificações na arquitetura trabecular, levando a um aumento da fragilidade óssea e a um maior risco de fraturas. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102153</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102155</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação laboratorial e densitométrica da osteoporose</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Zerbini, Cristiano Augusto de Freitas</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pippa, Maria Guadalupe Barbosa</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Romanelli, Paulo Roberto Stocco</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A prevenção da ocorrência de fraturas por osteoporose depende da identificação dos indivíduos com maior propensão a estas fraturas de tal forma que uma intervenção médica apropriada possa ser prescrita. Embora fatores de risco possam ser identificados durante a história médica, a medida de massa óssea ainda é o fator preditivo mais importante na abordagem do risco de fraturas. Estudos prospectivos têm demonstrado que o risco relativo aumenta exponencialmente com redução da massa óssea, enfatizando, assim, a utilização da massa óssea como preditor do risco futuro de fratura. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102155</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102157</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Osteoporose (OP) - prevenção e tratamento, uma visão atual</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mazie, Roberto Carlos</subfield>
+<subfield code="u">Hospital do Servidor Público Estadual de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chahade, Wiliam Habib</subfield>
+<subfield code="u">Hospital do Servidor Público Estadual de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A osteoporose e suas conseqüências têm despertado, por ser considerada um problema moderno de saúde pública, a atenção dos governos, especialmente dos países desenvolvidos e, mais recentemente, daqueles considerados em desenvolvimento ou semi-industrializados. Com o apoio da mídia nacional e internacional, a divulgação dos conhecimentos e informações nessa área da patologia médica tem propiciado a milhoes de seres humanos em todo o mundo, refletir sobre as nefastas conseqüências dessa síndrome que hoje sabemos, começa a ser desenvolvida na infância e na puberdade, quando o patrimônio ósseo está sendo estabelecido, por meio da indução genética. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102157</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102158</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Osteoporose juvenil</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Pereira, Rosa Maria Rodrigues</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Antes de abordarmos as causas da osteoporose juvenil, é interessante fazermos um breve comentário em relação à prevenção da osteoporose pós-menopausa e senil já no período da infância e adolescência. A osteoporose é caracterizada por uma redução da massa óssea e esta pode ser determinada durante o crescimento ou adquirida tardiamente durante o envelhecimento. Uma vez que a síndrome osteoporótica é mais facilmente previnida do que tratada, o ideal é identificar indivíduos potencialmente de alto risco e iniciar a prevenção dessa síndrome na infância ou na adolescência. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102158</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102159</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Osteoporose regional</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Habu, Neuza Sayuri</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Yeng, Lin Tchia</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A osteoporose regional é o achado mais freqüente, vista num raio X de membro imobilizado por mais de 4 semanas. A osteoporose localizada grave pode ocorrer com a Síndrome Complexa Dor Regional (SCDR), sendo a do tipo I (SCDRI) sinônimo de distrofia simpática reflexa, que é uma síndrome na ausência de lesão nervosa. Os fatores precipitantes associados com a SCDR I incluem trauma, AVC, operação cirúrgica, IAM, doença intratorácica, neoplasia, doença primária da articulação, gravidez, uso de medicamentos como os anticonvulsivantes, barbitúricos e agentes antituberculose e a Síndrome Complexa Dor Regional Tipo II (SCDR II), sinônimo de causalgia em que há lesão de estrutura nervosa periférica. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102159</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102160</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Osteoporose: abordagem reabilitativa</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Quando pensamos no paciente com osteoporose, devemos nos reportar a dois momentos de fundamental importância no planejamento terapêutico. Em primeiro lugar, aprevenção secundária, que diz respeito à limitação da osteoporose, aos programas de prevenção de quedas, de melhora da flexibilidade, de coordenação, de equilíbrio e de condicionamento cardiovascular em um organismo cujo esqueleto apresenta menor densidade mineral óssea. No segundo momento, devemos estar atentos ao tratamento das incapacidades ou das manifestações decorrentes da osteoporose com especial destaque para dor, seja ela aguda, seja crônica, e para a postura cifótica. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102160</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102161</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Utilização de órteses na reabilitação de pacientes portadores de osteoporose vertebral</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Ares, Marcelo Jesus Justino</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A reabilitação na osteoporose tem como objetivos o alívio da dor, a preservação da integridade do esqueleto e a melhoria da mobilidade funcional. Para atingir tais objetivos deve-se tomar medidas profiláticas (diminuição dos fatores de risco), promover melhoria do estado músculo esquelético e tratar as complicações decorrentes do avanço da patologia. Em pacientes com osteoporose sintomática, a dor nas costas é geralmente a principal queixa, podendo ser aguda ou crônica. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102161</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102163</identifier>
+<datestamp>2022-10-21T14:36:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"970909 1997                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Roteiro de exercícios para pacientes com osteoporose</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Habu, Neuza Sayuri</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O paciente com osteoporose deve passar por uma consulta médica para avaliação das condições sistêmicas gerais e do grau de osteoporose antes de iniciar qualquer programa de exercício; só assim uma programação adequada pode ser instituída. O programa de exercício deve ser individualizado para cada paciente de acordo com a perda de massa óssea, a capacidade individual e a existência de outras patologias associadas. Um programa regular de atividade física para mulheres após a menopausa pode reduzir a taxa da perda de massa óssea. Elas devem ser instruídas a fazerem caminhada e subirem escada, numa posição ereta, com os músculos peitorais alongados e respiração profunda, usando calçado adequado que absorva impacto em terreno nãoacidentado, de preferência ao sol, antes das 10 hs da manhã ou após às 4hs da tarde, em média 20 minutos; pedalar também é aceitável, mas com uma postura adequada. Pacientes com osteoporose vertebral podem ter benefícios com a prática da natação, porém andar ainda é preferível. O exercício visa manter a saúde do sistema músculo-esquelético e cardiovascular, do SNC e a redução do quadro álgico. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1997-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102163</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 4 n. 2 Supl.1 (1997): Especial de Osteoporose</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1997 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102169</identifier>
+<datestamp>2020-07-31T22:41:14Z</datestamp>
+<setSpec>actafisiatrica:Edit</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980409 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Laboratórios para estudo do movimento</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Baftistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Os laboratórios de análise do movimento permitem com eficiência já comprovada o estudo integrado do movimento a nível de MMSS e pode ser útil na determinação e refinamento dos movimentos de arremesso ou que envolvem o uso de raquetes, tacos e etc na reabilitação após AVC, especial destaque é dado para a análise do movimento de dissociação das cinturas escapular e pélvica reeducando a marcha de forma satisfatória. Implementar o arsenal diagnóstico é uma necessidade quando a qualidade da assistência é o nosso objetivo. A fisiatria acrescentou mais qualidade aos seus procedimentos com a incorporação de novas metodologias de avaliação e tratamento de incapacidade. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102169</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 1 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102170</identifier>
+<datestamp>2020-07-31T22:41:08Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980409 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">O músculo trapézio e o desequilíbrio funcional craniomandibular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vasconcellos, Henrique Ayres de</subfield>
+<subfield code="u">Universidade Estadual do Rio de Janeiro - UERJ</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Szendrodi, Débora Cristina Csura</subfield>
+<subfield code="u">Universidade Estadual do Rio de Janeiro - UERJ</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Neste estudo fizemos uma descrição evolutiva do músculo trapézio (MT), sua morfologia, origem e inserção e uma análise de sua inervação. O objetivo deste trabalho é estabelecer uma relação anátomo-funcional entre o mt e as disfunções da atm e de outras estruturas da cabeça e do pescoço. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102170</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 1 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102171</identifier>
+<datestamp>2020-07-31T22:41:18Z</datestamp>
+<setSpec>actafisiatrica:Art.+Atual.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980409 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Abordagem clínica e eletrofisiológica em neuropatias periféricas</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Garbino, José Antonio</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O autor pontua aspectos cruciais ao eletrofisiologista e ao clínico quanto ao diagnóstico das Neuropatias Periféricas. Relaciona achados clínicos aos eletrofisiológicos e à fisiopatologia do nervo periférico. O autor também apresenta soluções de diagnóstico específicas a problemas selecionados de interesse ao eletrofisiologista. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102171</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 1 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102172</identifier>
+<datestamp>2020-07-31T22:40:53Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980409 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Características fisiológicas, músculo-esqueléticas, antropométricas e oftalmológicas em jogadoras de futebol feminino consideradas de elite</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Romano, Angela</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Roxo, Carla Dal Maso Nunes</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Machado, Gilberto da Silva</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lolla, Júlio Cesar Costa Rosa</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lepéra, Cláudio</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ponte, Fernando Miele da</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Adilson Andrade da</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Riça, Wilson Oliveira</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Albertina Fontana</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Solange Basílio da</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tavares, Emídio Valenti</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Alberto Alves de Azevedo</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Visconti, Ana Maria</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Seman, Antonio Palma</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Firmino, Mauro Theodoro</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Reynaldo Rodrigues da</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cordeiro, José Roberto Cordeiro</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O futebol feminino tem crescido acentuadamente em nosso país. Quinze jogadoras de futebol com média de idade de 22,3 ± 6,2 anos; peso 58,2 ± 8,3 kg e estatura 162,5 ± 6,1 cm foram submetidas à avaliação de vários parâmetros considerados importantes para o rendimento atlético das futebolistas. Além disso, comparamos alguns índices funcionais encontrados na literatura com os de jogadoras de outros países com mais experiência na prática desta modalidade. Os seguintes parâmetros e resultados foram: Cardiorrespiratório e metabólico em repouso e no exercício: FC = 87 ± 8 bpm; PAS = 100,6 ± 4,5 mmHg; PAD = 62,6 ± 4,5 mmHg; FCmax. = 194 ± 7 bpm; Borg = 19,5 ± 0,8; Veloc. max. = 13,4 ± 0,9 km.h·l; LVI = 8,5 km.h·l; LV2 = 11,2 km.h·l; Vemax.= 93,9 ± 16,5 L.min·l; VO~ico = 47,3 ± 4,5 mI02.kgl.min·l; ~ força isocinética de MMII direito a 60° 5.1 na extensão = 198,5 ± 44,1 Nm; na flexão 133,3 ± 30,5 Nm; MMII esquerdo a 60° 5.1 na extensão = 203,6 ± 38,1 Nm; na Flexão 116,5 ± 18,8 Nm; Wingate: potência de pico corrigida pelo peso = 9,5 ± 0,9 W.kgl; potência média = 7,5 ± 0,5 W.kg·l; índice de fadiga = 56,7 ± 7,3%; % de Gordura = 17,4 ± 2,3%; Avaliação oftalmológica: Acuidade visual para longe dos olhos direito e esquerdo foi de 97,5 ± 5,8%, respectivamente; Pressão intraocular dos olhos direito e esquerdo = 13,7 ± 2,7 e 13,1 ± 2,4 mmHg, respectivamente. Os resultados das variáveis que foram possíveis comparar com as das futebolistas internacionais mostraram que nossas atletas estavam com os índices equivalentes e, em alguns casos, até superiores. Entretanto, pela escassez de informações, ainda não há condições de estabelecer a quantificação dos índices mais adequados para a prática desta modalidade esportiva pelas mulheres. É necessário a realização de um volume maior de estudos, enfocando vários aspectos do futebol feminino. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102172</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 1 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102173</identifier>
+<datestamp>2020-07-31T22:40:54Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980409 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Testes de função ventilatória e obesidade</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Sérgio dos</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Medicina de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cincotto, Antônio Nelson</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Medicina de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gozzano, José Otávio Alquezar</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Medicina de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">O&#039;Hara, Carlos</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Galiotto, Mirella</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Com a finalidade de conhecer o comportamento das provas funcionais respiratórias nos pacientes obesos, os autores as realizaram em 86 pacientes, sendo 31 homens e 55 mulheres, que foram separados de acordo com o peso, em obesidade mórbida e não-mórbida. A idade dos pacientes era de 30 ± 15 anos e o peso de 84,0 ± 17,2 kg, com IMC médio de 31,5. Todos realizaram provas funcionais quando da internação, e consideramos neste estudo, a capacidade vital forçada, o volume expiratório forçado e a ventilação voluntária váxima. Os pacientes com obesidade mórbida apresentaram, em média, valores menores de ventilação voluntária máxima quando comparados com os obesos não-mórbidos, caracterizando então uma alteração restritiva, com p = 0,024. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102173</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 1 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<resumptionToken expirationDate="2023-08-08T14:49:53Z" completeListSize="935" cursor="50">48651169111fd013d39ee0a3035daf3c</resumptionToken>
+</ListRecords>
+</OAI-PMH> 

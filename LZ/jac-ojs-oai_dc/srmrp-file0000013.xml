@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:08Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/554</identifier>
+        <datestamp>2020-06-25T16:13:26Z</datestamp>
+        <setSpec>rmrp:RESP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Management in exacerbations of chronic obstructive pulmonary disease (COPD)</dc:title>
+          <dc:title xml:lang="pt-BR">Abordagem terapêutica na exacerbação da doença pulmonar obstrutiva crônica (DPOC)</dc:title>
+          <dc:creator>Borges, Marcos C.</dc:creator>
+          <dc:creator>Vianna, Elcio S. O.</dc:creator>
+          <dc:creator>Terra Filho, João</dc:creator>
+          <dc:subject xml:lang="en-US">Lung Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Obstructive</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pneumopatias Obstrutivas.</dc:subject>
+          <dc:description xml:lang="pt-BR">Exacerbações de DPOC causam aumento da morbimortalidade, internação, piora da qualidade de vida e custos para o paciente e para o sistema de saúde. O paciente com DPOC apresenta, aproximadamente,duas a três exacerbações ao ano, principalmente no inverno, causando progressiva deterioração fisiológica e aumento da inflamação das vias aéreas. O tratamento se faz com broncodilatadores, corticosteróides, oxigenoterapia, ventilação mecânica e antibióticos, em alguns casos.</dc:description>
+          <dc:description xml:lang="en-US">Exacerbations of chronic obstructive pulmonary disease (COPD) cause increase in morbidity and mortality, hospital admissions, influence health-related quality of life and costs to the patient and health system. COPD patient experience 2 to 3 exacerbations per year, specially during winter, causing a progressive physiologic deterioration and increase in the airway inflammation. Treatment is based on bronchodilators, corticosteroids, oxygen therapy, mechanical ventilation and antibiotics.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/554</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p241-247</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 241-247</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 241-247</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 241-247</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/554/554</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/555</identifier>
+        <datestamp>2020-06-25T16:13:25Z</datestamp>
+        <setSpec>rmrp:RESP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Síndrome do desconforto respiratório agudo</dc:title>
+          <dc:title xml:lang="en-US">Acute respiratory distress syndrome</dc:title>
+          <dc:creator>Galhardo, Fabíola Paula Lovetro</dc:creator>
+          <dc:creator>Martinez, José Antônio Baddini</dc:creator>
+          <dc:subject xml:lang="en-US">Acute Respiratory Distress Syndrome. Respiratory Insufficiency.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome do Desconforto Respiratório Agudo. Insuficiência Respiratória.</dc:subject>
+          <dc:description xml:lang="en-US">The Acute Respiratory Distress Syndrome (ARDS) is a syndrome of acute respiratory failure associated to severe pulmonary inflammation secondary to acute lung injury. The injury agent may be local, like pneumonias or aspiration syndromes, or systemic like sepsis. Pulmonary edema secondary to disturbs in alveolar capillary barrier is a hallmark of acute phase but, in the proliferative phase cellular infiltration with pulmonary remodeling may lead to fibrosis in some patients. There is not a specific treatment for ARDS. The present therapeutic interventions are respiratory support and the treatment of the causal subjacent condition. Some patients in the proliferative phase may show good response to high doses of steroids. It has been seen a decrease in ARDS mortality during the last years, probably due to improvements in the quality of intensive care units and new ventilatory strategies. However, ARDS associated mortality is still high, around 40%.</dc:description>
+          <dc:description xml:lang="pt-BR">A Síndrome do Desconforto Respiratório Agudo (SDRA) é um quadro de insuficiência respiratória aguda, devido a intensa resposta inflamatória pulmonar, que ocorre frente a agentes agressores diversos. A agressão pulmonar pode ser local, como nas pneumonias ou aspiração gástrica, ou pode ocorrer por via sistêmica, como, por exemplo, nas septicemias.&amp;nbsp; Apesar de o edema pulmonar por alteração da permeabilidade alveolocapilar ser uma das principais características de suas fases iniciais, na fase proliferativa da síndrome, o acúmulo de diferentes tipos celulares pode levar à deposição de matriz extracelular e à fibrose. Não existe tratamento específico para a SDRA, e as medidas terapêuticas atuais baseiam-se no suporte ventilatório e no tratamento da condição desencadeadora. Um número expressivo de doentes com quadro de remodelamento e proliferação fibrótica pulmonar podem beneficiar-se do uso de esteróides em altas doses. Apesar de ter sido observada redução da mortalidade associada à SDRA,nos últimos anos, devido, basicamente, à melhoria do cuidado intensivo e a novas estratégias ventilatórias, a mortalidade ainda é alta, situando-se em torno de 40%.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/555</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p248-256</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 248-256</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 248-256</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 248-256</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/555/555</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/556</identifier>
+        <datestamp>2020-06-25T16:13:24Z</datestamp>
+        <setSpec>rmrp:DIGES</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Diarréia aguda</dc:title>
+          <dc:title xml:lang="en-US">Acute diarrhea</dc:title>
+          <dc:creator>Oliveira, Ricardo B.</dc:creator>
+          <dc:subject xml:lang="en-US">Diarrhea</dc:subject>
+          <dc:subject xml:lang="en-US">Acute. Therapeutical Approaches.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Diarréia Aguda. Condutas Terapêuticas.</dc:subject>
+          <dc:description xml:lang="pt-BR">A abordagem atual do paciente com diarréia aguda é apresentada.</dc:description>
+          <dc:description xml:lang="en-US">We herein present the guidelines for the approach of the patient with acute diarrhea.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/556</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p257-260</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 257-260</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 257-260</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 257-260</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/556/556</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/557</identifier>
+        <datestamp>2020-06-25T16:13:22Z</datestamp>
+        <setSpec>rmrp:DIGES</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Abordagem do paciente com hemorragia digestiva alta não varicosa</dc:title>
+          <dc:title xml:lang="en-US">Management of patients with nonvariceal upper gastrointestinal hemorrhage</dc:title>
+          <dc:creator>Lourenço, Karla Glaysia A.</dc:creator>
+          <dc:creator>Oliveira, Ricardo B.</dc:creator>
+          <dc:subject xml:lang="en-US">Gastrointestinal Hemorrhage.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemorragia Gastrointestinal.</dc:subject>
+          <dc:description xml:lang="en-US">Nonvariceal upper gastrointestinal hemorrhage is a common emergency, and continues to be a significant cause of morbidity and mortality. This review aimed to medical student and doctors offers guidelines for the approach of patients with this type of hemorrhage, by showing therapeutic options involving different specialists’ reports.</dc:description>
+          <dc:description xml:lang="pt-BR">A hemorragia digestiva alta não varicosa é uma emergência comum, e continua sendo uma causa significativa de morbimortalidade. Esta revisão objetiva oferecer aos estudantes de Medicina e médicos recomendações para o atendimento do paciente com esse tipo hemorragia, de forma a mostrar as abordagens terapêuticas, reunindo opiniões de diferentes especialistas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/557</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p261-265</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 261-265</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 261-265</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 261-265</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/557/557</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/558</identifier>
+        <datestamp>2020-06-25T16:13:21Z</datestamp>
+        <setSpec>rmrp:DIGES</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Pancreatite aguda: atualização de conceitos e condutas</dc:title>
+          <dc:title xml:lang="en-US">Acute pancreatitis: review of concepts and management</dc:title>
+          <dc:creator>Santos, José Sebastião</dc:creator>
+          <dc:creator>Elias Júnior, Jorge</dc:creator>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:creator>Sankarankutty, Ajith K.</dc:creator>
+          <dc:subject xml:lang="en-US">Pancreatitis</dc:subject>
+          <dc:subject xml:lang="en-US">Acute. Pancreatitis. Monitoring. Pancreatitis</dc:subject>
+          <dc:subject xml:lang="en-US">Acute Necrotizing. Nutrition</dc:subject>
+          <dc:subject xml:lang="en-US">surgery</dc:subject>
+          <dc:subject xml:lang="en-US">treatment.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pancreatite Aguda. Pancreatite. Monitoramento. Pancreatite Aguda Necrosante.Nutrição</dc:subject>
+          <dc:subject xml:lang="pt-BR">cirurgia</dc:subject>
+          <dc:subject xml:lang="pt-BR">tratamento.</dc:subject>
+          <dc:description xml:lang="en-US">The guidelines for management of acute pancreatitis (AP) have changed significantly over the past 20 years, especially regarding the surgical treatment of severe cases. A review of the literature shows the importance of trying to assess the severity of AP as well as its early complications in order to plan the supportive care. Recent evidence has helped to clarify the roles of computerized tomography, endoscopic retrograde cholangiopancreatography, magnetic resonance, prophylactic antibiotics, enteral feeding and fine-needle aspiration bacteriology in the management of acute pancreatitis. This has been a change away from the early aggressive surgical intervention towards more conservative management, except when infected necrosis is confirmed. The guidelines recommend the early detection and objective evaluation of complications by clinical and imaging techniques. A formal approach with the appropriate use of various non-surgical and surgical options can help the ongoing attempts at decreasing mortality and morbidity in AP.</dc:description>
+          <dc:description xml:lang="pt-BR">A abordagem diagnóstica e terapêutica da pancreatite aguda (PA) modificou-se significativamente, nos últimos 20 anos. A revisão da literatura reforça a importância de estratificar a PA em formas branda e grave, com o objetivo de definir o local e os recursos para o tratamento. Há evidências recentes, que ajudaram a definir o papel da tomografia computadorizada (TC), da colangiopancreatografia endoscópica (CPRE), da ressonância magnética (RM), da antibioticoterapia profilática, do suporte nutricional enteral e da punção com agulha fina, para exame bacteriológico de material necrótico e de fluido pancreático. Houve mudança significativa na abordagem cirúrgica da PA; as operações, que eram extensas e freqüentes na fase precoce, deram lugar a uma conduta mais conservadora, exceto quando o diagnóstico de necrose pancreática infectada é confirmado. Os protocolos de consenso recomendam a detecção precoce das complicações por meio da avaliação clínica e de imagem. O emprego apropriado das alternativas terapêuticas, clínicas e cirúrgicas, com base na evidência, pode garantir a redução da morbidade e da mortalidade na PA.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/558</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p266-282</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 266-282</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 266-282</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 266-282</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/558/558</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/674</identifier>
+        <datestamp>2020-06-25T16:07:09Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Resumos de Dissertações de Mestrado e Teses de Doutorado apresentadas na Faculdade de Medicina de Ribeirão Preto - USP de julho a setembro de 2010</dc:title>
+          <dc:creator>[S.N.], [S.N.] [S.N.]</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/674</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i4p459-491</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 4 (2010); 459-491</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 4 (2010); 459-491</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 4 (2010); 459-491</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/674/677</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/676</identifier>
+        <datestamp>2020-06-25T16:09:14Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">TWO YEARS OF FORENSIC ANTHROPOLOGY AT THE MEDICO LEGAL CENTRE (CEMEL) OF THE FACULTY OF MEDICINE OF RIBEIRÃO PRETO-USP</dc:title>
+          <dc:title xml:lang="pt-BR">DOIS ANOS DE ANTROPOLOGIA FORENSE NO CENTRO DE MEDICINA LEGAL (CEMEL) DA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO-USP</dc:title>
+          <dc:creator>Soares, Andjara T. C.</dc:creator>
+          <dc:creator>Guimarães, Marco A.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Medicina Legal. Antropologia Forense. Esqueleto. Ossos.</dc:subject>
+          <dc:subject xml:lang="en-US">Forensic Medicine. Forensic Anthropology. Skeleton. Bones.</dc:subject>
+          <dc:description xml:lang="en-US">Forensic Anthropology is an area of knowledge which works in the establishment of a person’s identity through the individualization of his or her intrinsic characteristics. The Medico Legal Centre (CEMEL) of the Faculty of Medicine of Ribeirão Preto of University of São Paulo (FMRP-USP) has a Laboratory of Forensic Anthropology, which was created in a partnership with the University of Sheffield (UK), which elaborated a protocol for skeletons analysis and put efforts to develop a more reliable work to allow high quality social and scientific results. After two years of work, it was noticed that many skeletons forwarded to CEMEL did not have extremely important elements for the anthropological examination, which could avoid the elaboration of an adequate biological profile of the skeletons and, because of this, postpone its identification. Considering that there is no recent anthropological data in national literature about medico-legal cases of skeletons, this is the first report about the analysis of 42 human skeletons forwarded to CEMEL since its inauguration in 1999. The results showed the main anthropological characteristics of the skeletons as being related to male individuals, from Caucasian ethnic origin, age between 32.71 and 46.29 y.o., height between 1.64 and 1.73, dexterous, without any relevant pathological findings, with informative odontological elements and no clothes or other belongings. Besides, it was evidenced that 61.90% of the skeletons had less than 50% of the bones, with mean of 79.64±52.40 bones per case. Considering this, it is discussed the necessity of improvements in technical qualification and working conditions for those responsible for skeletons collection in the place they are found , as well as their transport, in a way to increase the number of collected bones and, as a consequence, of information for possible identifications.</dc:description>
+          <dc:description xml:lang="pt-BR">A Antropologia Forense é uma área do conhecimento que busca estabelecer a identidade de um sujeito através da individualização de características intrínsecas a ele. O Centro de Medicina Legal (CEMEL) da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo (FMRP-USP) possui um Laboratório de Antropologia Forense, criado em parceria com a University of Sheffield (UK), que elaborou um protocolo para análise de ossadas e esforça-se para desenvolver um trabalho mais confiável, que permita resultados sociais e científicos de alta qualidade. Após dois anos de funcionamento, constatou-se que muitas das ossadas encaminhadas ao CEMEL não possuem elementos que são de extrema importância para a realização do exame antropológico, o que pode evitar a elaboração de um perfil biológico adequado da ossada e, em virtude disso, postergar a sua identificação. Considerando-se que não há dados antropológicos recentes na literatura nacional sobre casos médico-legais de ossadas, este é o primeiro trabalho realizado a partir da análise de 42 ossadas humanas encaminhadas ao CEMEL desde sua inauguração em 1999. Os resultados mostraram como principais características antropológicas das ossadas estas estarem relacionadas a indivíduos masculinos, de origem étnica caucasiana, com idade entre 32,71 e 46,29 anos, estatura entre 1,64 e 1,73m, destros, sem achados patológicos relevantes, com elementos odontológicos informativos e sem roupas ou outros pertences. Além disso, foi constatado que 61,90% das ossadas possuíam menos de 50% dos ossos, com média de 79,64±52,40 ossos por caso. Diante disso, discute-se a necessidade de melhorias na capacitação técnica e de condições de trabalho para os responsáveis pela coleta de ossadas no seu local de encontro, assim como no seu transporte, de forma a aumentar o número de ossos coletados e, como conseqüência, de informações para possíveis identificações.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2008-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/676</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v41i1p7-11</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 41 No. 1 (2008); 7-11</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 41 Núm. 1 (2008); 7-11</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 41 n. 1 (2008); 7-11</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/676/679</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/677</identifier>
+        <datestamp>2020-06-25T16:09:12Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">METHODS OF QUANTITATIVE ANALYSIS APPLIED TO VASCULAR CORROSION CASTS: A LITERATURE REVIEW</dc:title>
+          <dc:title xml:lang="pt-BR">MÉTODOS DE ANÁLISE QUANTITATIVA APLICADOS A MODELOS DE CORROSÃO VASCULAR: REVISÃO DE LITERATURA</dc:title>
+          <dc:creator>Gegler, Aderson</dc:creator>
+          <dc:creator>Gazolla, Juliana</dc:creator>
+          <dc:creator>Souza, Maria A.L.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Molde por Corrosão. Microscopia Eletrônica de Varredura. Análise Quantitativa. Vasos Sangüíneos. Morfologia.</dc:subject>
+          <dc:subject xml:lang="en-US">Corrosion casting. Microscopy</dc:subject>
+          <dc:subject xml:lang="en-US">Electron</dc:subject>
+          <dc:subject xml:lang="en-US">Scanning. Quantitative Analysis. Blood Vessels. Morphology.</dc:subject>
+          <dc:description xml:lang="en-US">Vascular corrosion casts combined with scanning electron microscopy provide a powerful morphologic understanding of the vascular microarchitecture. Several bidimensional (2D) and threedimensional (3D) systems, as well as mathematical models have been proposed aiming at the quantification of vascular models, in order to study the hemodynamic optimality principles ruling those circulatory systems. This paper aims to accomplish a literature review of this evolution from the foremost thesis about optimality principles, vital to the knowledge of vascular hemodynamics, up to the state-of-the-art 3D morphometry systems.</dc:description>
+          <dc:description xml:lang="pt-BR">Os modelos de corrosão vascular propiciam um poderoso entendimento morfológico da microarquitetura dos vasos sangüíneos quando associados à microscopia eletrônica de varredura. Diversos sistemas de morfometria bidimensionais (2D) e tridimensionais (3D) têm sido propostos para a sua quantificação, bem como modelos matemáticos com o objetivo de entender os princípios ideais hemodinâmicos que governam estes sistemas circulatórios. Este artigo se propõe a realizar uma revisão de literatura desta evolução, desde as primeiras teses sobre os princípios ideais, fundamentais para o entendimento da hemodinâmica vascular, até o estado da arte dos sistemas de morfometria 3D.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2008-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/677</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v41i1p77-85</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 41 No. 1 (2008); 77-85</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 41 Núm. 1 (2008); 77-85</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 41 n. 1 (2008); 77-85</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/677/682</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/699</identifier>
+        <datestamp>2020-06-25T16:11:24Z</datestamp>
+        <setSpec>rmrp:Anais</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Resumos</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/699</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p117-152</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 117-152</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 117-152</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 117-152</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/699/708</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/703</identifier>
+        <datestamp>2020-06-25T16:10:50Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">STRATEGIES OF INTERDISCIPLINARY INTERVENTION IN THE CARE FOR PATIENTS WITH EATING DISORDERS:PHRAMACOLOGICAL TREATMENT</dc:title>
+          <dc:title xml:lang="pt-BR">ESTRATÉGIAS DE INTERVENÇÃO INTERDISCIPLINAR NO CUIDADO COM O PACIENTE COM TRANSTORNO ALIMENTAR: O TRATAMENTO FARMACOLÓGICO</dc:title>
+          <dc:creator>Cabrera, Catalina Camas</dc:creator>
+          <dc:subject xml:lang="pt-BR">Transtornos da Alimentação. Anorexia Nervosa. Bulimia Nervosa. Tratamento.</dc:subject>
+          <dc:subject xml:lang="en-US">Eating Disorders. Anorexia Nervosa. Bulimia Nervosa. Treatment.</dc:subject>
+          <dc:description xml:lang="en-US">Eating disorders are psychiatric diseases with distinct presentations and well defined diagnostic criteria, characterized by marked perturbation in eating mode. In view of the severity of the disease an of the co-morbidities almost always associated, treatment is long and difficult for the patient, the family and the team, requiring adaptation to multiple forms of intervention such as ambulatory care, semi-hospitalization or even full hospitalization. In this respect, psychotropic medications serve as adjuvant within the context of multiprofessional and multidisciplinary intervention. In general, patients with anorexia and bulimia nervosa resist treatment with these medications because of their fear to gain weight and a disbelief in their efficacy. It is almost always necessary to negotiate the use of medication and the success of treatment depends on the ability of the doctor to choose the best time to recommend it and on how the doctor presents this modality of intervention. In anorexia nervosa, the objective of the use of psychotropic drugs is to aid the recovery of nutritional status and to reduce the mental symptoms that cause great discomfort. In bulimia nervosa, these medications are indicated in order to reduce the bulimic symptoms and to treat the associated psychiatric co-morbidities. The psychotropic medications commonly used are presented here. To guarantee better results and a successful treatment, patients with eating disorders should be treated in specialized services, usually located in tertiary care university hospitals, by qualified professionals who integrate well with team work.</dc:description>
+          <dc:description xml:lang="pt-BR">Os Transtornos Alimentares são patologias psiquiátricas com apresentações distintas e critérios diagnósticos bem definidos, caracterizando-se por acentuada perturbação no modo de alimentar-se. Em função da gravidade da doença e comorbidades quase sempre associadas,o tratamento é longo e difícil para o paciente, família e equipe, exigindo adaptações a múltiplas formas de intervenção como atendimento ambulatorial, semi-internação ou até internação integral. Nesse sentido, as medicações psicotrópicas servem como coadjuvantes dentro do contexto da intervenção multiprofissional e interdisciplinar. De maneira geral, os pacientes com anorexia e bulimia nervosas resistem em tomar medicamento dessa natureza por temor associado ao ganho de peso e descrenças quanto à sua eficácia. Quase sempre é necessário negociar o uso da medicação e o sucesso da terapia vai depender da habilidade do médico em escolher o melhor momento para recomendá-la e do modo como este apresenta essa modalidade de intervenção. Na anorexia nervosa, o uso de psicotrópicos tem por objetivo auxiliar na recuperação do estado nutricional e atenuar os sintomas mentais que trazem muito desconforto. Já na bulimia nervosa, eles são indicados para reduzir os sintomas bulímicos e tratar as comorbidades psiquiátricas associadas. As medicações psicotrópicas comumente usadas são aqui apresentadas. Para garantir melhores resultados e sucesso no tratamento, a assistência ao paciente com transtorno alimentar deve ser realizada em serviços especializados, geralmente localizados em hospitais universitários de nível terciário, por profissionais capacitados que apresentam boa integração num trabalho em equipe.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/703</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p375-380</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 375-380</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 375-380</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 375-380</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/703/712</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/704</identifier>
+        <datestamp>2020-06-25T16:10:49Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">RESUMOS DE DISSERTAÇÕES DE MESTRADO E TESES DE DOUTORADO APRESENTADAS NA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO - USP</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/704</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p439-512</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 439-512</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 439-512</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 439-512</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/704/713</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/706</identifier>
+        <datestamp>2020-09-11T12:09:17Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação nas escolas médicas</dc:title>
+          <dc:creator>Voltarelli, Júlio César</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/706</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p1-2</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 1-2</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 1-2</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 1-2</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/706/718</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/707</identifier>
+        <datestamp>2020-09-11T12:09:17Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação do estado nutricional</dc:title>
+          <dc:title xml:lang="en-US">Assessment of the nutritional status</dc:title>
+          <dc:creator>Vannucchi, Helio</dc:creator>
+          <dc:creator>Unamuno, Maria do Rosário Del Lama de</dc:creator>
+          <dc:creator>Marchini, Julio Sergio</dc:creator>
+          <dc:subject xml:lang="en-US">Anthropometry</dc:subject>
+          <dc:subject xml:lang="en-US">Evaluation</dc:subject>
+          <dc:subject xml:lang="en-US">Nutritional Status</dc:subject>
+          <dc:subject xml:lang="en-US">Nutritional Disorders</dc:subject>
+          <dc:subject xml:lang="pt-BR">Antropometria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estado Nutricional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Distúrbios Nutricionais</dc:subject>
+          <dc:description xml:lang="pt-BR">A desnutrição é reconhecida como um dos principais problemas médicos, especialmente em países em desenvolvimento. Os métodos para avaliar o estado nutricional de indivíduos em grupos populacionais foram extensivamente tratados na literatura médica. O objetivo principal desta revisão foi proporcionar uma análise crítica da avaliação nutricional bioquímica e antropométrica.</dc:description>
+          <dc:description xml:lang="en-US">Malnutrition is recognized as one of the major medical clinical problem, especially in developing countries. The means to assess the nutricional status of individuals or population groups have been extensively discussed in medical literature. The main objective of this review is providing a critical analysis of anthropometric and biochemical nutritional evaluation.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/707</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p5-18</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 5-18</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 5-18</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 5-18</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/707/719</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/708</identifier>
+        <datestamp>2020-09-11T12:09:17Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Vannucchi, Hélio</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronesi</dc:creator>
+          <dc:description xml:lang="pt-BR">Com a edição do "Seminário em Semiologia Especializada", a revista Medicina (Ribeirão Preto) oferece aos alunos recurso instrucional atualizado e que atende satisfatoriamente o conteúdo programático do curso.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/708</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p3</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 3</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 3</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 3</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/708/720</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/709</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Technique of the neurologic examination</dc:title>
+          <dc:title xml:lang="pt-BR">Semiotécnica neurológica</dc:title>
+          <dc:creator>Speciali, José Geraldo</dc:creator>
+          <dc:subject xml:lang="en-US">Medical History Taking</dc:subject>
+          <dc:subject xml:lang="en-US">Diagnosis, Neurologic</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Examination</dc:subject>
+          <dc:subject xml:lang="en-US">Neurologic Examination</dc:subject>
+          <dc:subject xml:lang="en-US">Neurology</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anamnese</dc:subject>
+          <dc:subject xml:lang="pt-BR">Diagnóstico Neurológico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exame Físico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exame Neurológico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neurologia</dc:subject>
+          <dc:description xml:lang="pt-BR">O autor descreve, suscintamente, os principais passos do Exame Neurológico. Os objetivos principais são iniciar os estudantes da área médica, especialmente os de Medicina, nas técnicas do Exame Neurológico e padronizá-las no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo.</dc:description>
+          <dc:description xml:lang="en-US">The autor describes briefly the basic steps os neurologic examination. Main objectives of this work are initiation of undergraduated students, specially of Medicine, in the techniques of neurologic examination and the standardization of these techniques in the University Hospital of the School of Medicine of Ribeirão Preto, Universidade de São Paulo.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/709</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p19-31</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 19-31</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 19-31</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 19-31</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/709/721</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/710</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Neurologic examination in children</dc:title>
+          <dc:title xml:lang="pt-BR">Exame neurológico em crianças</dc:title>
+          <dc:creator>Funayama, Carolina Araújo Rodrigues</dc:creator>
+          <dc:subject xml:lang="en-US">Child Development</dc:subject>
+          <dc:subject xml:lang="en-US">Infant, Newborn</dc:subject>
+          <dc:subject xml:lang="en-US">Neurologic Examination</dc:subject>
+          <dc:subject xml:lang="en-US">Child</dc:subject>
+          <dc:subject xml:lang="pt-BR">Desenvolvimento Infantil</dc:subject>
+          <dc:subject xml:lang="pt-BR">Recém- Nascido</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exame Neurológico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Criança</dc:subject>
+          <dc:description xml:lang="en-US">The author details the current method of neurologic examination from neonatal period to seven years old, emphasizing maturative features and presenting a scheme that includes data from neurologic examination and developmental diagnosis.</dc:description>
+          <dc:description xml:lang="pt-BR">Técnicas de exame neurológico em crianças, desde o período neonatal, são descritas, bem como modificações que ocorrem, no decorrer da maturação tono, reflexos, postura, coordenação, equilíbrio, linguagem, praxias e gnosias. Ao final, é apresentado um esquema que reúne dados da semiologia neurológica e do desenvolvimento até 7 anos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/710</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p32-43</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 32-43</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 32-43</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 32-43</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/710/722</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/711</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Psychiatric semiology</dc:title>
+          <dc:title xml:lang="pt-BR">Semiologia psiquiátrica</dc:title>
+          <dc:creator>Zuardi, Antonio Waldo</dc:creator>
+          <dc:creator>Loureiro, Sonia Regina</dc:creator>
+          <dc:subject xml:lang="en-US">Medical History Taking</dc:subject>
+          <dc:subject xml:lang="en-US">Psychiatry</dc:subject>
+          <dc:subject xml:lang="en-US">Physician - Patient Relations</dc:subject>
+          <dc:subject xml:lang="en-US">Mental Status</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anamnese</dc:subject>
+          <dc:subject xml:lang="pt-BR">Psiquiatria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Relações Médico-Paciente</dc:subject>
+          <dc:subject xml:lang="pt-BR">Entrevista Psiquiátrica</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo principal deste artigo é introduzir o estudante de graduação, especialmente de Medicina, na prática da semiologia psiquiátrica. Os autores discutem a entrevista psiquiátrica como a maneira essencial de avaliação&amp;nbsp;do paciente psiquiátrico. O artigo fornece uma visão geral da história psiquiátrica e das partes componentes do exame do estado mental, incluindo: aparência, fala e pensamento, distúrbios da percepção, afeto e humor, atenção e concentração, memória, orientação, consciência, inteligência e julgamento da realidade.</dc:description>
+          <dc:description xml:lang="en-US">The main objective of this article is to introduce undergraduate students, especially of medicine, in the practice of psychiatric semiology. The authors discuss the psychiatric interview as the essential way for assessment of the psychiatric patient. The article provides an outline of a psychiatric history and of the component parts of the mental status examination, including: appearance; speech and thought; perceptual disturbances; affect and mood; attention and concentration; memory; orientation; consciousness; intelligence; and reality judgment.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/711</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p44-53</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 44-53</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 44-53</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 44-53</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/711/723</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/712</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Semiologia oftalmológica</dc:title>
+          <dc:title xml:lang="en-US">Ophtalmologic semiology</dc:title>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:subject xml:lang="en-US">Physician-Patient Relations</dc:subject>
+          <dc:subject xml:lang="en-US">Medical History Taking</dc:subject>
+          <dc:subject xml:lang="en-US">Diagnosis, Eye</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Examination</dc:subject>
+          <dc:subject xml:lang="en-US">Ophthalmology</dc:subject>
+          <dc:subject xml:lang="pt-BR">Relações Médico-Paciente</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anamnese</dc:subject>
+          <dc:subject xml:lang="pt-BR">Diagnóstico Oftalmológico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exame Físico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Oftalmologia</dc:subject>
+          <dc:description xml:lang="en-US">Following anamnesis, which is the first patient-doctor contact, physical examination must start with the inspection of anterior ocular structures and their annexes, which can provide valuable information for such the ophtalmologist and other specialists; the next steps are to assess ocular movements and to research strabismus also by the corneal light reflex test and the cover test; to assess pupillary function; to measure and record visual acuity; to find out visual field defects; to perform slit-lamp biomicroscopy; to measure and record the intraocular pressure; to perform ophthalmoscopy, and then, according with the symptoms and signs, to choose the other tests and techniques necessary to a diagnosis of the ocular problem or disease.</dc:description>
+          <dc:description xml:lang="pt-BR">Iniciando pela anamnese oftalmológica e seguindo com o exame externo do globo ocular, com a avaliação da movimentação ocular e da acuidade visual, concluimos com o exame das estruturas oculares internas do olho com auxílio de instrumentos. Trata-se dos primeiros elementos da propedêutica oftalmológica básica, necessária para o médico não oftalmologista.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/712</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p54-60</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 54-60</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 54-60</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 54-60</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/712/724</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/714</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Orthopedic semiology</dc:title>
+          <dc:title xml:lang="pt-BR">Semiologia ortopédica</dc:title>
+          <dc:creator>Volpon, José Batista</dc:creator>
+          <dc:subject xml:lang="en-US">Orthopaedics</dc:subject>
+          <dc:subject xml:lang="en-US">Gait</dc:subject>
+          <dc:subject xml:lang="en-US">Musculolske!etal System</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Examination</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ortopedia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Marcha</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sistema Músculo-Esquelético</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exame Físico</dc:subject>
+          <dc:description xml:lang="pt-BR">Os fundamentos da semiologia ortopédica são apresentados, divididos em: inspeção geral, exame da marcha o dos segmentos do sistema músculo-esquelético: coluna vertebral, ombros, cotovelos, mãos, quadris, joelhos e pés.</dc:description>
+          <dc:description xml:lang="en-US">The basic approach to the physical examínational of the musculoskeletal system is presented in the folowing sections: general examination, gait, spine, shouder, elbow, hand, hip, knee and foot.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/714</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p67-79</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 67-79</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 67-79</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 67-79</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/714/725</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/715</identifier>
+        <datestamp>2020-06-25T16:07:08Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Revista Medicina, Ribeirão Preto. A poucos passos da Periodicidade Regular</dc:title>
+          <dc:title xml:lang="en-US">Revista vista Medicina, Ribeirão Preto. A few steps away from Regular Periodicity</dc:title>
+          <dc:creator>Silva Junior, Orlando Castro e</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/715</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i4p375-376</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 4 (2010); 375-376</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 4 (2010); 375-376</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 4 (2010); 375-376</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/715/726</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/716</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Gynecologic semiology</dc:title>
+          <dc:title xml:lang="pt-BR">Semiologia ginecológica</dc:title>
+          <dc:creator>Carrara, Helio Humberto Angotti</dc:creator>
+          <dc:creator>Duarte, Geraldo</dc:creator>
+          <dc:creator>Philbert, Paulo Meyer de Paula</dc:creator>
+          <dc:subject xml:lang="en-US">Gynecology</dc:subject>
+          <dc:subject xml:lang="en-US">Medical History Talking</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Examination</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ginecologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anamnese</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exame Físico</dc:subject>
+          <dc:description xml:lang="en-US">This paper is aimed at students who are inittiaing Gynecologic practice. As a guide it does not intend to be complete. Different approaches from the ones here presented may be observed in classrooms, athough the main content shall be preserved. Consulting the mentioned books certainly will expand the information obtained.</dc:description>
+          <dc:description xml:lang="pt-BR">Este trabalho tem o objetivo de servir de roteiro aos alunos que estão iniciando o curso de Ginecologia, através da Semiologia Tocoginecológica e, como roteiro, não tem a pretensão de ser completo. Algumas aulas poderão ter abordagem ou seqüência diferente daquela aqui apresentada, porém, o conteúdo principal será respeitado. A leitura das obras citadas ampliará e solidificará os conhecimentos aqui auferidos, lembrando que a complementação com aulas práticas é fundamental.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/716</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p80-87</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 80-87</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 80-87</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 80-87</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/716/727</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/717</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:Simp.%3ASem.+Esp.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Semiologia obstétrica</dc:title>
+          <dc:title xml:lang="en-US">Obstetric semiology</dc:title>
+          <dc:creator>Carrara, Helio Humberto Angotti</dc:creator>
+          <dc:creator>Duarte, Geraldo</dc:creator>
+          <dc:subject xml:lang="en-US">Obstetrics</dc:subject>
+          <dc:subject xml:lang="en-US">Pregnancy</dc:subject>
+          <dc:subject xml:lang="en-US">Medical History Takin</dc:subject>
+          <dc:subject xml:lang="pt-BR">Obstetrícia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gravidez</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anamnese</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo deste trabalho é facilitar ao aluno o melhor entendimento das alterações e adaptações fisiológicas do organismo materno determinadas pela gravidez, bem como o conhecimento e aprendizado da mecânica do parto.</dc:description>
+          <dc:description xml:lang="en-US">The main idea of this paper is to help the students in the practice of obstetrics semiology, through a better understanding of the modifications and adaptations determined by pregnancy on mother’s body, as well as the delivery mechanism.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/717</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p88-103</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 88-103</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 88-103</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 88-103</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/717/728</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/718</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Review: intermediate filaments</dc:title>
+          <dc:title xml:lang="pt-BR">Revisão: filamentos intermediários</dc:title>
+          <dc:creator>Machado, Gisele Fabrino</dc:creator>
+          <dc:creator>Figueiredo, Florêncio</dc:creator>
+          <dc:subject xml:lang="en-US">Cytoskeleton</dc:subject>
+          <dc:subject xml:lang="en-US">Intermediate Filaments</dc:subject>
+          <dc:subject xml:lang="pt-BR">Citoesqueleto</dc:subject>
+          <dc:subject xml:lang="pt-BR">Filamentos Intermediários</dc:subject>
+          <dc:description xml:lang="pt-BR">Os filamentos intermediários (FIs) têm se tornado objeto de interesse considerável para os biologistas celulares e moleculares. Muitos dados indicam que as proteínas dos FIs fazem parte de uma família multigênica, extremamente, heterogênea. A complexidade dos FIs pode estar relacionada com a sua diversidade de funções dentro das células. O artigo relaciona os principais filamentos intermediários de interesse para estudos sobre embriogênese, fisiologia e patologia dos tecidos de origem animal.</dc:description>
+          <dc:description xml:lang="en-US">Intermediate filaments (IF) has become subject of considerable interest to cell and mollecular biologists. A lot of date indicates that IF proteins constitute an extremely heterogeneous multigene family. This complexity means that IF are functionally diverse component of cells. This paper describes the majors intermediate filaments and their application in some studies linked to embriogenesis, physiology and pathology of animals tissues.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/718</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p104-113</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 104-113</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 104-113</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 104-113</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/718/729</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/719</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Epidemiological evaluation of leprosy and leprosy health services in Ribeirão Preto city, Brazil, in 1992</dc:title>
+          <dc:title xml:lang="pt-BR">Avaliação epidemiológica da hanseníase e dos serviços responsáveis por seu atendimento em Ribeirão Preto - SP no ano de 1992</dc:title>
+          <dc:creator>Oliveira, Sátiro Nakamura</dc:creator>
+          <dc:creator>Hennemann, Gisele Vieira</dc:creator>
+          <dc:creator>Ferreira, Flávio Luís Fantini</dc:creator>
+          <dc:creator>Azevedo, Sílvia Amorim</dc:creator>
+          <dc:creator>Forster, Aldaísa Cassanho</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy</dc:subject>
+          <dc:subject xml:lang="en-US">Public Health</dc:subject>
+          <dc:subject xml:lang="en-US">National Health Programs</dc:subject>
+          <dc:subject xml:lang="en-US">Evaluation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde Pública</dc:subject>
+          <dc:subject xml:lang="pt-BR">Programas Nacionais de Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação</dc:subject>
+          <dc:description xml:lang="pt-BR">A partir de dados registrados na planilha epidemiológica de hanseníase, instituída pelo Ministério da Saúde, sobre os casos atendidos no Município de Ribeirão Preto-S.P., buscou-se traçar um perfil epidemiológico da hanseníase, no ano de 1992, e avaliar a eficácia dos serviços responsáveis pela assistência aos hansenianos. Encontrou-se um coeficiente de prevalência de 1,72/1000 habitantes, pouco abaixo do coeficiente nacional de 1992 (1,78/1000 habitantes), e superior àquele preconizado pela O.M.S. para definir áreas de baixa prevalência (0,2/1000 habitantes). A maioria dos casos (65,4%) era de formas multibacilares, e o esquema terapêutico predominante foi o DNDS (apesar das recomendações do Ministério da Saúde). Detectou-se, também, que cerca da metade dos pacientes não recebeu avaliação de incapacidades durante o ano, havendo 60% dos pacientes com incapacidades de graus II e III, entre os que saíram do programa por alta, por cura e foram avaliados quanto a incapacidades, apesar do comparecimento dos pacientes ter sido satisfatório. Com base em tais resultados inquietantes, os autores propõem a descentralização do atendimento para as Unidades Básicas de Saúde, aproximando o serviço à comunidade. Encaminhamentos a serviços de nível secundário e terciário seriam feitos apenas para determinação diagnóstica mais apurada, e na ocorrência de complicações. Grupos terapêuticos com orientação multiprofissional e multidisciplinar deveriam ser formados para discutir o estigma e formas de reintegrar, socialmente, os pacientes.</dc:description>
+          <dc:description xml:lang="en-US">Analysis of governmental data collected in health services of Ribeirão Preto City in 1992 was made with the purpose of evaluate the leprosy epidemiology and the efficacy of leprosy health services. It was found a prevalence of 1,72 /1000 habitants, that was lower than the brazilian national prevalence in 1992 (1,78 /1000 habitants), and higher than the W.H.O. definition for low prevalence areas (0,2 /1000 habitants). The majority of patients (65,4%) was multibacillary leprosy, and the predominant therapeutics was monoquimiotherapy (despite the W.H.O. recomendations); there was satisfactory patient attendance, but approximately the half of the patients had not evaluations of their disabilities in the year, and 60% of them had sequelae. The proposition is to centralize the assistance in Basic Health Care Facilities, approximating the service to community; the participation of medical specialists and more advanced technology would be employed only to improve the diagnosis or in complications in the course of the treatment. The therapy would be applied in groups of patients, in search for social reintegration and health education.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/719</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p114-122</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 114-122</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 114-122</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 114-122</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/719/730</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/720</identifier>
+        <datestamp>2020-09-11T12:09:16Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Soropositividade para sífilis em amostras sanguíneas, procedentes de quatro regiões (136 bairros) da cidade de Ribeirão Preto - SP</dc:title>
+          <dc:title xml:lang="en-US">Seropositivity to syphilis in blood samples from four regions (136 sections) of Ribeirão Preto - SP</dc:title>
+          <dc:creator>Mendes, Kunimi Hashizume Costa</dc:creator>
+          <dc:creator>Duarte, Geraldo</dc:creator>
+          <dc:creator>Gir, Elucir</dc:creator>
+          <dc:creator>Aleixo, Yolanda A.</dc:creator>
+          <dc:creator>Capuano, Divani M.</dc:creator>
+          <dc:subject xml:lang="en-US">Syphilis</dc:subject>
+          <dc:subject xml:lang="en-US">Syphilis Serodiagnosis</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sífilis</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sorodiagnóstico da Sífilis</dc:subject>
+          <dc:description xml:lang="pt-BR">Avaliou-se a demanda de solicitação sorológica para sífilis (VDRL e FTA Abs), considerando-se a idade e sexo dos pacientes e freqüência de soropositividade de acordo com a Área Distrital de Saúde (ADS), responsável pelo atendimento médico. Um total de 16127 amostras, oriundas de 4 ADS (136 bairros de Ribeirão Preto) foram submetidas ao VDRL, confirmando-se o resultado com o FTA-Abs. O percentual de VDRL falsos positivos foi de 9,0% . Considerando os resultados do FTA-Abs, concluiu-se que as freqüências de amostras positivas para sífilis foi de 9,5%. A ADS que apresentou a maior freqüência de positividade foi a Central, provavelmente por ser uma região onde há maior concentração de profissionais do sexo. Notou-se, também, um elevado número de resultados falsos positivos entre as amostras oriundas da ADS Sumarezinho, levantando questões epidemiológicas e laboratoriais de realce. Houve nítido aumento de solicitações das reações sorológicas para diagnóstico de sífilis, considerando o quadriênio 1989-1992. Apesar do aumento no número de diagnósticos, o percentual de soropositividade para sífilis reduziu, consideravelmente, de 1989 para 1992. Aventa-se que essa redução possa refletir o empenho multidisciplinar nas campanhas de educação em saúde.</dc:description>
+          <dc:description xml:lang="en-US">The serological solicitation for syphilis (VDRL and FTA-Abs) was evaluated, considering the age, sex of patients and the seropositivity frequences according to the Districtal Health Section (DHS) responsible for the medical care. A total of 16,127 samples that came from 4 DHS (136 sections of Ribeirão Preto) of blood, that came from 4 DHS (136 sections of Ribeirão Preto) were analysed throught VDRL and the results were&amp;nbsp;confirmed by FTA-Abs. The percentual of false positive VDRL was equal to 9.0%. By considering the results of FTA-Abs, we concluded that the frequency of positive samples to syphilis was 9.5%. The DHS that had the highest taxes of seropositivity was the Central. It was probably due to the fact that this region reunites a big concentration of sex professionals. It was also observed a big number of false-positive results among the samples from Sumarezinho DHS, what motivated important epidemiological and laboratorial questions. There was a notable increasing of solicitations of serological reactions for syphilis, considering the four-year period 1989-1992. Besides the increasing in the number of diagnosis, the percentual of seropositivity to syphilis reduced considerably from 1989 to 1992. Such reduction may also probably be the result of the multidisciplinary efforts during campaigns of health education.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/720</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i1p123-129</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 1 (1996); 123-129</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 1 (1996); 123-129</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 1 (1996); 123-129</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/720/731</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:08Z" completeListSize="1467" cursor="325">2d334ef1c22e3ca1a15a6b3a653f2252</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

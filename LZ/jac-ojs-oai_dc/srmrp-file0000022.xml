@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:16Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/4240</identifier>
+        <datestamp>2020-06-25T16:15:17Z</datestamp>
+        <setSpec>rmrp:Simp.%3AHem+e+Tromb.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Novas drogas anticoagulantes</dc:title>
+          <dc:title xml:lang="en-US">Novel anticoagulant drugs</dc:title>
+          <dc:creator>Oliveira, Luciana C. O.</dc:creator>
+          <dc:creator>Franco, Rendrik F.</dc:creator>
+          <dc:subject xml:lang="en-US">Anticoagulants. Thrombosis.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anticoagulantes. Trombose.</dc:subject>
+          <dc:description xml:lang="pt-BR">A presente revisão discute as características e o uso clínico potencial de novos agentes anticoagulantes, com ênfase para os inibidores dos fatores da coagulação IIa (trombina), IXa, Xa e FVIIa/fator tecidual, e para agentes que potencializam os mecanismos anticoagulantes e fibrinolíticos.</dc:description>
+          <dc:description xml:lang="en-US">The present review focuses on the characteristics and potential clinical use of new anticoagulant drugs, with emphasis on inhibitors of coagulation factors IIa (thrombin), IXa, Xa and VIIa/tissue factor, and on enhancers of anticoagulant and fibrinolytic activities.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/4240</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p276-281</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 276-281</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 276-281</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 276-281</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/4240/5313</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/4318</identifier>
+        <datestamp>2020-06-25T16:15:16Z</datestamp>
+        <setSpec>rmrp:Simp.%3AHem+e+Tromb.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Coagulação intravascular disseminada</dc:title>
+          <dc:title xml:lang="en-US">Disseminated intravascular coagulation</dc:title>
+          <dc:creator>Pintão, Maria Carolina Tostes</dc:creator>
+          <dc:creator>Franco, Rendrik F.</dc:creator>
+          <dc:subject xml:lang="en-US">Disseminated Intravascular Coagulation. Coagulation. Inflammation.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Coagulação Intravascular Disseminada. Coagulação. Inflamação.</dc:subject>
+          <dc:description xml:lang="pt-BR">No presente artigo, revisamos diversos aspectos da etiologia, fisiopatologia, diagnóstico e tratamento da coagulação intravascular disseminada (CIVD).</dc:description>
+          <dc:description xml:lang="en-US">In the present article we review several aspects related to the etiology, pathophysiology, diagnosis and treatment of disseminated intravascular coagulation (DIC).</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/4318</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p282-291</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 282-291</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 282-291</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 282-291</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/4318/5545</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/4403</identifier>
+        <datestamp>2020-06-25T16:15:15Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apendicite crônica e apendicite recorrente: artigo de revisão e apresentação de casuística</dc:title>
+          <dc:title xml:lang="en-US">Chronic and recurrent appendicitis: review article and cases report</dc:title>
+          <dc:creator>Rocha, José Joaquim Ribeiro</dc:creator>
+          <dc:creator>Aprilli, Francisco</dc:creator>
+          <dc:creator>Féres, Omar</dc:creator>
+          <dc:subject xml:lang="en-US">Chronic Appendicitis. Recurrent Appendicitis. Acute Appendicitis.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Apendicite Crônica. Apendicite Recorrente. Apendicite Aguda.</dc:subject>
+          <dc:description xml:lang="pt-BR">A apendicite crônica e a apendicite recorrente são condições patológicas que diferem da apendicite aguda, a afecção mais comum do apêndice vermiforme. O propósito deste artigo é decifrar, com critério, os aspectos clínicos, o diagnóstico e a histopatologia da apendicite crônica e da apendicite recorrente. Os dados da literatura e as experiências, clínica e cirúrgica, dos autores, demonstradas dentre 10 pacientes com idade média entre 40 e 45 anos, com distribuição similar quanto ao sexo, sendo seis pacientes com apendicite recorrente e quatro com apendicite crônica, permitem concluir que a apendicite crônica e a recorrente já não devem ser mais uma controvérsia ou dúvida, mas um fato inequívoco, de importância clínica e acadêmica, cujos conceitos, por isso mesmo, merecem difusão na literatura científica e nas escolas médicas.</dc:description>
+          <dc:description xml:lang="en-US">Chronic and recurrent appendicitis are pathologic conditions that differ from acute appendicitis, the most common affection of the vermiform appendix. The objective of the present study was to describe in detail the clinical features, diagnosis and pathology of those conditions.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/4403</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p292-296</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 292-296</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 292-296</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 292-296</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/4403/5749</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/4468</identifier>
+        <datestamp>2020-06-25T16:15:13Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Otite média recorrente na infância</dc:title>
+          <dc:title xml:lang="en-US">Recurrent otitis media in childhood</dc:title>
+          <dc:creator>Genov, Isabel Ruguê</dc:creator>
+          <dc:creator>Roxo Júnior, Pérsio</dc:creator>
+          <dc:subject xml:lang="en-US">Otitis Media. Child. Immune System.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Otite Média. Sistema Imunológico. Criança.</dc:subject>
+          <dc:description xml:lang="pt-BR">Os autores fazem revisão sobre otite média recorrente, na infância, abordando aspectos clínicoepidemiológicos, seus principais agentes etiológicos, alterações imunológicas envolvidas e enfocam a necessidade de adequada propedêutica diagnóstica, propondo os principais exames complementares necessários.</dc:description>
+          <dc:description xml:lang="en-US">The authors review the recurrent otitis media during infancy, discussing the clinical epidemiological aspects, their principal etiological agents, the immunity alterations involved, and emphasizing the need for an adequate propedeutic diagnosis, proposing the main complementary screening tests.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/4468</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p297-300</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 297-300</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 297-300</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 297-300</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/4468/5945</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/4469</identifier>
+        <datestamp>2020-06-25T16:15:12Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Ducto venoso: da anatomia à avaliação do bem-estar fetal</dc:title>
+          <dc:title xml:lang="en-US">Ductus venosus: From the anatomy to fetal well being evaluation</dc:title>
+          <dc:creator>Duarte, Geraldo</dc:creator>
+          <dc:creator>Marcolin, Alessandra Cristina</dc:creator>
+          <dc:creator>Crott, Gerson Cláudio</dc:creator>
+          <dc:creator>Gonçalves, Carla Vitola</dc:creator>
+          <dc:creator>Berezowski, Aderson Tadeu</dc:creator>
+          <dc:subject xml:lang="en-US">Ductus Venosus. Pregnancy. Fetus. Evaluation.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ducto Venoso. Gravidez. Avaliação. Feto.</dc:subject>
+          <dc:description xml:lang="pt-BR">O ducto venoso é a continuação da veia umbilical com a veia cava inferior, e ele, posteriormente ao nascimento, oblitera-se, formando o ligamento venoso. Por meio dele, o sangue rico em oxigênio, proveniente da veia umbilical, chega ao átrio direito e a partir daí, pelo forame oval, ganha o átrio esquerdo e a circulação sistêmica, favorecendo o fluxo para órgãos vitais como o cérebro fetal. Em obstetrícia, a ultra-sonografia Doppler tem sido amplamente utilizada para se examinar o sistema arterial fetal. Recentemente, mais atenção tem sido dispensada ao sistema venoso. O estudo das ondas de velocidade de fluxo venoso pode desempenhar um papel importante na avaliação do bem-estar fetal, uma vez que a velocimetria do ducto venoso pode estar alterada na vigência de patologias fetais. A característica mais interessante é a redução ou fluxo reverso durante a contração atrial, comumente encontrada em fetos com defeitos cardíacos congênitos, arritmias, transfusão fetofetal grave e restrição de crescimento intra-útero. Este texto tem a finalidade de revisar as características anatômicas e funcionais do ducto venoso fetal, bem como a importância de sua avaliação ultra-sonográfica pré-natal.</dc:description>
+          <dc:description xml:lang="en-US">The ductus venosus is a blood vessel unique to the fetal circulation which functions as a shunt between the umbilical vein and inferior vena cava. Well-oxygenated blood from the umbilical vein will course almost directly through the ductus venosus towards the foramen ovale and left heart favoring flow to vital organs as the fetal brain. It becomes functionally impervious to blood just after birth, in the majority of mammals. In obstetrics, Doppler ultrasound scan has largely been used to examine the fetal arterial system. Recently, more attention has been paid to the venous system. Assessment of venous flow velocity waveforms can play an important role in the surveillance of&amp;nbsp;fetal well-being. The ductus venosus velocimetry can be altered in fetal diseases. The most striking feature is the reduced or reversed flow during atrial contraction commonly found in fetuses with congenital heart defects, arrhythmias, twin-twin transfusion syndrome and serious intrauterine growth restriction. This text includes a review of the anatomic&amp;nbsp;and physiologic characteristics of fetal ductus venosus and the importance of its evaluation by prenatal ultrasound.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/4469</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p301-307</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 301-307</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 301-307</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 301-307</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/4469/5946</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/4470</identifier>
+        <datestamp>2020-06-25T16:15:11Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Análise quantitativa das células das ilhotas pancreáticas em ratos sob efeito de aloxana</dc:title>
+          <dc:title xml:lang="en-US">Quantitative analysis of cells of the pancreatic islets in rats under effect of alloxan</dc:title>
+          <dc:creator>Lima, Marcus Aurelho</dc:creator>
+          <dc:creator>Lima, Lilian Margareth Biagioni</dc:creator>
+          <dc:creator>Rita, Danielle Patrícia Castanheira</dc:creator>
+          <dc:creator>Navarro, Fábio Castilho</dc:creator>
+          <dc:creator>Tatsukawa, Ranaia Santana</dc:creator>
+          <dc:creator>Pereira, Gilberto Araújo</dc:creator>
+          <dc:creator>Reis, Luiz Carlos</dc:creator>
+          <dc:creator>Abreu, Marta Elena Araújo</dc:creator>
+          <dc:creator>Borges, Maria de Fátima</dc:creator>
+          <dc:subject xml:lang="en-US">Islets of Langerhans. Insulin. Glucagon. Somatostatin. Immunohistochemistry. Alloxan.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ilhotas de Langerhans. Insulina. Glucagon. Somatostatina. Imuno-histoquímica. Aloxana.</dc:subject>
+          <dc:description xml:lang="pt-BR">In the present study, we verified the influence of alloxan over the cells of pancreatic islet of rats, performing quantitative analysis of a, b and d&amp;nbsp; cells through immunohistochemical study. Twenty male rats (Rattus norvegiccus) were used of Wistar line, disposed in 2 groups of 10 rats on each, being a control group and an experimental one. After fasting of 36 hours, 40 ml/Kg of monohydrated of alloxan was administrated by intravenous via and about 30 minutes after, the animal was offered food. At the end of 10 days of observation, animals were sacrificed. Samples of different regions of pancreas were selected and undergone to a histological process and stained with hematoxilin-eosin. To the immunohistochemical study, anti-insulin, anti-glucagon and anti-somatostatin antibodies were used. Quantitative analysis was performed in eight most representative pancreatic islets of each animal. Results were considered significative when p&amp;lt;0.05. There was a significative reduction in the number of cells, destructing the islets and over the pancreatic-cells, which has already been observed in other studies. However, the action mechanism of alloxan over the pancreatic cells was not completely shown, therefore having necessity of more studies to its elucidation.</dc:description>
+          <dc:description xml:lang="en-US">In the present study, we verified the influence of alloxan over the cells of pancreatic islet of rats, performing quantitative analysis of Twenty male rats (Rattus norvegiccus) were used of Wistar line, disposed in 2 groups of 10 rats on each, being a control group and an experimental one. After fasting of 36 hours, 40 ml/Kg of monohydrated of alloxan was administrated by intravenous via and about 30 minutes after, the animal was offered food. At the end of 10 days of observation, animals were sacrificed. Samples of different regions of pancreas were selected and undergone to a histological process and stained with hematoxilin-eosin. To the immunohistochemical study, anti-insulin, anti-glucagon and anti-somatostatin antibodies were used. Quantitative analysis was performed in eight most representative pancreatic islets of each animal. Results were considered significative when p&amp;lt;0.05. There was a significative reduction in the number of a, b and d&amp;nbsp; cells through immunohistochemical study.b&amp;nbsp; cells and a significative increase in the number of d&amp;nbsp; cells. Results reinforce the assertion that alloxan exerts significative influence over the pancreatic b cells, destructing the islets and over the pancreatic d -cells, which has already been observed in other studies. However, the action mechanism of alloxan over the pancreatic b -and d -cells was not completely shown, therefore having necessity of more studies to its elucidation.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/4470</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p308-314</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 308-314</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 308-314</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 308-314</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/4470/5947</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6498</identifier>
+        <datestamp>2020-06-25T16:15:10Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Pacientes com psoríase: adaptação psicossocial e características de personalidade</dc:title>
+          <dc:title xml:lang="en-US">Patients with psoriasis: psychosocial adaptation and personality features</dc:title>
+          <dc:creator>Mingorance, Regina C.</dc:creator>
+          <dc:creator>Loureiro, Sonia R.</dc:creator>
+          <dc:creator>Okino, Liyoko</dc:creator>
+          <dc:creator>Foss, Norma T.</dc:creator>
+          <dc:subject xml:lang="en-US">Psoriasis. Quality of Life. Psychology. Personality Inventory.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Psoríase. Qualidade de Vida. Psicologia. Inventário de Personalidade.</dc:subject>
+          <dc:description xml:lang="pt-BR">A psoríase tem suscitado interesse na investigação por causa dos aspectos psicológicos e sociais de seus portadores. Objetivou-se avaliar as condições psicológicas e adaptativas de pacientes com psoríase e suas relações com variáveis demográficas e condições clínicas. Foram avaliados, no Ambulatório de Dermatologia do Hospital das Clínicas da FMRP - USP, 25 mulheres e 25 homens com idade entre 20-50 anos com diagnóstico de psoríase vulgar. Procedeu-se, em sessões individuais, à aplicação individual do Inventário Simplificado de Personalidade (ISP) e do Inventário de Qualidade de Vida (PDI), conforme as recomendações técnicas, e como complemento houve uma entrevista semi-estruturada. Os protocolos foram cotados e, comparados aos dados normativos, procedeu-se à quantificação e tratamento estatístico. Observou-se que 80% dos pacientes apresentaram tendência a desvio de traço de personalidade, predominando as escalas de Extroversão, Insanidade e Neuroticidade. A maioria relatou dificuldades de adaptação psicossocial, principalmente nas áreas de atividades rotineiras (p&amp;lt;0.001); Extensão psoriática, faixa etária entre 20 a 30 anos, insatisfação quanto à aparência física e desvios de Insanidade e Neuroticidade mostraram-se associados a prejuízos nas atividades rotineiras, relações pessoais e lazer. Os dados apontam a inter-relação de aspectos psíquicos, adaptação psicossocial e peculiaridades clínicas da doença.</dc:description>
+          <dc:description xml:lang="en-US">There has been increasing interest in the investigation of the psychological and social aspects of patients with psoriasis. The objective of the present study was to evaluate the psychological and adaptive conditions of patients with psoriasis and their relations with demographic variables and clinical condition. Twenty-five women and 25 men aged 20-50 years with a diagnosis of vulgar psoriasis were evaluated at the University Hospital, FMRP-USP. The Simplified Personality Inventory (SPI) and the Quality of Life Inventory (QLI) were applied in individual sessions according to technical recommendations and complemented with a semi-structured interview. The protocols were examined and compared to the normative data and the data were quantified and analyzed statistically. Eighty percent of the patients were found to present a tendency to personality deviation, with a predominance of the Extroversion, Insanity and Neuroticism scales. Most patients were in the 20 to 30 year age range and reported difficulties in psychosocial adaptation, especially in areas of routine activities (p&amp;lt;0.001), psoriatic extension, dissatisfaction about their physical appearance and Insanity and Neuroticism deviations, in association with impairment of routine activities, personal relations and leisure. The data indicate an inter-relation between psychological aspects, psychosocial adaptation and the clinical peculiarities of the disease.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6498</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p315-324</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 315-324</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 315-324</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 315-324</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6498/7969</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6499</identifier>
+        <datestamp>2020-06-25T16:15:09Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O processo da assistência ao paciente com lesão medular: gerenciamento de caso como estrategia de organização da alta hospitalar</dc:title>
+          <dc:title xml:lang="en-US">Process of caring for patients with spinal-cord injury: case management as a strategy of hospital discharge</dc:title>
+          <dc:creator>Cardozo-Gonzales, Roxana I.</dc:creator>
+          <dc:creator>Villa, Tereza C. S.</dc:creator>
+          <dc:creator>Caliri, Maria H. L.</dc:creator>
+          <dc:subject xml:lang="en-US">Disease Management. Spinal Cord Injury. Patient Discharge.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gerenciamento da Doença. Lesão da Medula Espinhal. Alta do Paciente.</dc:subject>
+          <dc:description xml:lang="en-US">This study aimed at understanding the process of discharge from hospital of patients with spinal-cord injury according to health professional teams. The research was conducted considering the process of discharge from hospital of patients with spinal-cord injury introducing case management, which is a modality of service that puts one professional in charge of the integral healthcare of patients. Through a qualitative analysis the study was conducted with health professionals from the Emergency Department, Surgery Clinic and Orthopedics Clinic of Ribeirão Preto Emergency Hospital (UE). Semi-structured interviews were used as a technique to collect data during April, 2000, with 3 physicians, 1 physical therapist, 2 social workers, 1 dietician, 5 nurses, 2 nursing technicans and 3 nursing auxiliaries. The thematic units of the research comprised: characterization of the care given to patients with spinal-cord injury during hospital stay; needs or problems of patients with spinal-cord injury; problems or difficulties in caring for patients with spinal-cord injury; preparation for discharge: what is real and what is ideal.</dc:description>
+          <dc:description xml:lang="pt-BR">Este estudo tem como objeto conhecer como se realiza a assistência ao paciente com lesão medular, segundo a percepção da equipe de saúde. O eixo norteador do trabalho é compreender o processo da alta hospitalar do paciente com lesão medular e trazer, como proposta de organização, o Gerenciamento de Caso, que é uma modalidade de prestação de serviço, responsabilizando um profissional pelo total cuidado de saúde do paciente. Através de uma abordagem qualitativa, o estudo foi desenvolvido na Sala de Trauma e Urgências, Clínica Cirúrgica e Ortopedia de um hospital de nível terciário. Foi utilizada a entrevista semi-estruturada como técnica de coleta de dados. Participaram do estudo três médicos, um fisioterapeuta, dois assistentes sociais, um nutricionista, cinco enfermeiros, dois técnicos e três auxiliares de enfermagem que prestam assistência ao paciente com lesão medular. Os dados foram coletados durante os meses de abril e maio de 2000 e analisados pelo método de análise de conteúdo, através da análise temática. Identificaram-se como unidades temáticas, caraterização da assistência ao paciente com lesão medular durante a internação; necessidades ou problemas do&amp;nbsp; paciente com lesão medular; problemas ou dificuldades na assistência ao paciente com lesão medular e preparo da alta: o real e o ideal.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6499</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p325-333</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 325-333</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 325-333</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 325-333</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6499/7970</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6500</identifier>
+        <datestamp>2020-06-25T16:15:08Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Discurso de posse: diretor da faculdade de medicina de Ribeirão Preto da universidade de São Paulo</dc:title>
+          <dc:creator>Moreira, Ayrton Custódio</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6500</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i3/4p334-338</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 3/4 (2001); 334-338</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 3/4 (2001); 334-338</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 3/4 (2001); 334-338</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6500/7971</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6501</identifier>
+        <datestamp>2020-06-25T16:16:58Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Estudos “cegos” ou “mascarados”?</dc:title>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6501</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i1p1-2</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 1 (2000); 1-2</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 1 (2000); 1-2</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 1 (2000); 1-2</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6501/7972</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6502</identifier>
+        <datestamp>2020-06-25T16:16:57Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Ass.+Siste.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Donadi, Eduardo A.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6502</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i1p3-6</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 1 (2000); 3-6</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 1 (2000); 3-6</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 1 (2000); 3-6</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6502/7973</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6503</identifier>
+        <datestamp>2020-06-25T16:16:56Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Ass.+Siste.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">How to understand the nomenclature and the mechanisms involved on the association between histocompatibity antigens and alleles with disease</dc:title>
+          <dc:title xml:lang="pt-BR">Como entender a nomenclatura e os mecanismos de associação entre os antígenos e os alelos de histocompatibildade com as doenças</dc:title>
+          <dc:creator>Donadi, Eduardo A.</dc:creator>
+          <dc:subject xml:lang="en-US">HLA Antigens. Nomenclature. Disease. Association. Histocompatibility.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Antígenos HLA. Nomenclatura. Associação. Doença. Histocompatibilidade.</dc:subject>
+          <dc:description xml:lang="pt-BR">Devido ao elevado grau de polimorfismo das moléculas e genes do Complexo Principal de Histocompatibilidade e às grandes mudanças ocorridas, recentemente, nos métodos de tipificação desses marcadores, tem havido muita confusão para o não especialista, em relação ao entendimento da nomenclatura do sistema. Além disso, devido ao crescente conhecimento acerca do papel das moléculas de histocompatibilidade na função imune, os mecanismos de associação das moléculas HLA com as doenças ainda constituem tópicos bastante complexos. Esta revisão abrange esses aspectos, tentando facilitar o entendimento da nomenclatura e a relevância desses marcadores imunogenéticos na determinação de susceptibilidade ou resistência às doenças.</dc:description>
+          <dc:description xml:lang="en-US">Due to the extensive degree of polymorphism of histocompatibility molecules and alleles, the continued changing of HLA nomenclature, the large recent developments for HLA typing methods at molecular level, and the growing knowledge of the function of HLA molecules in the immune response, the issue regarding the mechanisms of HLA and disease association have yielded much confusion between the HLA non-specialists. The aim of this revision is to facilitate the comprehension of the nomenclature of the Major Histocompatibility Complex, and to overview the current status of the topic HLA and disease association.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6503</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i1p7-18</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 1 (2000); 7-18</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 1 (2000); 7-18</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 1 (2000); 7-18</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6503/7974</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6504</identifier>
+        <datestamp>2020-06-25T16:16:54Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Ass.+Siste.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Frequency of histocompatibity antigens in the normal population of the northeast region of the state of São Paulo Brazil</dc:title>
+          <dc:title xml:lang="pt-BR">Freqüência dos antígenos de histocompatibilidade na população normal da região nordeste do estado de são Paulo Brasil</dc:title>
+          <dc:creator>Donadi, Eduardo A.</dc:creator>
+          <dc:creator>Silva, Luís Maurício</dc:creator>
+          <dc:creator>Santos, Cássia M. Paula</dc:creator>
+          <dc:creator>Silveira, Rubens D.</dc:creator>
+          <dc:creator>Deghaide, Neifi H.S.</dc:creator>
+          <dc:creator>Ferraz, Agenor S.</dc:creator>
+          <dc:creator>Voltarelli, Júlio C.</dc:creator>
+          <dc:subject xml:lang="en-US">HLA Antigens. Serology. Histocompatibility Antigens Cass I. Histocompatibility Antigens Cass II.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Antígenos HLA. Sorologia. Antígenos de Histocompatibilidade Classe I. Antígenos de Histocompatibilidade Classe II.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de estudo: estudo de prevalência. Objetivos:&amp;nbsp;avaliação das freqüências dos antígenos de histocompatibilidade de classe I (HLA-A, -B e -C) e de classe II (HLA-DR e -DQ) na população de indivíduos saudáveis da região nordeste do Estado de São Paulo.&amp;nbsp;Metodologia: foram estudados três grupos de indivíduos saudáveis, o de funcionários do Hospital de Clínicas e da Faculdade de Medicina de Ribeirão Preto, o de doadores do Banco de Sangue local e o de doadores cadáveres de órgãos sólidos do São Paulo Interior Transplante. Os antígenos HLA foram tipificados, utilizando-se método de microlinfocitotoxicidade-dependente de complemento.&amp;nbsp;Resultados:&amp;nbsp;as freqüências dos antígenos de histocompatibilidade de classe I ou II, usualmente detectados entre os três grupos estudados, foram semelhantes. Conclusões:&amp;nbsp;as populações de indivíduos saudáveis estudadas refletem adequadamente o perfil imunogenético da população da região nordeste do Estado de São Paulo, podendo esses dados ser utilizados para estudos de seleção de doadores em transplantes, e, também, naqueles de associação com doenças.</dc:description>
+          <dc:description xml:lang="en-US">Type of study&amp;nbsp;: prevalence study.&amp;nbsp;Objectives: to evaluate the frequency of class I and class II histocompatibity antigens in the normal population of the Northeast region of the State of São Paulo, Brazil.&amp;nbsp;Methods:&amp;nbsp;three groups of healthy individuals were studied: the staff personnel of the University Hospital and School of Medicine of Ribeirão Preto; local blood donors, and the cadaveric donors for solid organ transplantation. HLA antigens were typed by a complement-dependent microlymphocytotoxicity assay.&amp;nbsp;Results:&amp;nbsp;HLA frequencies among individulas from the 3 groups sutudied here were similar.&amp;nbsp;Conclusions:&amp;nbsp;HLA frequency observed in any of these populations may be used for donor selection purposes and for HLA and disease association studies.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6504</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i1p19-26</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 1 (2000); 19-26</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 1 (2000); 19-26</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 1 (2000); 19-26</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6504/7975</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6505</identifier>
+        <datestamp>2020-06-25T16:19:56Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Prevenção de incapacidades na hanseníase: uma análise crítica</dc:title>
+          <dc:title xml:lang="en-US">Prevention of disabilities in leprosy: a critical view</dc:title>
+          <dc:creator>Virmond, Marcos</dc:creator>
+          <dc:creator>Vieth, Hannelore</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy</dc:subject>
+          <dc:subject xml:lang="en-US">prevention &amp; control.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase</dc:subject>
+          <dc:subject xml:lang="pt-BR">prevenção &amp; controle.</dc:subject>
+          <dc:description xml:lang="pt-BR">A hanseníase é doença dermatoneurológica, na qual o componente neural é preponderante, ainda que as manifestações cutâneas sejam mais exuberantes. Os novos e efetivos esquemas de poliquimioterapia (PQT) da Organização Mundial da Saúde, adotados pelo Brasil, não necessariamente evitam o dano neural. Na realidade, as melhorias introduzidas na atenção ao paciente por causa da implementação da PQT, aliadas à sua eficácia terapêutica, é que podem ser causa de uma diminuição da ocorrência do dano neural e do desenvolvimento de incapacidades. A prevenção de incapacidades tem sido relegada a um segundo plano, dentre as ações de controle, estando estas centradas no diagnóstico precoce e tratamento adequado dos pacientes. Urge reconduzir as ações de prevenção ao nível de sua indissociabilidade do diagnóstico e tratamento. Prevenir incapacidades significa modificar comportamento, o que é difícil, mormente se tratando de adultos. As técnicas de prevenção são eficazes e conhecidas; assim, o problema da prevenção não está no que fazer e, sim, no como fazer.</dc:description>
+          <dc:description xml:lang="en-US">Leprosy is a skin-nerve disease vhere the neural component is predominant although skin lesions calls for more attention. The new and effective Multidrug Therapeutic (MDT) regimens from WHO do not necessarely prevent the of development of nerve damage. Actually, the possible diminuition of nerve damage and disabilities is, more likely, a result of improvements in the care of patients after the introduction of MDT, in addition to its therapeutic effectiveness. Prevention of disabilities has been negleted in favour of a more close attetion to early diagnosis and adequate treatament. It is needed to redirect actions for prevention of disabilities and associate them to diagnosis and tretament since they are closely linked. Prevention of disabilities means behaviour modification which is usually difficult to achieve, specially among adults. Techiniques for disability prevention are quite effective and, in this regard the problem of prevention in leprosy lies on how to do it and not on what to do.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6505</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p358-363</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 358-363</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 358-363</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 358-363</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6505/7976</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6506</identifier>
+        <datestamp>2020-06-25T16:19:55Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Prospectives for elimination of leprosy in the state of São Paulo and in Brazil</dc:title>
+          <dc:title xml:lang="pt-BR">Perspectivas da eliminação da hanseníase no estado de São Paulo e no Brasil</dc:title>
+          <dc:creator>Nogueira, Wagner</dc:creator>
+          <dc:creator>Marzliak, Mary Lise Carvalho</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy. Public Health.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase. Saúde Pública.</dc:subject>
+          <dc:description xml:lang="en-US">In this work, we analyze the advances reached by the Program of Leprosy Control in Brazil and in the State of the São Paulo, in view of the goal set up by WHO and supported by Brazilian authorities of eliminating leprosy as a public health problem by the year 2000. In spite of the clear reduction of leprosy prevalence in Brazil by the adoption of polychemotherapy and of advances in the diagnosis of the disease, high levels of defection from treatment and, possibly, of relapses, may hint the goal of national elimination of leprosy in the near future.</dc:description>
+          <dc:description xml:lang="pt-BR">Partindo da meta estabelecida pela Organização Mundial de Saúde e referendada pelo Brasil, em 1991, da eliminação da lepra como problema de saúde pública mundial pelo ano 2000, são analisados, neste artigo, os progressos alcançados pelo programa de controle da hanseníase no país e, particularmente, no Estado de São Paulo. Apesar da nítida redução da prevalência da doença pela adoção de poliquimioterapia e dos progressos no seu diagnóstico, os altos níveis de abandono de tratamento e, possivelmente, de ocorrência de recidivas, podem comprometer o objetivo de eliminação nacional da hanseníase a curto prazo.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6506</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p364-370</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 364-370</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 364-370</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 364-370</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6506/7977</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6507</identifier>
+        <datestamp>2020-06-25T16:19:54Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Perspectivas de eliminação global da hanseníase como problema de saúde pública no ano 2000</dc:title>
+          <dc:title xml:lang="en-US">Prospects of global elimination of leprosy as a public health problem by the year 2000</dc:title>
+          <dc:creator>Bechelli, Luis Marino</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy. Public Health.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase. Saúde Pública.</dc:subject>
+          <dc:description xml:lang="pt-BR">Nesta revisão crítica, a perspectiva de eliminação global da lepra é analisada como dependente de três fatores: 1) eficácia da poliquimioterapia anti-hanseniana; 2) dificuldades na implementação da terapia farmacológica e outros programas de controle; 3) condições não-médicas em áreas endêmicas. Baseando-se nestes fatores, emerge uma visão pessimista relacionada ao objetivo da OMS de eliminar a lepra do planeta no ano 2000. &amp;nbsp; &amp;nbsp;</dc:description>
+          <dc:description xml:lang="en-US">In this critical review, the perspective of world elimination of leprosy is analyzed as depending on three factors: 1) efficacy of antileprosy multidrug therapy; 2) difficultys in implementing pharmacologic therapy and other control programs; 3) non-medical conditions in endemic areas. Based on there factors, a pessimistic view arises related to the WHO goal of leprosy elimination by the year 2000. &amp;nbsp; &amp;nbsp;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6507</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p371-378</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 371-378</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 371-378</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 371-378</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6507/7978</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6546</identifier>
+        <datestamp>2020-06-25T16:16:53Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Ass.+Siste.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Tipificação das especificidades HLA-DR e HLA-DQ: estudo comparativo utilizando sorologia, e avaliação do polimorfismo do DNA genômico por intermédio do tamanho dos fragmentos gerados por clivagem com enzimas de restrição</dc:title>
+          <dc:title xml:lang="en-US">HLA-DR and HLA-DQ typing: a comparative study using serology and restriction fragment length polymorphism (RFLP) analysis</dc:title>
+          <dc:creator>Donadi, Eduardo A.</dc:creator>
+          <dc:creator>Santos, Cássia M. Paula</dc:creator>
+          <dc:creator>Nepom, Gerald T.</dc:creator>
+          <dc:subject xml:lang="en-US">HLA Antigens. Polymorphism</dc:subject>
+          <dc:subject xml:lang="en-US">Restriction Fragment Length.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Antígenos HLA. Polimorfismo de Fragmento de Restrição.</dc:subject>
+          <dc:description xml:lang="pt-BR">Embora as tipificações sorológicas dependam da expressão adequada de moléculas HLA de classe II, nas superfícies celulares, da viabilidade celular e da presença de um painel adequado de anti-soros, esse método tem sido utilizado há muitos anos e as tipificações por biologia molecular têm suplantado os problemas. A avaliação do polimorfismo dos genes HLA por intermédio da variação do tamanho dos fragmentos gerados pós digestão com enzimas de restrição (RFLP) foi o primeiro método molecular a ser utilizado para esse fim. A sorologia e o método utilizando RFLP definem os alelos HLA sem muita resolutividade, no entanto, o método utilizando RFLP tem sido considerado melhor do que a sorologia. Assim, neste estudo, fizemos análise das tipificações dos antígenos/alelos HLA de classe II (HLA-DR e HL-DQ), comparando os dois métodos.</dc:description>
+          <dc:description xml:lang="en-US">Serology has been used for HLA typing for many decades; however, serological typing of histocompatibility class II molecules depends on the adequate expression of these molecules on the surface of B lymphocytes, the availability of viable cells and a complete set of antisera. HLA typing at the genomic level has supplanted these pitfalls. The utilization of restriction fragment length polymorphism (RFLP) was the first approach to the HLA typing at molecular level. Although serology and RFLP methods define HLA specificities at low resolution level, RFLP has been considered to be better than serology. In this study, we performed HLA class II (HLA-DR and DQ) typing comparing these two methods.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2000-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6546</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v33i1p27-31</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 33 No. 1 (2000); 27-31</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 33 Núm. 1 (2000); 27-31</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 33 n. 1 (2000); 27-31</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6546/8017</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6637</identifier>
+        <datestamp>2020-06-25T16:19:52Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Sistema automático para diagnóstico de úlcera de córnea</dc:title>
+          <dc:title xml:lang="en-US">Automatic system for diagnostics of corneal ulcer</dc:title>
+          <dc:creator>Ventura, Liliane</dc:creator>
+          <dc:creator>Sousa, Sidney Júlio de Faria e</dc:creator>
+          <dc:creator>Chiaradia, Caio</dc:creator>
+          <dc:creator>Coelho, Renato</dc:creator>
+          <dc:creator>Gazziro, Mário</dc:creator>
+          <dc:subject xml:lang="en-US">Corneal Ulcer. Corneal Diseases.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Úlcera da Córnea. Doenças da Córnea.</dc:subject>
+          <dc:description xml:lang="pt-BR">Úlceras corneanas 1 são feridas na córnea, com alta potencialidade de cegueira, pois, mesmo curadas, tendem a tirar a transparência. Nos países em desenvolvimento e de natureza agrícola, elas respondem por cerca de 5% das causas de cegueira. Uma das formas de o clínico acompanhar o tratamento delas é pela estimativa subjetiva de sua dimensão. Evoluções favoráveis tendem a promover uma diminuição da ferida. No entanto, as medidas existentes para essa estimativa são rudimentares. Assim, estamos desenvolvendo um sistema ótico, automático, para a avaliação da área afetada, a ser implementado num hospital público (400 pacientes são analisados por semana no Setor de Doenças Externas Oculares). O sistema ótico é implementado numa Lâmpada de Fenda e acoplado a um detector do tipo CCD. A imagem é apresentada num monitor de vídeo para PC, através de uma placa de interface comercial, e está sendo desenvolvido um software dedicado à determinação da área de úlcera de córnea.</dc:description>
+          <dc:description xml:lang="en-US">Corneal ulcer 1 is a very common disease in agricultural countries and it is responsible for 5% of the blindness causes. One of the main aspects to be observed in these cases is the increasing or decreasing of the affected area. Favourable evolutions decrease the wound. However the procedure of measuring these ulcers area are still very rudimentary. We have been developing an automatic optical system in order to evaluate the affected area (the ulcer) to be implemented in a public hospital (400 patients per week are analyzed at the External Ocular Deseases sector). The optical system is implemented in a Slit Lamp and connected to a CCD detector. The image is displayed in a PC video monitor by a commercial frame grabber and a dedicated software for determining the area of the ulcer has been developed.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6637</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p379-382</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 379-382</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 379-382</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 379-382</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6637/8108</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6638</identifier>
+        <datestamp>2020-06-25T16:19:51Z</datestamp>
+        <setSpec>rmrp:Art.+Esp.%3A+Im.+Clin.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Occupational asthma</dc:title>
+          <dc:title xml:lang="pt-BR">Asma ocupacional</dc:title>
+          <dc:creator>Sarti, Willy</dc:creator>
+          <dc:subject xml:lang="en-US">Asthma. Environmental Exposure. Occupational Diseases.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Asma. Exposição Ambiental. Doenças Ocupacionais.</dc:subject>
+          <dc:description xml:lang="en-US">In this review of the asthma caused by stimuli derived from the work environment- occupational asthma - we discuss its concept, classification, triggering agents, pathophysiology, diagnostic criteria and differential diagnosis, therapeutical principles and prognosis. It is also presented a clinical case related to environmental exposition in the shoe industry.</dc:description>
+          <dc:description xml:lang="pt-BR">Nesta revisão da asma causada por estímulos próprios do ambiente de trabalho –asma ocupacional – são discutidas sua conceituação, classificação, agentes desencadeantes, fisiopatologia, critérios diagnósticos e diagnóstico diferencial, princípios de tratamento e prognóstico. É também apresentado um caso clínico ilustrativo, relacionado à exposição ambiental em indústria de calçados.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6638</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p383-391</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 383-391</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 383-391</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 383-391</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6638/8109</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6753</identifier>
+        <datestamp>2020-06-25T16:19:50Z</datestamp>
+        <setSpec>rmrp:Art.+Esp.%3A+Ter.+Com.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">insomnia: behavioural and cognitive interventions</dc:title>
+          <dc:title xml:lang="pt-BR">Insônia: intervenção comportamental e cognitive</dc:title>
+          <dc:creator>Riba, Francis J.</dc:creator>
+          <dc:subject xml:lang="en-US">Insomnia. Diagnosis. Relaxation Techniques. Behavior Therapy.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Insônia. Diagnóstico. Técnicas de Relaxamento. Terapia Comportamental.</dc:subject>
+          <dc:description xml:lang="pt-BR">Esta revisão trata do diagnóstico e tratamento não-farmacológico da insônia. Na primeira parte, são apresentados critérios para a definição de insônia e um roteiro clínico para a investigação das suas várias causas (físicas, relacionadas a drogas, mentais e comportamentais). Na segunda parte, são discutidas diferentes técnicas de relaxamentos e um programa detalhado de controle de estímulos aplicados à terapêutica da insônia.</dc:description>
+          <dc:description xml:lang="en-US">This review deals with diagnosis and non-pharmacological treatment of insomnia. In the first part, criteria for definition of insomnia and a clinical guide to search among several causes (physical, drug-related, mental and behavioural) of insomnia are provided. In the second, part, different relaxation techinques and a detailed stimulus control program are discussed for the treatment of insomnia.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6753</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p392-404</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 392-404</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 392-404</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 392-404</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6753/8222</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6792</identifier>
+        <datestamp>2020-06-25T16:19:49Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Brazil: emerging or re-emerging diseases?</dc:title>
+          <dc:title xml:lang="pt-BR">Brasil: doenças emergentes ou reemergentes?</dc:title>
+          <dc:creator>Ruffino Netto, Antonio</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6792</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p405</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 405</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 405</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 405</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6792/8261</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6793</identifier>
+        <datestamp>2020-06-25T16:19:47Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Atendimento de convênios médicos em hospitais universitários</dc:title>
+          <dc:creator>VOLTARELLI, JÚLIO C.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6793</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i4p415-416</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 4 (1997); 415-416</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 4 (1997); 415-416</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 4 (1997); 415-416</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6793/8262</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6794</identifier>
+        <datestamp>2020-06-25T16:19:46Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Cef.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Speciali, José Geraldo</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6794</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i4p417-417</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 4 (1997); 417-417</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 4 (1997); 417-417</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 4 (1997); 417-417</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6794/8263</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6796</identifier>
+        <datestamp>2020-06-25T16:19:45Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Cef.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Classificação das cefaléias</dc:title>
+          <dc:title xml:lang="en-US">Classification for headache disorders</dc:title>
+          <dc:creator>Speciali, José Geraldo</dc:creator>
+          <dc:subject xml:lang="en-US">Headache</dc:subject>
+          <dc:subject xml:lang="en-US">classification.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cefaléia</dc:subject>
+          <dc:subject xml:lang="pt-BR">classificação.</dc:subject>
+          <dc:description xml:lang="pt-BR">A classificação das cefaléias, proposta pela Sociedade Internacional de Cefaléias, em 1988, é discutida e criticada em seus vários aspectos. Além da importância científica, da uniformização de nomenclatura, esta classificação tem importância clínica, para o diagnóstico, prognóstico e terapêutica das cefaléias.</dc:description>
+          <dc:description xml:lang="en-US">The classification of headache proposed by the International Society of Headaches in 1988 is discussed and criticized in various aspects. Revides scientific relevance of nomenclature uniformization, this classification is important for diagnosis, prognosis and therapy of headache.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6796</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i4p421-427</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 4 (1997); 421-427</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 4 (1997); 421-427</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 4 (1997); 421-427</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6796/8265</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/6797</identifier>
+        <datestamp>2020-06-25T16:19:44Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Cef.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">The pathophysiology of migraine</dc:title>
+          <dc:title xml:lang="pt-BR">Fisiopatologia da enxaqueca (ou migrânea)</dc:title>
+          <dc:creator>Vincent, Maurice</dc:creator>
+          <dc:subject xml:lang="en-US">Migraine</dc:subject>
+          <dc:subject xml:lang="en-US">physiopathology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Enxaqueca</dc:subject>
+          <dc:subject xml:lang="pt-BR">fisiopatologia.</dc:subject>
+          <dc:description xml:lang="en-US">The knowledge of the pathophysiology of migraine has advanced to a great extent, particularly over the last 15 years. New genetic data, involving mutations in the CACNL1A4 gene on chromosome 19p13.1 encoding the a1 subunit of the brain specific P/Q-type calcium channel, the role of neuropeptides such as CGRP, NK1 and SP, the influence of NO as a key molecule in migraine, the development of experimental models including the plasma extravasation model developed by Moskowitz’ group and the use of advanced neuroimaging techniques (PET, MR and MEG) are some of the recent achievements. New anti-migraine drugs are on the way, developed according to the new pathophysiological knowledge. Leão's spreading depression remains as one of the most important neurophysiological phenomena in migraine. It activates the trigeminovascular system, induces CGRP-mediated vasodilation and provokes the expression of c-fos in the trigeminal nucleus caudalis. The migrainous pain does not seem to be produced by vasodilation, so classifying headaches in “vascular” and “non-vascular” is no longer appropriate.</dc:description>
+          <dc:description xml:lang="pt-BR">A fisiopatologia da enxaqueca tem sofrido uma evolução considerável, principalmente nos últimos quinze anos. O conhecimento dos mecanismos genéticos, incluindo a participação do gene CACNL1A4 no cromossoma 19p13.1, que codifica a subunidade a1 de um canal de cálcio, tipo P/Q, específico do cérebro, dos mediadores e neurotransmissores envolvidos com a inflamação neurogênica, tais como o Peptídeo Relacionado ao Gene da Calcitonina (CGRP), a NK-1 e a SP; a influência do NO como molécula algógena fundamental na enxaqueca; o desenvolvimento de modelos experimentais, incluindo o modelo do extravasamento de plasma, conforme desenvolvido pelo grupo do Moskowitz; e novas técnicas de neuroimagem (PET, MR e MEG) são alguns exemplos dos avanços alcançados. Isto tem propiciado o desenvolvimento de novos medicamentos antienxaquecosos. A depressão alastrante de Leão tem sido confirmada como o fenômeno neurofisiológico mais importante na enxaqueca: ativa o sistema trigeminovascular, induz vasodilatação mediada por CGRP e a expressão de c-fos no núcleo do trigêmio, no tronco cerebral. A dor na migrânea não é secundária à vasodilatação, o que não mais justifica a divisão das cefaléias em “vasculares” e “não vasculares”.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/6797</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i4p428-436</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 4 (1997); 428-436</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 4 (1997); 428-436</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 4 (1997); 428-436</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/6797/8266</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:16Z" completeListSize="1467" cursor="550">61baa8da6941dbab41378491bccce985</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

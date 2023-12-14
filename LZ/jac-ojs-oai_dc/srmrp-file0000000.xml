@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:19:55Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/158</identifier>
+        <datestamp>2020-06-25T16:07:45Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Revista Medicina, Ribeirão Preto, tentando chegar à Scientific Electronic Library Online - SciELO</dc:title>
+          <dc:title xml:lang="en-US">The journal: Medicina, Ribeirão Preto, trying to be admitted to the Scientific Electronic Library Online - SciELO</dc:title>
+          <dc:creator>Silva Junior, Orlando de Castro e</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/158</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i1p1-2</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 1 (2010); 1-2</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 1 (2010); 1-2</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 1 (2010); 1-2</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/158/681</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/159</identifier>
+        <datestamp>2020-06-25T16:07:44Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Animal models for type 1 diabetes studies</dc:title>
+          <dc:title xml:lang="pt-BR">Modelos experimentais para o estudo do diabetes tipo 1</dc:title>
+          <dc:creator>Kirsten, Vanessa R.</dc:creator>
+          <dc:creator>Sesterheim, Patrícia</dc:creator>
+          <dc:creator>Saitovitch, David</dc:creator>
+          <dc:subject xml:lang="pt-BR">Diabetes Mellitus Experimental. Modelos de Animal Experimental. Camundongos Diabéticos não Obesos.</dc:subject>
+          <dc:subject xml:lang="en-US">Diabetes Mellitus</dc:subject>
+          <dc:subject xml:lang="en-US">Experimental. Experimental Animal Models. Non-Obese Diabetic Mice.</dc:subject>
+          <dc:description xml:lang="en-US">The animal models of diabetes have been used extensively in obtaining the information on this disease.The objective of this study was a literature review on the main experimental models for the study ofdiabetes mellitus. Among the experimental models for the study of diabetes, the models are chemicallyinduced by aloxan and streptozotocin, and the dose used depends on the species of the animal and itsweight. Also, there are two excellent models of spontaneous diabetes: the BB rats (Biobreading) andNOD mice (Non Obese Diabetic). The NOD mice are the most studied model of spontaneous selfimmunedisease-specific body in the world. The reasons for the preference genome of this modelinclude a well-defined, greater quantity of monoclonal reagents for the analysis of components of theimmune system and a reasonably low cost, compared with the use of rats. These mice exhibit spontaneousautoimmunity with destruction of pancreatic islets, in a manner similar to that seen in humans. Theauto-immune destruction is characterized by insulite in pancreatic islets. This infiltration is composedpredominantly of dendritic cells, macrophages, CD4 T cells, CD8 cells and B. The environmental factorstogether with the genetics, clearly alter the incidence of type 1 diabetes in experimental models spontaneous.The susceptibility of these mice is genetics and environment, emphasizing adequate housing,health, diet and gender. The incidence of diabetes in NOD mice is about four times higher in femalesthan in males. Information obtained through this excellent animal model may be relevant to the understandingof the process of the disease in humans.</dc:description>
+          <dc:description xml:lang="pt-BR">Os modelos animais de diabetes têm sido usados extensivamente na obtenção do esclarecimentosobre esta doença. O objetivo deste estudo foi realizar uma revisão bibliográfica sobre os principaismodelos experimentais para o estudo do diabetes mellitus. Dentre os modelos experimentais para oestudo do diabetes, existem os modelos induzidos quimicamente por aloxana e streptozotocina, sendoque a dose utilizada depende da espécie do animal e do seu peso. Além disso, existem dois excelentesmodelos de diabetes espontâneo: os ratos BB (Biobreading) e os camundongos NOD (Non ObeseDiabetic). Os camundongos NOD são o modelo mais estudado de doença espontânea auto-imuneórgão-específico em todo o mundo. As razões para a preferência deste modelo incluem um genomabem definido, maior quantidade de reagentes monoclonais para a análise de componentes do sistemaimune e um custo razoavelmente baixo, comparado com a utilização de ratos. Estes camundongosexibem autoimunidade espontânea com destruição das ilhotas pancreáticas, de forma semelhante àobservada em humanos. A destruição auto-imune é caracterizada por insulite e infiltrado leucocitárionas ilhotas pancreáticas. Esta infiltração é composta predominantemente por células dendríticas, macrófagos,por células TCD4, TCD8 e células B. Os fatores ambientais em conjunto com a genética,claramente modificam a incidência do diabetes tipo 1 nos modelos experimentais espontâneos. Asuscetibilidade destes camundongos é poligênica e ambiental, enfatizando condições de habitação,sanitárias, dietéticas e de gênero. A incidência de diabetes em camundongos NOD é aproximadamentequatro vezes maior em fêmeas do que em machos. As informações obtidas através deste excelentemodelo animal podem ser relevantes para O entendimento do processo da doença nos humanos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/159</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i1p3-10</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 1 (2010); 3-10</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 1 (2010); 3-10</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 1 (2010); 3-10</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/159/159</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/160</identifier>
+        <datestamp>2020-06-25T16:07:43Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Hearing and speech patology intervention &amp; visual impairment: perceptions of professionals of staff cross-disciplinary</dc:title>
+          <dc:title xml:lang="pt-BR">Intervenção fonoaudiológica e deficiência visual: percepções de profissionais de equipe interdisciplinar</dc:title>
+          <dc:creator>Monteiro, Mayla M.B.</dc:creator>
+          <dc:creator>Montilha, Rita C. I.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Reabilitação. Portadores de Deficiência Visual. Equipe Interdisciplinar de Saúde.</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation. Visually Impaired Persons. Patient Care Team. Speech</dc:subject>
+          <dc:subject xml:lang="en-US">Language and Hearing Sciences.</dc:subject>
+          <dc:description xml:lang="en-US">Purpose:&#160;To verify health and education´s professional knowledge and opinion concerning Hearing and Speech Pathology intervention with visual impairment´s person. Methods:&#160;A descriptive survey on health and education´s professional that work at the Center of Studies an Researches in Rehabilitation “Prof. Dr. Gabriel O. S. Porto” (Cepre) at the habilitation/rehabilitation process of visual impairment´s person. An self-applied questionnaire was used, desenveloped after a exploratory study and previous-test.&#160;Results:&#160;21 health and education´s professionals answered the questionnaire. The average age was 42.5 years; 92,5% are female. Related the professional´s characteristics, the social service and occupation therapy category’s appeared the most (33,3% each), followed by psychology (19,0%). The main works realized by the Hearing and Speech Pathology known by the professionals who answered the questionnaire were oroface-motricity´s aspects and speech and language alteration´s (38,0% in both). Related to the Hearing and Speech Pathology’s insertion in the stimulation and/or rehabilitation process, the professionals had pointed the global development (38,0) the main aspect where the Hearing and Speech Pathology could contribute. Conclusion:&#160;There is knowledge about Hearing and Speech Pathology’s work by the health and education´s professionals that attended visual impairment´s person, however it´s still restricted. Others studies´ development is suggested about the Hearing and Speech Pathology’s intervention with the visual impairment in order to supply theoretical subsidies for its performance.&#160;&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo:&#160;verificar conhecimento e opinião de profissionais da área da saúde e da educação acerca da intervenção fonoaudiológica com portadores de deficiência visual. Método: realizou-se estudo descritivo com profissionais da área da saúde e educação que atuam no Centro de Estudos e Pesquisa em Reabilitação “Prof. Dr. Gabriel O. S. Porto” (Cepre) na habilitação/reabilitação de portadores de deficiência visual. Utilizou-se um questionário auto-aplicável, desenvolvido após estudo exploratório e testeprévio. Resultados:&#160;a amostra foi composta por 21 profissionais da área da saúde e educação. A média de idade foi de 42.5 anos; 95,2 % são do sexo feminino. Em relação às características profissionais as categorias de Serviço Social e Terapia Ocupacional predominaram com 33,3% cada, seguida de Psicologia 19,0%. Os principais atendimentos realizados pela Fonoaudiologia conhecidos pelos profissionais que participaram do estudo, referem-se a aspectos de motricidade oral e alterações de fala e linguagem (38,0% em ambos). Em relação à inserção da Fonoaudiologia no processo de estimulação e/ou reabilitação os profissionais apontaram como sendo o desenvolvimento global (38,0%) o principal aspecto em que a Fonoaudiologia poderia contribuir.&#160;Conclusão:&#160;percebe-se que há conhecimento da atividade fonoaudiológica por parte dos profissionais que atuam na habilitação/reabilitação de portadores de deficiência visual, porém este ainda é restrito. Sugere-se o desenvolvimento de outros estudos sobre a intervenção da Fonoaudiologia na deficiência visual a fim de fornecer subsídios teóricos para sua atuação.&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/160</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i1p11-19</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 1 (2010); 11-19</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 1 (2010); 11-19</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 1 (2010); 11-19</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/160/160</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/161</identifier>
+        <datestamp>2020-06-25T16:07:42Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Evolution of weight loss among individuals in the waiting line for bariatric surgery in a multidisciplinary secondary healthcare outpatient clinic</dc:title>
+          <dc:title xml:lang="pt-BR">Evolução da perda de peso entre indivíduos da fila de espera para a cirurgia bariátrica em um ambulatório multidisciplinar de atenção secundária à saúde</dc:title>
+          <dc:creator>Gushiken, Cintia Satie</dc:creator>
+          <dc:creator>Vulcano, Daniela Salate Biagioni</dc:creator>
+          <dc:creator>Tardivo, Ana Paula</dc:creator>
+          <dc:creator>Rasera Jr, Irineu</dc:creator>
+          <dc:creator>Souza Leite, Celso Vieira de</dc:creator>
+          <dc:creator>Oliveira, Maria Rita Marques de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Obesidade Mórbida. Assistência Ambulatorial. Educação Nutricional. Cirurgia bariátrica.</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity</dc:subject>
+          <dc:subject xml:lang="en-US">Morbid. Ambulatory Care. Nutrition Education. Bariatric Surgery.</dc:subject>
+          <dc:description xml:lang="en-US">Objective: The objective of this study is to characterize the assistance and analyze patient’s adherence to nutritional follow-up while in the waiting line for bariatric surgery in a multidisciplinary, secondary healthcare outpatient clinic. Methods: This retrospective study was based on the nutritional records of 59 patients subjected to bariatric surgery at the Hospital das Clinics de Botucatu, from 2001 to 2008. The population studied was distributed into 8 groups and analyzed according to follow-up duration. The analysis took into account the evolution of body weight and the number of follow-up visits in a given period. The Kruskal-Wallis test was used to compare data between groups while Spearman’s coefficient was used to test correlations. Results: Among the 59 studied patients, 42 (71.2%) returned to the clinic at least once in six months. Of these, 67.8% lost weight while in the waiting line and 27.1% of them lost more than 10% of their body weight. The greatest weight losses in the preoperative period were found in the groups that had more than six months of nutrition follow-up. There was a mean delay of three months between return visits, which could have contributed to the low adherence to follow-up. Conclusion: The patients in the waiting line for surgery analyzed in this study presented low adherence to the long-spaced return visits. The greatest weight losses were observed in groups that had been followed for more than six months. This shows that, to achieve the desired weight loss and an adequate education process before surgery, at least six months of follow-up and regular visits are necessary.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Caracterizar o atendimento e analisar a adesão de pacientes ao acompanhamento nutricionalna fila de espera para a cirurgia bariátrica em um ambulatório multidisciplinar de atenção secundária àsaúde. Métodos: Foi realizado um estudo retrospectivo a partir de prontuários de nutrição referentes a 59pacientes submetidos à cirurgia bariátrica no Hospital das Clínicas de Botucatu, entre 2001 e 2008. Apopulação estudada foi distribuída e analisada em oito grupos, conforme o tempo de acompanhamento.A análise levou em conta a evolução do peso e o número de retornos no determinado período. Acomparação entre os grupos foi realizada pelo teste de Kruskal-Wallis, enquanto as correlações foramtestadas pelo coeficiente de Spearman. Resultados: Entre os 59 pacientes estudados, 42 retornaram ao serviço ao menos uma vez (71,2%).Destes, 67,8% perderam peso na fila de espera, sendo que 27,1% dos mesmos tiveram redução maiorque 10% no peso corporal. As maiores perdas de peso no pré-operatório foram encontradas nosgrupos que tiveram um acompanhamento nutricional maior que seis meses. Constatou-se uma demoramediana de três meses entre os retornos, o que pode ter contribuído para a baixa adesão ao acompanhamento.Conclusão: Os pacientes da fila de espera para a cirurgia, aqui analisados, apresentaram baixa adesãoao acompanhamento em retornos espaçados. Isso indica que para a desejada redução no pesocorporal e adequado processo educativo aos candidatos à cirurgia bariátrica há que se dispor de tempomínimo de seis meses e encontros regulares.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/161</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i1p20-28</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 1 (2010); 20-28</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 1 (2010); 20-28</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 1 (2010); 20-28</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/161/161</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/162</identifier>
+        <datestamp>2020-06-25T16:07:41Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Devo jogar o meu desfibrilador monofásico fora? – Um exercício de Medicina Baseada em Evidência</dc:title>
+          <dc:title xml:lang="en-US">Should I get rid of my monophasic defibrillator? – An exercise of Evidence Based Medicine</dc:title>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:subject xml:lang="en-US">Evidence-Based Medicine. Defibrillators. Monophasic Defibrillation. Biphasic Defibrillation. Heart Arrest.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medicina Baseada em Evidências. Desfibriladores. Desfibrilação Monofásica. Desfibrilação Bifásica. Parada Cardíaca.</dc:subject>
+          <dc:description xml:lang="pt-BR">A correta interpretação da literatura é uma habilidade que todos os médicos devem estar aptos a realizar para o exercício da profissão. Este artigo tem por finalidade fornecer diretrizes práticas para esta interpretação, buscando fornecer os conceitos fundamentais para este tipo de análise através de um exemplo concreto .</dc:description>
+          <dc:description xml:lang="en-US">Appropriate interpretation of literature is an ability that every physician should be apt. This article will provide guidelines for this interpretation, providing fundamental concepts contextualized in a practical example.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/162</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i1p29-34</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 1 (2010); 29-34</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 1 (2010); 29-34</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 1 (2010); 29-34</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/162/162</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/163</identifier>
+        <datestamp>2020-06-25T16:07:40Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Transplante de fígado como estratégia multidisciplinar de ensino de graduação</dc:title>
+          <dc:title xml:lang="en-US">Liver transplantation as a multidisciplinary strategy for undergraduate education</dc:title>
+          <dc:creator>Silva Junior, Orlando de Castro e</dc:creator>
+          <dc:creator>Nejo, Priscila</dc:creator>
+          <dc:subject xml:lang="en-US">Liver Transplantation. Medical Teaching. Undergraduation Medical Education.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Transplante de Fígado. Ensino Médico. Educação de Graduação em Medicina.</dc:subject>
+          <dc:description xml:lang="pt-BR">O programa de transplante de fígado presta-se, no dia a dia, de forma excelente, ao ensino de graduação, especialmente na forma de iniciação científica com trabalhos de investigação experimental em laboratórios ou na forma de monitoria formal em investigação experimental ou clínica. Nesta segunda modalidade, o aluno auxilia o professor orientador em atividades mais ligadas à enfermaria e centro cirúrgico, com trabalhos de acompanhamento clínico dos doentes, ou estudos de casos em investigações tanto prospectivas como retrospectivas. Cabe ao orientador, atribuir atividades balanceadas, cujos horários de execução não colidam com os formais da graduação. Da mesma forma, cabe ao aluno estruturar suas horas livres para dedicar parte delas ao exercício da atividade científica. Assim, o aluno de graduação, terá a oportunidade de vivenciar as mais variadas facetas do transplante, tendo dele a necessária visão sistêmica, à medida que seu conhecimento se amplia. A importância do transplante é exatamente esta, com o contato diário, ao longo do tempo, formar a idéia plena do todo a partir das complexas partes que o constituem, propiciando ao graduando participar de situações e discussões que não são freqüentemente abordadas durante a graduação.</dc:description>
+          <dc:description xml:lang="en-US">The program of liver transplantation can contribute in an excellent manner to undergraduate education on a daily basis, especially in the form of scientific initiation with studies of experimental investigation in the laboratory or as formal monitoring in experimental or clinical investigation. In the latter modality, the student helps his tutoring professor in activities more related to the ward and to the Surgical Center, with studies on the clinical follow-up of patients, or with case studies in both prospective and retrospective investigations. It is the task of the adviser to attribute balanced activities whose time of execution will not interfere with formal graduation hours. Similarly, it is the responsibility of the student to structure his free time in order to devote part of it to the exercise of scientific activity. On this basis, the medical student will have the opportunity to experience the most varied facets of transplantation, acquiring the necessary systemic view of the procedure as his knowledge expands. The importance of liver transplant is exactly this, i.e., to obtain a complete idea of the whole with daily contact along time starting from the complex parts that constitute the procedure, exposes the student to diverse clinical situations rarely encountered together in other specialties, permitting him to participate in situations and discussions that are not often addressed during the medical course.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/163</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i1p35-38</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 1 (2010); 35-38</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 1 (2010); 35-38</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 1 (2010); 35-38</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/163/163</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/164</identifier>
+        <datestamp>2020-06-25T16:07:37Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Management of the inpatient with heart failure in an internal medicine ward</dc:title>
+          <dc:title xml:lang="pt-BR">Condutas no paciente com insuficiência cardíaca internado em enfermarias de medicina interna</dc:title>
+          <dc:creator>Joaquim, Luis Fernando</dc:creator>
+          <dc:creator>Volpe, Gustavo J.</dc:creator>
+          <dc:creator>Figueiredo, Alexandre B. de</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="en-US">Heart Failure. Patients’ Rooms. Clinical Management.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Insuficiência Cardíaca. Quartos de Pacientes. Tratamento Clínico.</dc:subject>
+          <dc:description xml:lang="pt-BR">A crescente prevalência da Insuficiência Cardíaca na população, e a constante má-aderência aos tratamentos propostos em nível ambulatorial, fazem com que o quadro de descompensação desta doença esteja entre as recordistas em número de internações, causando grande impacto na saúde pública do Brasil. O propósito deste estudo é o de estabelecer um protocolo de condutas a ser aplicado em pacientes com Insuficiência Cardíaca internados em enfermaria de Clínica Médica Geral, como o Hospital Estadual de Ribeirão Preto (SP, Brasil), com o objetivo de garantir a recuperação de um quadro de descompensação recente, assim como reorientar o paciente quanto à importância da aderência ao tratamento instituído. Para tanto, serão propostas a utilização e otimização de ferramentas farmacológicas, além de reintrodução de medidas não-farmacológicas, de modo que se reduza o tempo de internação,o número de recorrências, e favoreça o melhor seguimento ambulatorial destes pacientes.</dc:description>
+          <dc:description xml:lang="en-US">The increasing prevalence in heart failure and associated nonadherence of patients to the proposed ambulatory-treatment regimen cause the decompensate clinical picture to be the cornerstone of the high incidence of hospitalization found in such disorder, which brings a greater impact in public health. The purpose of the present study is to establish a protocol to be applied to heart failure inpatients at an internal medicine ward, such as the Hospital Estadual de Ribeirão Preto (SP, Brazil), in order to guarantee complete recovery from acute decompensated heart failure, as well as to reassure that patients understand the importance of following the proposed treatment protocols. Accordingly, pharmacological therapy and nonpharmacological strategies will be either reintroduced or optimized, in order to reduce the period of hospitalization, rate of infirmary readmission, and also to favor a better ambulatory follow-up of these patients.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/164</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i2p93-106</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 2 (2010); 93-106</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 2 (2010); 93-106</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 2 (2010); 93-106</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/164/165</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/165</identifier>
+        <datestamp>2020-06-25T16:07:36Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Anticoagulação em pacientes hospitalizados</dc:title>
+          <dc:title xml:lang="en-US">Anticoagulation in hospitalized patients</dc:title>
+          <dc:creator>Clé, Diego V.</dc:creator>
+          <dc:creator>Garcia, Andréa A.</dc:creator>
+          <dc:creator>Brunetta, Denise M.</dc:creator>
+          <dc:creator>Schwartzmann, Pedro V.</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Anticoagulantes. Manejo Clínico. Pacientes Internados.</dc:subject>
+          <dc:subject xml:lang="en-US">Anticoagulants. Clinical Management. Inpatients.</dc:subject>
+          <dc:description xml:lang="pt-BR">Os eventos tromboembólicos, principalmente o tromboembolismo venoso, acrescem importante morbidade e mortalidade e representam a segunda causa mais comum de complicações em pacientes hospitalizados. A anticoagulação é o tratamento padrão nestes casos, porém frequentemente seu manejo é complexo e requer conhecimento adequado tanto da farmacologia das drogas quanto da fisiologia da coagulação.Este artigo revê alguns pontos essenciais para quem lida com esses eventos e fornece noções práticas do manejo dos antagonistas da vitamina K e dos anticoagulantes parenterais.</dc:description>
+          <dc:description xml:lang="en-US">Thromboembolic events, particularly venous thromboembolism, add significant morbidity and mortality and represent the second most common cause of complications in hospitalized patients. Anticoagulation is the standard treatment in these cases, but often their management is complex and requires adequate knowledge of both the pharmacology of drugs and the physiology of coagulation. This article reviews some key points to those who deal with these events and provides practical notions of management of vitamin K antagonists and parenteral anticoagulants.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/165</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i2p107-117</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 2 (2010); 107-117</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 2 (2010); 107-117</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 2 (2010); 107-117</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/165/166</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/166</identifier>
+        <datestamp>2020-06-25T16:07:35Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Urinary tract infection</dc:title>
+          <dc:title xml:lang="pt-BR">Infecção do trato urinário</dc:title>
+          <dc:creator>Roriz-Filho, Jarbas S.</dc:creator>
+          <dc:creator>Vilar, Fernando C.</dc:creator>
+          <dc:creator>Mota, Letícia M.</dc:creator>
+          <dc:creator>Leal, Christiane L.</dc:creator>
+          <dc:creator>Pisi, Paula C. B.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Trato Urinário/Infecção. Cistite. Pielonefrite. Bacteriuria assintomática.</dc:subject>
+          <dc:subject xml:lang="en-US">Urinary Tract/Infection. Cystitis. Pyelonephritis. Asymptomatic bacteriuria.</dc:subject>
+          <dc:description xml:lang="en-US">Urinary Tract Infection (UTI) is one of the most common causes of infection in the general population. It is more prevalent in females, but also affects male patients especially when associated with manipulation of the urinary tract and prostate disease. The UTI can be classified according to location in lower UTI (cystitis) and high UTI (pyelonephritis) and according the presence of complicating factors in uncomplicated UTI and complicated UTI. The ITU is complicated when structural or functional abnormalities of the urinary tract are present or when it develops in the hospital. In uncomplicated UTI, ;"&amp;gt;Escherichia coli ;"&amp;gt;is the bacteria responsible for most infections while in complicated UTIs the bacterial spectrum involved is much broader including Gram positive and Gram-negative and high-frequency multi-resistant organisms.UTI is defined by the presence of 100000 cfu/mL. Signs and symptoms associated with UTI include urinary frequency, urinary urgency, dysuria, hematuria and pyuria. The choice of antimicrobial therapy for UTI varies with the presentation of the infection, host and agent. Strategies involving different treatment regimens according to specific patient groups maximize the therapeutic benefits and reduce costs, the incidences of adverse effects and the emergency of resistant organisms.</dc:description>
+          <dc:description xml:lang="pt-BR">A infecção do trato urinário (ITU) é uma das causas mais comuns de infecção na população geral. É mais prevalente no sexo feminino, mas também acomete pacientes do sexo masculino principalmente quando associada à manipulação do trato urinário e à doença prostática. A ITU pode ser classificada quanto à localização em ITU baixa (cistite) e ITU alta (pielonefrite) e quanto à presença de fatores complicadores em ITU não complicada e ITU complicada. A ITU é complicada quando estão presentes alterações estruturais ou funcionais do trato urinário ou quando se desenvolve em ambiente hospitalar. Na ITU não complicada a&#160;Escherichia coli&#160;é a bactéria responsável pela maioria das infecções enquanto nas ITUs complicadas o espectro de bactérias envolvido é bem mais amplo incluindo bactérias Gram positivas e Gram negativas e com elevada frequência organismos multirresistentes. ITU é definida pela presença de 100.000 ufc/mL. Os sinais e sintomas associados à ITU incluem polaciúria, urgência miccional, disúria, hematúria e piúria. A escolha da terapia antimicrobiana para a ITU varia de acordo com a apresentação da infecção, hospedeiro e agente. Estratégias envolvendo diferentes esquemas terapêuticos de acordo com grupos específicos de pacientes maximizam os benefícios terapêuticos, além de reduzir os custos, as incidências de efeitos adversos e o surgimento de microrganismos&#160; resistentes.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/166</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i2p118-125</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 2 (2010); 118-125</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 2 (2010); 118-125</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 2 (2010); 118-125</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/166/167</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/167</identifier>
+        <datestamp>2020-06-25T16:07:34Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Palliative care in internal medicine ward</dc:title>
+          <dc:title xml:lang="pt-BR">Cuidados paliativos em enfermaria de clínica médica</dc:title>
+          <dc:creator>Silva Filho, Silvio Ramos Bernardes da</dc:creator>
+          <dc:creator>Lôbo, Rômulo R.</dc:creator>
+          <dc:creator>Lima, Nereida K. C.</dc:creator>
+          <dc:creator>Ferriolli, Eduardo</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Assistência Paliativa. Doença Crônica. Morte.</dc:subject>
+          <dc:subject xml:lang="en-US">Palliative Care. Chronic Disease. Death.</dc:subject>
+          <dc:description xml:lang="en-US">Chronic progressive incurable illness is a major cause of disability, distress, suffering, and, ultimately, death. This is true for many causes of cancer, progressive neurologic disorders, AIDS, and other disorders of vital organs. When cure in not possible, as often it is not, the relief of suffering is the cardinal goal of medicine. The knowledge and the acceptance of this axiom is the heart of the philosophy, science, and practice of palliative medicine.</dc:description>
+          <dc:description xml:lang="pt-BR">Doença crônica degenerativa incurável é uma causa maior de disfunção, aflição, sofrimento, e, por último, morte. Isso é fato para várias causas de câncer, doenças neurológicas, AIDS e outras disfunções de órgãos vitais. Quando a cura não é possível, como frequentemente não é, o alívio do sofrimento torna-se o principal objetivo da medicina. O conhecimento e a aceitação desse axioma é o cerne da filosofia, ciência e prática da medicina paliativa.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/167</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i2p126-133</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 2 (2010); 126-133</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 2 (2010); 126-133</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 2 (2010); 126-133</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/167/168</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/168</identifier>
+        <datestamp>2020-06-25T16:07:33Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Management of hyperglycemia in non critical hospitalized patients</dc:title>
+          <dc:title xml:lang="pt-BR">Manejo da hiperglicemia no paciente hospitalizado não crítico</dc:title>
+          <dc:creator>Leal, Christiane L.</dc:creator>
+          <dc:creator>Pisi, Paula Carolina Bezzan</dc:creator>
+          <dc:creator>Figueiredo, Alexandre B. de</dc:creator>
+          <dc:creator>Almeida, Sérgio C. L. de</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hiperglicemia. Insulinoterapia. Hipoglicemia. Diabetes Mellitus.</dc:subject>
+          <dc:subject xml:lang="en-US">Hyperglycemia. Insulin Coma Therapy. Hypoglycemia. Diabetes Mellitus.</dc:subject>
+          <dc:description xml:lang="pt-BR">Vários estudos observacionais apontam forte associação entre hiperglicemia nos pacientes hospitalizados e desfechos clínicos desfavoráveis, incluindo tempo de internação prolongado, infecção, incapacidade após alta hospitalar e morte. A Associação Americana de Endocrinologistas Clínicos (AACE) e a Associação Americana de Diabetes (ADA) sugerem que a insulinoterapia seja iniciada para o tratamento de hiperglicemia persistente a partir de níveis de glicemia de 180 mg/dL. Para a maioria dos pacientes não críticos internados, a meta glicêmica pré-prandial é &amp;lt;140 mg/dL e a casua l &amp;lt;180mg/dL.O esquema de insulinização basal-bolus em associação com doses corretivas ou suplementares para o controle da hiperglicemia pré-prandial é a abordagem recomendada.O plano de alta, a educação do paciente durante a internação e a comunicação clara com os cuidadores são fundamentais para garantir transição segura para o manejo ambulatorial da glicemia.&#160;</dc:description>
+          <dc:description xml:lang="en-US">&#160;Several observational studies suggest a strong association between inpatient hyperglycemia (with or without diabetes) and adverse clinical outcomes, including prolonged hospitalization, infection, disability after hospital discharge and death. The American Association of Clinical Endocrinologists (AACE) and American Diabetes Association (ADA) suggest that insulin therapy is initiated for the treatment of persistent hyperglycemia from glucose levels of 180mg/dL. For most noncritically inpatients, usually the goal of premeal blood glucose should be &amp;lt;140mg/dL and random blood glucose &amp;lt; 180mg/dL. The scheme of basal-bolus insulin, in combination with corrective or additional doses to control premeal hyperglycemia is the recommended approach. Discharge planning, patient education and clear communication with outpatient providers are critical for ensuring a safe transition to outpatient glycemic management.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/168</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i2p134-142</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 2 (2010); 134-142</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 2 (2010); 134-142</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 2 (2010); 134-142</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/168/169</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/171</identifier>
+        <datestamp>2020-06-25T16:07:32Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Dengue: transmission, clinical features, diagnosis and treatment</dc:title>
+          <dc:title xml:lang="pt-BR">Dengue: transmissão, aspectos clínicos, diagnóstico e tratamento</dc:title>
+          <dc:creator>Dias, Larissa B. A.</dc:creator>
+          <dc:creator>Almeida, Sérgio C.L.</dc:creator>
+          <dc:creator>Haes, Tissiana M.</dc:creator>
+          <dc:creator>Mota, Letícia M.</dc:creator>
+          <dc:creator>Roriz-Filho, Jarbas S</dc:creator>
+          <dc:subject xml:lang="pt-BR">Vírus da Dengue. Febre Hemorrágica da Dengue. Flavivirus.</dc:subject>
+          <dc:subject xml:lang="en-US">Dengue Hemorrhagic Fever. Dengue Virus. Flavivirus.</dc:subject>
+          <dc:description xml:lang="pt-BR">A dengue é uma arbovirose transmitida principalmente pela picada do mosquito Aedes aegypti. Pode ser assintomática ou apresentar amplo espectro clínico, variando de doença febril autolimitada até formas graves, que podem evoluir com choque circulatório e óbito. Para evitar esse desfecho, a precocidade no diagnóstico da doença e na detecção de sinais de alarme, que indicam evolução desfavorável; assim como a instituição de tratamento adequado, são fundamentais. Não há tratamento específico, ele é apenas sintomático e de suporte. Até o momento, não existe vacina disponível para prevenção da doença, sendo o controle do vetor a medida mais efetiva.&#160;&#160;</dc:description>
+          <dc:description xml:lang="en-US">Dengue is an arbovirus transmitted mainly by the bite of the mosquito Aedes aegypti.It can be asymptomatic or present a wide clinical spectrum, ranging from self-limited febrile illness to severe forms that could evolve with circulatory shock and death. In order to avoid this outcome, early diagnosis of disease and the detection of warning signs that indicate unfavorable, as well as adequate treatment are essential, There is no specific treatment, it is only symptomatic and supportive. Up to now, there is no vaccine available for prevention of disease, vector control the most effective measure.&#160;&#160;&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/171</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i2p143-152</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 2 (2010); 143-152</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 2 (2010); 143-152</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 2 (2010); 143-152</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171/172</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/173</identifier>
+        <datestamp>2020-06-25T16:07:31Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Alcohol and central nervous system</dc:title>
+          <dc:title xml:lang="pt-BR">Álcool e sistema nervoso central</dc:title>
+          <dc:creator>Haes, Tissiana Marques</dc:creator>
+          <dc:creator>Clé, Diego V.</dc:creator>
+          <dc:creator>Nunes, Tiago F.</dc:creator>
+          <dc:creator>Roriz-Filho, Jarbas S.</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Alcoolismo. Sistema Nervoso Central. Nervos Periféricos. Músculos.</dc:subject>
+          <dc:subject xml:lang="en-US">Alcoholism. Central Nervous System. Peripheral Nerves. Muscles.</dc:subject>
+          <dc:description xml:lang="en-US">The effects of pathologic patterns of alcohol use on the Central Nervous System (CNS) are a wellestablished fact, although not all have received a satisfactory explanation. The symptoms can be felt at any level of the neural axis, including the brain, peripheral nerves and muscles. Cranio-encephalic traumatism (CET) from severe car accidents caused by drunk drivers should also be mentioned as an unfortunate after-effect of alcohol abuse on the CNS.Genetic factors are another important determinant of the risk for the pathogenesis of the group of symptoms that together are characteristic or indicative of this specific condition (alcoholism), including a person's inward disposition toward alcoholism. Our aim in this chapter is to list the most important complications of alcohol intake on the CNS, considered to be indispensable knowledge for all clinicians. Although diagnostic confirmation, treatment and follow-up of several of the complications mentioned in this chapter are usually within the province of the neurologist, the internist or general physician is often the first to evaluate the patient and should be familiar enough with head and spine injury to formulate the initial diagnosis and treatment of the disorder by some remedial or curative process; this two-pronged approach has proved to involve a change in the forecast of the probable course of several affections of the CNS by alcohol abuse, especially of the possibility for recovery.</dc:description>
+          <dc:description xml:lang="pt-BR">Os efeitos patológicos do uso do álcool sobre o Sistema Nervoso Central (SNC) são bem conhecidos, embora nem todos tenham explicação satisfatória. Os sintomas podem advir de qualquer nível do neuroeixo incluindo o encéfalo, nervos periféricos e músculos. Traumatismos cranioencefálicos devido aos graves acidentes automobilísticos causados por motoristas embriagados também devem ser mencionados como consequência do álcool sobre o SNC.O fator genético é outro determinante importante do risco para patogênese do grupo de sintomas que juntos são característicos ou indicativos da condição específica (alcoolismo), incluindo a predisposição individual para o alcoolismo.O objetivo deste texto é listar as complicações mais importantes do álcool sobre o SNC, importantes para o conhecimento do clínico. Enquanto a confirmação diagnóstica, o tratamento e o seguimento de várias das complicações mencionadas neste capítulo são normalmente de responsabilidade do neurologista, o clínico é frequentemente o primeiro a avaliar o paciente e deve estar suficientemente familiarizado com afecções do cérebro e da coluna espinhal para formular o diagnóstico e o tratamento inicial visando o controle ou a cura do problema; estas duas vertentes de abordagens têm provado alterar o provável curso de inúmeras afecções sobre o SNC, causados pelo abuso do álcool, especialmente a possibilidade de poder revertê-las.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/173</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i2p153-163</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 2 (2010); 153-163</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 2 (2010); 153-163</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 2 (2010); 153-163</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/173/174</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/175</identifier>
+        <datestamp>2020-06-25T16:07:30Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Rational use of antimicrobials</dc:title>
+          <dc:title xml:lang="pt-BR">Uso racional de antimicrobianos</dc:title>
+          <dc:creator>Mota, Letícia M.</dc:creator>
+          <dc:creator>Vilar, Fernando Crivelenti</dc:creator>
+          <dc:creator>Dias, Larissa B. A.</dc:creator>
+          <dc:creator>Nunes, Tiago F.</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Agentes Antibacterianos. Antibióticos. Uso de Medicamentos.</dc:subject>
+          <dc:subject xml:lang="en-US">Anti-Bacterial Agents. Antibiotics. Drug Utilization.</dc:subject>
+          <dc:description xml:lang="en-US">The inadequate administration of antimicrobials may compromise the clinical response of the patient, increase the costs during hospitalization and contribute to the appearance of multiresistant bacteria. In this context, the use of rational antimicrobials is beneficial to the infected patient and also to the health institution. The prescription of this drug type must take in account the host, the infectious agent and the antimicrobial itself. Thus, its utilization must be based on the knowledge of the concepts of colonization, contamination and infection, notions of clinical microbiology, culture collection, and habitual microbiota of the human body, and mechanisms, action specter, pharmacokinetics, pharmacodynamics and side effects of the antimicrobials. The revision of these topics pursuits to provide subsidies to the choice of the most adequate antimicrobial to the type of infection, foreseen treatment time, failure criteria and clinical answer to the prescribed drug, besides guide possible change of therapy along the treatment.</dc:description>
+          <dc:description xml:lang="pt-BR">A administração inadequada de antimicrobianos é capaz de comprometer a resposta clínica do paciente, aumentar custos com internação e contribuir para o surgimento de bactérias multirresistentes. Nesse contexto, o uso racional de antimicrobianos é benéfico para o paciente infectado e também para a instituição de saúde. A indicação desta classe de drogas deve levar em conta o hospedeiro, o agente infeccioso e o antimicrobiano propriamente dito. Assim, sua utilização deve ser baseada no conhecimento dos conceitos de colonização, contaminação e infecção, noções de microbiologia clínica, coleta de culturas, microbiota habitual do corpo humano, e mecanismos, espectro de ação, farmacocinética, farmacodinâmica e efeitos colaterais dos antimicrobianos. A revisão desses tópicos procura fornecer subsídios para escolha do antimicrobiano mais adequado para o tipo de infecção, tempo de tratamento previsto, critérios de falha e resposta clínica à droga prescrita, além de nortear possível troca de terapia ao longo do tratamento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/175</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i2p164-172</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 2 (2010); 164-172</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 2 (2010); 164-172</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 2 (2010); 164-172</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/175/176</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/178</identifier>
+        <datestamp>2020-06-25T16:07:28Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Cond.enf.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Moriguti, Julio César</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/178</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i3p221-222</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 3 (2010); 221-222</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 3 (2010); 221-222</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 3 (2010); 221-222</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/178/179</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/179</identifier>
+        <datestamp>2020-06-25T16:07:27Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Exacerbation of chronic obstructive pulmonary disease</dc:title>
+          <dc:title xml:lang="pt-BR">Exacerbação da doença pulmonar obstrutiva crônica</dc:title>
+          <dc:creator>Figueiredo, Alexandre Baldini</dc:creator>
+          <dc:creator>Silva Filho, Silvio R. B.</dc:creator>
+          <dc:creator>Lôbo, Rômulo R.</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doença Pulmonar Obstrutiva Crônica. Infecções. Fatores de Risco. Ventilação Não-Invasiva.</dc:subject>
+          <dc:subject xml:lang="en-US">Chronic Obstructive Pulmonary Disease. Infection. Risk Factors. Non-Invasive Ventilation.</dc:subject>
+          <dc:description xml:lang="pt-BR">A doença pulmonar obstrutiva crônica (DPOC) é altamente prevalente e permanece como grande problema de saúde pública em todo o mundo. Exacerbações são eventos característicos da história natural desta doença e estão associados com significante morbidade e mortalidade. A presente revisão aborda aspectos diagnósticos e terapêuticos da exacerbação aguda da DPOC.</dc:description>
+          <dc:description xml:lang="en-US">Chronic obstructive pulmonary disease (COPD) is highly prevalent and remains a major public health problem worldwide. Exacerbations are characteristic events in the natural course of this disease associated with significant morbidity and mortality. This article reviews diagnostic and therapeutic aspects of acute exacerbations of COPD.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/179</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i3p223-230</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 3 (2010); 223-230</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 3 (2010); 223-230</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 3 (2010); 223-230</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/179/180</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/180</identifier>
+        <datestamp>2020-06-25T16:07:27Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Management of acute complications of sickle cell disease</dc:title>
+          <dc:title xml:lang="pt-BR">Manejo das complicações agudas da doença falciforme</dc:title>
+          <dc:creator>Brunetta, Denise Menezes</dc:creator>
+          <dc:creator>Clé, Diego V.</dc:creator>
+          <dc:creator>Haes, Tissiana M.</dc:creator>
+          <dc:creator>Roriz-Filho, Jarbas S.</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doença falciforme. Anemia falciforme. Crise vaso-oclusiva. Síndrome Torácica Aguda.</dc:subject>
+          <dc:subject xml:lang="en-US">Sickle cell disease. Anemia</dc:subject>
+          <dc:subject xml:lang="en-US">Sickle Cell. Vaso-occlusives crisis. Acute Chest Syndrome.</dc:subject>
+          <dc:description xml:lang="pt-BR">Anemia falciforme (HbSS) é uma doença autossômica recessiva caracterizada pela herança homozigota da hemoglobina S (HbS). Clinicamente apresenta-se com anemia hemolítica e vaso-oclusão. O termo doença falciforme engloba a anemia falciforme e heterozigozes compostas com hemoglobina S, como S? talassemia e hemoglobinopatia SC, além de outras associações menos comuns. São várias as complicações agudas na doença falciforme: crises vaso-oclusivas, infecções por microorganismos encapsulados, principalmente do trato respiratório e septicemia, síndrome torácica aguda, sequestro esplênico, priapismo, Acidente Vascular Cerebral (AVC) e crise aplástica. O conhecimento das intercorrências na Doença Falciforme é de extrema importância para todos os níveis de atendimento destes pacientes. A detecção precoce das complicações possibilita tratamento adequado e diminuição da morbimortalidade relacionada a elas.</dc:description>
+          <dc:description xml:lang="en-US">Sickle cell anemia (SCA) is an autosomal recessive disease characterized by the presence of hemoglobin S. It presents with hemolytic anemia e vaso-occlusives phenomena. The term sickle cell disease (SCD) includes the SCA and a group of compound heterozygous states in which the person has only one copy of the mutation that causes HbS and one copy of another abnormal haemoglobin allele, like sicklehemoglobin C disease (HbSC), sickle beta-thalassaemia and other rarer combinations. There are many acute complications of SCD: vaso-occlusives crisis, encapsulated organisms infections, mainly of the airways and sepsis, acute chest syndrome, splenic sequestration, priapism, stroke and aplastic crisis.The knowledge of these complications is very important for all grades of medical assistence. The early detection allows appropriate treatment and reduction of the morbidity and mortality associated with the disease.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/180</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i3p231-237</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 3 (2010); 231-237</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 3 (2010); 231-237</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 3 (2010); 231-237</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/180/181</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/181</identifier>
+        <datestamp>2020-06-25T16:07:26Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Community-acquired pneumonia and nosocomial pneumonia in adults</dc:title>
+          <dc:title xml:lang="pt-BR">Pneumonia comunitária e pneumonia hospitalar em adultos</dc:title>
+          <dc:creator>Schwartzmann, Pedro V.</dc:creator>
+          <dc:creator>Volpe, Gustavo J.</dc:creator>
+          <dc:creator>Vilar, Fernando C.</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Pneumonia Bacteriana/diagnóstico. Pneumonia Bacteriana/transmissão. Infecção Hospitalar.</dc:subject>
+          <dc:subject xml:lang="en-US">Pneumonia</dc:subject>
+          <dc:subject xml:lang="en-US">Bacterial/diagnosis. Pneumonia</dc:subject>
+          <dc:subject xml:lang="en-US">Bacterial /transmission. Cross Infection.</dc:subject>
+          <dc:description xml:lang="pt-BR">&#160; Pneumonia bacteriana comunitária e hospitalar em adultos são problemas de saúde pública crescentes, com inúmeras internações anualmente e causas frequentes de morbimortalidade. A rápida caracterização do quadro clínico deve ser acompanhada de decisão quanto à necessidade de internação do paciente e o tratamento deve ser baseado na gravidade da apresentação e aspectos epidemiológicos. O acompanhamento clínico é imprescindível, tanto ambulatorialmente quanto na internação, atento aos critérios de falha terapêutica e necessidade de revisão da terapêutica inicialmente instituída. Particularmente na pneumonia hospitalar (nosocomial), o diagnóstico é um desafio e a análise do tempo do início do quadro é fundamental para o direcionamento empírico do tratamento. Ênfase na prevenção é uma tentativa de redução na frequência dos casos.&#160;</dc:description>
+          <dc:description xml:lang="en-US">Community and hospital acquired bacterial pneumonia in adults are increasing public health problems, with numerous hospitalizations annually and frequent causes of morbidity and mortality. Rapid characterization of the clinical picture must be accompanied by a decision regarding the need for patient hospitalization and treatment should be based on severity of presentation and epidemiological aspects. The follow up is essential, both outpatient and in hospital, in keeping with the criteria of treatment failure and need for review of initial treatment. Particularly in hospital-acquired pneumonia (nosocomial), the diagnosis is a challenge and analysis of time of onset is crucial for directing empirical treatment. Emphasis on prevention is an attempt to reduce the frequency of cases.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/181</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i3p238-248</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 3 (2010); 238-248</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 3 (2010); 238-248</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 3 (2010); 238-248</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/181/182</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/182</identifier>
+        <datestamp>2020-06-25T16:07:25Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Delirium</dc:title>
+          <dc:title xml:lang="en-US">Delirium</dc:title>
+          <dc:creator>Lôbo, Rômulo Rebouças</dc:creator>
+          <dc:creator>Silva Filho, Silvio R. B.</dc:creator>
+          <dc:creator>Lima, Nereida K. C.</dc:creator>
+          <dc:creator>Ferriolli, Eduardo</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Delírio. Fatores de Risco. Infecções. Idoso.</dc:subject>
+          <dc:subject xml:lang="en-US">Delirium. Risk Factors. Infections. Elderly.</dc:subject>
+          <dc:description xml:lang="en-US">Delirium, also known as acute confusional state is a cognitive impairment defined by acute onset and fluctuating course, disturbance of consciousness, attention, orientation, memory, thought, perception and behavior. It is an increasingly common condition among hospitalized patients and more frequent in, elderly and debilitated patients. It is a medical emergency, already proven higher death rates, longer hospitalization and higher rates of institutionalization due the occurrence of delirium.&#160;The pathophysiologic mechanism is not yet well established, with the change in neurotransmission most probably involved. Management of patients should include identification of risk factors and precipitants, with appropriate interventions aimed at each resolution.&#160;It is presented by altered level of consciousness, attention deficit and other disorders of cognition, which may present as hyperactive, hypoactive, or mixed. Although well defined, several times delirium&#160;goes unrecognized by health professionals. The main measure in addressing delirium is prevention, with institutional measures required as well as training of health professionals.&#160;Non-pharmacological treatment consists of measures to prevent the factors responsible for the development of delirium , and is the first option in the initial approach. Pharmacological&#160; treatment is reserved for patients with major upheaval, with the risk of physical trauma, and presenting no response to non-pharmacological measures.&#160;For the frequency and importance as a prognostic factor, delirium should be approached systematically, with flowcharting care and defining standardized measures for each institution.&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">Delirium também conhecido como estado confusional agudo é uma alteração cognitiva definida por início agudo, curso flutuante, distúrbios da consciência, atenção, orientação, memória, pensamento, percepção e comportamento. É condição cada vez mais comum entre pacientes hospitalizados&#160; e acomete, preferencialmente, pacientes idosos e debilitados. Trata-se de emergência médica, já sendo comprovadas maiores taxas de mortalidade, maior tempo de internação e maiores índices de&#160;institucionalização quando do episódio de delirium.O mecanismo fisiopatológico ainda não está bem definido, sendo a alteração na neurotransmissão o mecanismo mais provável. A abordagem do paciente deve incluir a identificação de fatores predisponentes e precipitantes, com intervenções adequadas a cada um visando à resolução do quadro. Apresenta-se por alteração do nível de consciência, déficit de atenção e outros distúrbios da cognição, podendo se apresentar na forma hiperativa, hipoativa ou mista.&#160;Apesar de já estar bem definido, por diversas vezes passa despercebido aos profissionais de saúde. A principal medida na abordagem de delirium é a prevenção, e são necessárias medidas institucionais e treinamento dos profissionais de saúde. O tratamento não-farmacológico consiste em medidas que evitem os fatores responsáveis pelo desenvolvimento do delirium , sendo a primeira opção na abordagem inicial.&#160;O tratamento farmacológico se reserva aos pacientes com agitação importante, com risco de trauma físico, e que não apresentem resposta às medidas não-farmacológicas. Por&#160; sua frequência e importância como fator prognóstico, o delirium deve ser abordado de forma sistematizada, com a elaboração de fluxogramas de atendimento e definição de medidas uniformizadas para cada instituição. &#160;&#160;.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/182</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i3p249-257</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 3 (2010); 249-257</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 3 (2010); 249-257</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 3 (2010); 249-257</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/182/183</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/183</identifier>
+        <datestamp>2020-06-25T16:07:24Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Pulmonary thromboembolism</dc:title>
+          <dc:title xml:lang="pt-BR">Tromboembolismo pulmonar</dc:title>
+          <dc:creator>Volpe, Gustavo Jardim</dc:creator>
+          <dc:creator>Joaquim, Luis F.</dc:creator>
+          <dc:creator>Dias, Larissa B. A.</dc:creator>
+          <dc:creator>Menezes, Marcelo B.</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Tromboembolismo Pulmonar. Manifestações Clínicas. Trombólise Terapêutica. Anticoagulantes.</dc:subject>
+          <dc:subject xml:lang="en-US">Pulmonary Thromboembolism. Signs and Symptoms. Thrombolytic Therapy. Anticoagulants.</dc:subject>
+          <dc:description xml:lang="en-US">Pulmonary embolism (PE) has highly variable clinical presentation, ranging from completely asymptomatic patients, in which the diagnosis is made incidentally, to situations where massive emboli lead the patient quickly to death. Its diagnosis is difficult and depends on analysis of pre-test probability for optimum accuracy of diagnostic procedures. The hallmark of treatment is anticoagulation, but the chemical thrombolysis should be considered in cases of hemodynamic instability.</dc:description>
+          <dc:description xml:lang="pt-BR">O tromboembolismo pulmonar (TEP) tem quadro clínico bastante variável, que vai desde quadros completamente assintomáticos, nos quais o diagnóstico é feito incidentalmente, até situações em que êmbolos maciços levam o paciente rapidamente à morte. Seu diagnóstico é difícil e depende da análise da probabilidade pré-teste para otimização da acurácia dos métodos diagnósticos complementares. A pedra angular do tratamento é anticoagulação, porém a trombólise química deve ser considerada em casos de instabilidade hemodinâmica.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/183</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i3p258-271</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 3 (2010); 258-271</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 3 (2010); 258-271</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 3 (2010); 258-271</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/183/184</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/184</identifier>
+        <datestamp>2020-06-25T16:07:23Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Acute renal failure</dc:title>
+          <dc:title xml:lang="pt-BR">Insuficiência renal aguda</dc:title>
+          <dc:creator>Nunes, Tiago Ferolla</dc:creator>
+          <dc:creator>Brunetta, Denise M.</dc:creator>
+          <dc:creator>Leal, Christiane M.</dc:creator>
+          <dc:creator>Pisi, Paula C. B.</dc:creator>
+          <dc:creator>Roriz-Filho, Jarbas S.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Lesão Renal Aguda. Diálise. Creatinina. Clearance de Creatinina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hiperkalemia.Hiperpotassemia. Necrose Tubular Aguda.</dc:subject>
+          <dc:subject xml:lang="en-US">Acute Kidney Injury. Dialysis. Creatinine. Creatinine Clearance. Hyperkalemia. Kidney Tubular Necrosis</dc:subject>
+          <dc:subject xml:lang="en-US">Acute.</dc:subject>
+          <dc:description xml:lang="pt-BR">A Insuficiência Renal Aguda (IRA) pode estar associada a várias etiologias no organismo humano, sendo este um dos motivos da importância dispensada àa esta doença. A prevenção é a principal ferramenta do médico e quando esta não foi possível, o tratamento visa afastar as principais causas, com investigação das demais e medidas de suporte para manter a viabilidade renal, muitas das vezes com êxito. A taxa de mortalidade em pacientes com IRA não se alterou muito nos últimos 30 anos. Os óbitos podem ocorrer em consequência da doença de base e não da própria IRA, pois o rim é um dos poucos órgãos cuja função pode ser substituída em parte por longos períodos (ex. diálise).</dc:description>
+          <dc:description xml:lang="en-US">The Acute Renal Failure (ARF) can be related to several etiologies in the human organism, being one of the reasons of the importance given to this disease. The prevention is the doctor's main tool and, when it is not possible, the treatment looks forward repelling the main causes, also investigating the others and keeping supportive care to maintain the renal viability, most of the times, successfully. The mortality rate in patients with ARF did not change much in the last 30 years. The deaths can occur as a result of the underlying disease and not of ARF, because the kidney is one of the few organs which function can be&#160;substituted, in part, for long periods (ex. dialysis).</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/184</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i3p272-282</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 3 (2010); 272-282</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 3 (2010); 272-282</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 3 (2010); 272-282</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/184/185</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/185</identifier>
+        <datestamp>2020-06-25T16:07:22Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Assessment of patients with arthritis</dc:title>
+          <dc:title xml:lang="pt-BR">Avaliação do paciente com artrite</dc:title>
+          <dc:creator>Almeida, Sérgio C. L.</dc:creator>
+          <dc:creator>Joaquim, Luis F.</dc:creator>
+          <dc:creator>Schwartzmann, Pedro V.</dc:creator>
+          <dc:creator>Roriz-Filho, Jarbas S.</dc:creator>
+          <dc:creator>Moriguti, Julio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Monoartrite Aguda. Gota. Artrite séptica. Artrite Reativa.</dc:subject>
+          <dc:subject xml:lang="en-US">Acute Monoarthritis. Gout. Arthritis</dc:subject>
+          <dc:subject xml:lang="en-US">Septic. Arthritis</dc:subject>
+          <dc:subject xml:lang="en-US">Reactive.</dc:subject>
+          <dc:description xml:lang="en-US">Arthritis are clinical manifestations of plenty of diseases. Its etiological classification is many times difficult and depends on careful clinical history and physical examination. Gout and skeptical arthritis presents commonly as acute monoarthritis and reactional arthritis are often polyarticular. Hospitalar admission is a risk factor to the development of reactional arthritis, crisis of gout and septical arthritis.Early diagnosis is imperative to start early treatment, symptom relief and articular function preservation.Synovial fluid aspiration and its analysis are of critical diagnostic importance in cases of acute monoarthritis.</dc:description>
+          <dc:description xml:lang="pt-BR">Artrites são manifestações clínicas de uma série de doenças. Sua classificação etiológica é muitas vezes difícil e depende de história clínica e exame físico cuidadosos. Artrite séptica e gota se apresentam mais comumente como monoartrite aguda e quadros reacionais são geralmente poliarticulares. A internação hospitalar é fator de risco para o desenvolvimento tanto de artrites reacionais quanto para crises de gota e artrite séptica. O diagnóstico precoce é muito importante a fim de iniciar o tratamento precocemente, alívio dos sintomas e preservação da funcionalidade articular. A punção do líquido sinovial e sua análise são de fundamental importância diagnóstica nos quadros de monoartrite aguda.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/185</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i3p283-291</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 3 (2010); 283-291</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 3 (2010); 283-291</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 3 (2010); 283-291</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/185/186</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/187</identifier>
+        <datestamp>2020-06-25T16:07:20Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Fraglity syndrome increases susceptibility to mechanical ventilation?</dc:title>
+          <dc:title xml:lang="pt-BR">Síndrome de fragilidade aumenta a suscetibilidade à ventilação mecânica?</dc:title>
+          <dc:creator>Lisboa, Sandra</dc:creator>
+          <dc:creator>Rosa, Bruno Rodrigues</dc:creator>
+          <dc:creator>Gonçalves, Christine Pereira</dc:creator>
+          <dc:creator>David, Cid Marques</dc:creator>
+          <dc:subject xml:lang="pt-BR">Idoso Fragilizado. Envelhecimento. Cuidados Intensivos. Ventilação Mecânica.</dc:subject>
+          <dc:subject xml:lang="en-US">Frail Elderly. Aging. Intensive Care. Respiration</dc:subject>
+          <dc:subject xml:lang="en-US">Artificial.</dc:subject>
+          <dc:description xml:lang="en-US">Some clinical markers of frailty, such as malnutrition, sarcopenia and delirium are predictors of respiratory failure in the elderly. Thus, these risk factors can lead to patients considered vulnerable to greater susceptibility to intubation and mechanical ventilation. Objective:&#160;To identify evidence of a causal association between frailty and invasive mechanical ventilation. Methods:&#160;MEDLINE search for cohorts showing that the syndrome of frailty increases the risk of intubation and mechanical ventilation. Besides the term frailty, were incorporated and considered also markers of clinical syndrome that may have association with respiratory failure, found in the literature as sarcopenia, delirium, malnutrition. The search was performed using specific search strategy, including search terms (Medical Subject Headings - MeSH) and their synonyms. Furthermore, it was carry out additional search the reference list of included studies. Results:&#160;No study met the inclusion criteria of this review.&#160;Conclusions:&#160;In our study, we found no evidence that the weakness may be a risk factor for invasive mechanical ventilation. There are indications however, that delirium can increase the time under mechanical ventilation. Nevertheless, there is considerable lack of information in this area and a lot of uncertainty, perhaps because there is still no established consensus on the syndrome. There is an expressed need for studies to assess whether clinical markers of frailty are risk factors for invasive mechanical ventilation. &#160;&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">Alguns marcadores clínicos da síndrome de fragilidade, como desnutrição, sarcopenia e delírio são preditores de insuficiência respiratória em idosos. Dessa forma, esses fatores de risco podem levar os pacientes considerados frágeis a uma maior suscetibilidade à intubação e ventilação mecânica. Objetivo: &#160;identificar evidências de associação causal entre a síndrome de fragilidade e ventilação mecânica invasiva.&#160;Métodos: busca no MEDLINE por coortes que demonstrem que a síndrome de fragilidade aumenta o risco de intubação e ventilação mecânica invasiva. Além do termo síndrome de fragilidade, foram incorporados e considerados também os marcadores clínicos da síndrome que podem apresentar associação à insuficiência respiratória, reconhecidos na literatura como sarcopenia, delírio e desnutrição. A busca foi realizada através de estratégia de busca específica, incluindo os termos de busca (Medical Subject Headings – MeSH) e respectivos sinônimos. Além disso, foi realizada uma busca adicional na lista de referências dos estudos incluídos.Resultados: nenhum estudo preencheu os critérios de inclusão desta revisão.&#160;Conclusões: Em nosso estudo, não foram encontradas evidências de que a síndrome de fragilidade possa ser um fator de risco para ventilação mecânica invasiva. Existem indícios, no entanto, de que o delírio possa aumentar o tempo de um paciente submetido à ventilação mecânica. Apesar disso, há considerável carência de informações nessa área e muita incerteza, talvez por ainda não haver um consenso estabelecido sobre a síndrome. Há uma expressa necessidade de realização de estudos que avaliem se marcadores clínicos da síndrome de fragilidade são fatores de risco para ventilação mecânica invasiva.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/187</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i4p377-381</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 4 (2010); 377-381</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 4 (2010); 377-381</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 4 (2010); 377-381</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/187/188</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/188</identifier>
+        <datestamp>2020-06-25T16:07:19Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Nonsteroidal anti-inflammatory drugs nephrotoxicity</dc:title>
+          <dc:title xml:lang="pt-BR">Nefrotoxicidade dos anti-inflamatórios não esteroidais</dc:title>
+          <dc:creator>Melgaço, Sarah Suyanne Carvalho</dc:creator>
+          <dc:creator>Saraiva, Maria Isabel Ramos</dc:creator>
+          <dc:creator>Lima, Taís Teixeira Correia</dc:creator>
+          <dc:creator>Silva Júnior, Geraldo Bezerra</dc:creator>
+          <dc:creator>Daher, Elizabeth Francesco</dc:creator>
+          <dc:subject xml:lang="en-US">Anti-Inflammatory Agents</dc:subject>
+          <dc:subject xml:lang="en-US">Non-Steroidal. Drug Toxicity. Kidney/drug effects. Renal Insufficiency.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anti-inflamatórios não esteroidais. Toxicidade de drogas. Rim/efeitos de drogas. Insuficiência renal.</dc:subject>
+          <dc:description xml:lang="en-US">Nonsteroidal antiinflammatory drugs (NSAIDs) constitute the most commonly prescribed drug all over the world. The frequency of their use has increased in the past years. The association between the use of NSAIDs and renal failure is well established and occurs due to renal compensatory vasodilatation, along with cytokine release, which causes glomerular lesion. Renal damage constitutes one of the main reasons for the high rate of morbimortality associated to the indiscriminated use of NSAIDs. In this article we review the literature about nephrotoxicity of NSAIDs, evaluating the pathophysiology and the main clinical features of different kinds of renal injuries</dc:description>
+          <dc:description xml:lang="pt-BR">Os anti-inflamatórios não esteroidais (AINEs) constituem atualmente a classe de medicamentos mais comumente prescrita no mundo todo. A frequência do seu uso tem crescido bastante nos últimos anos. A relação entre o uso de AINEs e a insuficiência renal já está bastante estabelecida e resulta de alterações na vasodilatação renal compensatória, além da liberação de citocinas pró-inflamatórias que causam lesão glomerular. O comprometimento renal constitui um dos principais responsáveis pelo alto índice de morbimortalidade associada ao uso indiscriminado dos AINEs. No presente artigo realizamos uma revisão da literatura existente acerca da nefrotoxicidade causada pelo uso dos AINEs, analisando a fisiopatologia e as principais manifestações clínicas das diversas formas de acometimento renal</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/188</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i4p382-390</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 4 (2010); 382-390</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 4 (2010); 382-390</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 4 (2010); 382-390</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/188/189</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/189</identifier>
+        <datestamp>2020-06-25T16:07:18Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Electrocardiographic alterations in acute tricyclic antidepressant intoxication and its clinical implications</dc:title>
+          <dc:title xml:lang="pt-BR">Alterações eletrocardiográficas na intoxicação aguda por antidepressivo tricíclico e suas implicações clínicas</dc:title>
+          <dc:creator>Miranda, Carlos H.</dc:creator>
+          <dc:creator>Luciano, Paula M.</dc:creator>
+          <dc:creator>Riera, Andrés R. P.</dc:creator>
+          <dc:creator>Pazin Filho, Antônio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Antidepressivos Tricíclicos. Overdose. Intoxicação. Eletrocardiografia.</dc:subject>
+          <dc:subject xml:lang="en-US">Antidepressants</dc:subject>
+          <dc:subject xml:lang="en-US">Tricyclic. Overdose. Poisoning. Electrocardiography.</dc:subject>
+          <dc:description xml:lang="en-US">Introduction:&#160;The acute poisoning by tricyclic antidepressants is common in emergency rooms. Abnormalities in 12-lead electrocardiogram (ECG) are associated with this type of poisoning, with diagnostic and prognostic implications. The ECG may have incremental value especially in situations of altered consciousness, seizures or heart rhythm disturbances associated. Objective: To review the electrocardiographic changes described in tricyclic antidepressant poisoning and to establish their prognostic implications in the management of this condition.&#160;Methods:&#160;Bibliographic search in MEDLINE (PubMed) limited to articles published between 1980 and 2010 in English, using key words (tricyclic antidepressant overdose OR tricyclic antidepressant intoxication OR tricyclic antidepressant poisoning OR tricyclic antidepressant ingestion AND electrocardiography). Of the 133 articles identified, 44 were selected for review. Results:&#160;We identified prevalent as changes with diagnostic power in descending order the following findings: deviation of 40 ms terminal of QRS to the right of the frontal plane (from 61.0 to 83.0%), sinus tachycardia (40.7 to 57.7 %), QTc prolongation (8.2 to 53.0%), ratio R / S in aVR&amp;gt; 0.7 (28.8 to 32.9%), prolongation of QRS (8.2 to 21.3% ) and Brugada-pattern, the evidence is sparse, but suggestive of a greater chance of seizures and hypotension. Conclusion:&#160;The ECG is an instrument easily performed in the emergency room, providing diagnostic and prognostic information for poisoning by tricyclic and should be performed in all patients with suspicion of intoxication</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução:&#160;A intoxicação aguda por antidepressivos tricíclicos é comum nas salas de emergência. Anormalidades no eletrocardiograma de 12 derivações (ECG) são associadas a este tipo de intoxicação, com implicações diagnósticas e prognósticas. O ECG pode ter valor incremental principalmente em situações de alteração de consciência, convulsões ou distúrbios do ritmo cardíaco associado. Objetivo: Revisar as principais alterações eletrocardiográficas descritas na intoxicação por antidepressivos tricíclicos e estabelecer suas implicações prognósticas no manejo desta condição clínica. Metodologia: Pesquisa bibliográfica no MEDLINE (PubMEd) limitada aos artigos publicados entre 1980 e 2010 em língua inglesa, utilizando-se unitermos (tricyclic antidepressant overdose OR tricyclic antidepressant intoxication OR tricyclic antidepressant poisoning OR tricyclic antidepressant ingestion AND electrocardiography). Dos 133 artigos identificados, foram selecionados 44 para a revisão.&#160;&#160;Resultado:&#160;Foram identificados como alterações prevalentes com poder diagnóstico em ordem decrescente os seguintes achados: desvio dos 40 ms terminais do QRS para a direita do plano frontal (61,0-83,0%), taquicardia sinusal (40,7-57,7%),&#160;prolongamento do QTc (8,2-53,0%),relação R/S em aVR&amp;gt;0,7 (28,8-32,9%), prolongamento do QRS (8,2-21,3%) e padrão Brugada-like (2,3-15,3%).&#160; Destes achados, somente o prolongamento do QRS foi prognóstico para morte, convulsão e arritmia e o prolongamento do QTc e a relação R/S em aVR&amp;gt;0,7 para arritmia ventricular.&#160;Para o padrão Brugada-like , as evidências são escassas, mas sugestivas de maior chance de convulsão e hipotensão. Conclusão:&#160;O ECG é um instrumento de fácil realização na sala de urgência, fornecendo informações diagnósticas e prognosticas para a intoxicação por tricíclicos, devendo ser realizado em todo paciente com suspeita desta intoxicação.&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2010-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/189</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v43i4p391-399</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 43 No. 4 (2010); 391-399</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 43 Núm. 4 (2010); 391-399</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 43 n. 4 (2010); 391-399</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/189/190</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:19:55Z" completeListSize="1467" cursor="0">53465e7512b2f9a976525828fa778ad7</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

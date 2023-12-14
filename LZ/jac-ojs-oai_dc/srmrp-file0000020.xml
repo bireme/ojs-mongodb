@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:14Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/881</identifier>
+        <datestamp>2020-09-11T12:39:16Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Monitorização das ações antituberculose: cartas gráficas baseadas em unidades desvio padrão e tabela de classificação baseada em medida-síntese</dc:title>
+          <dc:title xml:lang="en-US">Monitoring anti-tuberculosis activities: graphic charts based on standard deviation units and ranking chart based on summary index</dc:title>
+          <dc:creator>Arantes, Gilberto Ribeiro</dc:creator>
+          <dc:creator>Belluomini, Marília</dc:creator>
+          <dc:creator>Almeida, Margarida Maria Mattos Brito de</dc:creator>
+          <dc:creator>Lima, Mônica M.</dc:creator>
+          <dc:subject xml:lang="en-US">Process Assessment (Health Care)</dc:subject>
+          <dc:subject xml:lang="en-US">Tuberculosis</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="en-US">Normal Distribution</dc:subject>
+          <dc:subject xml:lang="en-US">Population Surveillance</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação de Processo (Cuidados de Saúde)</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tuberculose</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Distribuição Normal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Vigilância Epidemiológica</dc:subject>
+          <dc:description xml:lang="pt-BR">A monitorização de 30 indicadores epidemiológico-operacionais do programa antituberculose, executado por Unidades de Saúde, é uma tarefa complexa, quando realizada em função de normas técnicas. Os AA apresentam metodologia em uso no Japão, modificada e adaptada à realidade de São Paulo, onde foi testada em 62 unidades de Saúde que, em 1993, atenderam e notificaram 5.622 doentes acompanhados durante 14 meses. O método pressupõe, para cada indicador, distribuição gaussiana dos valores originais ou transformados matematicamente. O desempenho das Unidades em cada indicador foi comparado com a Média do conjunto, usando-se como medida a Unidade Desvio Padrão. Em 65% dos indicadores, não houve necessidade de reexpressão dos resultados e só um deles resistiu a todas as transformações tentadas. Definiu-se medida-síntese para a elaboração de Tabela de Classificação dividida em quatro setores pelos três quartis da distribuição. O desempenho do conjunto ficou aquém do esperado (a mediana foi negativa). Analisadas algumas Cartas Gráficas, a título de demonstração, foram identificadas atividades prioritárias para supervisão. A metodologia e suas modificações, bem como os resultados, foram discutidos, concluindo-se pela sua aplicabilidade. Conjugada à avaliação tradicional poderá ser de grande valia, inclusive para acompanhar a evolução do conjunto.</dc:description>
+          <dc:description xml:lang="en-US">Tuberculosis activities monitoring can be a difficult task when dealing with a list of 30 indices to be compared with norms. A new methodology of analysis based on the Evaluation Charts used in Japan, modified and adapted, was experimented in 62 Health Centres of the metropolitan area of São Paulo - Brazil. These Centres have notified 5.622 cases throughout 1993, whose data were monitored for 14 months. The methodology assumes a normal distribution of the indices in original value or some mathematical function on them. For each index the deviation from the mean of the whole was expressed by using the standard deviation as a single scale for all the items of the set used for construction of a Grafic Chart for every Health Centre. Reexpression of data was not necessary in about 65% of the indices. A summary index calculated for each one of the Health Centres was used for ranking them from top to bottom of the group (ranking chart). The group’s perfomance was less than predicted with a negative median value. A detailed analysis of 5 Grafic Charts was done having in mind to demonstrate the interpretation of the results. Conclusions: The experimental methodology is a feasible one; it could be a valuable tool regarding the supervision of Health Institutions engaged in the tuberculosis control programme.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/881</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i2p243-258</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 2 (1997); 243-258</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 2 (1997); 243-258</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 2 (1997); 243-258</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/881/893</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/882</identifier>
+        <datestamp>2020-09-11T12:39:16Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Condições adversas na vida de crianças com atraso no desenvolvimento</dc:title>
+          <dc:title xml:lang="en-US">Adverse conditions in the life of children with developmental retardation</dc:title>
+          <dc:creator>Graminha, Sônia Santa Vitaliano</dc:creator>
+          <dc:creator>Martins, Maria Angélica de Oliveira</dc:creator>
+          <dc:subject xml:lang="en-US">Risk Factors</dc:subject>
+          <dc:subject xml:lang="en-US">Biological Factors</dc:subject>
+          <dc:subject xml:lang="en-US">Child Development</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fatores de Riscos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fatores Biológicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Desenvolvimento Infantil</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo deste estudo foi o de identificar os fatores de risco a que foram expostas as crianças portadoras de atraso no desenvolvimento, encaminhadas ao Centro de Psicologia Aplicada da FFCLRP-USP, nos últimos cinco anos. O grupo ficou constituído por doze meninos e dez meninas, cujas idades variavam de um mês a oito anos. Os dados foram extraídos das entrevistas realizadas com as mães, no momento da inscrição da criança junto ao serviço. Os problemas referidos pelas mães, na queixa, bem como os eventos e as circunstâncias adversas relatados, na história de vida da criança, foram classificados de acordo com os Sistemas de Categorias elaborados pelas autoras desse estudo. Os resultados mostram que, além do atraso, aparecem referidos na queixa, com maior freqüência, os problemas de fala, coordenação motora, aprendizagem e agitação/inquietude. A análise das circunstâncias adversas, presentes na história de vida desse grupo de crianças, evidenciou que todas elas foram expostas a uma ou mais das condições de risco biológico, sendo as mais freqüentes: problemas congênitos, problemas de saúde física da mãe durante a gestação, problemas de saúde física da criança, crises convulsivas, complicações no parto e hospitalização. Além disso, observou-se que 36% das crianças havia sido exposta a fatores de risco ambiental, especialmente aqueles ligados a atitudes e práticas de cuidado e educação inadequadas. Com base nos resultados, discutem-se as implicações da presença do risco biológico como condição importante para o acesso da criança e da família a serviços especializados.</dc:description>
+          <dc:description xml:lang="en-US">The objective of the present study was to identify the risk factors to which children with delayed development referred to the Center of Applied Psychology of FFCLRP-USP over the last five years had been exposed. The group consisted of 12 boys and 10 girls ranging in age from 1 month to 8 years. The data were extracted from the interviews held with the mothers as the time of child enrollment in the service. The problems reported by de mothers on the occasion of the complaint and the adverse events and circumstances that ocurred in the child’s life were classified according to the Category System elaborated by the authors of the present study. The results showed that, in addition to retardation, the most frequent problems reported on the occasion of the complaint were speech, motor coordination, learning and agitation/restlessness problems. Analysis of the adverse circumstances in the life history of this group of children demonstrated that all of them had been exposed to one or more biological risk conditions, the most frequent being congenital problems, mother’s physical health problems during pregnancy, child’s physical health problems, convulsive seizures, complications of delivery, and hospitalization. Furthermore, 36% of the children had been exposed to environmental risk factors, especially those linked to inadequate attitudes and practices of care and education. On the basis of the results obtained, we discuss the implications of the presence of biological risks as an important condition for access to specialized services on the part of the children and their families.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/882</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i2p259-267</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 2 (1997); 259-267</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 2 (1997); 259-267</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 2 (1997); 259-267</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/882/894</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/883</identifier>
+        <datestamp>2020-09-11T12:39:16Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Convulsões neonatais: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Neonatal seizures: a case report</dc:title>
+          <dc:creator>Funayama, Carolina Araújo Rodrigues</dc:creator>
+          <dc:creator>Ferlin, Maria Lúcia Silveira</dc:creator>
+          <dc:creator>Bellucci, Angela Delete</dc:creator>
+          <dc:subject xml:lang="en-US">Convulsions</dc:subject>
+          <dc:subject xml:lang="en-US">Neonatology</dc:subject>
+          <dc:subject xml:lang="en-US">Cerebral Palsy</dc:subject>
+          <dc:subject xml:lang="en-US">Asphyxia Neonatorum</dc:subject>
+          <dc:subject xml:lang="en-US">Diagnostic Image</dc:subject>
+          <dc:subject xml:lang="pt-BR">Convulsões</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neonatologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Paralisia Cerebral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Asfixia Neonatal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Diagnóstico por Imagens</dc:subject>
+          <dc:description xml:lang="pt-BR">Convulsões neonatais e grave paralisia cerebral são discutidas em um caso, no qual se registrou a evolução do edema cerebral, no período perinatal, para encefalomalácia multicística. Diagnóstico diferencial de encefalopatia hipóxico-isquêmica é considerada.</dc:description>
+          <dc:description xml:lang="en-US">Neonatal seizures and severe cerebral palsy are discussed in a clinical case, where the progress of a perinatal cerebral edema to multicystic encephalomalacia was documented. Differential diagnosis of hypoxic-ischemic encephalopathy is considered.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/883</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i2p267-271</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 2 (1997); 267-271</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 2 (1997); 267-271</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 2 (1997); 267-271</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/883/895</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/932</identifier>
+        <datestamp>2020-06-25T16:13:55Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">OPHTHALMOLOGIC PROFILE OF PATIENTS GOING INTO THE GLAUCOMA WING OF AN UNIVERSITY SERVICE</dc:title>
+          <dc:title xml:lang="pt-BR">PERFIL OFTALMOLÓGICO DE PACIENTES INGRESSANTES NO SETOR DE GLAUCOMA DE UM SERVIÇO UNIVERSITÁRIO</dc:title>
+          <dc:creator>Demarco, Ana Lúcia Gardim</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:creator>Demarco, Luís Antônio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Glaucoma. Cegueira. Disco Optico.</dc:subject>
+          <dc:subject xml:lang="en-US">Glaucoma. Blindness. Optic Disc.</dc:subject>
+          <dc:description xml:lang="en-US">Blindness is a very big onus on society and on the person itself. The glaucoma is one of the biggest causes of blindness in the word. Being an insidious and assymptomatic disease at the onset, its diagnosis is late and the visual losses are irreversible. Having this preocupation, the author accomplished this study to draw the profile of the patients entering the Glaucoma Sector of an University Hospital in order to identify goals to prevent blindness caused by glaucoma. One hundred patients with ocular hypertension and chronic glaucoma were studied. The most relevant exams were the visual acuity, alterations in the optic nerve head and visual field.We found a great number of pacients having at least one of the eyes with vision less or equal to 20/200 (40.69% of the pacients with glaucoma) and other pacients having the same visual acuity in both eyes (6.9% of the eyes with glaucoma). The relation excavation/optic disc bigger or equal to 0,6 was found in 53.4% of the examined eyes and in 57% of them was found asymmetry among the excavation. The visual field showed severe alterations in 57.25% of the eyes with glaucoma, so that it is due to the big glaucornatous optic atrophy in 26% of the eyes. It was observed that patients with glaucoma go to the medical service when major and irreversible alterations are present, limiting its prognosis. Therefore, efforts must be taken in order to minimize such numbers.</dc:description>
+          <dc:description xml:lang="pt-BR">A cegueira é um ônus muito grande para a sociedade e para o indivíduo em si. O Glaucoma é uma das maiores causas de cegueira no mundo. Por se tratar de uma doença insidiosa e assintomática em sua fase inicial, o seu diagnóstico é tardio e as perdas visuais são irreversíveis. Os autores realizaram este trabalho com o intuito de traçar o perfil da demanda dos pacientes ingressantes no Setor de Glaucoma de um serviço universitário, para nortear metas para a prevenção da cegueira por glaucoma. Foram estudados 100 pacientes portadores de hipertensão ocular e glaucoma crônico. Os exames mais relevantes foram a acuidade visual, alterações na cabeça do nervo óptico e campo visual. Encontramos uma grande parcela de pacientes com, pelo menos, um dos olhos com visão menor ou igual a 20/200 ( 40,69% dos pacientes com glaucoma), e outros pacientes com a mesma acuidade visual em ambos olhos (6,9% dos pacientes com glaucoma). A relação escavação/disco maior ou igual a 0,6 foi encontrada em 53,4% dos olhos examinados, e assimetria entre as escavações, em 57%. O campo visual apresentou alterações severas em 57,25% dos olhos com glaucoma, devido à grande atrofia óptica glaucomatosa, em 26% dos olhos.Concluímos que os pacientes com glaucoma chegam ao serviço médico, quando estão presentes grandes e irreversíveis alterações, limitando seu prognóstico. Portanto, medidas devem ser tomadas para minimizar esses números.&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/932</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i4p478-486</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 4 (2002); 478-486</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 4 (2002); 478-486</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 4 (2002); 478-486</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/932/944</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/933</identifier>
+        <datestamp>2020-06-25T16:13:54Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">OCULAR AFFECTIONS IN 2 TO 8 YEAR- OLD CHILDREN AT PIRACICABA CITY -SP</dc:title>
+          <dc:title xml:lang="pt-BR">AFECÇÕES OCULARES EM CRIANÇAS DE 2 A 8 ANOS DA REDE PÚBLICA MUNICIPAL DE PIRACICABA – SP</dc:title>
+          <dc:creator>Gaiotto, Paulo Cesar</dc:creator>
+          <dc:creator>Passos Júnior, Walberto</dc:creator>
+          <dc:creator>Schellini, Silvana Artioli</dc:creator>
+          <dc:creator>Shiratori, Cláudia Akemi</dc:creator>
+          <dc:creator>Padovani, Carlos Roberto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Cegueira</dc:subject>
+          <dc:subject xml:lang="pt-BR">prevenção. Criança. Erros de Refração. Saúde Ocular.</dc:subject>
+          <dc:subject xml:lang="en-US">Blindness</dc:subject>
+          <dc:subject xml:lang="en-US">prevention. Child. Refractive Errors. Eye Health.</dc:subject>
+          <dc:description xml:lang="en-US">Study model:&#160;observacional, retrospective.&#160;Objective:&#160;to determine the frequence of the ametropic errors and other ocular problems in children with 2 to 8 year-old at Piracicaba – SP.Patients and Method: During the school year of 2000, 1001 children enrolled at the public schools of Piracicaba – SP, age ranged from 2 to 8 years old, were referred to complete ophthalmological exam. Visual acuity was previously determined using Snellen chart, applied by school teachers. Those children presenting visual acuity equal or less than 0,8, visual complaints or visual disorders were selected to appointment&#160;to determine the frequence of the ametropic errors and other ocular problems in children with 2 to 8 year-old at Piracicaba –SP.&#160;Patients and Method: During the school year of 2000, 1001 children enrolled at the public schools of Piracicaba – SP, age ranged from 2 to 8 years old, were referred to complete ophthalmological exam. Visual acuity was previously determined using Snellen chart, applied by school teachers. Those children presenting visual acuity equal or less than 0,8, visual complaints or visual disorders were selected to appointment.&#160;Results:&#160;51 children (5,09%) did not attended to examination. 950 children were submitted to complete ophthalmological exam. Ametropic errors were found 70,84% of the children. The most prevalent refractive errors were Hypermetropic Astigmatism (49,62%) and Hypermetropia (32,98%). Anisometropia was found in 1,78% children. Other ocular disabilities accounted for 10,21% of the examined children, such as strabismus (3,36%), eyelid changes, allergic conjunctivitis, congenital dacryostenosis, optic atrophy, corioretinitis and congenital glaucoma.Conclusion:&#160;The frequence of ocular problems observed let us to conclude the screening programs are valid surveys on decreasing rates of preventable blindness in our country.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo:&#160;observacional.&#160;Objetivo: determinar a freqüência de ametropias e outros distúrbios oculares em uma população de crianças de 2 a 8 anos de idade, das escolas públicas municipais de Piracicaba - SP.&#160;Pacientes e Método: durante o ano letivo de 2000, foram encaminhadas para exame oftalmológico, completo 1001 crianças com idade entre 2 e 8 anos, matriculadas nas escolas públicas municipais de Piracicaba-SP. A medida de acuidade visual (tabela E de Snellen) foi previamente avaliada por professoras treinadas. As crianças que apresentaram acuidade visual menor ou igual a 0,8, bem como queixas ou sinais oftalmológicos, foram selecionadas para exame.&#160;Resultados:&#160;dentre 1001 crianças selecionadas, 5,09% não compareceram ao exame, foram submetidas a exame oftalmológico completo 950 crianças. Detectaram-se ametropias em 70,84%, sendo o astigmatismo hipermetrópico composto e a hipermetropia, simples os erros refracionais prevalentes (49,62% e 32,98%, respectivamente). Anisometropia foi observada em 1,78% dos examinados. Outras afecções oculares foram constatadas em 10,21% das crianças; estrabismo (3,36%), alterações palpebrais, conjuntivite alérgica, dacrioestenose congênita, atrofia óptica, coriorretinite e glaucoma congênito.&#160;Conclusão:&#160;a freqüência dos problemas oculares, observados indica quão importante é a realização de campanhas do tipo da apresentada para a redução dos índices de cegueira prevenível , no Brasil.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/933</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i4p487-491</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 4 (2002); 487-491</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 4 (2002); 487-491</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 4 (2002); 487-491</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/933/945</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/934</identifier>
+        <datestamp>2020-09-11T12:39:16Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Suplementação alimentar nas unidades de saúde do município de Ribeirão Preto</dc:title>
+          <dc:title xml:lang="en-US">Supplementary food programme in the public health services of Ribeirão Preto city</dc:title>
+          <dc:creator>Sant’Ana, Sônia Camila</dc:creator>
+          <dc:creator>Rocha, Semiramis Melani de Melo</dc:creator>
+          <dc:subject xml:lang="en-US">Supplemntary Feeding</dc:subject>
+          <dc:subject xml:lang="en-US">Nutrition Programmes</dc:subject>
+          <dc:subject xml:lang="en-US">Child</dc:subject>
+          <dc:subject xml:lang="pt-BR">Suplementação Alimentar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Programas de Nutrição</dc:subject>
+          <dc:subject xml:lang="pt-BR">Criança</dc:subject>
+          <dc:description xml:lang="pt-BR">Esta investigação consistiu em estudar o Programa de Suplementação Alimentar, destinado a menores de cinco anos, nos serviços de saúde da rede pública do município de Ribeirão Preto. Tomando as práticas em saúde como trabalho, apreendemos como era realizado o programa, através das relações entre clientela e agentes do processo de trabalho. Os dados empíricos foram as falas e atitudes dos sujeitos envolvidos, coletados por entrevista e observação direta, e os documentos oficiais. A análise constituiu do confronto dos dados com os aspectos da observação selecionados para análise:&amp;nbsp;ambiente, dinâmica e embasamento teórico para o atendimento e o confronto dos dados entre si. O estudo demonstrou discrepâncias entre a concepção teórica e a operacionalização do programa. O ambiente apresentava inadequações, a rotina reduzida à entrega e controle dos tíquetes, as relações entre os agentes e a clientela foram impessoais, permeadas por conflitos relacionados à contenção da demanda. A criança fica à margem desse atendimento. As instâncias centrais não se articulavam com as unidades básicas, quando estabeleciam uma linha de continuidade da proposta à execução do programa. Entendemos oportuna uma reorganização, quanto ao diagnóstico da desnutrição, em cada realidade, com a participação dos agentes e clientes na elaboração das estratégias de intervenção.</dc:description>
+          <dc:description xml:lang="en-US">This investigation consisted in studying the Programme of Food Supplementation destined to under five years old children in the Public Health Services of Ribeirão Preto. Taking the health pratices as a working process, we learned how it was done and the relation happened among social actors of process (clientele and the working process agents). The empirical data were the speaches and attitudes of the subjects involved, collected by interviews and observation, and official documents. The analysis consisted of the confrontation of the data with the aspects selected: enviromental observation, dynamics and theorical foundation for the attendance and the confrontation of the data among themselves. The study showed discrepancies between the theorical conception and the programme’s operational. The enviroment presented inadequacies, the routine reduced to delivery of tickets, the relations between the agents and clientele were impersonal, intervened by conflicts related to the restraint the demand. The child is left aside by this attendance. The central offices didn’t articulate with the basic health units to establish a continuity of the proposition for the programme executation. We understand it to be opportune a reorganization as to the diagnosis of malnutrition in each reality, with participation of agents and clients of intervention strategies.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/934</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i2p272-276</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 2 (1997); 272-276</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 2 (1997); 272-276</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 2 (1997); 272-276</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/934/946</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/935</identifier>
+        <datestamp>2020-06-25T16:13:53Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">DIABETES MELLITUS AND IMPAIRED GLUCOSE TOLERANCE IN ACROMEGALIC PATIENTS</dc:title>
+          <dc:title xml:lang="pt-BR">DIABETES MELLITUS E INTOLERÂNCIA À GLICOSE EM PACIENTES COM ACROMEGALIA</dc:title>
+          <dc:creator>Cechinatti, André</dc:creator>
+          <dc:creator>Foss-Freitas, Maria C.</dc:creator>
+          <dc:creator>Foss, Milton C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Acromegalia. Diabetes Mellitus. Intolerância à Glicose.</dc:subject>
+          <dc:subject xml:lang="en-US">Acromegaly. Diabetes Mellitus. Impaired Glucose Intolerance.</dc:subject>
+          <dc:description xml:lang="en-US">Acromegaly is a disease caused by growth hormone (GH) overproduction. In this state, carbohydrate metabolism disturbance often occurs. Diabetes mellitus prevalence has been demonstrated between 19 and 56%, and impaired glucose tolerance prevalence between 5 and 46% in many groups of patients with acromegaly. The present study was designed to estimate diabetes mellitus and impaired glucose tolerance prevalence in a group of acromegalic patients assisted in the Endocrinology/Metabology Division of University Hospital of School of Medicine of Ribeirão Preto, São Paulo University (HCFMRP), attempting to also analyze their endocrine and metabolic characteristics. The patients were studied before any therapeutic intervention and were divided in three groups: diabetics, with impaired glucose tolerance and nondiabetics/non impaired glucose tolerance patients. We studied 55 acromegalic patients assisted in HCFMRP. We determined age, sex, weight, height, time of typical acromegalic symptoms upset, and blood GH and glucose during oral glucose tolerance test (oGTT): 0, 30, 60, 90 and 120 minutes. In 19 patients (39,5%) the basal insulin levels were determined in the first sample of the oGTT. Using this data, we calculated body mass index (BMI = weight (kg), divided by square height (meters)), and areas under curves of mean values of GH and glucose in blood during oGTT. Statistical analyzes were processed by Kruskal-Wallis, Mann Whitney and Spearman correlation tests.Among the 55 acromegalic patients studied, 15 (27,3%) were diabetics (DM), 9(16,4%) had impaired glucose tolerance (IG), and 31 (56,4%) did not have blood glucose disturbances (NL). Females were more frequent in DM and IG groups (66,7% in both groups), while women were minority in NL group (29%). DM and IG groups show similar age distribution (45,8+13,1 and 46,3+10,6 years, respectively), and significantly higher age than NL group (36,4+11,1 years; p&amp;lt;0,05). Between the 19 patients whose basal insulin level were obtained, 4 were of the DM group, 6 of the IG group and 9 of the NL group. Mean basal serum insulin level in acromegalic patients, even from the DM, IG or the NL group, was higher than that seen in normal adult population. There was no correlation between areas under GH and glucose curves during oGTT. We did not see statistical differences among the three groups in BMI, activity acromegaly time and area under GH curves during oGTT. In conclusion, we verified increased prevalence of glucose metabolism alterations among our acromegalic patients, associated with female gender, older age, and higher levels of basal serum insulin.</dc:description>
+          <dc:description xml:lang="pt-BR">A acromegalia é uma doença insidiosa, causada pela secreção excessiva de hormônio do crescimento (GH). Nela, destaca-se a ocorrência freqüente de alteração do metabolismo dos carboidratos, tendo-se verificado, anteriormente, prevalência de diabetes mellitus entre 19 e 56% e de intolerância à glicose entre 5 e 46% em vários grupos populacionais. Neste estudo, objetivamos definir a freqüência de diabetes mellitus e intolerância à glicose em um grupo de pacientes acromegálicos, atendidos na Divisão de Endocrinologia/Metabologia do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto – Universidade de São Paulo (HCFMRP), no início do atendimento de cada paciente, antes, portanto da aplicação de qualquer medida terapêutica, procurando também analisar as características endocrinometabólicas desses pacientes, que foram subdivididos em três categorias: diabéticos, intolerantes à glicose e não diabéticos/não intolerantes.Foram analisados os dados de 55 pacientes acromegálicos, atendidos no HCFMRP. Foram registrados os dados de idade, sexo, peso, estatura, tempo do surgimento de sintomas típicos da acromegalia, e níveis sanguíneos de GH e glicemia durante o teste oral de tolerância à glicose (oGTT): aos 0, 30, 60, 90 e 120 min. Em 19 pacientes (39,5%), foi dosado o nível de insulina plasmática na amostra basal do oGTT. A partir dos valores obtidos, calculamos o índice de massa corporal (IMC = peso, em quilogramas, dividido pelo quadrado da estatura, em metros), e as áreas sob as curvas das médias de GH e glicemia no oGTT. As análises estatísticas foram feitas pelos testes de Kruskal-Wallis, de Mann Whitney e de correlação de Spearman, fixando-se intervalo de confiança de 95%.Dos 55 pacientes acromegálicos, estudados, 15 (27,3%) eram diabéticos (DM), 9 (16,4%) apresentavam intolerância à glicose (IG), e 31 (56,4%) não apresentavam alterações dos níveis glicêmicos (NL). Nos grupos DM e IG, predominam indivíduos do sexo feminino (66,7% são mulheres em ambos os grupos), enquanto no grupo NL, as mulheres são minoria (29%). Os grupos DM e IG apresentam distribuição de idades semelhante (45,8±13,1 e 46,3±10,6 anos, respectivamente), e significativamente mais alta do que a do grupo NL (36,4±11,1 anos; p&amp;lt;0,05). Dos 19 pacientes em que foi dosada a insulinemia basal, 4 eram do grupo DM, 6 do grupo IG e 9 do grupo NL. O nível sérico médio de insulina nos pacientes acromegálicos, tanto nos grupos alterados (DM e IG) quanto no grupo NL, é mais elevada do que a encontrada na população adulta normal. Não há correlação entre áreas sob curvas de GH e de glicemia no oGTT. Com relação ao IMC, duração da acromegalia e área sob curvas de GH durante o oGTT, não foram encontradas diferenças estatísticas significativas entre os três grupos. Foi possível observar, portanto, prevalência aumentada dos distúrbios do metabolismo de glicose nos acromegálicos, assim como a associação desses distúrbios com o sexo feminino e com idade mais avançada, além de aumento dos níveis de insulinemia basal.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/935</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i4p492-496</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 4 (2002); 492-496</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 4 (2002); 492-496</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 4 (2002); 492-496</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/935/947</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/936</identifier>
+        <datestamp>2020-06-25T16:13:52Z</datestamp>
+        <setSpec>rmrp:Descr.+met.+instr.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">IMPORTANCE OF THE STUDY OF THE CONTRAST SENSITIVITY FUNCTION IN GLAUCOMA</dc:title>
+          <dc:title xml:lang="pt-BR">IMPORTÂNCIA DO ESTUDO DA FUNÇÃO DA SENSIBILIDADE AO CONTRASTE NO GLAUCOMA</dc:title>
+          <dc:creator>Silva, Antonio C.</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:subject xml:lang="pt-BR">Sensibilidades de Contraste. Glaucoma. Hipertensão Ocular.</dc:subject>
+          <dc:subject xml:lang="en-US">Contrast Sensitivity. Glaucoma. Ocular Hypertension.</dc:subject>
+          <dc:description xml:lang="pt-BR">Considerando-se que as aferições da Acuidade Visual (AV) com os optotipos de Snellen não correspondem ao real poder da visão, desde a década de 1980, vêm os estudiosos pesquisando novas formas de avaliar o fenômeno, culminando com a aplicação da Função da Sensibilidade ao Contraste (FCS), um exame psicofísico, de inestimável valor no estabelecimento do diagnóstico precoce de inúmeras doenças. Entretanto, apesar do interesse despertado e dos valores relativos a sua sensibilidade e especificidade, o estudo da FSC não teve a utilização que seria de se esperar, na rotina oftalmológica, devido a resultados que, a princípio, parecem conflitantes. A despeito disso, para os autores deste artigo, as aparentes discrepâncias são devidas a diferentes formas de abordagem do exame, cuja aplicação não tem obedecido a uma necessária padronização metodológica, e acreditam que, tão logo haja uma uniformização de avaliação da FSC, os resultados passarão a ser coerentes e sua plena aceitação será um fato. Além do grande valor no diagnóstico precoce de inúmeras doenças, a FSC também poderá ser muito útil na Medicina do Trabalho e na avaliação das condições psicofísicas de candidatos à obtenção de autorização para conduzir veículos automotores terrestres, marítimos e aéreos, podendo ser um fator limitante na habilitação dessas pessoas.</dc:description>
+          <dc:description xml:lang="en-US">Considering that, the measurements of the Visual Acuity (VA) with the Snellen’s letters do not correspond the reality of the power of the vision, since 1980, new&#160; orms to measure this phenomenon have been reserched. One of the possible solutions is the application of the Contrast Sensitivity Function (CSF) exam, which is a psicophisical test of a very importance value for the establishment of precocius diagnostic for several diseases. In spite of the arisen interest about the exam and also the relative values of its sensibility and specificity, the study of the CSF hasn’t been used the way it was expected in ophthalmologic routine due to apparently conflictive results. For the authors of this article, although, most of the discrepances are apparently related to the distinctive ways of approaching the exam, whose&#160;application doesn’t follow the necessary methodological design. It’s belived that as soon as a pattern is set for the valuation of the CSF exam, th e results will no longer be incoherent and it’s full acceptance will be a fact. Besides the great value of the precocious diagnostic over several diseases, the CSF can also be extremely useful in the work medicine, measuring the conditions of the candidates on the acquisition of their document of habilitation for the conduction of maritimes, airyes and earthen vehicles. The exam on this case can be a limitant factor on the concession of this licenses.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/936</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i4p497-504</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 4 (2002); 497-504</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 4 (2002); 497-504</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 4 (2002); 497-504</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/936/948</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/937</identifier>
+        <datestamp>2020-09-11T12:39:16Z</datestamp>
+        <setSpec>rmrp:Art.+Esp.%3A+Im.+Clin.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Immunology of human reproduction</dc:title>
+          <dc:title xml:lang="pt-BR">Imunologia da reprodução humana</dc:title>
+          <dc:creator>Souza, Sulani Silva de</dc:creator>
+          <dc:creator>Voltarelli, Júlio César</dc:creator>
+          <dc:creator>Ferriani, Rui Alberto</dc:creator>
+          <dc:subject xml:lang="en-US">Reproduction</dc:subject>
+          <dc:subject xml:lang="en-US">Immunology</dc:subject>
+          <dc:subject xml:lang="en-US">Cytokines</dc:subject>
+          <dc:subject xml:lang="en-US">Recurrent Abortion</dc:subject>
+          <dc:subject xml:lang="en-US">Endometriosis</dc:subject>
+          <dc:subject xml:lang="en-US">Fertilization In Vitro</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reprodução</dc:subject>
+          <dc:subject xml:lang="pt-BR">Imunologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Citocinas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aborto Recorrente</dc:subject>
+          <dc:subject xml:lang="pt-BR">Endometriose</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fertilização In vitro</dc:subject>
+          <dc:description xml:lang="pt-BR">O sistema imunológico, com sua função tradicional de defender o organismo humano contra agressões externas e endógenas, é visto, hoje, num âmbito mais amplo de caráter homeostático. Assim, participa de vários mecanismos fisiológicos, dentre os quais se inclui a reprodução humana, onde tem importante papel desde a deposição dos espermatozóides até o nascimento do feto. Entretanto, pouco conhecimento é disponível a respeito da importância precisa do sistema imunológico nas várias etapas do processo reprodutivo. Nesta revisão, foram considerados vários aspectos imunológicos da reprodução humana e de quadros clínicos correlatos, como o aborto recorrente e a endometriose, além de estratégias terapêuticas, como a fertilização in vitro e a imunoterapia celular</dc:description>
+          <dc:description xml:lang="en-US">The immunological system, which defends the human organism against external and endogenous aggression, is viewed today within a broader homeostatic role. This system also participates in various physiological mechanisms including the reproduction where it plays an important role from the deposition of sperm to the birth of the fetus. However, little is known about the precise importance of the immunological system during the various stages of the reproductive process. In the present review, several immunologic aspects of human reproduction were considered along with correlated clinical conditions such as recurrent abortion and endometriosis and their therapeutic approaches, such as in vitro fertilization and cellular immunotherapy.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/937</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i2p277-288</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 2 (1997); 277-288</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 2 (1997); 277-288</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 2 (1997); 277-288</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/937/949</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/938</identifier>
+        <datestamp>2020-06-25T16:13:51Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THE ROLE OF THE PROFESSOR AT THE UNIVERSITY</dc:title>
+          <dc:title xml:lang="pt-BR">O PAPEL DO DOCENTE NA UNIVERSIDADE</dc:title>
+          <dc:creator>Costa, Vital Paulino</dc:creator>
+          <dc:subject xml:lang="pt-BR">Universidade. Ensino</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pesquisa. Comunidade. Responsabilidade.</dc:subject>
+          <dc:subject xml:lang="en-US">University. Teaching</dc:subject>
+          <dc:subject xml:lang="en-US">Research. Community. Responsibility.</dc:subject>
+          <dc:description xml:lang="pt-BR">A docência universitária é o produto final de um longo e custoso processo formativo, que somente se concretiza, quando o docente se apercebe da necessidade e exerce intensa atividade de multiplicador cultural. Tal atividade exige um grau de conscientização, nem sempre adquirido após uma profícua produção científica. Este artigo visa discutir um tripé, no centro do qual deve se posicionar o docente pertencente à Universidade: o ensino, a prestação de serviços à comunidade e a pesquisa. Enfatiza-se a inter-relação entre os três componentes, assim como a necessidade de uma dedicação harmoniosa do docente a cada elemento da tríade.</dc:description>
+          <dc:description xml:lang="en-US">The professorship at a University is the final product of a long and costly formative process that only ends when the professor realizes the necessity of exercising the activity of a cultural multiplier. This activity requires a level of consciousness not always acquired after an extensive scientific production. This article aims to discuss a triad, in the center of which the professor needs to position him(her)self: teaching, community work, and research. The author emphasizes the relationship between theses three components, as well as the necessity of a balanced dedication of the professor to each element of this triad.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/938</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i4p505-508</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 4 (2002); 505-508</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 4 (2002); 505-508</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 4 (2002); 505-508</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/938/950</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/939</identifier>
+        <datestamp>2020-06-25T16:13:50Z</datestamp>
+        <setSpec>rmrp:NTI</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">RESUMOS DE DISSERTAÇÕES DE MESTRADO E TESES DE DOUTORADO APRESENTADAS NA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO - USP DE JULHO A DEZEMBRO DE 2002 EM SUAS DIFERENTES ÁREAS DE CONCENTRAÇÃO</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2002-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/939</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v35i4p509-561</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 35 No. 4 (2002); 509-561</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 35 Núm. 4 (2002); 509-561</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 35 n. 4 (2002); 509-561</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/939/951</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1083</identifier>
+        <datestamp>2020-09-11T12:39:16Z</datestamp>
+        <setSpec>rmrp:Art.+Esp.%3A+Ter.+Com.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Intervenções psicológicas em pacientes com lombalgia crônica</dc:title>
+          <dc:title xml:lang="en-US">Psychological interventions for patients with chronic back pain</dc:title>
+          <dc:creator>Linton, Steven J.</dc:creator>
+          <dc:subject xml:lang="en-US">Low Back Pain</dc:subject>
+          <dc:subject xml:lang="en-US">Behaviour Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Activities</dc:subject>
+          <dc:subject xml:lang="en-US">Training Programs</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dor Lombar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Terapia Comportamental</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atividades</dc:subject>
+          <dc:subject xml:lang="pt-BR">Programas de Treinamento</dc:subject>
+          <dc:description xml:lang="en-US">Chronic back pain is a major cause of disability and absenteeism in Western countries. Intense suffering associated with backache is pooly relieved by traditional medical treatments and many alternative therapies have been developed to approach this problem, including recent advances in psychological interventions. In this regard, we discuss here: 1) five common techiniques of the cognitive-behavioural approach (relaxation, operant, cognitive, social training and coping); 2) the operant activities training programme; 3) a clinical case ilustrating the application of this programme.</dc:description>
+          <dc:description xml:lang="pt-BR">Lombalgia crônica é uma causa importante de incapacidade física e ausência do trabalho nos países ocidentais. O desconforto intenso associado a este sintoma não é satisfatoriamente aliviado pela terapêutica médica tradicional, levando ao desenvolvimento de terapias alternativas, incluindo avanços recentes nas intervenções psicológicas. Neste aspecto, discutimos aqui: 1) cinco técnicas comuns da abordagem comportamental-cognitiva (técnicas de relaxamento, operantes, cognitivas, de treinamento social e de aceitação; 2) o programa de treino de atividades operantes e 3) um caso clínico ilustrando a aplicação deste programa.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1083</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i2p289-301</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 2 (1997); 289-301</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 2 (1997); 289-301</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 2 (1997); 289-301</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1083/1095</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1084</identifier>
+        <datestamp>2020-06-25T16:15:53Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Política Editorial da Revista Medicina - Ribeirão Preto</dc:title>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1084</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i1p1-2</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 1 (2001); 1-2</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 1 (2001); 1-2</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 1 (2001); 1-2</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1084/1096</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1136</identifier>
+        <datestamp>2020-06-25T16:15:52Z</datestamp>
+        <setSpec>rmrp:Simp.+%3A+Med.+Int.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Basile-Filho, Anival</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1136</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i1p3-4</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 1 (2001); 3-4</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 1 (2001); 3-4</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 1 (2001); 3-4</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1136/1152</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1137</identifier>
+        <datestamp>2020-06-25T16:20:06Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Peer review e as cinco funções docentes</dc:title>
+          <dc:creator>Voltarelli, Júlio C.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1137</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p319-322</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 319-322</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 319-322</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 319-322</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1137/1153</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1169</identifier>
+        <datestamp>2020-06-25T16:20:05Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Foss, Norma Tiraboschi</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1169</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p323</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 323</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 323</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 323</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1169/1187</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1184</identifier>
+        <datestamp>2020-06-25T16:15:51Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Trauma and sepsis metabolic response monitoring</dc:title>
+          <dc:title xml:lang="pt-BR">Monitorização da resposta orgânica ao trauma e à sepse</dc:title>
+          <dc:creator>Basile-Filho, Anibal</dc:creator>
+          <dc:creator>Suen, Vivian Marques Miguel</dc:creator>
+          <dc:creator>Martins, Maria Auxiliadora</dc:creator>
+          <dc:creator>Coletto, Francisco Antonio</dc:creator>
+          <dc:creator>Marson, Flavio</dc:creator>
+          <dc:subject xml:lang="en-US">Wounds and Injuries. Sepsis. Multiple Organ Failure. Amino Acids</dc:subject>
+          <dc:subject xml:lang="en-US">metabolism. Cytokines. Monitoring</dc:subject>
+          <dc:subject xml:lang="en-US">Physiologic.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ferimentos e Lesões. Sepse. Falência de Múltiplos Órgãos. Aminoácidos</dc:subject>
+          <dc:subject xml:lang="pt-BR">metabolismo.Citocinas. Monitorização Fisiológica.</dc:subject>
+          <dc:description xml:lang="pt-BR">O hipermetabolismo causado pela sepse, pelo trauma, pela síndrome da resposta inflamatória sistêmica e pela síndrome da disfunção de múltiplos órgãos é o responsável pela alta mortalidade dos pacientes internados nas unidades de terapia intensiva. O desenvolvimento do hipermetabolismo, fator provavelmente associado ou, até mesmo, secundário à liberação de mediadores e subprodutos, tem, como resultante final, a alteração do metabolismo de vários órgãos. Por essas razões, dada a suma importância de compreender-se o metabolismo dos pacientes críticos, este artigo de revisão analisa os diversos aspectos envolvidos na monitorização dos parâmetros fisiológicos do paciente em estresse metabólico, tais como o consumo de oxigênio, o grau de perfusão esplâncnica e sua relação com o lactato sérico e a cinética protéica corpórea total, através da administração intravenosa de 13C-leucina.</dc:description>
+          <dc:description xml:lang="en-US">Sepsis, trauma, systemic inflammatory response syndrome and multiple organ dysfunction syndrome cause hypermetabolism, which is the principal factor for high mortality in critical ill intensive care unit patients. The hypermetabolism evolution, probably connected to the release of the mediators and metabolites, ends up impairing the metabolism of several organs. By the reasons mentioned above, and due to the extreme concern in understanding the metabolism in critical ill patients, this paper evaluates the different aspects in monitoring the physiological parameters in patients with metabolic stress. These aspects are the oxygen consumption, and the splanchnic perfusion, linked with the lactate plasma and the protein turnover by means of the intravenous infusion of 13 C-leucine (stable isotopes). &amp;nbsp;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1184</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i1p5-17</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 1 (2001); 5-17</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 1 (2001); 5-17</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 1 (2001); 5-17</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1184/1203</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1185</identifier>
+        <datestamp>2020-06-25T16:20:03Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Leprosy: clinical forms and differential diagnosis</dc:title>
+          <dc:title xml:lang="pt-BR">Hanseníase: formas clínicas e diagnóstico diferencial</dc:title>
+          <dc:creator>Souza, Cacilda Silva</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy. Diagnosis</dc:subject>
+          <dc:subject xml:lang="en-US">Differential.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase. Diagnóstico Diferencial.</dc:subject>
+          <dc:description xml:lang="pt-BR">Este artigo se propõe a realizar uma abordagem centrada nos diversos aspectos clínicodermatológicos da hanseníase, destacando as variações de suas formas clínicas e de seus diagnósticos diferenciais.</dc:description>
+          <dc:description xml:lang="en-US">The objective of the present review was to approach the different clinical-dermatologic aspects of leprosy, with emphasis on the variations of the clinical forms and differential diagnosis of the disease.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1185</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p325-334</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 325-334</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 325-334</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 325-334</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1185/1204</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1186</identifier>
+        <datestamp>2020-06-25T16:20:02Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Aspectos imunológicos da hanseníase</dc:title>
+          <dc:title xml:lang="en-US">Immunological aspects of leprosy</dc:title>
+          <dc:creator>Foss, Norma Tiraboschi</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy</dc:subject>
+          <dc:subject xml:lang="en-US">immunology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase</dc:subject>
+          <dc:subject xml:lang="pt-BR">imunologia.</dc:subject>
+          <dc:description xml:lang="en-US">The clinical spectrum of leprosy has been associated with immunological alterations induced by the parasite M.leprae on the host. It was observed that lepromatous leprosy present a depressed cellular immune response associated with elevated production of suppressor cytokines (IL-4 and TGF b) and reduced levels of cytokines related with the induction of the immune response (IL-1,TNFa and IFNg). Furthemore, all these alterations are associated with depressed production of intracellular oxidative elements responsible for the parasite destruction, the reactives of oxigen and nitrogen, the latter evaluated by the enzyme induced NO synthase (iNOS). On the other hand, in tuberculoid leprosy, high levels of inflammatory cytokines and absence of suppressor cytokines have been described.</dc:description>
+          <dc:description xml:lang="pt-BR">A distribuição espectral das formas clínicas da hanseníase tem sido associada a alterações imunológicas do hospedeiro, frente ao M. leprae . Foi verificado que, no pólo de maior suscetibilidade, hanseníase virchoviana, apresenta depressão da resposta imune celular, associada ao aumento da produção de citocinas supressoras (IL-4 e TGF b) e redução dos níveis de citocinas ativadoras da resposta imune (TNFa, IL-1 e IFNg). Há, ainda, menor produção de elementos responsáveis pela oxidação intracelular, como intermediários do nitrogênio (RNI), avaliada pela expressão da enzima NO sintase induzida (iNOS). Por outro lado, no pólo de resistência, hanseníase tuberculóide, não foram detectadas as citocinas supressoras, em contraste com elevadas concentrações de TNFa e IL-1, citocinas indutoras da reação inflamatória.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1186</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p335-339</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 335-339</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 335-339</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 335-339</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1186/1205</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1187</identifier>
+        <datestamp>2020-06-25T16:20:00Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Alterações endócrinas na hanseníase</dc:title>
+          <dc:title xml:lang="en-US">Endocrine changes in leprosy</dc:title>
+          <dc:creator>Leal, Ângela M.O.</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy. Hormones.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase. Hormônios.</dc:subject>
+          <dc:description xml:lang="pt-BR">O sistema endócrino participa do comprometimento visceral da hanseníase, principalmente na sua forma virchowiana. Neste artigo, são revisadas as disfunções hormonais associadas à hanseníase, principalmente em seus aspectos fisiopatológicos. É também apresentado um caso clínico ilustrativo de hipogonadismo hipergonadotrófico, secundário à orquite hansênica.</dc:description>
+          <dc:description xml:lang="en-US">The endocrine system is involved in the systemic picture of leprosy, particularly in the lepromatous form. In this review, we discuss endocrine dysfunctions associated to leprosy, focusing in pathophysiologic aspects. We also present a illustrative clinical case of hypergonadotrophic hypogonadism secondary to leprotic orchitis.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1187</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p340-344</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 340-344</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 340-344</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 340-344</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1187/1206</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1188</identifier>
+        <datestamp>2020-06-25T16:19:59Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Terapêutica da hanseníase</dc:title>
+          <dc:title xml:lang="en-US">Leprosy therapeutics</dc:title>
+          <dc:creator>Opromolla, Diltor Vladmir Araújo</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy. Drug Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Combination. Therapeutics.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase. Quimioterapia Combinada. Terapêutica.</dc:subject>
+          <dc:description xml:lang="pt-BR">Nesta revisão, são discutidos os efeitos adversos dos quimioterápicos utilizados na terapêutica da hanseníase, a evolução das lesões submetidas ao tratamento específico, os esquemas mono e poliquimioterápicos, as reações imunológicas, provocadas pela terapia e, finalmente, as perspectivas de utilização de novas drogas e de vacinas contra a hanseníase.</dc:description>
+          <dc:description xml:lang="en-US">In this review, we discuss adverse effects of chemotherapeutic agents employed to treat leprosy, the evolution of treated leprotic lesions, mono- and multi- chemotherapeutic regimens, immunologic reactions caused try treatment and, finally, future prospectives of utilization of new drugs and vaccines against leprosy.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1188</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p345-350</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 345-350</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 345-350</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 345-350</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1188/1207</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1189</identifier>
+        <datestamp>2020-06-25T16:19:58Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Hans.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Recidivas e reinfecção em hanseníase</dc:title>
+          <dc:title xml:lang="en-US">Relapses and reinfection in leprosy</dc:title>
+          <dc:creator>Gallo, Maria Eugenia N.</dc:creator>
+          <dc:creator>Oliveira, Maria Leyde W.</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy. Drug Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Combination. Recurrence.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase. Quimioterapia Combinada. Recidiva.</dc:subject>
+          <dc:description xml:lang="pt-BR">São incluídas neste trabalho: 1) Revisão da literatura sobre recidivas em hansenianos multibacilares, após monoterapia sulfônica e poliquimioterapia (PQT/OMS). 2) Critérios utilizados no diagnóstico de recidiva, diferenciação com estados reacionais e taxas de recidiva encontradas em diferentes estudos. 3) Resultados obtidos no seguimento pós-alta de pacientes de um estudo clínico comparativo com dois esquemas poliquimioterápicos, com duração fixa. 4) Relato de um caso de recidiva de paciente, incluído no estudo anterior, tratado com Rifampicina (RFM) 600 mg e Dapsona (DDS) 100 mg diários, auto-administrados por três meses, seguido de DDS, 100 mg, auto-administrada por vinte e um meses. O resultado da inoculação no coxim plantar de camundongo da biópsia de lesão cutânea, no momento do diagnóstico de recidiva, demonstrou a presença de M. leprae, viáveis e suscetíveis a RFM e DDS. Após a instituição do esquema PQT/OMS, o caso evoluiu favoravelmente, sugerindo recidiva por persistência bacilar.&amp;nbsp; &amp;nbsp; &amp;nbsp;</dc:description>
+          <dc:description xml:lang="en-US">We included in this work: 1) Review of the literature on relapses in multibacillary leprosy patients after sulfonic monotherapy and multidrug therapy (MDT/WHO). 2) Criteria used in diagnosis of relapse, differentiation from reactional episodes and relapse rates found in different studies. 3) Results obtained in follow-up after discharge of patients from a comparative clinic study with two multidrug therapeutic with fixed duration. 4) A case report of a relapse in a patient from the previous study, submitted to Rifampicin (RMP) 600 mg and Dapsone (DDS) 100 mg daily, selfadministered for 3 months, followed by DDS 100 mg self-administered for 21 months. Mouse, foot pad injected with skin lesion biopsy at relapse showed presence of viable M. Leprae suceptible to DDS and RMP. After MDT/WHO regimen initiation, the case had good evolution, suggesting a relapse by bacillum persistence.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1997-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1189</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v30i3p351-357</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 30 No. 3 (1997); 351-357</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 30 Núm. 3 (1997); 351-357</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 30 n. 3 (1997); 351-357</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1189/1208</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1190</identifier>
+        <datestamp>2020-06-25T16:15:50Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Atualização sobre mediadores e modelos experimentais de sepse</dc:title>
+          <dc:title xml:lang="en-US">Present understanding of mediators and experimental models of sepsis</dc:title>
+          <dc:creator>Benjamim, Claudia F.</dc:creator>
+          <dc:subject xml:lang="en-US">Sepsis. Shock</dc:subject>
+          <dc:subject xml:lang="en-US">Septic. Endotoxins. Peritonitis. Lipopolysaccharides. Cytokines.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sepse. Choque Séptico. Endotoxinas. Peritonite. Lipopolissacarídios. Citocinas.</dc:subject>
+          <dc:description xml:lang="en-US">The author presents a reviewed description about the inflammatory response during sepsis, viewing the mainly mediators in this process, as cytokines and nitric oxide, and the role of these mediators in the evolution of this disease. This aspect is not so linear and simple, because the importance of each mediators depend on experimental model, animal species and sepsis stage. Furthermore, it will be reviewed the principal experimental models used for the study of sepsis, discussing the advantage of each one and their contribution for the comprehension of the disease. It has no doubt about the importance of all experimental model of sepsis and septic shock, however it is crucial to distinguish the good and bad features about each model, in order to concern successful results for clinic trials.</dc:description>
+          <dc:description xml:lang="pt-BR">A autora apresenta uma revisão sobre a resposta inflamatória durante a sepse, abordando os principais mediadores envolvidos no processo, tais como citocinas e óxido nítrico, bem como o papel desses mediadores na evolução da doença. Esse aspecto abordado não é tão simples e pontual, pois a relevância desses mediadores inflamatórios, na sepse, varia de acordo com muitos fatores, entre eles, com o modelo experimental utilizado, a espécie animal e o estágio da doença. Ainda, serão revisados os modelos experimentais mais utilizados para o estudo da sepse, discutindo-se as vantagens de cada modelo e a sua contribuição para a compreensão da doença. Não há dúvida que os modelos experimentais, utilizados hoje em dia, contribuem bastante para o entendimento de sepse e choque séptico. Entretanto, é importante saber discernir os pontos fortes e fracos do modelo, possibilitando uma real extensão dos resultados experimentais para testes clínicos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1190</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i1p18-26</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 1 (2001); 18-26</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 1 (2001); 18-26</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 1 (2001); 18-26</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1190/1209</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1191</identifier>
+        <datestamp>2020-06-25T16:15:48Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação da perfusão tecidual no choque</dc:title>
+          <dc:title xml:lang="en-US">Tissue perfusion assesment in shock</dc:title>
+          <dc:creator>Silva, Eliézer</dc:creator>
+          <dc:creator>Garrido, Alejandra Gallardo</dc:creator>
+          <dc:creator>Assunção, Murillo S. C.</dc:creator>
+          <dc:subject xml:lang="en-US">Shock. Tissue Perfusion. Tonometry. Lactates. Oxygen Transfer.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Choque. Perfusão Tecidual. Tonometria. Lactato. Transferência de Oxigênio.</dc:subject>
+          <dc:description xml:lang="pt-BR">Apesar das diversas inovações tecnológicas e do melhor entendimento fisiopatológico dos estados de choque, esta condição permanece com elevada taxa de morbimortalidade. Uma das explicações mais aceitas para a taxa elevada é o desenvolvimento da síndrome de disfunção de múltiplos órgãos (SDMO), secundária à hipoperfusão tecidual persistente. Assim, é evidente a importância da avaliação da perfusão tecidual em tais quadros, bem como possíveis interferências terapêuticas a partir da avaliação. Nesta revisão, são abordadas noções básicas sobre a monitorização clínica e laboratorial da perfusão tecidual no choque, incluindo transporte de O2, consumo e taxa de extração de O2 saturação venosa mista de O2, lactato e gradiente gastroarterial de CO2. Tais dados são fundamentais para a correta interpretação e melhor intervenção terapêutica, visando adequar o desequilíbrio presente entre oferta/consumo de O2 e, desta forma, interromper a série de eventos fisiopatológicos que resulta em SDMO e, em muitas condições, em morte. Nesse contexto, algumas metas devem ser alcançadas durante a ressuscitação de pacientes com síndrome do choque, a saber: pressão arterial média &amp;gt; 65 mmHg; diurese ³ 1 ml/kg/hora; débito cardíaco suficiente para manter uma SvO2&amp;nbsp;&amp;gt;65%; lactato sérico &amp;lt; 2 mmol/L, destacando que, mesmo quando normalizadas as variáveis sistêmicas de oxigenação, graves distúrbios perfusionais regionais ainda podem existir, sendo necessário recorrer à monitorização regional através da avaliação do pCO2-gap.</dc:description>
+          <dc:description xml:lang="en-US">Although new technologies have emerged and the tissue perfusion assessment has improved, shock remains with a high mortality ratio. Multiple organ dysfunction syndrome (MODS) due to tissue hypoperfusion is the best reason to explain this high mortality ratio in these patients. Hence, tissue perfusion assessment has the pivotal role in the shocked patient evaluation, because some therapeutic interventions can be performed. In this review, will be highlighted the main clinic signs and laboratories findings observed in hypoperfusion syndromes, including oxygen transport, oxygen delivery, oxygen consumption, oxygen extraction ratio, oxygen mixed venous saturation, arterial lactate end gastric-arterial CO2 gradient. These concepts are very important to understand and choose the best intervention for breaking events that are responsible for MODS development and death. The goals of resuscitation are also provided including mean arterial pressure above 65 mm Hg, mixed venous oxygen saturation above 65%, and lactate levels below 2 mMol/L. However, regional hypoperfusion can persist despite of restoring global hemodynamic variables. Hence, gastric-mucosal PCO2 could be a therapy-guide. &amp;nbsp; &amp;nbsp;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1191</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i1p27-35</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 1 (2001); 27-35</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 1 (2001); 27-35</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 1 (2001); 27-35</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1191/1210</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/1192</identifier>
+        <datestamp>2020-06-25T16:15:47Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Ressuscitação cardiorrespiratória</dc:title>
+          <dc:title xml:lang="en-US">Cardiopulmonary resuscitation</dc:title>
+          <dc:creator>Araújo, Sebastião</dc:creator>
+          <dc:creator>Araújo, Izilda E. M.</dc:creator>
+          <dc:subject xml:lang="en-US">Heart Arrest. Cardiopulmonary Resuscitation.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Parada Cardíaca. Ressuscitação Cardiopulmonar.</dc:subject>
+          <dc:description xml:lang="pt-BR">A parada cardíaca representa a maior emergência médica com que podemos nos deparar. Seu diagnóstico rápido, a pronta instituição do suporte básico de vida, a desfibrilação imediata, quando indicada, o uso precoce e agressivo de agentes vasopressores, e o suporte de vida, em unidade de terapia intensiva, dos pacientes inicialmente ressuscitados são princípios considerados básicos e fundamentais para o sucesso da ressuscitação cardiorrespiratória. Tendo em vista que o fluxo sangüíneo anterógrado, gerado pelas manobras tradicionais de ressuscitação cardiorrespiratória com o tórax fechado, é usualmente muito baixo, o uso de agentes farmacológicos específicos pode melhorar a eficácia dessas manobras, permitindo um aumento nas taxas de recuperação da circulação espontânea e de boa evolução neurológica nos pacientes vítimas de parada cardíaca. No presente artigo, são revisados os principais aspectos relacionados aos suportes básico e avançado de vida, no atendimento da parada cardíaca. Considerando-se que o aumento do tônus arterial periférico é de fundamental importância para que se obtenham pressões de perfusão coronariana e cerebral satisfatórias, durante a ressuscitação cardiorrespiratória, o uso precoce e agressivo de agentes vasopressores em tal condição é enfatizado.</dc:description>
+          <dc:description xml:lang="en-US">Cardiac arrest is the most stressful medical emergency in daily clinical practice. Its prompt diagnosis, the early institution of basic life support and electrical defibrillation, the early and agressive use of vasopressor agents, and intensive care of the initially resuscitated patients are, undoubtedly, essential principles for a successful cardiopulmonary resuscitation. Considering that anterograde blood flow generated by the classical closed-chest cardiopulmonary resuscitation maneuveurs is usually very low, the use of especific pharmacological agents can improve the efficacy of such maneuvers, resulting in high rates of restoration of spontaneous circulation and improved neurological outcome. In the present issue, the main topics of basic and advanced cardiac life support in cardiopulmonary resuscitation are reviewed. By increasing peripheral vascular tone, and consequently increasing coronary and cerebral perfusion pressures, the early and agressive use of vasopressor agents in the treatment of cardiac arrest is emphasized.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2001-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/1192</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v34i1p36-63</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 34 No. 1 (2001); 36-63</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 34 Núm. 1 (2001); 36-63</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 34 n. 1 (2001); 36-63</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/1192/1211</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:14Z" completeListSize="1467" cursor="500">a1c6c5653c5b6ed2301a80a3c6187ed1</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

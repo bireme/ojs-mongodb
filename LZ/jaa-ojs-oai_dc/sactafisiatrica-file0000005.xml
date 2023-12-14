@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2023-08-07T14:49:00Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102365</identifier>
+        <datestamp>2020-07-31T23:21:17Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Cerebral palsy epidemiology</dc:title>
+          <dc:title xml:lang="pt-BR">Epidemiologia da paralisia cerebral</dc:title>
+          <dc:creator>Pato, Tamara Rodrigues</dc:creator>
+          <dc:creator>Pato, Thais Rodrigues</dc:creator>
+          <dc:creator>Souza, Daniel Rúbio de</dc:creator>
+          <dc:creator>Leite, Heitor Pons</dc:creator>
+          <dc:subject xml:lang="en-US">Cerebral Palsy/etiology</dc:subject>
+          <dc:subject xml:lang="en-US">Cerebral Palsy/epidemiology</dc:subject>
+          <dc:subject xml:lang="en-US">Life expectancy</dc:subject>
+          <dc:subject xml:lang="pt-BR">Paralisia Cerebral/etiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Paralisia Cerebral/epidemiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Expectativa de Vida</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: there is a great interest in finding a cerebral palsy determinant ethiologic factor, that way, it could be possible to realize a profilatic approach for this injury. On literature, many risk factors are accused and some authors suggest that is a multifatorial disease. It was also searched about possible protector factors, life expectancy and the most commum causes of death, focusing on finding ways to prevent complications and to improve life quality. Methods and material: sistematic literature reviow based in 40 articles found in Bireme, Lilacs and Pubmed sites, beside two recente edition books. Results: the most mencioned risk factors were perinatal hypoxia, prematurity and mathernal intrauterine infeccion. Other factors are multiple births, choriomnionitis and thrombophilia. The use of corticosteroids on antenatal period was mencioned as a protector factor. Some authors also suggest a pre-eclampsia and magnesium sulfate administration, however a controversy still remains about this. The principal cause of death pointed were respiratory diseases, like pneumonia. Other causes are intestinal obstruction (f. e. volvo), pedestrian and motor accidents and drowning. Conclusion: it doesn´t exist a determinant factor to cerebral palsy. The hypoxia/ischemia perinatal have a large contribution comparing others factors, but it depend on the intensity and the period that occurs. There aren´t enough studies about protective factors to prove a true efficacy. The mainly causes of death are the repiratory diseases. It´s possible to reduce drowing and pedestrian accidents incidence based on orientation and rehabilitation.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: existe grande interesse em encontrar um fator etiológico determinante para a paralisia cerebral, pois seria possível realizar uma abordagem profilática para a doença. Na literatura são acusados diversos fatores de risco, e muitos autores sugerem que seja uma doença multifatorial.Também se pesquisou sobre possíveis fatores protetores, expectativa de vida e principais causas de morte, visando encontrar possíveis formas de prevenção de acidentes ou de melhora de qualidade de vida. Materiais e métodos: revisão sistemática da literatura, baseada em 40 artigos encontrados nos sites da Bireme, Lilacs e Pubmed, além de dois livros de edição recente. Resultados: os fatores de risco mais citados foram hipóxia perinatal, prematuridade e infecção materna intra-uterina. Outros fatores apontados são gestação múltipla, corioamnionite e trombofilia. O uso de corticóide no período antenatal foi referido como fator protetor. Alguns autores também referem pré-eclâmpsia e a administração de sulfato de magnésio, entretanto, ainda há controvérsias.As principais causas de morte apontadas foram as respiratórias, principalmente as pneumonias. Outras causas são obstrução intestinal (como volvo), afogamentos e atropelamentos. Conclusão: não existe um fator determinante específico para a paralisia cerebral (PC). A hipóxia e a isquemia perinatal têm maior contribuição que outros fatores, mas dependem da intensidade e do período em que ocorrem. Os trabalhos sobre fatores protetores são insuficientes para confirmar sua real eficácia. A principal causa de morte são as doenças respiratórias. É possível reduzir a incidência de afogamentos e atropelamentos por meio de orientação e reabilitação.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102365</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20020004</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 2 (2002); 71-76</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102365/100689</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102366</identifier>
+        <datestamp>2020-07-31T23:21:19Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Epidemiology of the injuries of the locomotor system in basketball athletes</dc:title>
+          <dc:title xml:lang="pt-BR">Epidemiologia das lesões do sistema locomotor em atletas de basquetebol</dc:title>
+          <dc:creator>Gantus, Mario Cardoso</dc:creator>
+          <dc:creator>Assumpção, Jurandyr D’Ávila</dc:creator>
+          <dc:subject xml:lang="en-US">Athletic Injuries</dc:subject>
+          <dc:subject xml:lang="en-US">Basketball</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="pt-BR">Traumatismos em Atletas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Basquetebol</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:description xml:lang="pt-BR">Este estudo tem o objetivo de identificar as lesões do sistema locomotor mais freqüentes nos atletas de basquetebol, suas características e os segmentos corpóreos mais acometidos. Foram entrevistados 59 atletas entre 18 e 39 anos de sete equipes de São Paulo, por meio de um questionário com dados pessoais, perfil de atuação nos treinos e jogos e histórico das lesões com diagnóstico clínico. No total, foram relatadas 455 lesões, e a lesão mais freqüente foi o entorse do tornozelo, 49 (10,8%). Quanto à fase de ocorrência, 356 (78,2%) das lesões ocorreram na temporada. O momento de ocorrência predominante foi nos treinos, 242 (53,2%). Quanto à gravidade das lesões, 131 (28,9%) de primeiro grau, 171 (37,6% ) de segundo grau e 153 (33,5%) de terceiro grau. Na análise das lesões e da posição do atleta no jogo, os laterais apresentaram como as regiões mais acometidas a face (16,6%) e a coluna dorsolombar (12,8%). Nos pivôs, as regiões mais atingidas foram a face (18,3%), as mãos e os dedos (18,3%) e os joelhos (15%). O tornozelo foi a região mais acometida nos armadores (18,6%) em comparação às outras regiões citadas. As lesões típicas do basquetebol e as regiões mais acometidas foram: 1) os ferimentos nos olhos e na boca, por causa da dinâmica do jogo, da estatura dos pivôs e da atitude dos seus cotovelos; 2) os entorses do tornozelo, por causa da falta de proteção; 3) as tendinites patelares como resultado do supertreinamento; 4) as contusões interfalangeanas, pela disputa constante pela bola; 5) os distúrbios dorsolombares, por causa dos impactos, da agressividade e da postura dos atletas.</dc:description>
+          <dc:description xml:lang="en-US">This study has the objective to identify the most frequent injuries of the locomotor system in basketball athletes, their characteristics and the body segments mostly affected. 59 athletes of seven teams of São Paulo city ranging from 18 and 39 years of age, were interviewed through a questionnaire containing personal data, profile of performance in practice sessions and games, and records of injuries with their clinical diagnosis. In total, 455 injuries were obtained, and the most frequent injury was the ankle sprain with 49 cases (10.8%). For the time of occurrence, 356 (78.2%) injuries happened in the season. The predominant moment of occurrence was in practice sessions, 242 (53.2%). For the seriousness of the injuries, 131 (28.9%) were degree I, 171 (37.6%) degree II, and 153 (33.5%) degree III. The analysis between the injuries and the athlete’s position in the game, stated that the Forwards were affected mostly in the face (16.6%) and the dorsum lumbar spine (12.,8%). In the Centers the areas most affected were the face (18.3%), the hands and the fingers (18.3%), and the knees (15%). The ankle was the most affected area in the Guards (18.6%) over other areas mentioned. The typical injuries of basketball and the most affected areas were: 1) wounds in the eyes and mouth, due to the dynamics of the game, to the stature of the centers and their use of the elbows; 2) ankle sprains, due to the lack of protection; 3) patellar tendonitis, as a result of the over training; 4) finger-joint bruises, because of the constant dispute of the ball; 5) back and lower back disturbances, due to the impacts, aggressiveness and to the athletes’ posture.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102366</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20020002</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 2 (2002); 77-84</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102366/100690</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102367</identifier>
+        <datestamp>2020-07-31T23:21:22Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Reintegração corporal em pacientes amputados e a dor-fantasma</dc:title>
+          <dc:title xml:lang="en-US">Body reintegration of amputee patients and the phantom pain</dc:title>
+          <dc:creator>De Benedetto, Kátia Monteiro</dc:creator>
+          <dc:creator>Forgione, Maria Cristina Rizzi</dc:creator>
+          <dc:creator>Alves, Vera Lúcia Rodrigues</dc:creator>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Membro Fantasma</dc:subject>
+          <dc:subject xml:lang="pt-BR">Psicologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:subject xml:lang="en-US">Phantom Limb</dc:subject>
+          <dc:subject xml:lang="en-US">Psychology</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:description xml:lang="pt-BR">Estudos mostram que a dor-fantasma em pacientes amputados pode expressar uma tentativa de reintegração corporal, visto que a amputação pode alterar a imagem corporal, comprometendo o sentido de integridade do indivíduo. Deste modo, ressaltam-se as etapas de reintegração corporal nestes pacientes e a importância de evitar o uso maciço da negação como mecanismo de defesa no processo de elaboração da perda física. Conclui-se que, apesar de a dor-fantasma ter uma função de reintegração corporal, pode-se mostrar como uma alternativa não produtiva ao processo de reabilitação global do paciente amputado.</dc:description>
+          <dc:description xml:lang="en-US">Researches show that phantom pain in amputee patients may express a body reintegration attempt since the amputation may change the body image, modifying the individual sense of integrity. On this way, this paper points out the body reintegration’s stages in this patients and the importance to avoid the intense use of denial as a defense mechanism in the process of mourning due the physical lost. It’s concluded that even though body reintegration appears as one of the phantom pain function, it may be a no productive alternative in the process of global rehabilitation of the amputee.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102367</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20020001</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 2 (2002); 85-89</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102367/100691</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102368</identifier>
+        <datestamp>2020-07-31T23:21:24Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O paciente hemiplégico e o sandplay: uma possibilidade de expressão</dc:title>
+          <dc:title xml:lang="en-US">The hemiplegic patient and the sandplay: a possibility of expression</dc:title>
+          <dc:creator>Chagas, Maria Inês Orsoni</dc:creator>
+          <dc:creator>Forgione, Maria Cristina Rizzi</dc:creator>
+          <dc:subject xml:lang="pt-BR">Sandplay</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemiplegia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Plasticidade Neuronal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Psicoterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Comunicação não-verbal</dc:subject>
+          <dc:subject xml:lang="en-US">Sandplay</dc:subject>
+          <dc:subject xml:lang="en-US">Hemiplegia</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Neuronal Plasticity</dc:subject>
+          <dc:subject xml:lang="en-US">Psycotherapy</dc:subject>
+          <dc:subject xml:lang="en-US">Nonverbal Communication</dc:subject>
+          <dc:description xml:lang="en-US">This study theoretically explored the possibilities of using the Sandplay as a psychotherapeutic process with hemiplegic persons with language disfunctions, in rehabilitation treatment in a hospital. It was also investigated, if this psychotherapy method, which makes use of a non verbal instrument can stimulate the brain plasticity as well as help these patients in their search of a new language which may put them in touch with the world around in an active way.</dc:description>
+          <dc:description xml:lang="pt-BR">Este estudo discute as possibilidades de uso de sandplay (jogo de areia ou caixa de areia) enquanto processo psicoterapêutico junto aos pacientes portadores de hemiplegia com distúrbios de comunicação, em programa de reabilitação em instituição hospitalar. Levantou-se a questão se esse método psicoterápico que se utiliza de um instrumento não-verbal poderá fomentar a plasticidade neuronal, bem como auxiliar esses pacientes na busca de uma nova forma de comunicação que os coloque em contato com o mundo circundante de forma mais participativa.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102368</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v9i2a102368</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 2 (2002); 90-97</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102368/100692</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102369</identifier>
+        <datestamp>2020-07-31T23:21:27Z</datestamp>
+        <setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">International Classification of Functioning Disability and Health (ICF)</dc:title>
+          <dc:title xml:lang="pt-BR">Classificação Internacional de Funcionalidade (CIF)</dc:title>
+          <dc:creator>Battistella, Linamara Rizzo</dc:creator>
+          <dc:creator>Brito, Christina May Moran de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Classificação Internacional de Funcionalidade, Incapacidade e Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Organização Mundial da Saúde</dc:subject>
+          <dc:subject xml:lang="en-US">International Classification of Functioning, Disability and Health</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">World Health Organization</dc:subject>
+          <dc:description xml:lang="pt-BR">O presente artigo tem por objetivo a atualização e a familiarização de profissionais envolvidos com a reabilitação daClassificação Internacional de Funcionalidade (CIF) desenvolvida pela Organização Mundial de Saúde. São abordados seu histórico, finalidade e perspectivas de aplicação na área de reabilitação.</dc:description>
+          <dc:description xml:lang="en-US">The present article has the objective of updating rehabilitation health professionals on the International Classification of Functioning Disability and Health (ICF) developed by the World Health Organization. The ICF’s history, application and perspectives in rehabilitation are discussed</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102369</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20020003</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 2 (2002); 98-101</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102369/100693</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102370</identifier>
+        <datestamp>2020-07-31T23:24:41Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Memory consciousness failure of a person who suffers from brain lesion</dc:title>
+          <dc:title xml:lang="pt-BR">O processo de conscientização do déficit de memória na pessoa portadora de lesão cerebral</dc:title>
+          <dc:creator>Schewinsky, Sandra Regina</dc:creator>
+          <dc:creator>Ghiringhello, Luccia</dc:creator>
+          <dc:subject xml:lang="pt-BR">Memória</dc:subject>
+          <dc:subject xml:lang="pt-BR">Consciência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Teoria sócio-histórica</dc:subject>
+          <dc:subject xml:lang="en-US">Memory</dc:subject>
+          <dc:subject xml:lang="en-US">Conscience</dc:subject>
+          <dc:subject xml:lang="en-US">Social-historical theory</dc:subject>
+          <dc:description xml:lang="pt-BR">O presente trabalho tem como foco o processo de conscientização do déficit de memória na pessoa acometida de lesão cerebral. Sua relevância deve-se ao fato de que vários indivíduos, inclusive jovens, sofrem danos neurológicos que acarretam prejuízos na atividade mnemônica sem apresentarem consciência disso, fato que interfere em suas performances como um todo, dificultando o processo de reabilitação. Os pressupostos da teoria sócio-histórica subsidiam esta investigação. A pesquisa trata de um estudo de caso, baseada no paradigma qualitativo para seu entendimento. Thyago, o sujeito deste estudo, é um jovem que se encontra em processo de reabilitação na Divisão de Medicina de Reabilitação do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, porque sofreu traumatismo craniencefálico, tendo como seqüelas dificuldades de memória e diminuição da amplitude da consciência. Os resultados visam contribuir para maior entendimento dos prejuízos da pessoa lesada cerebralmente, ilustrando como se dá o processo de conscientização dos déficits de memória na interação com o outro, podendo assim colaborar na terapêutica psicológica que engloba a reorganização das atividades cognitivas.</dc:description>
+          <dc:description xml:lang="en-US">This work paper has the aim of focusing the Memory Consciousness Failure of a person who suffers from brain lesion. This sickness is relevant due to the fact that several individuals, including young people, have suffered from neurological damages that cause losses in the mnemonic activity, but they are not conscience of this failure, fact which interferes in their perfomance as a whole, transforming the healing process even harder. The presuppositions of the social-historical theory subside this investigation. This research deals with the study of a cases based on the qualitative paradigm for the understanding of itselfs. The subject is Thyago a young man who finds himself as the rehabilitation process of the DMR – HCFMUSP since he suffered Brain-Injury, having as damage difficulties of the memory and the decreasing of the consciousness wideness. The results contributes for a greater understanding of the damages on the person, who was injured in the brain. So, it will illustrates how the memory damages consciousness process develops in co-relation at social interaction. As a consequence he is able to collaborate on the psychological therapeutics that comptends the reorganization of his congnitive activities.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-12-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102370</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v9i3a102370</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 3 (2002); 109-116</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102370/100694</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102371</identifier>
+        <datestamp>2020-07-31T23:24:47Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Myofascial syndrome: comparison between infiltration of trigger points treatment and oral medication (cyclobenzaprine)</dc:title>
+          <dc:title xml:lang="pt-BR">Síndrome miofascial: comparação entre o tratamento com infiltração de trigger points e medicação oral (ciclobenzaprina)</dc:title>
+          <dc:creator>Furtado, Rita Nely Vilar</dc:creator>
+          <dc:creator>Carazzato, Simone</dc:creator>
+          <dc:creator>Farias, Carolinne Atta</dc:creator>
+          <dc:creator>Chamlian, Therezinha Rosane</dc:creator>
+          <dc:creator>Masiero, Danilo</dc:creator>
+          <dc:subject xml:lang="pt-BR">Síndromes da Dor Miofascial</dc:subject>
+          <dc:subject xml:lang="pt-BR">Técnicas de Fisioterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ciclobenzaprina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Algometria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reprodutibilidade</dc:subject>
+          <dc:subject xml:lang="en-US">Myofascial Pain Syndromes</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Techniques</dc:subject>
+          <dc:subject xml:lang="en-US">Cyclobenzaprine</dc:subject>
+          <dc:subject xml:lang="en-US">Algometry</dc:subject>
+          <dc:subject xml:lang="en-US">Reprodutibility</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Comparar os efeitos da infiltração de trigger points com xilocaína a 1% com o uso da ciclobenzaprina no tratamento a curto prazo da síndrome miofascial (SMF) de trapézio. Material e métodos: Estudo prospectivo controlado randomizado com avaliador “cego” em 38 pacientes com SMF de trapézio. Intervenção realizada no grupo teste (IF) (n = 18): infiltração com xilocaína a 1% em, no máximo, 06 trigger points de trapézio; no grupo-controle (CB) (n = 20) foi fornecido 10 mg/dia de ciclobenzaprina por 15 dias. Os pacientes foram avaliados no tempo zero (T0), em sete (T7), quinze (T15) e trinta dias (T30). Instrumentos de avaliação: escala visual analógica de dor global (EVA de dor global), escala visual analógica de dor à compressão digital de trigger points (EVA de dor à compressão), questionário resumido para dor de McGill. Foi realizada a avaliação da reprodutibilidade interobservador (RI) para EVA de dor à compressão digital. Resultados: Os pacientes apresentaram na avaliação inicial a média de trigger points de 2,0 (+ 0,5), taut band de 3,05 (+ 0,8) e tender spots de 4,64 (+ 1,15). A RI para EVA à compressão mostrou-se boa (pearson &amp;gt; 0,8). Observou-se tendência (p &amp;gt; 0,05) a maior variação do escore de dor (McGill) no grupo-teste, maior variação do tipo de dor e maior incidência de efeitos colaterais no grupo-controle. Ambos os grupos melhoraram ao término do acompanhamento (p &amp;lt; 0,05). A média das variações da EVA de dor global no T7 (-24,2% (+62,8 CB X -40% + 50,9 IF p = 0,19), T15 (-37,6% + 48,4 CB X -50% + 44,8 IF p = 0,3) e T30 (-50% + 60 CB X -70,8% +44,7 IF p = 0,14) foi maior no grupo-teste porém sem significância estatística. Esta tendência também se observou na média das variações da EVA de dor à compressão digital no T7 (-26,8% + 35,34 CB X - 46,5% ( 44,4 IF p = 0,24), no T15 (-38,8% + 38,2 CB X -56,2% + 34,3 IF p = 0,44) e no T30 (-46,6% + 38 CB X -53% + 34,4 IF – p = 0,38), porém mais uma vez sem significância estatística. Conclusão: A semelhança do efeito da ciclobenzaprina com o da infiltração de trigger points permite a indicação da primeira no tratamento de pacientes com SMF de trapézio e questiona a indicação invariável da infiltração de trigger points.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To compare the effects of the infiltration of “trigger points” with lidocaine at 1% with the use of cyclobenzaprine in the short term treatment of trapezius myofascial syndrome (SMF). Material and methods: Randomized controlled prospective study with a “blind” evaluating 38 patients with trapezius SMF. Intervention accomplished in the test group (IF) (n = 18): infiltration with lidocaine at 1% in at the most 06 trapezius ”trigger points”; in the control group (CB) (n = 20) 10 cyclobenzaprine mg/dia was supplied for 15 days. The patients were appraised in the time zero (T0), in seven (T7), fifteen (T15) and thirty days (T30). Evaluation instruments: visual analogue scale of global pain (VAS of global pain), visual analogue scale of pain to the digital compression of “trigger points” (VAS of pain to the compression), short-form McGill pain questionnaire. The evaluation of the interobserver reprodutibility (RI) was accomplished for VAS of pain to the digital compression. Results: The patients presented, in the initial evaluation, AN average of “trigger points” of 2,0 (± 0,5), “taut band” of 3,05 (± 0,8) and to “tend spots” of 4,64 (± 1,15). The RI for VAS to the compression was shown satisfactory (pearson &amp;gt; 0,8). It was observed the largest variation (p &amp;gt; 0,05) of the pain score (McGill) in the IF, larger variation of the type pain and larger incidence of side effects in the CB. Both groups showed improvement at the end of the evaluation (p &amp;lt; 0,05). The average of the variations of VAS of global pain in T7 (-24,2% ± 62,8 CB X -40% ± 50,9 IF p = 0,19), T15 (- 37,6% ± 48,4 CB X -50% ± 44,8 IF p = 0,3) and T30 (-50% ± 60 CB X -70,8% ± 44,7 IF p = 0,14) it was higher in the IF, however without statistical significe. This tendency was also observed in the average of VAS variations of pain to the digital compression on T7 (-26,8% ± 35,34 CB X -46,5% ± 44,4 IF p = 0,24), on T15 (-38,8% ± 38,2 CB X -56,2% ± 34,3 IF p = 0,44) and on T30 (-46,6% ± 38 CB X -53% ± 34,4 IF - p = 0,38), however, once again without statistical significance. Conclusion: The similarity between the effect of the cyclobenzaprine an the infiltration of the trigger points allows the indication of the first in the patients’ treatment with trapezius SMF and it questions the invariable indication of the infiltration of trigger points.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-12-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102371</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v9i3a102371</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 3 (2002); 117-126</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102371/100695</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102372</identifier>
+        <datestamp>2020-07-31T23:24:50Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Bone mineral status after spinal cord injury</dc:title>
+          <dc:title xml:lang="pt-BR">Densidade mineral óssea após lesão medular</dc:title>
+          <dc:creator>Brito, Christina May Moran de</dc:creator>
+          <dc:creator>Battistella, Linamara Rizzo</dc:creator>
+          <dc:creator>Sakamoto, Hatsue</dc:creator>
+          <dc:creator>Saito, Elizabete Tsubomi</dc:creator>
+          <dc:subject xml:lang="en-US">Spinal Cord Injury</dc:subject>
+          <dc:subject xml:lang="en-US">Osteoporosis</dc:subject>
+          <dc:subject xml:lang="en-US">Bone Density</dc:subject>
+          <dc:subject xml:lang="en-US">Paraplegia</dc:subject>
+          <dc:subject xml:lang="en-US">Tetraplegia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lesão medular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Osteoporose</dc:subject>
+          <dc:subject xml:lang="pt-BR">Densidade Óssea</dc:subject>
+          <dc:subject xml:lang="pt-BR">Paraplegia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tetraplegia</dc:subject>
+          <dc:description xml:lang="pt-BR">A osteoporose é uma das reconhecidas complicações da lesão medular, mas na prática clínica muitas vezes tem sido deixada para segundo plano quando comparada às outras complicações decorrentes da lesão. Grande parte da perda óssea ocorre nos primeiros quatro a seis meses após a lesão e se estabiliza doze a dezesseis meses após. Ocorre em todos os segmentos, mas é mais acentuada nos segmentos paralisados, situando-se em torno de 4% ao mês em áreas ricas em osso trabecular e 2% ao mês em áreas com predomínio de osso cortical no primeiro ano após a lesão. A incidência de fraturas se situa entre 1% a 7% e estas são muitas vezes decorrentes de traumas mínimos. Os mecanismos envolvidos na perda óssea não estão totalmente esclarecidos. Trabalhos com ortostatismo e cinesioterapia não demonstraram benefício significativo no que diz respeito à redução da perda de massa óssea e trabalhos com estimulação elétrica funcional apresentam resultados divergentes, parecendo resultar em algum benefício local. O uso de medicação anti-reabsortiva parece constituir opção promissora, juntamente com a ingesta diária adequada de cálcio, mas estudos são ainda necessários para este fim. Este estudo teve como objetivo avaliar o impacto da lesão medular na densidade mineral óssea de 20 pacientes lesados medulares crônicos em acompanhamento ambulatorial na Divisão de Medicina de Reabilitação do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e possíveis fatores de influência sobre o padrão de perda óssea. Os métodos utilizados incluíram exames clínico e laboratorial e densitometria óssea de corpo inteiro. Foram incluídos nesse estudo 15 homens e 5 mulheres, entre 17 e 50 anos (mulheres até 35 anos), sendo 8 com tetraplegia e 12 com paraplegia, e o tempo de lesão variou de 10 meses a 10 anos. A avaliação densitométrica não evidenciou diferença significativa entre pacientes com e sem espasticidade. Também não houve correlação entre a porcentagem de massa magra e a densidade mineral óssea. A dissociação da densidade mineral óssea entre a coluna lombar e a pelve, com maior perda óssea em nível da pelve, foi um achado comum. A maior perda foi evidenciada em membros inferiores com média de -3,3 desvios-padrão em comparação ao pico de massa óssea do adulto jovem. Conclui-se então que tanto pacientes tetraplégicos quanto paraplégicos apresentam perda óssea significativa, particularmente em pelve e membros inferiores, sem influência do grau de espasticidade.</dc:description>
+          <dc:description xml:lang="en-US">Osteoporosis is a well-known complication of spinal cord injury (SCI), but in clinical practice it has been frequently given less importance when compared to other complications. Most authors agree that a good part of bone loss occurs during the first four to six months and stabilises twelve to sixteen months later. It affects the whole body but is more profound in paralyzed areas, being around 4%/month in trabecular bone and 2%/month in cortical bone during the first year after injury. Mechanisms involved are not totally understood. The incidence of fractures is around 1 to 7%, and frequently a result of minor trauma. Therapies involving orthostatism and exercises showed no benefit in reducing bone loss and studies with functional electric stimulation have diverging results with some studies showing local benefit The use of anti-reabsorptive drugs together with adequate amount of calcium seem to be the best option, but more studies are necessary. The impact of SCI on later bone mineral status was studied in 20 adults who sustained their injury for more than 6 months. The methods used in the study were clinical interview and examination, laboratory tests to exclude other potential causes of osteoporosis and total-body densitometry with dual energy X-ray absorptiometry (DEXA). The group of patients studied included 15 men and 5 women, between 17 and 50 years of age (women up to 35 years), 12 tetraplegics and 8 paraplegics, and length of time from injury varied between 10 months and 10 years. Densitometric evaluations did not show significant difference between patients with or without spasticity. Mineral bone dissociation between the lumbar column and the pelvis, with more loss al the pelvis and lower extremities, was a common finding. Mean standard deviation decrease in lower extremities when compared to young adults mean was 3.3. We concluded that paraplegic and tetraplegic patients present significant bone loss, particularly at the pelvis and lower extremities, without significant influence of degree of spasticity or lean mass.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-12-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102372</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v9i3a102372</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 3 (2002); 127-133</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102372/100696</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102373</identifier>
+        <datestamp>2020-07-31T23:24:54Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A utilização do biofeedback no tratamento fisioterápico da paralisia facial periférica</dc:title>
+          <dc:title xml:lang="en-US">Physical therapy for facial paralysis using the biofeedback</dc:title>
+          <dc:creator>Goulart, Fátima</dc:creator>
+          <dc:creator>Vasconcelos, Karina Simone de Souza</dc:creator>
+          <dc:creator>Souza, Margareth Rosy Vilasboas de</dc:creator>
+          <dc:creator>Pontes, Patricia Barcelos</dc:creator>
+          <dc:subject xml:lang="pt-BR">Paralisia Facial</dc:subject>
+          <dc:subject xml:lang="pt-BR">Biofeedback</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fisioterapia</dc:subject>
+          <dc:subject xml:lang="en-US">Facial Paralysis</dc:subject>
+          <dc:subject xml:lang="en-US">Biofeedback</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy</dc:subject>
+          <dc:description xml:lang="pt-BR">A paralisia facial periférica (PFP) é caracterizada como uma lesão do nervo facial que altera as funções da musculatura da face podendo ser causada por fatores traumáticos, infecciosos, idiopáticos e outros. Naqueles casos que evoluem para a forma crônica, as complicações mais comuns são o ressecamento corneano e as sincinesias. Além disso, essa doença gera incapacidades físicas, psicológicas e sociais. Várias técnicas fisioterápicas foram propostas para o tratamento da PFP, porém, muitas não consideram a especificidade do sistema neuromotor facial e nenhuma se destaca como sendo a mais efetiva. Esse artigo faz uma revisão bibliográfica sobre o uso do biofeedback na PFP, ressaltando técnicas, características e efeitos do tratamento. O biofeedback é uma técnica que utiliza referências visuais ou auditivas por meio da eletromiografia, do espelho ou de outros recursos, para fornecer ao indivíduo informações sobre sua performance motora. Essa técnica associada a exercícios específicos tem sido apontado como benéfico no tratamento da PFP. Os principais efeitos alcançados são a melhora do controle e da coordenação do movimento e a redução da assimetria e sincinesia, por um processo de aprendizado motor. Fatores como início precoce, maior duração do tratamento, acompanhamento posterior e adesão dos sujeitos parecem influenciar a obtenção de resultados positivos. Apesar das inúmeras vantagens apontadas na literatura para a utilização do biofeedback na PFP, os estudos revisados não consideram a heterogeneidade dos sujeitos submetidos ao tratamento e não determinam quais características realmente alteram a recuperação dos indivíduos em tratamento com biofeedback. Além disso, os efeitos do biofeedback a longo prazo não estão estabelecidos e a manutenção de um programa domiciliar orientado parece ser necessário.</dc:description>
+          <dc:description xml:lang="en-US">Facial nerve paralysis (FNP) is characterized by the lesion of the facial nerve that affects the facial muscle functions and it is caused either by trauma, infection, or it is idiopathic. In some cases it becomes chronic and among the most common complications are corneal drying and synkinesis which may lead to physical, psychosocial and social impairments. Several physical therapy interventions have been proposed for this disorder, but most of them failed to consider the specificity of the facial neuromotor system and none of them has been shown to be effective. The aim of this paper was to provide a systematic review about the use of biofeedback for facial paralysis, including the application techniques and efficacy. Biofeedback is a technique that uses visual or auditive references by electromyography, a mirror or others to provide individual information about motor performance. This technique associated with specific exercises has been shown to be useful in the treatment of FNP. The main effects are based on motor learning processes to improve control and to reduce assymmetry and synkinesis. Factors such as timing and duration of the intervention, follow-up, and adherence to treatment appeared to influence the outcome. Despite the advantages reported in the literature about the application of biofeedback on FNP, the reviewed studies did not consider individual variability and nor determined which characteristics may influence recovery. Moreover, the longterm effects of biofeedback have not been established, as well as whether it is necessary to maintain a home-oriented exercise program.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-12-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102373</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v9i3a102373</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 3 (2002); 134-140</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102373/100697</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102374</identifier>
+        <datestamp>2020-07-31T23:24:57Z</datestamp>
+        <setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Autorship of a scientific work</dc:title>
+          <dc:title xml:lang="pt-BR">Autoria de um trabalho científico</dc:title>
+          <dc:creator>Petroianu, Andy</dc:creator>
+          <dc:subject xml:lang="en-US">Scientific Work</dc:subject>
+          <dc:subject xml:lang="en-US">Research</dc:subject>
+          <dc:subject xml:lang="en-US">Authorship</dc:subject>
+          <dc:subject xml:lang="pt-BR">Trabalho Científico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pesquisa</dc:subject>
+          <dc:subject xml:lang="pt-BR">Autoria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Mérito</dc:subject>
+          <dc:description xml:lang="pt-BR">Durante a elaboração de um trabalho científico, uma das dificuldades que por ventura podem ocorrer é a escolha dos participantes da pesquisa que devem compor a sua autoria. Situação ainda mais desagradável é a ordenação dos autores, de acordo com o mérito de cada um no trabalho. Objetivo: Apresentar, de maneira justificada, uma proposta para a autoria do trabalho científico, mediante a contribuição de cada membro da equipe de pesquisadores. Método : Foi realizada uma avaliação da maneira de se propor a autoria científica nos principais centros de pesquisa do Brasil e na literatura pertinente, para a aquisição de subsídios com vista à presente proposta. Resultados: São apresentados em ordem de entrada os principais autores do trabalho e aqueles que devem merecer apenas agradecimento. Propõe-se uma escala numérica, com vistas à participação de cada membro da equipe, para facilitar a inclusão de cada um dos autores. Conclusões: O mérito da autoria científica deve ser restrito aos participantes que tiveram uma colaboração intelectual ao trabalho realizado, aliada a uma contribuição efetiva para a pesquisa ser realizada e concluída.</dc:description>
+          <dc:description xml:lang="en-US">Background. During the development of a scientific research, one of the main difficulties is to choose the authors of the paper from all participants of the investigation. The organization of the authorship, based on the contribution of each investigator is still more complex. Objective: To propose a justified indicator for the authorship of a scientific paper. Method: The author investigated the main research centers of Brazil in order to know their philosophy related to the authorship of a research. An assessment of the literature completed this study. Results: We present and justify the order of each investigator in the authorship or acknowledgment of the paper, based on his or her participation on the investigation Conclusion: The investigator deserves to be included as an author of a scientific paper only if he or she has an intellectual participation in the work and also effectively contributed with the execution and accomplishment of the research. [Rev Assoc Med Bras 2002; 48(1):60-5]</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2002-12-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102374</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v9i3a102374</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 9 n. 3 (2002); 141-148</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102374/100698</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2002 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102394</identifier>
+        <datestamp>2020-08-01T09:52:09Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Disfunções músculo-esqueléticas em pacientes com hipotireoidismo subclínico</dc:title>
+          <dc:title xml:lang="en-US">Skeletal Muscle Dysfunction in Patients with Subclinical Hypothyroidism</dc:title>
+          <dc:creator>Reuters, Vaneska Spinelli</dc:creator>
+          <dc:creator>Teixeira, Patrícia de Fátima dos Santos</dc:creator>
+          <dc:creator>Castro, Carmen Lucia Natividade de</dc:creator>
+          <dc:creator>Almeida, Cloyra Pereira</dc:creator>
+          <dc:creator>Cardoso, Helena Roisman</dc:creator>
+          <dc:creator>Porciúncula, Igor Mamed</dc:creator>
+          <dc:creator>Nobre, Thais Helena Serta</dc:creator>
+          <dc:creator>Reis, Fabíola Alves Aarão</dc:creator>
+          <dc:creator>Buescu, Alexandru</dc:creator>
+          <dc:creator>Vaisman, Mario</dc:creator>
+          <dc:subject xml:lang="en-US">Skeletal Muscle Dysfunction</dc:subject>
+          <dc:subject xml:lang="en-US">Hypothyroidism</dc:subject>
+          <dc:subject xml:lang="en-US">Fatigue</dc:subject>
+          <dc:subject xml:lang="pt-BR">Disfunção Músculo Esquelética</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipotireoidismo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fadiga</dc:subject>
+          <dc:description xml:lang="en-US">The main objective of this study is to evaluate skeletal muscle dysfunction in sHT. 31 outpatients from HUCFF-UFRJ (29 women and 2 men aging between 18 and 75 years old) with 2 elevated TSH determinations were included. All of them were classified according to Billewicz’s score modified by Zulewski. Manual muscle testing was performed for a variety of muscle groups and quadriceps isometric strength was measured by an electromechanic chair dynamometer. The inspiratory force was estimated by the maximum inspiratory pressure register in a manovacuometer. Clinical score &amp;lt; 3 (normal) was found in 11 patients 35,52%, between 3 and 5 (subclinical dysfunction) in 14 (45,1%) and more than 5 (hypothyroidism) in 6 participants (19,4%). Fatigue was a complaint in 45% and showed positive association with score greater than 2. Shoulder abductors muscles strength was impaired in 14%. Severe reduction in inspiratory force (&amp;lt;60%) was present in 51,6%. No more significant correlation between the variables studied was found. &amp;nbsp;The reduction in inspiratory and peripheral muscular force in these patients may play a main role in fatigue. The lack of statistical significance found will probably be better understood with the increase in the number of patients, with the inclusion of a healthy sex-and-age matched control group and performing a prospective placebo-controlled thyroxine treatment trial.</dc:description>
+          <dc:description xml:lang="pt-BR">O presente trabalho objetiva verificar a presença de alterações músculo-esqueléticas em pacientes com HS.&#160; Avaliados 31 pacientes acompanhados no ambulatório de endocrinologia do HUCFF-UFRJ (27 mulheres e 2 homens com idade entre 18 e 75 anos) com pelo menos duas dosagens elevadas de TSH. Todos receberam uma pontuação (score) baseada na escala de Billewicz modificada por Zulewski. Foram aplicados testes musculares manuais (TMM) para as cinturas escapular e pelvica; medida a força muscular de quadríceps em dinamômetro de cadeira eletromecânico; e estimada a força dos músculos inspiratórios através do registro da pressão inspiratória máxima com manovacuômetro. Score &amp;lt; 3 (normal) foi observado em 11 pacientes (35,5%); entre 3 e 5 (disfunção subclínica) em 14 (45,1%) e superior a 5 (hipotireoidismo) em 6 (19,4%). Fadiga foi uma queixa freqüente (45%) e apresentou associação positiva com score maior que 2. O comprometimento da força muscular periférica (alteração no TMM) foi encontrado em 14% dos pacientes. Diminuição grave da força inspiratória (&amp;lt; 60% do previsto) estava presente em 28 participantes (51,6%). Nenhuma das demais alterações encontradas mostraram associação com o escore ou níveis de TSH. A redução da força muscular inspiratória e proximal pode contribuir para a referida fadiga. A ausência de associação estatística entre essas variáveis deverá ser melhor esclarecida com o aumento da amostra e com a inclusão de um grupo controle pareado além do desenvolvimento de um estudo prospectivo com utilização de levotiroxina e placebo.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-04-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102394</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i1a102394</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 1 (2003); 7-11</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102394/100717</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102409</identifier>
+        <datestamp>2020-08-01T09:52:15Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">A comparative study between visual estimation and goniometry for the assessment of range of motion of the shoulder joint</dc:title>
+          <dc:title xml:lang="pt-BR">Estudo comparativo entre os métodos de estimativa visual e goniometria para avaliação das amplitudes de movimento da articulação do ombro</dc:title>
+          <dc:creator>Andrade, Júnia Amorim</dc:creator>
+          <dc:creator>Leite, Vilnei Mattioli</dc:creator>
+          <dc:creator>Teixeira-Salmela, Luci Fuscaldi</dc:creator>
+          <dc:creator>Araújo, Pola Maria Poli de</dc:creator>
+          <dc:creator>Juliano, Yara</dc:creator>
+          <dc:subject xml:lang="pt-BR">Avaliação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amplitude de Movimento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estimativa Visual</dc:subject>
+          <dc:subject xml:lang="pt-BR">Goniometria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ombro</dc:subject>
+          <dc:subject xml:lang="en-US">Assessment</dc:subject>
+          <dc:subject xml:lang="en-US">Range of Motion</dc:subject>
+          <dc:subject xml:lang="en-US">Visual Estimation</dc:subject>
+          <dc:subject xml:lang="en-US">Goniometer</dc:subject>
+          <dc:subject xml:lang="en-US">Shoulder</dc:subject>
+          <dc:description xml:lang="en-US">Objective: to compare the use of the the goniometer and of visual estimatation to measure the range of motion (ROM) of the shoulder joint (elevation, extension, abduction, and external/ internal rotation at 90° of abduction), and to indicate the best procedure and reference measures of the ROM of the shoulder. Méthods: two professionals of the area of health with different experiences in the evaluation of the ROM evaluated 97 normal individuals of both sexes aged between 20 to 50 years, using the method of visual estimation recommended by the American Academy Orthopaedic Surgeons (AAOS) and the goniometric method of Norkin and White (1997). Conclusions: comparisons between the methods resulted in significant differences for all movements. The results of this study demonstrated that differences exist between the values of ROM of the shoulder evaluated by visual estimate of AAOS and values obtained by the goniometer, suggesting that the goniometer is still the best method to evaluate discrete differences in ROM.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: comparar a utilização das técnicas de estimativa visual e de goniometria para medidas de amplitudes de movimento (ADM´s) do ombro (elevação, extensão, abdução e rotações externa/interna a 90° de abdução) e indicar o melhor procedimento e referência para medidas das ADM’s da articulação do ombro. Métodos: dois profissionais da área de saúde com diferentes experiências na avaliação de ADM’s avaliaram noventa e sete indivíduos normais de ambos os sexos com idade entre 20 a 50 anos, utilizando os métodos de estimativa visual recomendados pela American Academy Orthopaedic Surgeons (AAOS) e o método de goniometria recomendado por Norkin e White (1997). Comparações entre os métodos apresentaram diferenças significativas para todos os movimentos. Conclusões: existem diferenças entre os valores das ADM’s do ombro avaliadas pelo método de estimativa visual da AAOS e os valores obtidos pela goniometria, sugerindo que a goniometria é até o momento, o melhor método para avaliar diferenças discretas entre as medidas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-04-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102409</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i1a102409</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 1 (2003); 12-16</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102409/100732</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102416</identifier>
+        <datestamp>2020-08-01T09:52:18Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Occupational Therapy and the use of the computer as a resource in rehabilitation</dc:title>
+          <dc:title xml:lang="pt-BR">Terapia Ocupacional e o uso do computador como recurso terapêutico</dc:title>
+          <dc:creator>Watanabe, Marli Kiyoko Fujikawa</dc:creator>
+          <dc:creator>Tsukimoto, Denise Rodrigues</dc:creator>
+          <dc:creator>Tsukimoto, Gracinda Rodrigues</dc:creator>
+          <dc:subject xml:lang="pt-BR">Terapia Ocupacional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Desempenho Psicomotor</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Software</dc:subject>
+          <dc:subject xml:lang="en-US">Occupational Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Psychomotor Performance</dc:subject>
+          <dc:subject xml:lang="en-US">Software</dc:subject>
+          <dc:description xml:lang="en-US">Nowadays the computer technology can be applied in several professional fields, including the Occupational Therapy one, where it has been applied in the clinic area as a treatment modality. The aims of this present article, is to present the Occupational Therapy work with patients with cerebral injuries and spinal cord injury, using the computer and its tools and functions as a therapeutic resource that improves the rehabilitation process in general. We have selected clients who presented motor and perceptual-cognitive impairments, attending to a rehabilitation program and occupational therapy treatment. The occupational therapy intervetion included the use of softwares, hardwares and assistive technology. The motor skill and perceptual-cognitive abilities improved significantly and this fact has important consequences in the performance of the activities of daily living, resulting in an increased motivation, increasing the quality of the rehabilitation process in general.</dc:description>
+          <dc:description xml:lang="pt-BR">Atualmente a tecnologia da informática vem se ampliando para diversas áreas de atuação profissional, inclusive para o campo da Terapia Ocupacional, aonde vem sendo aplicada na prática clínica como modalidade de tratamento. Neste artigo tem-se como objetivo apresentar a atuação do terapeuta ocupacional junto a pessoas com lesão cerebral e lesão medular, utilizando o computador e suas ferramentas e aplicações como recurso terapêutico que potencializa o processo de reabilitação de modo geral. Foram selecionados pacientes em programa de reabilitação que apresentavam dificuldades motoras e percepto-cognitivas, que participaram de atendimentos de Terapia Ocupacional com duração de trinta minutos a uma hora, sendo possível avaliar e documentar a evolução dos pacientes através das atividades realizadas no computador e da utilização de softwares, hardwares e adaptações. Foi possível observar que houve aumento da motivação, melhora das habilidades motoras e percepto-cognitivas, repercutindo de forma positiva no processo de reabilitação como um todo.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-04-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102416</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i1a102416</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 1 (2003); 17-20</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102416/100739</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102422</identifier>
+        <datestamp>2020-08-01T09:52:48Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Impact of continuous passive motion for the treatment of total knee replacement patients</dc:title>
+          <dc:title xml:lang="pt-BR">O impacto da movimentação passiva contínua no tratamento de pacientes submetidos a artroplastia total do joelho</dc:title>
+          <dc:creator>Teixeira-Salmela, Luci Fuscaldi</dc:creator>
+          <dc:creator>Macedo, Bárbara Gazolla de</dc:creator>
+          <dc:creator>Aguiar, Cristina Mendes de</dc:creator>
+          <dc:creator>Bahia, Lenise Aparecida</dc:creator>
+          <dc:subject xml:lang="en-US">Arthroplasty, Replacement, Knee</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Motion therapy, Continuous Passive</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy</dc:subject>
+          <dc:subject xml:lang="pt-BR">Artroplastia do Joelho</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Terapia Passiva Contínua de Movimento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fisioterapia</dc:subject>
+          <dc:description xml:lang="en-US">The objective of this literature review was to evaluate evidence of the efficacy of continuous passive motion (CPM) to improve range of motion in patients who were submitted to total knee replacement (TKR). CPM has been used in post-surgical intervention of TKR with specific objectives, such as, to increase range of motion of the knee, control for pain and edema, decrease the incidence of deep venous thrombus, and reduce the need for joint manipulation. For this methodological review, only randomized clinical trials that were related to the use of CPM in patients submitted to TKR, were selected. The results of this review related to the use of CPM were inconclusive, due to the variability within the studies, which made analysis of the efficacy and scientific evidence difficult. However, the results were positives regarding short-term gains in knee flexion, when CPM was applied immediately after surgery. There was not found evidence related to gains in knee extension. Therefore, it is necessary to systematize these research methodologies of CPM to better investigate the scientific validity of this clinical approach.</dc:description>
+          <dc:description xml:lang="pt-BR">O objetivo desta revisão bibliográfica foi avaliar evidências da eficácia da movimentação passiva contínua para o ganho de amplitude de movimento em pacientes submetidos a artroplastia total de joelho (ATJ). A movimentação passiva contínua (MPC) tem sido empregada no pós-operatório de ATJ com vários objetivos dentre eles, o aumento da amplitude de movimento do joelho, controle da dor e do edema, redução de incidência de trombose venosa profunda e manipulações do joelho. Na metodologia deste estudo foram selecionados somente ensaios clínicos randomizados que abordassem a utilização da MPC no pós-operatório de ATJ. Os resultados desta revisão foram controversos com relação à utilização da MPC, devido a metodologia de intervenção muito variada dos estudos dificultando a análise da eficácia e de evidência científica. Porém, os resultados foram positivos para o ganho da flexão do joelho, a curto prazo, quando a MPC foi aplicada no pós-operatório imediato. Não houve evidência científica quanto ao ganho de extensão do joelho pela MPC. Portanto, se faz necessário uma sistematização da metodologia dos trabalhos de MPC para avaliar a força de evidência científica deste método.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-04-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102422</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i1a102422</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 1 (2003); 21-27</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102422/100745</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102426</identifier>
+        <datestamp>2020-08-01T09:52:26Z</datestamp>
+        <setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">The International Classification of Functioning, Disability and Health</dc:title>
+          <dc:title xml:lang="pt-BR">A Classificação Internacional de Funcionalidade, Incapacidade e Saúde</dc:title>
+          <dc:creator>Buchalla, Cassia Maria</dc:creator>
+          <dc:subject xml:lang="pt-BR">Classificação Internacional de Funcionalidade, Incapacidade e Saúde</dc:subject>
+          <dc:subject xml:lang="en-US">International Classification of Functioning, Disability and Health</dc:subject>
+          <dc:description xml:lang="pt-BR">A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) é um novo instrumento da Organização Mundial de Saúde para a mensuração de condições relacionadas à saúde. Aprovada em 2001 é apresentada neste texto que aponta sua estrutura e suas várias utilizações. Constituindo a base para definições, medidas e formulação de políticas para a saúde e para as incapacidades.</dc:description>
+          <dc:description xml:lang="en-US">The International Classification of Functioning , Disability and Health (ICF) is a World Health Organization new tool for measuring health and health related conditions. Aproved in 2001 its strucuture and uses are presented in this text. It is the conceptual basis for the definition, measurement and policy formulations for health and disability.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-04-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102426</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i1a102426</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 1 (2003); 29-31</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102426/100749</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102428</identifier>
+        <datestamp>2020-08-01T09:52:29Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Gasto energético em paciente amputado transtibial com prótese e muletas</dc:title>
+          <dc:title xml:lang="en-US">Metabolic output in a transtibial amputee using crutches and prosthesis</dc:title>
+          <dc:creator>Gaspar, Alexandra Passos</dc:creator>
+          <dc:creator>Ingham, Sheila Jean McNeill</dc:creator>
+          <dc:creator>Chamlian, Therezinha Rosane</dc:creator>
+          <dc:subject xml:lang="pt-BR">Amputados</dc:subject>
+          <dc:subject xml:lang="pt-BR">Metabolismo Energético</dc:subject>
+          <dc:subject xml:lang="pt-BR">Prótese</dc:subject>
+          <dc:subject xml:lang="pt-BR">Muletas</dc:subject>
+          <dc:subject xml:lang="en-US">Amputees</dc:subject>
+          <dc:subject xml:lang="en-US">Energy Metabolism</dc:subject>
+          <dc:subject xml:lang="en-US">Prosthesis</dc:subject>
+          <dc:subject xml:lang="en-US">Crutches</dc:subject>
+          <dc:description xml:lang="pt-BR">Pacientes com amputação transtibial têm um maior gasto energético durante a marcha com a prótese, necessitando consumir 20% a mais de oxigênio quando comparados a indivíduos normais na mesma velocidade relativa. Fisher et al. estudaram o gasto energético em pacientes não amputados em uso de muletas em terreno plano e escadas; concluíram que o volume de oxigênio (VO2) destes indivíduos atingia 40% do máximo esperado para os mesmos e que a freqüência cardíaca chegava à 62% da máxima prevista e portanto, que o uso de muletas em pacientes cardiopatas deveria ser feito com restrições. O gasto energético durante a marcha com muletas axilares é aproximadamente duas vezes maior quando comparada à marcha normal. O objetivo deste trabalho é comparar o gasto energético em pacientes amputados de membro inferior com uso de prótese e muletas. O paciente foi avaliado em relação ao gasto energético com prótese e com muletas axilares através do teste de Shuttle. O instrumento para avaliação foi o K4b2Ò, espiromêtro portátil da Cosmed. Nossos dados mostram que o paciente possui menor gasto energético com a prótese e portanto, percorre uma distância maior do que com as muletas.</dc:description>
+          <dc:description xml:lang="en-US">Compared to the normal gait cycle, transtibial amputees have a 20% greater oxygen consumption. Fisher et al. in a study with non amputees using crutches found that their oxygen consumption reached 40% of the maximum and that their heart beat, 62% of maximum calculated for their age. Thus the authors concluded that the use of crutches in patients with heart pathologies should be considered with restraint. The metabolic output of ambulation with crutches is aproximately twice as much when compered to normal gait. The objective of this study is to compare the metabolic output of lower limb amputees when using crutches and prosthesis. This was done using the Shuttle Test and the K4b² â this is a fully portable pulmonary gas exchange system that allows us direct assess to the cardio-pulmonary limitations. Our study has shown that the metabolic output of ambulation with the prosthesis is less than that with crutches.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-04-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102428</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i1a102428</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 1 (2003); 32-34</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102428/100751</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102436</identifier>
+        <datestamp>2020-08-03T21:12:58Z</datestamp>
+        <setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Interfaces da Medicina de Reabilitação com a Medicina do Trabalho e as Ciências Forenses</dc:title>
+          <dc:creator>Battistella, Linamara Rizzo</dc:creator>
+          <dc:subject xml:lang="en-US">Physical and Rehabilitation Medicine</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medicina Física e Reabilitação</dc:subject>
+          <dc:description xml:lang="pt-BR">A Fisiatria é o reflexo da visão holística em saúde. A partir dos avanços farmacológicos, da imunologia, da assistência clínica em geral e do arsenal diagnóstico, a Medicina tem conseguido salvar muitas vidas; porém, este aumento de sobrevida foi acompanhado de um contingente cada vez maior de indivíduos portadores de grau maior ou menor de incapacidades, impossibilitados, depois de sua cura, de serem reintegrados ao ambiente de trabalho, à vida comunitária e até mesmo na sua independência para autocuidados.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102436</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i2a102436</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 2 (2003); 52-53</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102436/100755</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102441</identifier>
+        <datestamp>2020-08-03T21:13:14Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Exercise Machines and aerobic conditioning on functional performance of chronic stroke survivors</dc:title>
+          <dc:title xml:lang="pt-BR">Musculação e condicionamento aeróbio na performance funcional de hemiplégicos crônicos</dc:title>
+          <dc:creator>Teixeira-Salmela, Luci Fuscaldi</dc:creator>
+          <dc:creator>Silva, Priscila Carvalho e</dc:creator>
+          <dc:creator>Lima, Renata Cristina Magalhães</dc:creator>
+          <dc:creator>Augusto, Ana Cristina Costa</dc:creator>
+          <dc:creator>Souza, Aline Cristina de</dc:creator>
+          <dc:creator>Goulart, Fátima</dc:creator>
+          <dc:subject xml:lang="pt-BR">Acidente Cerebrovascular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemiplegia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fortalecimento Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Condicionamento Aeróbio</dc:subject>
+          <dc:subject xml:lang="pt-BR">Performance Funcional</dc:subject>
+          <dc:subject xml:lang="en-US">Stroke</dc:subject>
+          <dc:subject xml:lang="en-US">Hemiplegia</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strengthening</dc:subject>
+          <dc:subject xml:lang="en-US">Aerobic Conditioning</dc:subject>
+          <dc:subject xml:lang="en-US">Functional Performance</dc:subject>
+          <dc:description xml:lang="en-US">The aim of the present study was to investigate the functional performance of chronic stroke patients, when submitted to a program of muscular strengthening, using exercise machines associated with aerobic conditioning. Thirty patients were recruited in the community according to the inclusion criteria and submitted to an established training program three times a week, for 10 weeks. The patients were assessed before and after training in the following functional parameters: gait speed, rate of stairclimbing, endurance (maximum gait speed e physiologic cost index), and symmetry in the sit to standing movement. Descriptive statistics and testes for normality (Shapiro-Wilk) were used for all outcome variables. Paired Student t-tests were used to investigate the impact of the training. Significant improvements (p &amp;lt;0,001) were observed for gait speed, rate of stair climbing, and maximum gait speed. No differences were found for the symmetry values and for the physiologic cost index. The findings demonstrated significant gains in functional performance measures after 10 weeks of a combined program of muscle strengthening and aerobic conditioning.</dc:description>
+          <dc:description xml:lang="pt-BR">O objetivo do presente estudo foi investigar a performance funcional em indivíduos hemiplégicos crônicos, quando submetidos a um programa de fortalecimento muscular, utilizando a musculação e condicionamento aeróbio. Trinta pacientes foram recrutados na comunidade obedecendo aos critérios de inclusão, e submetidos ao programa de treinamento pré-estabelecido, três vezes por semana, durante 10 semanas. Os pacientes foram avaliados antes e após o treinamento nos seguintes parâmetros funcionais: velocidade de marcha, habilidade para subir escadas, endurance (velocidade máxima e índice de custo fisiológico) e simetria no sentar e levantar. Estatísticas descritivas e testes de normalidade (Shapiro-Wilk) foram utilizadas para todas as variáveis. Testes-t de Student para dados emparelhados foram utilizados para investigar o impacto do treinamento. Melhoras significativas (p&amp;lt;0,001) foram observadas na velocidade de marcha, habilidade para subir escadas e velocidade máxima. Não foram observadas diferenças significativas nas medidas de simetria e índice de custo fisiológico. Os achados demonstraram melhoras significativas nas medidas de performance funcional, após 10 semanas de treinamento, associando musculação e condicionamento aeróbio.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102441</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20030001</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 2 (2003); 54-60</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102441/100758</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102442</identifier>
+        <datestamp>2020-08-03T21:13:10Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Padrão respiratório em pacientes portadores da doença de parkinson e em idosos assintomáticos</dc:title>
+          <dc:title xml:lang="en-US">Breathing pattern in parkinson’s disease patients and healthy elderly subjects</dc:title>
+          <dc:creator>Parreira, Verônica Franco</dc:creator>
+          <dc:creator>Guedes, Luciana Ulhôa</dc:creator>
+          <dc:creator>Quintão, Dalila Godoy</dc:creator>
+          <dc:creator>Silveira, Eduardo Paolineli</dc:creator>
+          <dc:creator>Tomich, Georgia Miranda</dc:creator>
+          <dc:creator>Sampaio, Rosana Ferreira</dc:creator>
+          <dc:creator>Britto, Raquel Rodrigues</dc:creator>
+          <dc:creator>Goulart, Fátima</dc:creator>
+          <dc:subject xml:lang="en-US">Parkinson Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Plethysmography</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença de Parkinson</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pletismografia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fisioterapia</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To characteristic different components of breathing pattern in Parkinson’s Disease patients (PD) and healthy elderly subjects. Method: We studied 10 patients with PD’s severity III-IV by Hoehn and Yahr and 10 healthy elderly. The following respiratory variables analysed were: tidal volume, respiratory frequency, minute ventilation, inspiratory duty cycle, mean inspiratory flow, rib cage and abdomen contribution to tidal volume, using a calibrated respiratory inductive plethysmography. Statistical analysis was made using Student‘s t test for independents groups. Results: Parkinson’s Disease patients had tidal volume and mean inspiratory flow (p=0,01 and p=0,03 respectively) significantly lower, respiratory frequency significantly higher (p=0,03), resulting in a minute ventilation significantly lower (p=0,02) compared to elderly subjects. There was no significant difference in rib cage or abdomen contribution between the groups. Conclusion: These results showed that there are important changes in breathing pattern components of Parkinson’s Disease patients.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Caracterizar diferentes componentes do padrão respiratório em pacientes portadores da Doença de Parkinson (DP) e em idosos assintomáticos. Método: Foram estudados 10 pacientes com DP com grau de acometimento III-IV segundo a escala de Hoehn e Yahr e 10 idosos assintomáticos. Variáveis respiratórias analisadas: volume corrente, freqüência respiratória, ventilação minuto, porcentagem do tempo inspiratório, fluxo inspiratório médio, contribuição da caixa torácica e do abdômen para o volume corrente, através da pletismografia respiratória por indutância calibrada. A análise estatística foi feita através do teste t de Student para grupos independentes. Resultados: Os pacientes com DP apresentaram volume corrente e fluxo inspiratório médio menores (p=0,01 e p=0,03 respectivamente), uma freqüência respiratória maior (p=0,03), resultando numa ventilação minuto significativamente menor (p=0,02) comparados aos idosos assintomáticos. Não houve diferença significativa em relação à contribuição da caixa torácica e do abdômen entre os dois grupos. Conclusão: Estes resultados apontaram alterações importantes em diferentes componentes do padrão respiratório em pacientes portadores da DP.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102442</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i2a102442</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 2 (2003); 61-66</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102442/100759</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102443</identifier>
+        <datestamp>2020-08-03T21:13:07Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Epidemic profile of the amputee patients from Lar Escola São Francisco: comparison study between 3 different period</dc:title>
+          <dc:title xml:lang="pt-BR">Perfil epidemiológico dos pacientes amputados do Lar Escola São Francisco: estudo comparativo de 3 períodos diferentes</dc:title>
+          <dc:creator>Cassefo, Valéria</dc:creator>
+          <dc:creator>Nacaratto, Daniela Cristina</dc:creator>
+          <dc:creator>Chamlian, Therezinha Rosane</dc:creator>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="en-US">Prostheses</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Próteses</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:description xml:lang="en-US">This is a retrospective study of 262 files on amputee outpatients, treated at Lar Escola São Francisco, São Paulo, from January 1998 to December 2002, with the purpose to map the epidemiological profile of the service. Predominantly, 71 % of amputations were observed on male patients, in which lower limb amputation represented 85,9 %, and the prevalence of amputation above the knee was 52,4%. The main cause for amputation on patients older than 50 years old was vascular etiology, which represented 72,9 %. It was observed a delay in the beginning of the rehabilitation process, with a reported treatment duration averaging 19,6 months, and reporting a mean treatment time of 10,7 months, which was shown to be greater than the one related at the reviewed literature. Besides, 25,2 % of the patients acquires prostheses. Furthermore, we correlated our data with 2 previous studies with the same rehabilitation service, with the purpose to compare the results observed in 3 different periods, and we observed a progress in the process of the amputee patients’ rehabilitation treated in our Institution.</dc:description>
+          <dc:description xml:lang="pt-BR">Foi realizado um estudo retrospectivo através da revisão de 262 prontuários de pacientes amputados do Lar Escola São Francisco – São Paulo, no período de janeiro de 1998 a dezembro de 2002, com o objetivo de traçar o perfil epidemiológico do serviço. Houve predomínio do sexo masculino (71%), de amputações de membro inferior (85,9%), sendo a acima do joelho predominante (52,4%). A etiologia vascular foi a principal causa de amputação em pacientes com mais de 50 anos (72,9%). Observou-se demora no início da reabilitação (média de 19,6 meses) e que o tempo médio de tratamento (10,7 meses) é maior que o descrito na literatura. Além disso, um número pequeno de pacientes adquire prótese (25,2%). Posteriormente, correlacionamos nossos dados com 02 estudos anteriores realizados neste mesmo serviço, visando comparar os resultados obtidos em três períodos diferentes e observamos progressos no processo de reabilitação dos pacientes amputados atendidos em nossa Instituição.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102443</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i2a102443</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 2 (2003); 67-71</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102443/100760</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102444</identifier>
+        <datestamp>2020-08-03T21:13:02Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação epidemiológica dos pacientes com lesão medular atendidos no Lar Escola São Francisco</dc:title>
+          <dc:title xml:lang="en-US">Epidemiological study of patients with spinal cord injury treated at the Lar Escola São Francisco</dc:title>
+          <dc:creator>Gaspar, Alexandra Passos</dc:creator>
+          <dc:creator>Ingham, Sheila Jean McNeill</dc:creator>
+          <dc:creator>Vianna, Patricia Canteruccio Pontes</dc:creator>
+          <dc:creator>Santos, Francisco Prado Eugenio dos</dc:creator>
+          <dc:creator>Chamlian, Therezinha Rosane</dc:creator>
+          <dc:creator>Puertas, Eduardo Barros</dc:creator>
+          <dc:subject xml:lang="en-US">Spinal Cord Injuries</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="pt-BR">Traumatismos da Medula Espinal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:description xml:lang="pt-BR">A lesão medular apresenta-se como um grande problema de saúde pública, uma vez que a maior parte dos pacientes lesados medulares são jovens e, portanto, encontram-se no auge de sua produtividade, tanto profissional, quanto pessoal. Neste trabalho procurou-se estudar o perfil epidemiológico dos pacientes atendidos no Lar Escola São Francisco, Escola Paulista de Medicina - Universidade Federal de São Paulo. Foram revisados 171 prontuários de pacientes atendidos no período de 1999 a 2001 e foi encontrado um predomínio de pacientes jovens (média 35,4 anos) e do sexo masculino (62,6%). A principal causa de lesão medular encontrada foi o ferimento por arma de fogo (30,1%) e a principal lesão foi a incompleta (59,6%) e espástica (57,3%). O nível neurológico mais frequente foi o torácico, em 59% dos pacientes.</dc:description>
+          <dc:description xml:lang="en-US">Spinal cord injury is a National Health issue as the majority of patients are young and consequently in the highlights of life, professional and personal. In this study, we analyzed patients treated at the Lar Escola São Francisco – Escola Paulista de Medicina – Federal University of São Paulo. 171 patients were studied in the period of 1999 to 2001 and a higher prevalence of young (mean: 35.4 years) males (62.6%) was found. The most frequent cause of injury was gun shot injury (30.1%) and the most frequent lesion was an incomplete one (59.6%). Spasticity was found in 57.3% of the patients. The most frequent level of injury was the thoracic one.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102444</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i2a102444</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 2 (2003); 73-77</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102444/100761</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102445</identifier>
+        <datestamp>2020-08-03T21:12:54Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Rheumatoid feet: evaluation with computerized dynamic pedobarography and functional restauration with foot orthosis</dc:title>
+          <dc:title xml:lang="pt-BR">Pés reumatóides: avaliação pela podobarometria dinâmica computadorizada e restauração funcional com órteses plantares</dc:title>
+          <dc:creator>Magalhães, Eduardo de Paiva</dc:creator>
+          <dc:creator>Jorge Filho, Donaldo</dc:creator>
+          <dc:creator>Battistella, Linamara Rizzo</dc:creator>
+          <dc:subject xml:lang="en-US">Arthritis, Rheumatoid</dc:subject>
+          <dc:subject xml:lang="en-US">Foot</dc:subject>
+          <dc:subject xml:lang="en-US">Orthotic Devices</dc:subject>
+          <dc:subject xml:lang="en-US">Gait Analysis</dc:subject>
+          <dc:subject xml:lang="pt-BR">Artrite Reumatoide</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pé</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aparelhos Ortopédicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Análise da Marcha</dc:subject>
+          <dc:description xml:lang="en-US">Feet problems are common in rheumatoid Arthritis (RA) and really contribute with pain and disability frequently associated with this disease. This article described a woman with rheumatoid feet treated with foot orthoses. The most frequent disturbances observed in RA were discussed, as well as the indication of insoles, its efficiency and the use of computerized dynamic pedobarography (F-Scan) as an accessory method to follow its orthotic treatment.</dc:description>
+          <dc:description xml:lang="pt-BR">Os pés são comumente acometidos na artrite reumatóide (AR), contribuindo em muito na dor e incapacidade observadas nessa doença. Este artigo descreve uma paciente com pés reumatóides, tratada com órteses para os pés. Foram discutidas as alterações mais freqüentes observadas nessa patologia, o tratamento com palmilhas e o uso da podobarometria dinâmica computadorizada (F-Scan) como método auxiliar diagnóstico e de acompanhamento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102445</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i2a102445</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 2 (2003); 78-82</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102445/100762</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102446</identifier>
+        <datestamp>2020-08-03T21:12:49Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação computadorizada por fotografia digital, como recurso de avaliação na Reeducação Postural Global</dc:title>
+          <dc:title xml:lang="en-US">Computerized evaluation by digital photography, an evaluation resource for Global Postural Reeducation</dc:title>
+          <dc:creator>Castro, Pedro Claudio Gonsales de</dc:creator>
+          <dc:creator>Lopes, José Augusto Fernandes</dc:creator>
+          <dc:subject xml:lang="en-US">Computerized Evaluation</dc:subject>
+          <dc:subject xml:lang="en-US">Digital Photography</dc:subject>
+          <dc:subject xml:lang="en-US">Global Postural Reeducation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação Computadorizada</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fotografia Digital</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reeducação Postural Global</dc:subject>
+          <dc:description xml:lang="en-US">The work is described by means of digital photography with the use of reflexive spherical markers attached to pre-defined anatomical points, enabling analysis through a computer program, denominated Fisiologic. The processing of digital photos, provides de coordinates x and y of the corporal markers in pixel, being that these coordinates serve to create values of corporal segments utilizing the analytical geometrical form. I report here the case of a patient with compromised posture, submitted to Global Postural Reeducation . A physiotherapeutic evaluation was performed initially and later the patient was photographed and data was analysed before and after 21st session. The computerized evaluation by digital photography showed satisfactory results as did the radiologic exams. Thus we conclude that this is an useful evaluation method of Global Postural Reeducation.</dc:description>
+          <dc:description xml:lang="pt-BR">O trabalho é descrito por meio de fotografia digital, utilizando-se marcadores esféricos e reflexivos fixados em pontos anatômicos pré definidos, possibilitando a análise através de um programa de computador, denominado Fisiologic, que ao processar as fotos digitais, fornece coordenadas x e y dos marcadores corporais em pixels, sendo que estas coordenadas servem para gerar valores dos segmentos corporais utilizando a forma geométrica analítica. Relato aqui o caso de uma paciente com comprometimento postural, submetida ao método da Reeducação Postural Global, onde foi realizada avaliação fisioterapêutica e posteriormente fotografada e analisada antes e após a 21ª sessão. O programa apresentou resultados satisfatórios em relação à análise postural no acompanhamento dos segmentos corporais da paciente em estudo, bem como demonstraram os exames radiológicos. Concluiu-se portanto, ser este um método eficaz de avaliação na Reeducação Postural Global.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102446</dc:identifier>
+          <dc:identifier>10.5935/0104-7795.20030002</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 2 (2003); 83-88</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102446/100763</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102453</identifier>
+        <datestamp>2020-08-03T21:16:23Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Envelhecimento e participação social</dc:title>
+          <dc:title xml:lang="en-US">Coming of age and social participation</dc:title>
+          <dc:creator>Azevedo, Mônica Cordeiro de</dc:creator>
+          <dc:creator>Gazetta, Maria Luísa Barca</dc:creator>
+          <dc:creator>Salimene, Arlete Camargo de Melo</dc:creator>
+          <dc:subject xml:lang="en-US">Social Participation</dc:subject>
+          <dc:subject xml:lang="en-US">Social Work</dc:subject>
+          <dc:subject xml:lang="en-US">Aged</dc:subject>
+          <dc:subject xml:lang="pt-BR">Participação Social</dc:subject>
+          <dc:subject xml:lang="pt-BR">Serviço Social</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:description xml:lang="en-US">This work aims at understanding the motivations that led to social interaction the elderly who took part of the 2001 version of the Divisão de Medicina de Reabilitação do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo Third Age Global Service Program, a therapeutic program aiming at offering the elderly improvement opportunities physical, psychological and social-wise. A quantitative and qualitative research, based on the Social Evaluation Index used by Social Assistants operating in the Division was conducted on a universe of seventeen pacients. This group is mostly female, and the ladies involved associated interpresonal relationship to an opportunity of social interaction. The will to establish links with other people is the main drive behind their participation in the program of activities. It becomes clear that the members of this group can be safely considered as socialy active, according to the participation concepts that suggest individuals should search for new activities and relationships when reaching old age.</dc:description>
+          <dc:description xml:lang="pt-BR">O presente estudo tem como objetivo conhecer como se processa a participação social dos idosos integrantes do Programa de Atendimento Global na terceira idade da Divisão de Medicina de Reabilitação do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo do ano de 2001. Este é um programa terapêutico que objetiva proporcionar ao idoso a melhoria da capacitação física, psicológica e social. Realizou-se pesquisa quantitativa e qualitativa baseada no Instrumento de Avaliação Social, utilizado pelas assistentes sociais da Divisão, sendo pesquisado um total de dezessete pacientes. O grupo é composto predominantemente por mulheres, que associaram os relacionamentos interpessoais à possibilidade de participação social. A vontade de estar se relacionando com outras pessoas é o principal fator que lhes motiva a procurar atividades. Constata-se que os membros deste grupo podem ser considerados participativos socialmente, segundo os conceitos de participação que sugerem ao indivíduo a busca de novas atividades e relacionamentos com a chegada da terceira idade.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-12-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102453</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i3a102453</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 3 (2003); 102-106</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102453/100764</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/102454</identifier>
+        <datestamp>2020-08-03T21:16:28Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A sexualidade no envelhecer: um estudo com idosos em reabilitação</dc:title>
+          <dc:title xml:lang="en-US">The Sexuality in aging: a study with elderly under rehabilitation</dc:title>
+          <dc:creator>Silva, Renata Maria Ortiz de</dc:creator>
+          <dc:subject xml:lang="en-US">Sexuality</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Aged</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sexualidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo deste estudo descritivo foi caracterizar os participantes do Grupo de Educação a Saúde (GES) da Divisão de Medicina de Reabilitação da Faculdade de Medicina da Universidade de São Paulo (DMRHCFMUSP) quanto à prática de atividade sexual de idosos, identificando as alterações na função sexual e expectativas dos mesmos com relação à sexualidade. Para a coleta de dados utilizou-se instrumento especifico, com três partes, na primeira foram informados dados sócio-demográficos; nas demais partes tanto homens quanto mulheres foram questionados quanto a regiões do corpo onde preferiam a estimulação sexual, a freqüência da atividade sexual e formas de obtenção de prazer. Para os homens foram direcionadas questões específicas sobre ereção, ejaculação. Para mulheres investigou-se a ocorrência de orgasmos e libido, bem como aspectos fisiológicos envolvidos no ato sexual. Nossa amostra foi de 36 pacientes, cuja média de idade era 70 a 75 anos, sendo 31 mulheres (86%). Quanto ao estado civil: 16 eram viúvos (44%) 10 casados (28%); 5 solteiros (14%) e 5 divorciados (14%). Os dados apontam que 12 dos participantes praticam sexo de 0 a 3 vezes por semana.Em relação à freqüência das atividades sexuais 77% participantes julgaram-na satisfatória e 21 afirmaram sentir prazer (81%). O estudo permitiu a verificação das características peculiares da atividade sexual em idosos, servindo como base para investigações clínicas aprofundadas a partir das quais abordagens mais amplas podem ser implementadas.</dc:description>
+          <dc:description xml:lang="en-US">The objective of this descriptive study was to characterize participants of the Group of Education to Health (GES) at the Divisão de Medicina de Reabilitação Hospital das Clínicas Faculdade de Medicina Universidade de São Paulo HCFMUSP (DMR - HCFMUSP) in terms of preferred sexual activities, and identify alterations in the sexual function, as well as their expectancies toward sexuality. A specific instrument was developed, which consisted of three parts. The first part collected sociodemographic data; the other part questioned about body regions where the sexual stimulation was preferred, as well as frequency of sexual activities and forms of sexual arousal. Form men, questions directed specifically about erections and ejaculation. For women, aspects related to the orgasm and libido were investigated, as well as physiologic characteristics involved in the sexual intercourse. Our sample consisted of 36 subjects, their mean age was 75 years, 86% were female. Marital status indicated that 16 (44%) were widows, 10 were (28%) married, 5 (14%) were single and 5 (14%) were divorced. Sexual practice occurred 0 to 3 times per week for 12 of the participants. Regarding the frequency of sexual intercourses, 77% of the participants considered it satisfactory and 81% referred feeling some sort of pleasure. This study allowed us to identify the peculiar characteristics of sexual activity among elderly. It serves as a basis for deeper clinical approaches, which may give subsides to wider and more specific interventions.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2003-12-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/102454</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v10i3a102454</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 10 n. 3 (2003); 107-112</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/102454/100765</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2003 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2023-08-08T14:49:00Z" completeListSize="935" cursor="125">9d2c610465c01c1772e1a3de0012275a</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

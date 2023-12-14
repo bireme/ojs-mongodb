@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:31Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89596</identifier>
+        <datestamp>2020-06-25T16:04:32Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Identification of candidate gene polymorphisms in eating disorders</dc:title>
+          <dc:title xml:lang="pt-BR">Identificação de polimorfismos de genes candidatos nos transtornos alimentares</dc:title>
+          <dc:creator>Sarrassini, Felícia B.</dc:creator>
+          <dc:creator>Santos, José E. dos</dc:creator>
+          <dc:creator>Ribeiro, Rosane P. P.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Transtornos da Alimentação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Polimorfismo Genético</dc:subject>
+          <dc:subject xml:lang="pt-BR">Genes</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anorexia Nervosa</dc:subject>
+          <dc:subject xml:lang="pt-BR">Bulimia Nervosa.</dc:subject>
+          <dc:subject xml:lang="en-US">Eating Disorders</dc:subject>
+          <dc:subject xml:lang="en-US">Polymorphism</dc:subject>
+          <dc:subject xml:lang="en-US">Genetic</dc:subject>
+          <dc:subject xml:lang="en-US">Genes</dc:subject>
+          <dc:subject xml:lang="en-US">Anorexia Nervosa</dc:subject>
+          <dc:subject xml:lang="en-US">Bulimia Nervosa</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Identificar polimorfismos (SNPs) dos genes 5-HT2A, BDNF e ERâ em 29 pacientes com transtornos alimentares (TAs) e 78 mulheres saudáveis junto a um serviço especializado. Metodologia: Foram coletados dados de idade, peso e estatura para cálculo do Índice de Massa Corporal, aplicado o Eating Attitudes Test (EAT-26) e determinado os SNPs dos participantes. As frequências alélicas e genotípicas dos genes foi calculada e realizada a análise que unia genótipos que possuíam alelos de risco para cada gene. Resultados: Não houve diferença significativa na idade, no estado nutricional e na presença dos alelos de risco entre os grupos (5HT2A: OR=1,964; BDNF: OR=1,120; ERb éxon 5: OR=0,751 e éxon 8: OR=0,380). Conclusão: A heterogeneidade da população brasileira, a baixa incidência da doença e a pequena amostra podem ter exercido influência nos resultados sendo necessários futuros estudos para elucidar o papel da genética na etilogia dos TAs.</dc:description>
+          <dc:description xml:lang="en-US">Objective: to identify polyphormisms (SNPs) of the 5-HT2A, BDNF and ERâ genes in 29 patients with Eating Disorders (EDs) cared for by a specialized service and 78 healthy women. Method: age, weight, and height were collected to compute Body Mass Index; the Eating Attitudes Test (EAT-26) was applied; and the participants’ SNPs were determined. The allele and genotype frequency of genes was computed and an analysis linking the genotypes that possessed risk alleles was performed for each gene. Results: There were significant differences in terms of age, nutritional state, and presence of risk alleles between the groups (5HT2A: OR=1.964; BDNF: OR=1.120; ERb exon 5: OR=0.751 and exon 8: OR=0.380). Conclusion: The heterogeneity of the Brazilian population, low incidence of the disease, and small sample may have influenced the results and further research is needed to clarify the role genetics play in the etiology of EDs.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89596</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p422-431</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 422-431</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 422-431</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 422-431</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89596/92410</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/89599</identifier>
+        <datestamp>2020-06-25T16:04:31Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Atividade laboral dos pais de estudantes de segundo grau candidatos a Cursos de Graduação em Ciências da Saúde</dc:title>
+          <dc:title xml:lang="en-US">Professional activities of parents of High School students applicants to Health Sciences Courses</dc:title>
+          <dc:creator>Filipini, Samuel R.</dc:creator>
+          <dc:creator>Silva, Maristela M.S.</dc:creator>
+          <dc:creator>Stasio, Marcia B. di</dc:creator>
+          <dc:creator>Ramos, Margarete de L.</dc:creator>
+          <dc:creator>Marçal-Vieira, Marta N.C.</dc:creator>
+          <dc:creator>Peres, Cristiane M.</dc:creator>
+          <dc:creator>Rodriques, Maria de L.V.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Estudantes</dc:subject>
+          <dc:subject xml:lang="pt-BR">Profissões</dc:subject>
+          <dc:subject xml:lang="pt-BR">Profissões em Saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Students</dc:subject>
+          <dc:subject xml:lang="en-US">Occupations</dc:subject>
+          <dc:subject xml:lang="en-US">Health Occupations</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo baseado em coleta de informações por meio de Questionário Estruturado. Objetivo do estudo: Verificar indicadores da situação econômica e cultural das famílias de alunos do segundo grau que pleiteiam o ingresso em cursos destinados a formar profissionais da saúde. Metodologia: Questionários auto-administrados foram respondidos por 256 estudantes do segundo grau, visitantes de Feira das Profissões da USP (FPUSP-interior). Esses questionários continham perguntas relativas ao tipo de escola que frequentavam e as atividades laborais de seus genitores. Os 108 estudantes de Escolas Públicas constituíram o Grupo 1 e os 148 alunos de Escolas Particulares formaram o Grupo 2. Resultados: A atividade profissional paterna mais frequente no Grupo 1 foi a de “Técnico Manual”(42,15%) e no Grupo 2 a de “Profissional de Nível Universitário” (24,11%). O maior grupo de mães do Grupo 1 foi composto por “Donas de Casa” (22,33%) seguido pelo das que exerciam “Outras Profissões Manuais”( 21,36%). No Grupo 2 a categoria mais frequente para as mães foi “Profissionais de Nível Universitário” (23,18%) seguida por “Professores e Diretores de Escolas” (19,56%). Cinco participantes do Grupo 1 e 27 do Grupo 2 eram filhos de Profissionais da Saúde. Conclusões: Apesar das diferenças das atividades laborais predominantes em cada um dos grupos estudados, os resultados confirmam que aspiração de se tornar um Profissional da Saúde independe da formação ou das profissões dos pais.</dc:description>
+          <dc:description xml:lang="en-US">Study design: Study based on collection of information by means of a Structured Questionnaire. Objective of the study: To determine indicators of the economic and cultural situation of the families of high school students who intend to enroll in courses for the formation of health professionals. Methodology: Self-report questionnaires were answered by 256 high school students who were visiting the Professions Fair of USP (FPUSP- inland). The questionnaires contained questions about the type of school the students frequented and the work activities of their parents. Group 1 consisted of 108 Public School students and Group 2 consisted of 148 Private School students. Results: The most frequent paternal professional activity was “Manual Technician” (42.15%) for Group 1 and “University Level Professional” (24.11%) for Group 2 . The largest group of mothers in Group 1 consisted of “Housewives” (22.33%), followed by the group of mothers who had “Other Manual Professions” (21.36%). In Group 2, the most frequent category for the mothers was “University Level Professional” (23.18%), followed by “Teachers and Directors of Schools” (19.56%). Five participants in Group 1 and 27 in Group 2 were children of Health Professionals. Conclusions: Despite the differences in the work activities predominating in each group studied, the results confirm the ambition to become a Health Professional regardless of the training or profession of the parents</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2014-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/89599</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v47i4p432-436</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 47 No. 4 (2014); 432-436</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 47 Núm. 4 (2014); 432-436</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 47 n. 4 (2014); 432-436</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/89599/92411</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96812</identifier>
+        <datestamp>2020-06-25T16:04:30Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Medicina, luz e fígado: uma breve reflexão de suas conexões</dc:title>
+          <dc:title xml:lang="en-US">Medicine, light and liver: a brief reflection of their connections</dc:title>
+          <dc:creator>Mumic, Fabrícia Teixeira</dc:creator>
+          <dc:creator>Silva Júnior, Orlando de Castro e</dc:creator>
+          <dc:subject xml:lang="en-US">Editorial</dc:subject>
+          <dc:subject xml:lang="en-US">Medicine</dc:subject>
+          <dc:subject xml:lang="en-US">Light</dc:subject>
+          <dc:subject xml:lang="en-US">Liver</dc:subject>
+          <dc:subject xml:lang="pt-BR">Editorial</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medicina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Luz</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fígado</dc:subject>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96812</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p1-4</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 1-4</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 1-4</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 1-4</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96812/95921</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96822</identifier>
+        <datestamp>2020-06-25T16:04:29Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Mestrado profissional em Gestão em Saúde na FMRP-USP: perspectivas e desafios</dc:title>
+          <dc:creator>Nunes, Altacílio Aparecido</dc:creator>
+          <dc:creator>Maciel, Benedito Carlos</dc:creator>
+          <dc:creator>Sá, Marcos Felipe Silva de</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96822</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p5-6</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 5-6</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 5-6</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 5-6</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96822/95922</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96823</identifier>
+        <datestamp>2020-06-25T16:04:28Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Monitoria profissional</dc:title>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:creator>Dallora, Maria Eulália Lessa do Valle</dc:creator>
+          <dc:creator>Lucirton, André</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96823</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p7-7</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 7-7</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 7-7</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 7-7</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96823/95923</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96826</identifier>
+        <datestamp>2020-06-25T16:04:27Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Testes diagnósticos contexto da avaliação de tecnologias em saúde: abordagens, métodos e interpretação</dc:title>
+          <dc:title xml:lang="en-US">Diagnostic tests in the context of the health technologies assessment: approaches, methods, and interpretation</dc:title>
+          <dc:creator>Nunes, Altacílio Aparecido</dc:creator>
+          <dc:creator>Martinez, Edson Zangiacomi</dc:creator>
+          <dc:creator>Ana, Lauro Wichert</dc:creator>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:creator>Coelho, Eduardo Barbosa</dc:creator>
+          <dc:creator>Mello, Luane Marques de</dc:creator>
+          <dc:subject xml:lang="en-US">Accuracy Studies. Diagnostic Tests. Health Technology Assessment. Review</dc:subject>
+          <dc:subject xml:lang="en-US">Systematic. Screening. Decision Making.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudos de Acurácia. Teste de Diagnóstico. Avaliação de Tecnologias de Saúde. Revisão Sistemática. Rastreamento. Tomada de Decisões</dc:subject>
+          <dc:description xml:lang="pt-BR">As Avaliações de Tecnologias em Saúde (ATS) no mundo todo, predominantemente tem sido focadas em medicamentos, dispositivos médicos terapêuticos e procedimentos, sobretudo, os cirúrgicos. Apesar de sua inquestionável importância na história natural de um grande número de doenças e do impacto econômico associado ao seu uso, os testes e exames diagnósticos (TED), considerando-se suas qualidades e consequentemente a acurácia dos mesmos, tem sido pouco avaliados no contexto da ATS. Há nítida escassez de estudos que avaliam os TED tanto do ponto de vista clínico e de segurança para o paciente, quanto do econômico. O propósito desse artigo é apresentar e discutir os conceitos inerentes ao uso dos TED, as abordagens para seu emprego, as metodologias de avaliação de suas propriedades e acurácia, bem como a interpretação de resultados dos TED, sejam eles realizados individualmente, ou sob a forma de síntese de estudos de acurácia. Espera-se que esse texto possa contribuir para melhor compreensão das especificidades encontradas nos estudos dos TED e estimular sua inclusão nas ATS.</dc:description>
+          <dc:description xml:lang="en-US">The Health Technology Assessments (HTA) worldwide has been predominantly focused on drugs, medical devices and therapeutic procedures, above all, the surgeries. Despite its unquestionable importance in the natural history of a large number of diseases and of the economic impact associated with its use, the diagnostic exam and tests (DET), considering their qualities and hence the accuracy thereof, has been not evaluated in the context of the HTA. There is a clear shortage of studies that evaluate the DET, both clinician and patient safety, and economical. The purpose of this article is to present and discuss the concepts inherent in the use of DET, the approaches to your employ, the methodologies of evaluation of their properties and accuracy, as well as the interpretation of results DET studies, whether performed individually or in the form of synthesis of studies of accuracy. It is hoped that this text may contribute to better understanding of the specifics found in studies of DET and encourage their inclusion in the HTA.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96826</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p8-18</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 8-18</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 8-18</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 8-18</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96826/95924</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96829</identifier>
+        <datestamp>2020-06-25T16:04:26Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Contrato de gestão: O impacto da contratualização no centro de referência da saúde da mulher de Ribeirão Preto – MATER</dc:title>
+          <dc:title xml:lang="en-US">Contract management: the impact of contracts in the reference center for women’s health Ribeirão Preto - MATER</dc:title>
+          <dc:creator>Bertolini, Débora Brandão</dc:creator>
+          <dc:creator>Leite Mota, Aline Veras</dc:creator>
+          <dc:creator>Meloni, Diego Roberto</dc:creator>
+          <dc:creator>Costa, Fernanda Nogueira</dc:creator>
+          <dc:creator>Costa, André Lucirton</dc:creator>
+          <dc:creator>Matos, Pedro Vaz de Lima</dc:creator>
+          <dc:subject xml:lang="en-US">Social Organization. Management Agreement. Contractual agreements. Health Services.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Organização Social. Contrato de Gestão. Contractualização. Serviços de Saúde.</dc:subject>
+          <dc:description xml:lang="pt-BR">Contrato de gestão é um instrumento firmado entre o Poder Público e as Organizações Sociais de Saúde (OSS), pelo qual se transfere a gestão de serviços e equipamentos do primeiro para a execução das atividades pelo segundo. Objetivo: analisar os indicadores de desempenho do contrato entre a Secretaria Estadual de Saúde de São Paulo e a FAEPA (OSS), na administração do Centro de Referência da Saúde da Mulher de Ribeirão Preto – MATER. Metodologia: Por meio de um estudo exploratório na modalidade estudo de caso, realizou-se entrevistas com os gestores da MATER e análise de dados referentes ao número de saídas hospitalares, atendimento e cirurgias ambulatoriais, além de indicadores qualitativos dos serviços de atenção ao usuário. Resultados: Entre os contratos de gestão de 2009 e 2013 houve aumento nos valores pactuados. Entretanto, ao ajustar as metas entre Março à Dezembro de 2009 e Janeiro a Fevereiro de 2013, houve redução das saídas hospitalares, cirurgias ambulatoriais e exames radiológicos; com aumento no atendimento ambulatorial, de urgências e de exames endoscópicos. Esses resultados estão atrelados ao repasse de verbas. Conclusão: nossos dados sugerem a necessidade de uma busca ativa da real demanda da população atendida, para que haja planejamento estratégico na oferta de serviços aos usuários do Sistema Único de Saúde.</dc:description>
+          <dc:description xml:lang="en-US">Introduction: The interaction between the Brazilian Government and Social Health Organization (SHO) has been used as an instrument to transfer services and facilities from the first to implement the activities by the second. Objective: To analyze the indicators of one contract between the Department of Health of São Paulo State and FAEPA, a SHO, in administering the Reference Center for Women’s Health at Ribeirão Preto - MATER. Methods: Using an exploratory case control study, interviews were performed with the managers of MATER. Analysis of data were performed on the number of hospital outputs, outpatient care and surgeries and qualitative indicators of care services to the user. Results: Among the management contracts of 2009 and 2013, there was an increase in money values. However, when setting goals between March to December of 2009 and January and February of 2013, there was a reduction of hospital outputs, outpatient surgeries, and imaging exams and an increased outpatient care, emergency care, and endoscopy. These results are linked to the transfer of funds from governament to SHO. Conclusion: Our data suggest a strategic planning in order to offer to the Unified Health System users their real needs.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96829</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p19-26</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 19-26</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 19-26</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 19-26</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96829/95925</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96833</identifier>
+        <datestamp>2020-06-25T16:04:25Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Performance of the pharmacy and therapeutics committee in a teaching hospital</dc:title>
+          <dc:title xml:lang="pt-BR">Atuação da comissão de farmácia e terapêutica em um hospital de ensino</dc:title>
+          <dc:creator>Primo, Lilian P.</dc:creator>
+          <dc:creator>Carvalho, Elias de</dc:creator>
+          <dc:creator>Lima, Adriano E. U. de</dc:creator>
+          <dc:creator>Gandolfi, Claudia B. T.</dc:creator>
+          <dc:creator>Padula, Kátia M.</dc:creator>
+          <dc:creator>Bózoli, Luís F. B.</dc:creator>
+          <dc:creator>Abramovícius, Alexandra C.</dc:creator>
+          <dc:creator>Dallora, Maria Eulália L. V</dc:creator>
+          <dc:creator>Pazin Filho, Antonio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Comitê de Farmácia e Terapêutica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medicamentos Essenciais</dc:subject>
+          <dc:subject xml:lang="en-US">Pharmacy and Therapeutics Commitee</dc:subject>
+          <dc:subject xml:lang="en-US">Drug</dc:subject>
+          <dc:subject xml:lang="en-US">essential.</dc:subject>
+          <dc:description xml:lang="en-US">The hospital activities are characterized by a highly dynamism as a result of new health technologies such as medicines. A hospital due its characteristics of teaching, research and high complexity care, has the highest concentration of different types of health technologies. The Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto – USP (HCFMRP-USP) is a hospital, with proven quality, inserted in the SUS as a tertiary/quaternary referral and has the Pharmaceutical Services Division (DAF) for development of actions of health care. To aid resource management, selection and standardizationof drugs, DAF adopted the strategy of Pharmacy and Therapeutics Committee (CFT). The CFT is a collegial, consultative and deliberative body, established by the World Health Organization as a strategy tool to monitor and promote the quality in the use of medicine, but studies of CFTs are incipient in Brazil. Thus, this study aims to present the CFT of HCFMRP–USP. Objectives: To introduce the composition, responsibilities and working methods of CFT, as well as a critical analysis of its current operation. Methods: A descriptive study aimed to describe the current functioning of the CFT of HCFMRP-USP was performed. Ordinances, internal regulations were surveyed and a bibliographic review of the CFT was performed. To the critical analysis of the current operating, was selected by the committee from the standard one that would fit classification as belonging to “A” and “V” items after the crossing of the curves ABC and VEN, whose selected item was the medicine Sevoflurane. Results: The CFT was established in 2010 to replace the defunct standardization committee. Since then, the CFT examined 134 requests and 41 of these were standardized. The Sevoflurane drug was incorporated into the HCFMRP-USP in 2010 and, starting that year, there was a gradual increase in the consumption of the same. However, after analyzing the requirements of the drug in 2012, it was observed that the dispensation of Sevoflurane does not follow the specifications of the patient profile as established in the protocol established at the time of standardization. Conclusions: We concluded that the implementation of CFT was a strategy that provided a rational standardization. However, it is observed that there is no control of dispensing and use of the product according to the protocol established at the time of standardization. We emphasize that control the use of Sevoflurane is not responsibility of the CFT and this assignment should be delegated to the responsible technical area.</dc:description>
+          <dc:description xml:lang="pt-BR">As atividades hospitalares caracterizam-se por um acentuado dinamismo em consequência do surgimento de novas tecnologias em saúde, tais como medicamentos. Uma unidade hospitalar, devido suas características de ensino, pesquisa e atendimentos de alta complexidade, possui maior concentração de diferentes tipos de tecnologias em saúde. O Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto –USP (HCFMRP-USP) é uma instituição hospitalar, de qualidade comprovada, inserido no SUS como referência terciária/quaternária e que conta com a Divisão de Assistência Farmacêutica (DAF) para desenvolvimento das ações de atenção a saúde. A DAF para auxílio da gestão de recursos, seleção e padronização de medicamentos adotou como estratégia a Comissão de Farmácia e Terapêutica (CFT). A CFT é uma instância colegiada, de caráter consultivo e deliberativo, estabelecida pela Organização Mundial de Saúde como ferramenta de estratégia para monitorar e promover a qualidade no uso do medicamento, porém estudos que sobre a atuação das CFTs no Brasil são incipientes. Desta forma, este estudo pretende apresentar a CFT do HCFMRP-USP. Objetivos: apresentar a composição, atribuições e metodologia de trabalho da CFT, bem como desenvolver uma análise crítica de seu atual funcionamento. Metodologia: Foi realizado estudo descritivo e exploratório com o objetivo de descrever o atual funcionamento da CFT do HCFMRP-USP. Foram buscadas portarias, regulamentações internas e foi realizada revisão bibliográfica sobre a CFT. Para Análise crítica do atual funcionamento, foi selecionado dentre os itens padronizados pela comissão aquele que se enquadrasse como pertencente a classificação A e V, após o cruzamento das curvas ABC e VEN, cujo item selecionado foi o medicamento Sevoflurano. Resultados: A CFT foi instituída no ano de 2010 em substituição a extinta comissão de padronização. Desde então, a CFT analisou 134 solicitações e destas 41 foram padronizadas. O medicamento sevoflurano foi incorporado no HCFMRP-USP em 2010 e, a partir deste ano, observa-se um aumento gradativo do consumo do mesmo. Entretanto, após análise das prescrições do referido medicamento no ano de 2012, foi observado que a dispensação do sevoflurano não segue as especificações do perfil de pacientes conforme estabelecido no protocolo instituído no momento da padronização. Conclusões: Portanto, concluímos que a implantação da CFT foi uma estratégia que proporcionou a padronização racional. Entretanto, observa-se que não há controle da dispensação e utilização do medicamento de acordo com o protocolo estabelecido no momento da padronização. Salientamos que o controle do uso do Sevoflurano não é atribuição da CFT devendo esta atribuição ser delegada à área técnica responsável.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96833</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p27-32</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 27-32</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 27-32</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 27-32</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96833/95926</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96842</identifier>
+        <datestamp>2020-06-25T16:04:25Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Impact of the implementation of a new model management indicators in the surgical pack of a tertiary teaching hospital</dc:title>
+          <dc:title xml:lang="pt-BR">Impacto da implantação de um novo modelo de gestão embasado em indicadores no bloco cirúrgico de um hospital universitário</dc:title>
+          <dc:creator>Gaspar, Alberto Facury</dc:creator>
+          <dc:creator>Martone, Daniel</dc:creator>
+          <dc:creator>Carraro, Denise Cristina</dc:creator>
+          <dc:creator>Ferreira, Gabriela Souza Assis</dc:creator>
+          <dc:creator>Ferreira-Filho, João Almiro</dc:creator>
+          <dc:creator>Cardoso, Roberto</dc:creator>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Enfermagem de Centro Cirúrgico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Indicadores</dc:subject>
+          <dc:subject xml:lang="pt-BR">Indicadores de Gestão</dc:subject>
+          <dc:subject xml:lang="pt-BR">Indicadores de Serviços</dc:subject>
+          <dc:subject xml:lang="pt-BR">Procedimentos Cirúrgicos Operatórios.</dc:subject>
+          <dc:subject xml:lang="en-US">Operating Room Nursing</dc:subject>
+          <dc:subject xml:lang="en-US">Indicators</dc:subject>
+          <dc:subject xml:lang="en-US">Management Indicators</dc:subject>
+          <dc:subject xml:lang="en-US">Indicators of Health Services</dc:subject>
+          <dc:subject xml:lang="en-US">Surgical Procedures</dc:subject>
+          <dc:subject xml:lang="en-US">Operative.</dc:subject>
+          <dc:description xml:lang="pt-BR">O centro cirúrgico, por suas particularidades e características, constitui uma das unidades mais complexas do ambiente hospitalar. Assim, percebe-se que o bom desempenho de um centro cirúrgico está diretamente relacionado com a qualidade de seus próprios processos e com os processos dos serviços que o apoiam. Em Julho de 2012, com a portaria 194 – HCRP (5), é estabelecido as Diretrizes Gerais de Funcionamento do Bloco Cirúrgico do HC campus. O objetivo do presente estudo é avaliar o impacto do novo modelo gerencial do Bloco Cirúrgico do Campus implantado. Trata-se de séria histórica descritiva e retrospectiva com análise de alguns indicadores comparando a nova gestão com a fase prévia. Nota-se melhora progressiva em alguns indicadores analisados, alcançando metas estipuladas pelo pró- prio Planejamento estratégico vigente. O presente estudo pode ilustrar o impacto de um modelo gerencial dentro do Centro Cirúrgico de um Hospital Escola Terciário de grande porte, mostrando os avanços alcançados e os pontos com oportunidades de melhoria.</dc:description>
+          <dc:description xml:lang="en-US">The surgical center, by their features and characteristics, is one of the drives more complex hospital environment. Thus, it is clear that the good performance of a surgical center is directly related to the quality of their own processes and with the processes of the services that support it. In July 2012, with ordinance 194 - HCRP, is established General guidelines for the Operation of Block Círurgico HC campus. The objective of this study is to evaluate the impact of the new management model of Surgical Block the HCRP-campus deployed. It would be historic descriptive and retrospective analysis of some indicators comparing the new management with the prior phase. Note progressive improvement in some indicators analyzed, reaching targets set by the strategic Planning current. The present study may serve to illustrate the impact of a management model within the Surgical Center of a Hospital Tertiary School large, showing the progress made and the points with opportunities for improvement.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96842</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p33-40</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 33-40</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 33-40</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 33-40</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96842/95932</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96894</identifier>
+        <datestamp>2020-06-25T16:04:24Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Mapping of workflow in clinical engineering: The experience of the University Hospital, Faculty of Medicine of Ribeirão Preto, University of São Paulo</dc:title>
+          <dc:title xml:lang="pt-BR">Mapeamento do fluxo de trabalho das atividades em engenharia clínica: a experiência do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</dc:title>
+          <dc:creator>Gomes, André FMM.</dc:creator>
+          <dc:creator>Faustino, Gabriela G</dc:creator>
+          <dc:creator>Tonani, Monique</dc:creator>
+          <dc:creator>Porcincula, Sídney</dc:creator>
+          <dc:creator>Somera, Sílvio C</dc:creator>
+          <dc:creator>Beicker, Wilker</dc:creator>
+          <dc:creator>Pazin-Filho, Antônio</dc:creator>
+          <dc:subject xml:lang="en-US">Clinical Engineering</dc:subject>
+          <dc:subject xml:lang="en-US">Mapping</dc:subject>
+          <dc:subject xml:lang="en-US">Workflow.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Engenharia Clínica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Mapeamento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fluxo de Trabalho.</dc:subject>
+          <dc:description xml:lang="en-US">The incorporation of medical devices and other technological resources with high aggregate value increases the challenges to achieve an efficient and quality management by Health Organizations. In this context, the use of tools to support the management becomes essential for the efficient use health resources in order to achieve greater stability and sustainability of the system as a whole. Thus, this study aimed to develop a mapping workflow of activities in the Clinical Engineering sector, responsible for managing medical diagnostic equipment at HCFMRP-USP, exposed in flow chart form, aiming later incorporation and spread among other hospital departments.</dc:description>
+          <dc:description xml:lang="pt-BR">A incorporação de equipamentos médicos hospitalares e outros recursos tecnológicos com alto valor agregado aumentam os desafios para realizar uma gestão eficiente e de qualidade pelas Organizações de Saúde. Nesse contexto, a utilização de ferramentas de apoio a gestão se torna essencial para o aproveitamento racional dos recursos de saúde, de forma a alcançar maior estabilidade e sustentabilidade do sistema como um todo. Assim, o presente trabalho teve como finalidade elaborar um mapeamento do fluxo de trabalho das atividades desenvolvidas no setor de Engenharia Clínica, responsável pela gestão de equipamentos médico diagnósticos do HCFMRP-USP, exposto na forma de fluxograma, objetivando posteriormente, sua incorporação e propagação dentre outros setores do hospital.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96894</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p41-47</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 41-47</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 41-47</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 41-47</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96894/95976</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96932</identifier>
+        <datestamp>2020-06-25T16:04:23Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Gestão de compras em um hospital de ensino terciário: um estudo de caso</dc:title>
+          <dc:title xml:lang="en-US">Purchasing management in a tertiary teaching hospital: a case study</dc:title>
+          <dc:creator>Duarte, Nathalia C. M.</dc:creator>
+          <dc:creator>Bitar, Julia P. S.</dc:creator>
+          <dc:creator>Miglioli, Juliana P.</dc:creator>
+          <dc:creator>Pereira, Marta M. S.</dc:creator>
+          <dc:creator>Yodono, Nathalia B. P.</dc:creator>
+          <dc:creator>Araújo, Thamiris R.</dc:creator>
+          <dc:creator>Dallora, Maria Eulália L.</dc:creator>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:subject xml:lang="en-US">Purchasing</dc:subject>
+          <dc:subject xml:lang="en-US">Hospital</dc:subject>
+          <dc:subject xml:lang="en-US">Hospital Distribution Systems</dc:subject>
+          <dc:subject xml:lang="en-US">Health Services Administration</dc:subject>
+          <dc:subject xml:lang="en-US">Materials</dc:subject>
+          <dc:subject xml:lang="pt-BR">Serviço Hospitalar de Compras</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sistemas de Distribuição no Hospital</dc:subject>
+          <dc:subject xml:lang="pt-BR">Administração de</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: Estudo de Caso. Objetivo do Estudo: O presente trabalho visou estudar o processo de compras e programação de materiais de um hospital público de ensino de nível terciário e analisar os perfis de itens de materiais de consumo faltantes em determinado período, com a finalidade de identificar como ferramentas de gestão de materiais podem ajudar na definição de políticas de compras e estoque. Metodologia: O estudo foi elaborado com base em análises qualitativas e quantitativas. As primeiras foram feitas por meio de coleta de dados relativos ao entendimento dos processos e estrutura interna da Divisão de Materiais do Hospital através de observação e entrevistas semiestruturadas entre o período de setembro a novembro de 2013. A relação dos itens faltantes em 2012 e 2013 foi obtida através do sistema de informação da instituição e a partir destes dados foram feitas as análises quantitativas dos perfis destes itens segundo as classificações ABC e VEN (ou XYZ). Resultado: Os resultados apontam que dos 8.595 itens de materiais de consumo do Hospital apenas 5% em quantidade são classificados como A na curva ABC, no entanto tais itens correspondem a 42% em valores. Já os itens vitais representam 49% do valor e 46% em termos de quantidade. Quando analisadas em conjunto, as duas curvas apontam que a maioria das quantidades de materiais de consumo do Hospital são classificados como vitais da curva C (36,35%) e os itens não essenciais da curva A representam tanto em valor como em quantidade a menor parcela de materiais. O perfil dos itens faltantes em 2012 e 2013 são semelhantes, o maior índice de faltas está nos itens vitais da curva C e a menor nos itens não essenciais da curva A. Conclusão: Por meio do estudo foi possível concluir que a definição de políticas de compras e estoques que analisem não somente recursos econômicos, mas também a criticidade dos itens para o funcionamento dos processos é fundamental, principalmente levando em consideração o atual contexto das organizações de saúde públicas, a fim de melhor otimizar recursos e minimizar faltas.</dc:description>
+          <dc:description xml:lang="en-US">Model Study: Case Study. Purpose of the Study: This study aims to explore the purchasing materials process in a tertiary teaching hospital and analyze the missing items profiles in a given period in order to identify how materials management tools can help optimizing purchasing and inventory policies. Methodology: The study was based on qualitative and quantitative analyses. The first was made by means of collecting data to understand both processes and internal structure of the Materials Division through observation and semi-structured interviews between September-November 2013. A list of missing items in 2012 and 2013 was obtained from system information in order to analyze the profiles of these items according to the ABC and VEN (or XYZ) ratings. Results: The results show that out of 8,595 items of consumable materials, only 5 % in volume are classified as A in ABC curve, however such items correspond to 42 % in value. On the other hand, vital items represent 49 % on value and 46 % in terms of quantity. When analyzed together, the two curves show that most quantities of consumables materials are classified as vital from the C curve (36.35%) whereas non-essential items from the A curve represent both in value and in volume the smallest amount portion of materials. The missing items profile in 2012 and 2013 were similar, the highest rate of faults is from vital and C curve materials and the smaller, of nonessentials of the A curve. Conclusion: Through the study, it can be concluded that the definition of procurement policies inventories from the analyses of not only economic resources, but also item’s criticality to processes is essential, especially considering the current context of public health organizations, in order to optimize resources and minimize materials faults.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96932</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p48-56</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 48-56</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 48-56</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 48-56</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96932/96012</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/96963</identifier>
+        <datestamp>2020-06-25T16:04:22Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Budget impact analysis caused by the implantation of digital signature at Clinics Hospital of Ribeirão Preto Medical School of University of São Paulo</dc:title>
+          <dc:title xml:lang="pt-BR">Análise do impacto orçamentário causado pela implantação de assinatura digital no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</dc:title>
+          <dc:creator>Pellison, Felipe Carvalho</dc:creator>
+          <dc:creator>Carneiro, Alexandre</dc:creator>
+          <dc:creator>Namburete, Eva</dc:creator>
+          <dc:creator>Sant’Ana, Fabio</dc:creator>
+          <dc:creator>Lívia, Lívia</dc:creator>
+          <dc:creator>Pereira, Marcos Roberto</dc:creator>
+          <dc:creator>Tavares, Tabata</dc:creator>
+          <dc:creator>Pazin-Filho, Antônio</dc:creator>
+          <dc:subject xml:lang="en-US">Costs and Cost Analysis</dc:subject>
+          <dc:subject xml:lang="en-US">Economics</dc:subject>
+          <dc:subject xml:lang="en-US">Hospital</dc:subject>
+          <dc:subject xml:lang="en-US">Electronic Health Records.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Custos e Análise de Custo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Economia Hospitalar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Registros Eletrônicos de Saúde.</dc:subject>
+          <dc:description xml:lang="pt-BR">Com o processo de inovação tecnológica, avanço de redes e softwares, surgem novas formas de catalogação de dados e documentos. No setor de saúde isso corrobora com a melhora do serviço prestado, já que o aumento da demanda requer segurança, rapidez e economia. Este trabalho foi realizado no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto USP (HCFMRP USP), um hospital terciário que atua na assistência, ensino e pesquisa. Este trabalho tem como objetivo analisar o impacto orçamentário da aquisição e renovação do certificado digital pelo HCFMRP USP com uma análise direta do custo de impressão e aquisição de papel. Para o cálculo do tempo de retorno financeiro utilizou-se o Payback descontado. Verificou-se que o valor investido na aquisição do registro digital será totalmente revertido em aproximadamente menos de um ano, concluindo-se que esta migração é vantajosa em termos econômicos. A economia alcançada com este recurso proporcionará maior capacidade de investimento do hospital em outras áreas</dc:description>
+          <dc:description xml:lang="en-US">With the process of technological innovation, networking, and software advances, new forms emerge cataloging data and documents. In the health sector it corroborates the improvement of service, as rising demand requires security, speed and economy. This work was performed at Clinics Hospital of Ribeirão Preto Medical School (HCFMRP) of University of São Paulo, a tertiary care hospital that operates in care, teaching and research. This work objective is to analyze the budgetary impact of the acquisition and renewal of digital certificates by HCFMRP with a direct analysis of the cost of printing and paper procurement. To calculate the payback time we used the Discounted Payback. It was verified that the amount invested in the acquisition of the digital record will be totally reversed in less than a year, therefore concluding that this migration is advantageous in economic terms. The savings achieved with this feature will provide greater ability to invest in other areas of the hospital</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/96963</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p57-64</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 57-64</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 57-64</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 57-64</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/96963/96039</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/97010</identifier>
+        <datestamp>2020-06-25T16:04:21Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Proposta de medidas de avaliação de desempenho para o centro de engenharia clínica e bioequipamentos do HCFMRP-USP</dc:title>
+          <dc:title xml:lang="en-US">Proposal of measures of performance evaluation for the clinical engineering centre and bio equipment - HCFMRP-USP</dc:title>
+          <dc:creator>Marquez, Priscila B.</dc:creator>
+          <dc:creator>Barroso, Carolina C. A.</dc:creator>
+          <dc:creator>Silva, Adriano M.</dc:creator>
+          <dc:creator>Silva, Tracy K. M.</dc:creator>
+          <dc:creator>Reis, Débora A.</dc:creator>
+          <dc:creator>Caravelas, David T.</dc:creator>
+          <dc:creator>Dallora, Maria Eulália L. V.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Engenharia Clínica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gestão Hospitalar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Indicadores de Gestão</dc:subject>
+          <dc:subject xml:lang="pt-BR">Planejamento Estratégico.</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo deste estudo foi propor uma lista de indicadores como forma de avaliação de desempenho para o Centro de Engenharia Clínica e Bioequipamentos do HCFMRP-USP. Indicadores são importantes ferramentas de controle e de qualidade e fornecem bases para melhorar o desempenho do estabelecimento de saúde. Para a coleta de dados, foi utilizada a literatura, referente aos indicadores para a área de Engenharia Clínica. Equipe multidisciplinar composta pelos autores do artigo foi formada para discutir e escolher os indicadores que seriam propostos como medidas de avaliação de desempenho. Foi desenvolvido um estudo na bibliografia disponível sobre o tema e também entrevistas com os gestores-chaves que estão responsáveis pela área. Adotou-se o BSC - Balanced Scorecard, em suas perspectivas financeira, de clientes, de processos internos e de aprendizado e crescimento como mapa estruturante dos indicadores. Foram propostos dezesseis indicadores nas quatro perspectivas do BSC.</dc:description>
+          <dc:description xml:lang="en-US">The aim of this study was to propose a list of indicators as a mean of performance evaluation for the Clinical Engineering Center of the Hospital of Pharmaceutical Sciences and Medicine of Ribeirão Preto (HCFMRP – USP). Indicators are important tools of quality control and supply bases to enhance the performance of the health facility. In order to collect data, it was used the literature regarding the indicators for the area of Clinical Engineering. Multidisciplinary team was formed to discuss and choose the indicators that were proposed as measures of performance evaluation. A study in the literature available about the topic and also interviews with the key managers who are responsible for the area were developed. It was adopted the BSC - Balanced Scorecard as a structural map of the indicators. Sixteen indicators were proposed in the four BSC perspectives.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/97010</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p65-76</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 65-76</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 65-76</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 65-76</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/97010/96045</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/97015</identifier>
+        <datestamp>2020-06-25T16:04:20Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação de ferramenta informatizada para gestão de resíduos em um hospital universitário de nível terciário</dc:title>
+          <dc:title xml:lang="en-US">Evaluation of computerized tool for waste management in a tertiary level teaching hospital</dc:title>
+          <dc:creator>Vitor, André L.</dc:creator>
+          <dc:creator>Falango, David</dc:creator>
+          <dc:creator>Oliveira, Heloisa B. D.</dc:creator>
+          <dc:creator>Lopes Junior, Jorge R.</dc:creator>
+          <dc:creator>Pellozo, Lucas R.</dc:creator>
+          <dc:creator>Borges, Luzimar R. M. F.</dc:creator>
+          <dc:creator>Pontelli, Regina C. N.</dc:creator>
+          <dc:creator>Dallora, Maria Eulália L. V.</dc:creator>
+          <dc:subject xml:lang="en-US">Environmental Management</dc:subject>
+          <dc:subject xml:lang="en-US">Waste Manegement</dc:subject>
+          <dc:subject xml:lang="en-US">Computerized System for Waste Management</dc:subject>
+          <dc:subject xml:lang="en-US">Medical Waste.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gestão ambiental</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gerenciamento de Resíduos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sistema informatizado para Gestão de Resíduos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Resíduos de Serviços de Saúde.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de Estudo: Estudo Original Introdução: Os avanços tecnológicos nas ultimas décadas na área de informática são incontestáveis. Sistemas informatizados colaboram com a gestão, permitindo monitoramento e controle, auxiliando na tomada de decisão. A sugestão de um sistema informatizado para auxiliar os gestores da área de Gerenciamento Ambiental do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (HCFMRP USP) tem a intenção de oferecer agilidade e praticidade na gestão de resíduos, principalmente os resíduos de saúde, proporcionando um acompanhamento de toda a cadeia, da segregação ao destino final. Objetivo: Apresentar e avaliar recursos de gestão de um sistema Informatizado para cadastro, controle e gerenciamento das informações sobre os resíduos. Métodos: Dados para simulação e avaliação da ferramenta foram obtidos na enfermaria da hematologia do HCFMRP. Após, análises qualitativas de pontos fortes e fracos foram realizadas juntamente com entrevistas feitas com os responsáveis pelo Serviço de Gerenciamento Ambiental do hospital. Resultados: A simulação permitiu uma análise completa das funcionalidades do sistema, juntamente com o fluxo de informações que deve ser aplicado para seu funcionamento. Conclusão: A ferramenta sugerida vai de encontro às necessidades do Servi- ço, o que otimiza a execução das tarefas e agiliza os processos. O Sistema informatizado permite a gestão dos resíduos desde a identificação dos usuários e seus respectivos resíduos produzidos, até seu destino final, incluindo a etapa de coleta.</dc:description>
+          <dc:description xml:lang="en-US">Study model: Original study Introduction: Technological advances over the last few decades in the it area are undeniable. Computerized systems collaborate with management, enabling monitoring and control, assisting in decision-making. The suggestion of a computerized system to assist managers in the area of Environmental Management of the Clinical Hospital Faculty of medicine the University of São Paulo (USP HOSPITAL) intends to offer agility and practicality in waste management, especially the waste of health, providing a complete monitoring of the entire chain, from segregation to the final destination. Objective: to present and evaluate resources for the administration of a computerized system to record, control, and management of information on waste. Methods: data for simulation and evaluation of the tool were obtained in the infirmary HOSPITAL hematology. After that, qualitative analyses of strengths and weaknesses were held along with interviews with those responsible for the environmental management of the hospital service. Results: the simulation allowed a complete analysis of the functionality of the system, along with the flow of information that should be applied for its functioning. Conclusion: the suggested tool meets the needs of the service, which optimizes the performance of the tasks and streamlines processes. The computerized system allows the management of waste from the identification of users and their respective waste produced, until its final destination, including the step of collecting.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/97015</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p77-86</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 77-86</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 77-86</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 77-86</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/97015/96050</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/97017</identifier>
+        <datestamp>2020-06-25T16:04:19Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Effects of physical training by blood pressure, heart rate and cardiac morphology in hypertensive rats</dc:title>
+          <dc:title xml:lang="pt-BR">Efeitos do treinamento físico sobre a pressão arterial, frequência cardíaca e morfologia cardíaca de ratos hipertensos</dc:title>
+          <dc:creator>Goessler, Karla F.</dc:creator>
+          <dc:creator>Martins-Pinge, Marli C.</dc:creator>
+          <dc:creator>Cunha, Natalia V. da</dc:creator>
+          <dc:creator>Karlen-Amarante, Marlusa</dc:creator>
+          <dc:creator>Polito, Marcos D.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Treinamento/Natação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Óxido Nítrico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipertensão</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sistema Cardiovascular.</dc:subject>
+          <dc:subject xml:lang="en-US">Swimming /Training</dc:subject>
+          <dc:subject xml:lang="en-US">Nitric Oxide</dc:subject>
+          <dc:subject xml:lang="en-US">Hypertension</dc:subject>
+          <dc:subject xml:lang="en-US">Cardiovascular System.</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo desse estudo foi verificar o efeito da natação sobre as alterações morfológicas cardíacas e hemodinâmicas de ratos com hipertensão induzida por L-NAME. Quarenta ratos Wistar foram divididos nos grupos: controle sedentário (CS), controle treinado (CT), sedentário com L-NAME (LS) e treinado com L-NAME (LT). Os animais treinados realizaram natação por até 60 min durante quatro semanas. Os animais dos grupos L-NAME receberam 20 mg.kg-1 também durante quatro semanas. O grupo LS apresentou maiores valores de PAM (136,6±5,1 mmHg) comparado ao CS (107,1±1,8 mmHg). O grupo LT apresentou reduções na PAM comparado ao LS (121,2±1,4 e 136,6±5,1 mmHg, respectivamente). Por outro lado, os LT ainda permaneceram hipertensos comparados ao CT (121,0±1,4 e 107,1±1,8 mmHg, respectivamente). Em relação à FC, houve bradicardia de repouso para os animais treinados. Os grupos CS e CT não apresentaram alterações no peso relativo e absoluto do coração. Houve aumento do peso absoluto do coração para o grupo LS comparado ao CS e também se observou aumento para o peso relativo e absoluto do coração para o grupo LT comparado ao CT. A análise histológica demonstrou que o treinamento físico pode reduzir a quantidade de lesões provocadas pela administração crônica de LNAME. Conclui-se que a natação foi eficiente em reduzir a PAM de animais hipertensos, mas não reduziu em animais normotensos. Adicionalmente, o treinamento físico não promoveu hipertrofia cardíaca, mas a administração de L-NAME aumentou o peso absoluto e relativo do coração em animais sedentários e treinados.</dc:description>
+          <dc:description xml:lang="en-US">The objective of this study was to investigate the effect of swimming on the cardiac morphological and hemodynamic changes in rats with hypertension induced by L-NAME.. Forty Wistar rats were divided into four groups: sedentary control (SC), trained control (TC), sedentary with L-NAME (LS) and trained with LNAME (LT). The animals in the training groups performed swimming lasting up to 60 min for four weeks. Animals in the L-NAME groups received 20 mg.kg-1 during four weeks. The results showed that animals in the LS group had higher mean arterial pressure (136.6±5.1 mmHg) compared to CS (107.1±1.8 mmHg). The LT group showed significant reductions in mean arterial pressure compared to LS (121.2±1.4 and 136.6±5.1 mmHg, respectively). On the other hand, the LT group animals still remained hypertensive compared to CT group (121.0±1.4 and 107.1±1.8 mmHg respectively). In relation to HR, was observed resting bradycardia for the trained animals. The groups CS and CT showed no changes in relative and absolute weight of the heart. An increase in the absolute weight of the heart to the LS group compared to the CS and also observed an increase in the relative and absolute weight for the LT group compared to CT. Histologic analysis showed that exercise training can reduce the amount of damage caused by chronic administration of L-NAME. In conclusion, we observed that mild exercise was effective in reducing mean arterial pressure in hypertensive rats. Additionally, exercise training did not induced cardiac hypertrophy, but the L-NAME increase the absolute and relative weight of the heart in sedentary and trained rats.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/97017</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p87-98</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 87-98</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 87-98</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 87-98</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/97017/96052</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/97023</identifier>
+        <datestamp>2020-06-25T16:04:18Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Prevalência e etiologia da anemia em idosos: uma revisão integral</dc:title>
+          <dc:title xml:lang="en-US">Prevalence and etiology of anemia in the elderly: a full review</dc:title>
+          <dc:creator>Milagres, Clarice S.</dc:creator>
+          <dc:creator>Franceschini, Sylvia do C. C.</dc:creator>
+          <dc:creator>Priore, Sílvia E.</dc:creator>
+          <dc:creator>Lima, Luciana M.</dc:creator>
+          <dc:creator>Ribeiro, Andréia Q.</dc:creator>
+          <dc:subject xml:lang="en-US">Anemia</dc:subject>
+          <dc:subject xml:lang="en-US">Aging</dc:subject>
+          <dc:subject xml:lang="en-US">Etiology</dc:subject>
+          <dc:subject xml:lang="en-US">Elderly</dc:subject>
+          <dc:subject xml:lang="en-US">Prevalence</dc:subject>
+          <dc:subject xml:lang="en-US">Hemoglobin.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anemia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Envelhecimento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Etiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idosos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Prevalência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemoglobina.</dc:subject>
+          <dc:description xml:lang="en-US">Purpuses: to describe the prevalence and etiology of anemia in the elderly in the original studies published. Methods: systematic review of articles published between 2008 and 2013, the electronic databases PubMed and Science Direct. Using descriptors predetermined english, covering articles that used: “anemia”, “elderly”, “etiology”, used in combination. Results: was founded 77 articles. After filtering process were selected 18 studies that presented results of prevalence and etiology of anemia in the elderly. Conclusion: there was a wide range in the prevalence of anemia (5.5% to 62.6%), as well as the etiology. Hospitalized and institutionalized elderly showed a high prevalence of anemia with increased risk for mortality. Non-institutionalized elderly constituted the majority of the target population and the main cause of anemia was chronic and unexplained. The etiology of anemia found in these surveys included the three main causes of anemia in the elderly, which is by nutritional deficiencies, chronic and unexplained anemia, confirming this multifactorial disease.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivos: Descrever a prevalência e a etiologia da anemia em idosos nos estudos originais publicados. Métodos: Revisão integrativa de artigos publicados entre 2008 e 2013, nas bases de dados eletrônicos PubMed e Science Direct. Utilização de descritores pré-determinados em inglês, abrangendo artigos que utilizassem: “anemia”, “elderly”, “etiology”, usados em combinação. Resultados: Foram encontrados 77 artigos. Após processo de filtragem selecionou-se 18 estudos que apresentavam resultados da prevalência e etiologia da anemia em idosos. Conclusão: Observou-se grande amplitude nas prevalências de anemias (5,5% a 62,6%), assim como a etiologia. Idosos hospitalizados e institucionalizados apresentaram elevadas prevalências de anemia com aumento para risco de mortalidade. Idosos não institucionalizados constituíram a maior parte da população alvo e nesses, a principal etiologia da anemia foi doença crônica e inexplicada. A etiologia da anemia encontrada nestas pesquisas contemplou as três principais causas de anemia nos idosos, quais seja por deficiências nutricionais, doenças crônicas e anemia inexplicada, confirmando a multifatorialidade desta doença.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-02-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/97023</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i1p99-107</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 1 (2015); 99-107</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 1 (2015); 99-107</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 1 (2015); 99-107</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/97023/96056</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99744</identifier>
+        <datestamp>2020-06-25T16:04:17Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A Bioengenharia Tecidual em favor da Reabilitação de Indivíduos com Fissura Labiopalatina</dc:title>
+          <dc:title xml:lang="en-US">The Tissue Bioengineering in favor of the Rehabilitation of Individuals With Cleft Lip and Palate</dc:title>
+          <dc:creator>Palone, Marcos R. T.</dc:creator>
+          <dc:creator>Silva, Thaieny R. da</dc:creator>
+          <dc:creator>Dalben, Gisele da S.</dc:creator>
+          <dc:subject xml:lang="en-US">Bioengineering</dc:subject>
+          <dc:subject xml:lang="en-US">Graft</dc:subject>
+          <dc:subject xml:lang="en-US">Surgery.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Bioengenharia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Enxerto</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cirurgia.</dc:subject>
+          <dc:description xml:lang="pt-BR">A Bioengenharia tecidual compila conhecimentos de grandes áreas da ciência, os quais são aplicados atualmente em tratamentos de saúde com finalidade reparadora. No HRAC/USP pacientes com fissura labiopalatina são atualmente reabilitados com uso da rhBMP-2. Diante disso, o objetivo do presente estudo foi realizar um trabalho de revisão e atualização enfatizando as características principais da rhBMP-2. O tratamento com este biomaterial tem mostrado taxas de sucesso semelhantes às do tratamento convencional obtido de osso ilíaco para este grupo de pacientes, bem como vantagens adicionais. O conhecimento sobre suas aplicações e cuidados necessários é de grande valia para profissionais e acadêmicos da área de Ciências Biológicas e da Saúde durante o seu processo de formação universitária.</dc:description>
+          <dc:description xml:lang="en-US">Tissue Bioengineering involves knowledge of several science fields, which are currently employed in reparative health treatments. At HRAC/USP, individuals with cleft lip and palate are currently rehabilitated with the use of rhBMP-2. This paper aims to present a review and update with emphasis on the main characteristics of rhBMP-2. The treatment with this biomaterial has demonstrated similar success rates as the conventional treatment obtained from the iliac bone for this group of individuals, as well as additional advantages. Knowledge on its applications and the necessary care is very important for professionals and students in the fields of Biological and Health Sciences during the university training.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99744</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p113-118</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 113-118</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 113-118</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 113-118</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99744/98165</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99745</identifier>
+        <datestamp>2020-06-25T16:04:17Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">What is more effective for weight loss: continuous or intermittent exercise? with or without dieting? A review based on evidence</dc:title>
+          <dc:title xml:lang="pt-BR">O que é mais eficiente para perda de peso: exercício contínuo ou intermitente? com ou sem dieta? uma revisão baseada em evidências</dc:title>
+          <dc:creator>Silva, Diego A. S.</dc:creator>
+          <dc:creator>Nunes, Heloyse E. G.</dc:creator>
+          <dc:subject xml:lang="en-US">Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Physical</dc:subject>
+          <dc:subject xml:lang="en-US">Aerobic</dc:subject>
+          <dc:subject xml:lang="en-US">Continuous Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Intermittent Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Body Composition</dc:subject>
+          <dc:subject xml:lang="en-US">Body Weight.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício Físico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício Aeróbico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício Contínuo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício Intermitente</dc:subject>
+          <dc:subject xml:lang="pt-BR">Composição Corporal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Peso Corporal.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Revisão sistemática de literatura Objetivo: Apresentar evidências científicas acerca do tipo de exercício aeróbio (Contínuo vs. Intermitente) que resulta em melhores efeitos na redução do peso corporal. Metodologia: Foi realizada revisão da literatura nas bases de dados Pubmed, Medline, ISI Web of Knowledge, Ebsco Host e Scopus de artigos a partir do ano 2000. Resultados: A combinação do exercício aeróbio e restrição calórica podem maximizar a perda de peso em indivíduos com sobrepeso. Ao comparar os dois tipos de exercícios aeróbios, a maior parte das evidências sugerem superioridade do intermitente em comparação ao contínuo na perda de peso. Conclusão: Intervenções realizadas com dieta restrita combinadas com programas de exercícios realizados de três a seis vezes semanais, de preferência intermitente, em intensidade moderada a alta, apresentaram resultados mais significativos para perda de peso em comparação ao exercício contínuo.</dc:description>
+          <dc:description xml:lang="en-US">Study design: Systematic literature review Objective: To present scientific evidence about the type of aerobic exercise (Continuous vs. Intermittent) that results in better effects on reducing body weight. Methodology: Literature review was performed on Pubmed, Medline, ISI Web of Knowledge, Ebsco Host and Scopus of articles from the year 2000. Results: The combination of aerobic exercise and caloric restriction can maximize weight loss in overweight individuals. By comparing the two types of aerobic exercises, most evidence suggests superiority of intermittent exercise compared to continuous exercise in weight loss. Conclusion: Interventions performed with restricted diet combined with exercise programs performed from three to six times weekly, preferably intermittent, from moderate to high intensity, showed more significant results for weight loss compared to continuous exercise.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99745</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p119-128</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 119-128</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 119-128</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 119-128</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99745/98166</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99746</identifier>
+        <datestamp>2020-06-25T16:04:16Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Atlasbased Methods or TW3?- Estimation of Bone age in Brazilians</dc:title>
+          <dc:title xml:lang="pt-BR">Métodos baseados em Atlas ou TW3? Estimativa da idade óssea em brasileiros</dc:title>
+          <dc:creator>Ortega-Pertuz, Ana I.</dc:creator>
+          <dc:creator>Haiter-Neto, Francisco</dc:creator>
+          <dc:creator>Costa, Andre L. Ferreira</dc:creator>
+          <dc:subject xml:lang="en-US">Growth and Development. Age Determination by Skeleton. Greulich-Pyle Atlas. Tanner- Whitehouse method. Venezuelan Atlas of Bone Maturation.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Crescimento e Desenvolvimento. Determinação da Idade pelo Esqueleto. Atlas de Greulich-Pyle. Método de Tanner-Whitehouse. Atlas Venezolano de Maduración Ósea.</dc:subject>
+          <dc:description xml:lang="en-US">To compare the methods of Greulich-Pyle (GP), the Venezuelan Atlas of Bone Maturation (VA), and Tanner-Whitehouse (TW3-RUS), for age estimation in Brazilians. Methodology: A sample of 240 carpal radiographs from individuals of both sexes (129 females and 111 males), with chronological ages (CA) between 84 to 199 months (7 - 16.5 years old) was used. Bone ages were calculated using GP, VA and TW3-RUS methods. Mean differences between CA and estimated bone ages were calculated. There was a positive and statistically significant correlation between CA and bone ages (0.89 - 0.94). An age overestimation was observed by all methods in girls. In boys, overestimation was observed using the VA, while GP and TW3-RUS underestimated age. There was a significant difference between CA and bone ages estimated by GP and VA in both sexes (girls: GP -6.89, -6.41 AV; boys: GP 4.45; VA-5, 06). For TW3-RUS it was only significant for girls (-2.94 girls; boys 1.56). Conclusions: TW3-RUS method resulted in more accurate age estimation. It is recommended to use the calculated regression equations for a better fit between inferred ages through the studied methods and the individual´s real ages.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Comparar os métodos de Greulich-Pyle (GP), o do Atlas Venezuelano de Maturação Óssea (AV) e o de Tanner-Whitehouse (TW3-RUS), na estimativa da idade em brasileiros. Metodologia: Utilizou- se uma amostra de 240 radiografias carpais de indivíduos de ambos os sexos (129 meninas e 111 meninos), com idades entre 84 e 199 meses (7 e 16,5 anos). As idades ósseas foram calculadas segundo os métodos GP, AV e TW3-RUS e posteriormente se obtiveram diferenças de media entre a idade cronológica (IC) as idades ósseas estimadas. Resultados: Observou-se uma correlação positiva e estatisticamente significativa entre a IC e as idades ósseas estimadas, (0,89- 0,94). Constatou-se uma superestimativa da idade por todos os métodos nas meninas. Nos meninos verificou-se a superestimativa pelo método AV, enquanto que o GP e o TW3-RUS subestimaram a idade. Verificou-se uma diferença significativa entre a IC e as idades ósseas estimadas pelos métodos GP e AV em ambos os sexos (meninas: GP -6,89; AV -6,41. Meninos: GP 4,45; AV-5,06) e para o TW3-RUS somente foi significativa para as meninas (meninas -2,94; meninos 1,56). Conclusões: O método TW3-RUS resultou ser mais preciso na estimativa da idade, porém se recomenda a utilização das equações de regressão calculadas para um melhor ajuste entre as idades inferidas pelos métodos estudados as idades reais dos indivíduos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99746</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p129-137</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 129-137</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 129-137</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 129-137</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99746/98167</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99747</identifier>
+        <datestamp>2020-06-25T16:04:15Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Readmissão Hospitalar por Insuficiência Cardíaca em um Hospital de Ensino do Interior do Estado de São Paulo-SP*</dc:title>
+          <dc:title xml:lang="en-US">Hospital Readmission for Heart Failure in a Teaching Hospital in the State of São Paulo-SP</dc:title>
+          <dc:creator>Reis, Marcio B.</dc:creator>
+          <dc:creator>Dias, Marina G.</dc:creator>
+          <dc:creator>Bibanco, Mariana S.</dc:creator>
+          <dc:creator>Lopes, Camila T.</dc:creator>
+          <dc:creator>Gea, Gisela N.</dc:creator>
+          <dc:subject xml:lang="en-US">Heart Failure</dc:subject>
+          <dc:subject xml:lang="en-US">Patient Readmission</dc:subject>
+          <dc:subject xml:lang="en-US">Hospitalization.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Insuficiência Cardíaca</dc:subject>
+          <dc:subject xml:lang="pt-BR">Readmissão Hospitalar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hospitalização.</dc:subject>
+          <dc:description xml:lang="en-US">Retrospective descriptive study of patients readmitted for chronic heart failure, aiming to quantify the rates of unplanned hospital readmission within 30 days and factors possibly associated with readmission. Hospital readmission rates in 2010 and 2011 were 3.91% and 2.41%, respectively, the average time until readmission being 14.5±7.1 days. The most frequent heart failure etiology was valve disease, followed by hypertension. Most were women and 96% were readmitted as a result of the persistence or recurrence of the episode that prompted the initial admission. No satisfactory data regarding the possible causes of persistence or recurrence of the disease were found.</dc:description>
+          <dc:description xml:lang="pt-BR">Estudo descritivo retrospectivo de pacientes readmitidos por insuficiência cardíaca crônica, com o objetivo de quantificar as taxas de readmissão hospitalar não planejada em até 30 dias e fatores possivelmente associados à readmissão. As taxas de readmissão hospitalar em 2010 e 2011 foram de 3,91% e 2,41%, respectivamente, sendo a média de tempo até a readmissão de 14,5±7,1 dias. A etiologia mais frequente da insuficiência cardíaca foi a doença valvar, seguida da hipertensão arterial. As mulheres foram mais acometidas e 96% dos pacientes foram readmitidos em decorrência da persistência ou recorrência do episódio que motivou a admissão inicial. Não foram obtidos dados satisfatórios quanto às possíveis causas que teriam levado à persistência ou recorrência do episódio de doença.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99747</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p138-142</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 138-142</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 138-142</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 138-142</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99747/98168</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99748</identifier>
+        <datestamp>2020-06-25T16:04:14Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Association Between Musculoskeletal Disorders and Healthcare Expenditures Among Patients from the Brazilian Public Healthcare System</dc:title>
+          <dc:title xml:lang="pt-BR">Associação entre desordens musculoesqueléticas e gastos com cuidado à saúde entre pacientes do Sistema Único de Saúde</dc:title>
+          <dc:creator>Codogno, Jamile Sanches</dc:creator>
+          <dc:creator>Turi, Bruna Camilo</dc:creator>
+          <dc:creator>Fernandes, Rômulo Araújo</dc:creator>
+          <dc:creator>Bonfim, Mariana Rotta</dc:creator>
+          <dc:creator>Pastre, Carlos Marcelo</dc:creator>
+          <dc:creator>Monteiro, Henrique Luiz</dc:creator>
+          <dc:subject xml:lang="pt-BR">Dor Musculoesquelética</dc:subject>
+          <dc:subject xml:lang="pt-BR">Custos e Análise de Custo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atividade Motora</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde Pública.</dc:subject>
+          <dc:subject xml:lang="en-US">Musculoskeletal Pain</dc:subject>
+          <dc:subject xml:lang="en-US">Costs and Cost Analysis</dc:subject>
+          <dc:subject xml:lang="en-US">Motor Activity</dc:subject>
+          <dc:subject xml:lang="en-US">Public Health</dc:subject>
+          <dc:description xml:lang="pt-BR">Delineamento: transversal. Objetivos: (i) Identificar a ocorrência de desordens musculoesqueléticas, (ii) identificar seus determinantes e (iii) suas relações com gastos com saúde em adultos atendidos pelo Sistema Único de Saúde. Métodos: Estudo transversal com 963 adultos, com 50 anos e de ambos os sexos tratados em unidades básicas de saúde. Participantes responderam questionários sobre doenças, condição econômica, desordens musculoesqueléticas, atividade ocupacional, consultas de fisioterapia e compra de medicamentos; peso e estatura foram mensurados para calcular o índice de massa corporal. Custos com saúde foram computados retroagindo 12 meses. Resultados: A prevalência de desordens musculoesqueléticas foi 65%, sendo maior em pacientes com doenças do tecido conjuntivo (OR=4,11 [2,98-5,67]) e pessoas que levantam cargas no trabalho (OR=1,45 [1,27-1,66]). Além disso, a ocorrência de desordens musculoesqueléticas nos ombros, região lombar, joelhos e tornozelos/pés foram relacionados a maiores gastos com medicamentos e consultas médicas. Conclusão: A ocorrência de desordens musculoesqueléticas foi elevada entre estes pacientes, é afetada por sexo e atividade ocupacional e positivamente relacionada com gastos com saúde.</dc:description>
+          <dc:description xml:lang="en-US">Study Design: Cross-sectional. Objectives: (i) To identify the prevalence of musculoskeletal disorders, (ii) to identify musculoskeletal disorders correlates and (iii) to identify the existence of relationship between musculoskeletal disorders and healthcare expenditures in adults attended to by the public healthcare system. Methods: Crosssectional study involving 963 adults (over 50 years of age and of both sexes) treated in basic healthcare units (BHU). The participants answered questionnaires about self-reported morbidity, economic condition, musculoskeletal symptoms, occupational activity behavior, physical therapy consultation and prescription drugs purchased. Weight and height were obtained for body mass index computation. Healthcare expenditures in the last 12 months were computed. Results: The prevalence of musculoskeletal symptoms was 65%. Patients diagnosed with musculoskeletal system/connective tissue diseases (OR= 4.11 [2.98 – 5.67]) and people who needed to lift loads at work (OR= 1.45 [1.27 – 1.66]) presented higher likelihood to report the outcome. Moreover, occurrence of musculoskeletal symptoms in shoulders, low back, knees and ankles/feet were positively related to increased prescription drugs used and medical consultations. Conclusion: There is a high occurrence of musculoskeletal symptoms in Brazilian patients, which is affected by sex and occupational activity, and is positively related to increased healthcare expenditures.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99748</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p143-150</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 143-150</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 143-150</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 143-150</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99748/98169</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99749</identifier>
+        <datestamp>2020-06-25T16:04:13Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Factors associated with Muscle Strength in Older Men from a Rural Brazilian Community</dc:title>
+          <dc:title xml:lang="pt-BR">Fatores Associados à força Muscular de Homens Idosos de uma Comunidade Rural Brasileira</dc:title>
+          <dc:creator>Confortin, Susana C.</dc:creator>
+          <dc:creator>Barbosa, Aline R.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Envelhecimento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dinamômetro de Força Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudos de Tempo e Movimento.</dc:subject>
+          <dc:subject xml:lang="en-US">Aging</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength Dynamometer</dc:subject>
+          <dc:subject xml:lang="en-US">Time and Motion Studies.</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Investigar a associação entre indicadores sociodemográficos, variáveis do estilo de vida, condições de saúde e força muscular de homens idosos de uma comunidade rural. Métodos: Estudo transversal, de base domiciliar e populacional realizado em uma cidade do sul do Brasil. Participaram do estudo 207 homens idosos (≥60 anos). A força de preensão manual (FPM) foi mensurada com um dinamômetro e o teste de levantar e sentar verificou a força muscular de membros inferiores (FMMI). Informações sociodemográficas, estilo de vida e condições de saúde foram investigadas. A razão de prevalência foi empregada como medida de associação, por meio da análise de regressão de Poisson (bruta e ajustada). Resultados: A proporção de homens com FPM inadequada foi de 19,0% (IC95%: 13,3-24,8) e a FMMI inadequada foi de 25,3% (IC95%: 18,9-31,7). O avanço da idade, não saber ler e escrever e relatar três ou mais morbidades foram associadas com FPM e FMMI inadequadas. A FMMI inadequada também foi associada à trabalhar na agricultura ao longo da vida, à não trabalhar, à nunca fumar e ao estado cognitivo alterado. Conclusão: Os fatores associados à força muscular são específicos ao teste.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To investigate the association between socio-demographic indicators, lifestyle variables, health conditions, and muscle strength of older men from a rural community of southern Brazil. Methods: A cross-sectional, population-based household survey was carried out in a city in southern Brazil. A total of 207 older men (≥ 60 years) participated in the study. Handgrip strength (HGS) was measured with a dynamometer and the timed chair stand test evaluated lower limb muscle strength/endurance (LLMS). Sociodemographic information, lifestyle and health conditions were obtained from subjects. The prevalence ratio was used as measure of association, by Poisson regression analysis (crude and adjusted). Results: The proportion of men who displayed poor HGS was 19.0% (IC95%:13.3-24.8) and poor LLMS was 25.3% (IC95%:18.9-31.7). Advancing age, illiteracy and more than three morbidities were associated with poor HGS and LLMS. Poor performance in the LLMS test was associated with lifelong agricultural work, unemployment and altered cognitive status. Conclusion: Factors associated with muscle strength are specific to the test.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99749</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p151-159</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 151-159</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 151-159</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 151-159</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99750</identifier>
+        <datestamp>2020-06-25T16:04:12Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Body fat distribution and components of leisure-time physical activity in post-menopausal women: cross-sectional study among users of Brazilian Public Healthcare System</dc:title>
+          <dc:title xml:lang="pt-BR">Distribuição da gordura corporal e componentes da prática de atividades físicas no lazer em mulheres pósclimatério: estudo transversal com usuárias do Sistema Único de Saúde</dc:title>
+          <dc:creator>Locci, Bruna</dc:creator>
+          <dc:creator>Turi, Bruna C.</dc:creator>
+          <dc:creator>Araújo, Lia G. M.</dc:creator>
+          <dc:creator>Fernandes, Rômulo A.</dc:creator>
+          <dc:creator>Codogno, Jamile S.</dc:creator>
+          <dc:creator>Monteiro, Henrique L.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Obesidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atividade Motora</dc:subject>
+          <dc:subject xml:lang="pt-BR">Menopausa.</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity</dc:subject>
+          <dc:subject xml:lang="en-US">Motor Activity</dc:subject>
+          <dc:subject xml:lang="en-US">Menopause.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo transversal. Objetivo: Verificar o impacto da prática de atividades físicas no lazer sobre a distribuição de massa gorda de mulheres pós-climatério, usuárias dos serviços de atenção básica à saúde. Métodos: A amostra foi composta por 176 mulheres na menopausa, com idade ≥ 50 anos, usuárias de cinco Unidades Básicas de Saúde de Bauru, São Paulo e selecionadas de forma aleatória. A composição corporal foi expressa por quantidade em gramas de gordura total, central e massa magra, obtida por exame de absortometria radiológica de dupla energia (DXA). Para avaliar a prática de atividade física no lazer utilizou-se a segunda seção do questionário de Baecke, considerando intensidade, duração e tempo prévio de engajamento. O nível econômico foi avaliado pelo questionário da Associação Brasileira de Empresas de Pesquisa. Correlação de Spearman e regressão linear indicaram o relacionamento entre indicadores de gordura corporal e componentes da prática de atividades físicas no lazer. Resultados: A maior parte das participantes situou-se na classe média, com idade de 65,9 ± 8 anos e o início da menopausa ocorreu aos 47,5 + 6 anos. Foi observada relação entre maior intensidade e maior tempo prévio de engajamento nas atividades de lazer com menores valores de gordura na região do tronco, porém, quando corrigidos por alguns fatores de confusão, esta relação deixou de apresentar significância estatística. Conclusões: Para esta população, atividades físicas praticadas no tempo destinado ao lazer ocorrem com intensidade, duração e tempo prévio de engajamento insuficientes para provocar alterações significativas na composição corporal.</dc:description>
+          <dc:description xml:lang="en-US">Study design: Cross-sectional study. Aim: To investigate whether leisure-time physical activity can impact on fat mass distribution in post-menopausal women, users of Brazilian Public Healthcare System. Methods: The sample was composed by 176 postmenopausal women aged ≥ 50 years. Body composition was expressed as quantity in grams of total and central fat mass and lean mass, obtained by dual Xray absorptiometry (DXA). To assess leisure-time physical activity we used the second section of Baecke’s questionnaire considering intensity, duration and prior engagement in physical activity practice. Economic status was assessed by a specific and previously validated Brazilian questionnaire. Spearman correlation and linear regression assessed the relationship between indicators of body fat and components of leisure- time physical activity. Results: Most part of participants was middle-income, with mean age of 65,9 ± 8 years and the onset of menopause occurred at 47,5 + 6 years. We observed relationship between higher intensity and prior engagement in leisure-time physical activities with lower levels of central fat, however, when adjusted for some confounding factors, such as this relationship is no longer statistical significant. Conclusion: For this population, intensity, duration and prior engagement in leisure-time physical activity are insufficient to cause significant changes in body composition.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99750</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p160-167</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 160-167</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 160-167</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 160-167</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99750/98170</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99751</identifier>
+        <datestamp>2020-06-25T16:04:11Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Healing in contaminated wounds treated with papain</dc:title>
+          <dc:title xml:lang="pt-BR">Cicatrização de feridas contaminadas tratadas com papaína*</dc:title>
+          <dc:creator>Brito Junior, Lacy Cardos de</dc:creator>
+          <dc:creator>Ferreira, Pollyanna de Lucena</dc:creator>
+          <dc:subject xml:lang="pt-BR">Cicatrização de Feridas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Papaína</dc:subject>
+          <dc:subject xml:lang="pt-BR">Úlcera</dc:subject>
+          <dc:subject xml:lang="pt-BR">Staphylococcus aureus.</dc:subject>
+          <dc:subject xml:lang="en-US">Wound Healing</dc:subject>
+          <dc:subject xml:lang="en-US">Papain</dc:subject>
+          <dc:subject xml:lang="en-US">Ulcer</dc:subject>
+          <dc:subject xml:lang="en-US">Staphylococcus aureus.</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: Papain, an enzyme of vegetal origin, is widely used for the treatment of wounds, especially because of its anti-inflammatory and healing properties. Objectives: Study the histology of healing of wounds treated with papaine solutions Methods: A square section of skin was surgically removed from the cervical region of adult-male Wistar rats (n=18), which were divided into two groups: Group I - Control (n=9), contaminated with S. aureus and untreated; and Group II – Treated (n=9) contaminated with S. aureus and treated with 10, 6 and 4% papain solutions, according to the macroscopic morphological characteristics of the lesions. A histological analysis was made of the lesions, stained with hematoxilin and eosin and with Masson’s trichrome, at 7, 14 and 21 days. Results: The papain aided in the modulation of the inflammatory process, in the formation and maturation of the granulation tissue, and in the organization of the collagenous fibers; accelerating the proliferation and organization of the epidermis at the wounds throughout the healing process. Conclusions: Our data reinforce and complement previous research that details the healing effects of papain on contaminated wounds.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: A papaína, uma enzima de origem vegetal, há muito é utilizada como alternativa para o tratamento de feridas associadas a processos infecciosos exuberantes, devido aos seus efeitos antiinflamatórios e cicatrizantes. Objetivos: Estudar os aspectos histológicos da cicatrização de feridas contaminadas tratadas com papaína. Métodos: Foram utilizados ratos Wistar (n=18), machos, adultos, que passaram por procedimento cirúrgico para a retirada de uma seção quadrada de pele da região cervical dos mesmos, e que foram divididos em dois grupos: Grupo I - Controle (n=9), contaminados com S. aureus e sem tratamento; e Grupo II – Tratado (n=9), contaminados com S. aureus e tratados com soluções de papaína de 10%, 6% e 4%, de acordo com as características das lesões. A análise histológica das áreas lesadas, coradas com Hematoxilina-eosina, foi realizada com 7, 14 e 21 dias. Resultados: Verificamos que a papaína auxiliou na modulação do processo inflamatório; formação e amadurecimento do tecido de granulação; organização das fibras colágenas; e aceleração da proliferação e organização da epiderme em feridas contaminadas, em todos os dias estudados. Conclusões: Nossos dados reforçam e complementam pesquisas que relacionam os efeitos cicatrizantes da papaína sobre feridas contaminadas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99751</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p168-174</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 168-174</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 168-174</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 168-174</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99751/98171</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99752</identifier>
+        <datestamp>2020-06-25T16:04:11Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Response rate to HBV vaccination in Renal Replacement Therapy Unit at the Santa Casa de Misericórdia of Ponta Grossa. Analysis of age and diabetes mellitus as a risk factor</dc:title>
+          <dc:title xml:lang="pt-BR">Taxa de resposta à vacinação para vírus B em Unidade de Terapia Renal Substitutiva na Santa Casa de Misericórdia de Ponta Grossa. Análise da idade e do diabetes mellitus como fator de risco</dc:title>
+          <dc:creator>Ostroski, Tayza Katelline Danilau</dc:creator>
+          <dc:creator>Belonci, Camila Gabriella da Costa</dc:creator>
+          <dc:creator>Baroni, Gilberto Baroni</dc:creator>
+          <dc:creator>Schuinski, Adriana de Fátima Menegat</dc:creator>
+          <dc:subject xml:lang="en-US">Hepatitis B virus</dc:subject>
+          <dc:subject xml:lang="en-US">HIV Seropositivity</dc:subject>
+          <dc:subject xml:lang="en-US">Hemodialysis</dc:subject>
+          <dc:subject xml:lang="en-US">Peritoneal Dialysis</dc:subject>
+          <dc:subject xml:lang="en-US">kidney failure chronic. Renal Insufficiency</dc:subject>
+          <dc:subject xml:lang="en-US">Chronic.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Vírus da Hepatite B</dc:subject>
+          <dc:subject xml:lang="pt-BR">Soroconversão</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemodiálise</dc:subject>
+          <dc:subject xml:lang="pt-BR">Diálise Peritoneal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Insuficiência Renal Crônica.</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: The kidney is an organ responsible for homeostasis. Patients with chronic renal failure need some renal replacement therapy. Several issues are related to this condition, among them we can mention differences in seroconversion rate of vaccine for hepatitis B in which this study is based. Objective: To determine the prevalence to rate of seroconversion to hepatitis B vaccine in patients with chronic renal failure and analysing the loss of immunity of these patients. Methods: This retrospective study at the Santa Casa de Misericordia of Ponta Grossa, which includes patients on dialysis and collection of epidemiological data for analyzing the factors that influence the rate of seroconversion to hepatitis B vaccine Results: The study included 211 patients in the years 2011 and 2012. Approximately 2/3 of the patients had low or no response for vaccination. Risk factors, as age and diabetes mellitus were analysed as possible causes for the low rate of seroconversion. Conclusion: Patients with diabetes mellitus and older than 60 years have lower response to the vaccine.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: O rim é um dos órgãos responsáveis pela homeostase. Quando este processo falha os pacientes com insuficiência renal crônica são submetidos à terapia renal substitutiva. Vários problemas são relacionados à esta condição, dentre eles citamos diferenças na taxa de soroconversão da vacina para o vírus da hepatite B no qual está baseado este estudo. Objetivo: Verificar a prevalência da taxa de soroconversão para a vacina de hepatite B em pacientes com doença renal crônica e a relação com a perda de imunidade destes doentes. Métodos: Estudo retrospectivo, realizado na Santa Casa de Misericórdia de Ponta Grossa, que inclui pacientes em diálise e levantamento dos dados epidemiológicos que permitam analisar os fatores que influenciam na taxa de soroconversão da vacina para hepatite B. Resultado: Foram incluídos no estudo 211 pacientes nos anos de 2011 e 2012. Aproximadamente 2/3 dos pacientes apresentavam baixa ou nenhuma resposta à vacinação. Os fatores de risco idade e diabetes mellitus foram analisados como possíveis causas para a baixa taxa de soroconversão. Conclusão: Pacientes com diabetes mellitus e idade maior que 60 anos apresentaram menor resposta à vacina.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99752</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p175-180</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 175-180</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 175-180</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 175-180</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99752/98172</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:31Z" completeListSize="1467" cursor="925">e3383a4e674d2c360c9f3e2c79d54ee4</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:32Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99753</identifier>
+        <datestamp>2020-06-25T16:04:10Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Spatial configuration of the Dengue in the socioeconomic context of Alfenas-MG: Portrait of a decade</dc:title>
+          <dc:title xml:lang="pt-BR">Configuração espacial da Dengue no contexto socioeconômico de Alfenas/MG: Retrato de uma década</dc:title>
+          <dc:creator>Nascimento, Murilo C. do</dc:creator>
+          <dc:creator>Rodrigues-Júnior, Antonio L.</dc:creator>
+          <dc:creator>Rodrigues, Denis de O.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Dengue. Fatores Socioeconômicos. Análise Espacial. Estudos Transversais. Análise Multivariada. Governo Local.</dc:subject>
+          <dc:subject xml:lang="en-US">Dengue. Socioeconomic Factors. Spatial Analysis. Cross-Sectional Studies. Multivariate Analysis. Local Government.</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: The relation between dengue and socioeconomic factors is object of controversy and there’s no record of studies in Alfenas-MG that had described such interaction in a municipal scale. Objectives: Characterize and group the census sectors of Alfenas-MG in socioeconomic levels and describe the distribution of the dengue cases around the area. Methods: Transversal study, in which were used demographic variables, multivariate statistics and analysis of the group to generate parameters of socioeconomic stratification. Confirmed cases of classic dengue between the years of 2001 to 2010 were geocoded to estimate the density of points by the Kernel’s Technique and describe the spatial distribution of the disease by the socioeconomic clusters. Results: There were obtained four clusters that grouped the census units in socioeconomic levels, in which the number 1 is regarded as the best, and the number 4 the worst, and the extracts 2 and 3 as intermediary levels. The residency’s area from the cases made several groups, with a random distribution around the territory, in an indifferent way to the socioeconomic results. The concentration of points varied both located in sectors with better socioeconomic condition and in less privileged areas, as the middle of census areas with distinct levels. Conclusion: The results points toward the direction that there were no relations at all between the levels of geographic distribution of the disease with the different socioeconomic groups of the City to the studied period.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: A relação entre dengue e fatores socioeconômicos é objeto de controvérsia e não há registro de estudos em Alfenas-MG que tenham descrito tal interação na escala municipal. Objetivos: Caracterizar e agrupar os setores censitários de Alfenas-MG em níveis socioeconômicos e descrever a distribuição dos casos de dengue pelo território. Métodos: Estudo transversal em que foram utilizadas variáveis demográficas, estatística multivariada e análise de agrupamentos para gerar parâmetros de estratificação socioeconômica. Os casos confirmados de dengue clássico entre os anos de 2001 e 2010 foram geocodificados para estimar a densidade de pontos pela Técnica de Kernel e descrever a distribuição espacial da doença pelos clusters socioeconômicos. Resultados: Foram obtidos quatro clusters que agruparam as unidades censitárias em níveis socioeconômicos, sendo o número 1 considerado como melhor, o número 4 como pior, e os extratos 2 e 3 como níveis intermediários. Os locais de residência dos casos formaram diversos aglomerados, com distribuição aleatória pelo território, de forma indiferente aos níveis socioeconômicos. Ou seja, foi possível visualizar concentrações de casos de dengue tanto nas regiões com melhor perfil socioeconômico quanto nas áreas menos favorecidas quanto ao saneamento ambiental, condições de renda, escolaridade e adensamento populacional. Conclusão: Os resultados apontam que não houve relação alguma entre o padrão de distribuição geográfica da doença com os diferentes agrupamentos socioeconômicos do Município para o período estudado.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99753</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p181-189</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 181-189</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 181-189</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 181-189</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99753/98173</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99758</identifier>
+        <datestamp>2020-06-25T16:04:09Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Hypomagnesaemia due to chronic use of Proton Pump Inhibitor: case report</dc:title>
+          <dc:title xml:lang="pt-BR">Hipomagnesemia secundária ao uso crônico de Inibidores de Bomba de Prótons: Relato de Caso</dc:title>
+          <dc:creator>Nunes, Renan F. F.</dc:creator>
+          <dc:creator>Souza, Marcos A.</dc:creator>
+          <dc:creator>Pereira, Wogelsanger O.</dc:creator>
+          <dc:creator>Torquato, Lelyanne R. P.</dc:creator>
+          <dc:creator>Guedes, Felipe L.</dc:creator>
+          <dc:subject xml:lang="en-US">Hypomagnesaemia</dc:subject>
+          <dc:subject xml:lang="en-US">Omeprazole</dc:subject>
+          <dc:subject xml:lang="en-US">Hypocalcemia.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipomagnesemia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Omeprazol</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipocalcemia.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: Relato de Caso. Objetivos: Apresentar um caso de hipomagnesemia sintomática associada a hipocalcemia induzido pelo uso de Omeprazol por cerca de 6 anos, com respectiva revisão de literatura. Métodos: Estudo dos achados clínicos e laboratoriais, associado à discussão da origem multifatorial do problema em questão. Relato de Caso: Paciente apresentou, há 2 meses, um episódio de convulsão e tremores, e outra convulsão à admissão, além de outros sinais clínicos de deficiência de magnésio, como parestesias, tremores e cãibras. Exames sanguíneos de acompanhamento de internação revelaram baixos valores séricos de cálcio (8,0 mg/dL) e magnésio (0,94 mg/dL), e níveis de sódio, potássio, uréia, creatinina e vitamina D dentro da normalidade. Dentre os medicamentos dos quais fazia uso, o Omeprazol era utilizado em regime de cronicidade, estando presente à admissão e nos 6 anos anteriores. A reposição de magnésio resultou em aumento parcial da concentração sérica (1,30 mg/dL) e melhora parcial da sintomatologia apresentada. Após a retirada do Omeprazol, os valores séricos de magnésio voltaram ao padrão de normalidade (2,50 mg/dL), ocorrendo remissão total dos sintomas. Importância: A Hipomagnesemia induzida pelo uso crônico de inibidores da bomba de prótons (IBP) é uma condição que pode levar a consequências clínicas graves, e tal situação pode ser revertida pela simples suspensão da medicação, medida capaz de restaurar o equilíbrio homeostático do magnésio.</dc:description>
+          <dc:description xml:lang="en-US">Design of the study: Case report. Objectives: To present, through a case report, a framework of symptomatic hypomagnesaemia associated with hypocalcemia induced by the use of Omeprazole for a long period of time. Methods: Study of clinical and laboratory findings associated with the discussion of the multifactorial origin of the problem in question. Results: The patient depicted in this study showed clinical signs of magnesium depletion or deficiency, evidenced by seizures, tremors, cramps and paresthesias. Blood tests for monitoring of admission revealed low levels of calcium (8,0 mg/dL) and magnesium (0,94 mg/dL), with values of sodium, potassium, urea, creatinine and vitamin D within normal limits. The patient was using Omeprazole at admission. After the withdrawal of Omeprazole, serum magnesium returned to normal range and clinical ceased. Relevance: Hypomagnesaemia is a clinical condition of difficult to diagnose and rarely appears as a differential diagnosis. Chronic administration of proton pump inhibitors represents one of the possible genesis of this change of magnesium and should be considered as a potential cause of harm and should be promptly identified and treated with the suspension of the inhibitor.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99758</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p190-194</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 190-194</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 190-194</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 190-194</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99758/98183</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/99761</identifier>
+        <datestamp>2020-06-25T16:04:08Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Cuidando das r Cuidando das relações no elações no ensino médico ensino médico</dc:title>
+          <dc:title xml:lang="en-US">Caring relationships in medical education</dc:title>
+          <dc:creator>Azevedo, Luciana Fernandes de Medeiros</dc:creator>
+          <dc:creator>Pessoa Neto, Agábio Diogenes</dc:creator>
+          <dc:creator>de Oliveira, Caroline Manoela de Oliveira</dc:creator>
+          <dc:creator>Sousa, Luisa Silva de</dc:creator>
+          <dc:creator>Eberlin, Maria Beatriz Nóbrega</dc:creator>
+          <dc:creator>Almeida, Yngra Bastos Mesquita Minora de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Estudantes de Medicina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Relação Estudante-Professor</dc:subject>
+          <dc:subject xml:lang="pt-BR">Rodas De Conversa</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cuidado.</dc:subject>
+          <dc:subject xml:lang="en-US">Students</dc:subject>
+          <dc:subject xml:lang="en-US">Medical</dc:subject>
+          <dc:subject xml:lang="en-US">Student-Teacher Relationship</dc:subject>
+          <dc:subject xml:lang="en-US">Rounds of Conversation</dc:subject>
+          <dc:subject xml:lang="en-US">Care</dc:subject>
+          <dc:description xml:lang="pt-BR">O artigo é um relato de experiência de um trabalho que teve como objetivo proporcionar momentos de escuta e reflexão sobre si mesmo como primeiro passo para o cuidado de si e para o desenvolvimento de uma postura dialógica. A ideia foi desenvolver espaços de reflexão sobre a humanização e o cuidado consigo mesmo e com o outro. O trabalho foi desenvolvido através de 05 rodas de conversa com 05 estudantes de medicina interessados em participar do projeto. No decorrer dos encontros, temas como relação aluno-professor, estudos de anatomia, sobrecarga de conteúdos e provas foram elencados como mobilizadores de angústia entre os estudantes. Faz-se necessário incluir esses temas no cotidiano de aulas e aprimorar a relação aluno-professor para efetivamente incutir o processo de humanização no ensino médico.</dc:description>
+          <dc:description xml:lang="en-US">This article is an experience report of a study that aimed to provide moments of listening and reflection as a first step to self-care and the development of a dialogical approach between medical students. The idea was to develop spaces for reflection on humanization and careful with yourself and with others. The work was developed through 05 rounds of conversation with 05 medical students interested in participating in the project. During the meeting, issues such as teacher-student relationship, anatomy studies, overload of content and exams were listed as mobilizers of distress among students. It is necessary to include these topics in daily classes and improve the student-teacher relationship to effectively instill the humanization process in medical education.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-04-26</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/99761</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i2p195-203</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 2 (2015); 195-203</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 2 (2015); 195-203</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 2 (2015); 195-203</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/99761/98187</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104293</identifier>
+        <datestamp>2020-06-25T16:04:07Z</datestamp>
+        <setSpec>rmrp:APR</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A formação e o desenvolvimento docente para os cursos das profissões da saúde: expandindo os horizontes</dc:title>
+          <dc:creator>Panúncio-Pinto, Maria Paula</dc:creator>
+          <dc:creator>Troncon, Luiz Ernesto de Almeida</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104293</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p205-208</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 205-208</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 205-208</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 205-208</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104293/102938</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104295</identifier>
+        <datestamp>2020-06-25T16:04:07Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Educação à distância (EAD), conceitos e reflexões</dc:title>
+          <dc:creator>Garcia, Vera L.</dc:creator>
+          <dc:creator>Carvalho Junior, Paulo Marcondes</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação à Distância. Educação Superior. Educação Médica.</dc:subject>
+          <dc:description xml:lang="pt-BR">Pode-se classificar os processos educativos envolvendo duas variáveis: tempo e espaço. Na educação à distância (EAD) há uma separação do professor e aluno no espaço e/ou tempo. Há muita variedade na execução da EAD, envolvendo: estudo individual ou em grupo; papel do professor especialista e dos facilitadores de aprendizagem; tipo de tecnologia do material instrucional (papel, meios eletrônicos, fitas de vídeo, fitas cassete, rádio, TV, etc.) e métodos de ensino-aprendizagem. Na EAD o professor pode assumir o papel de especialista (no conteúdo) e/ou tutor no processo de ensino-aprendizagem. Geralmente é utilizado um Ambiente Virtual de Aprendizagem, um software para a disseminação do conteúdo do curso e a interação entre alunos e professores. Os cursos à distância podem ser realizados utilizando diferentes tecnologias de comunicação, no entanto, é fato que o computador e o uso da Internet têm potencializado este tipo de educação com a possibilidade de acessibilidade e inclusão.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104295</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p209-213</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 209-213</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 209-213</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 209-213</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104295/102940</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104297</identifier>
+        <datestamp>2020-06-25T16:04:06Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Uso de tecnologias da informação e comunicação na educação em saúde. Problematização e desenvolvimento</dc:title>
+          <dc:creator>Rocha, Juan Stuardo Yazlle</dc:creator>
+          <dc:subject xml:lang="pt-BR">Conhecimento. Educação em Saúde. Aprendizado. Ensino.</dc:subject>
+          <dc:description xml:lang="pt-BR">É discutido o impacto das tecnologias da informação e comunicação na produção e distribuição de conhecimentos, na cultura e no ensino. A grande disponibilidade de informações, documentos e cursos gratuitos em todas as áreas e na saúde em particular impacta a educação. A emergência de novas demandas de formação e qualificação de profissionais que devem ser atendi-das representam novos desafios à forma de ensinar. Há crescimento das inte-rações entre alunos, docentes, conteúdos e os ambientes de atuação que re-querem do apoio de teorias explicativas acerca do aprendizado “online”. Diri-gentes acadêmicos reconhecem a importância das transformações e procuram promover novas estratégias educacionais. As ferramentas para a educação online estão presentes e são muito difundidas, mas há falta de preparação e treinamento dos docentes. Instituições de ensino nas ciências da saúde devem investir na preparação de recursos humanos além da infraestrutura tecnológica.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104297</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p214-223</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 214-223</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 214-223</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 214-223</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104297/102943</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104303</identifier>
+        <datestamp>2020-06-25T16:04:05Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Recursos tecnológicos de apoio ao ensino na saúde</dc:title>
+          <dc:creator>Peres, Cristiane Martins</dc:creator>
+          <dc:creator>Suzuki, Kátia Mitiko Firmino</dc:creator>
+          <dc:creator>Azevedo-Marques, Paulo Mazzoncini de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Tecnologia da Informação. Tecnologias da Informação e Comunicação. Educação a Distância. Educação em Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Telessaúde.</dc:subject>
+          <dc:description xml:lang="pt-BR">A inserção das Tecnologias da Informação e Comunicação (TICs) no universo da atenção à saúde tem conduzido a mudanças de métodos de ensino e de processos na assistência, gerando também novos conceitos, com destaque para o de eSaúde. No início do século XXI um conjunto de inciativas para apoio ao uso das TICs nos diversos contextos da área da saúde passa a ganhar corpo no Brasil, tendo como destaques, o Telessaúde Brasil Redes, UNA-SUS (Universidade Aberta do SUS) e RUTE (Rede Universitária de Telemedicina). O foco desses programas se concentra no aperfeiçoamento contínuo dos profissionais com finalidades de atualização, capacitação técnica, cursos de aperfeiçoamento e discussão de casos clínicos na área da saúde. O movimento da utilização das TICs também tem progredido em direção a melhoria do processo de ensino e aprendizagem nos cursos de graduação, contudo ainda de forma limitada. Os recursos online e modelos de EAD que podem ser utilizados são muitos. Mas, ainda que várias instituições os ofereçam, há todo um entrono de planejamento educacional que precisa ser considerado. O papel da docência nesse contexto deve ser bem definido, para que as competências específicas para potencializar possíveis sucessos na utilização das TICs sejam desenvolvidas pelos docentes. Em uma análise com perspectiva institucional, evidencia-se a necessidade de estruturação de núcleos multiprofissionais como forma de apoio ao estudo, modelagem e implantação de estratégias e de programas que promovam uma utilização mais efetiva das TICs no cenário das ciências da saúde.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104303</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p224-232</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 224-232</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 224-232</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 224-232</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104303/102950</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104308</identifier>
+        <datestamp>2020-06-25T16:04:04Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Emprego de simulações no ensino e na avaliação</dc:title>
+          <dc:creator>Iglesias, Alessandro G.</dc:creator>
+          <dc:creator>Pazin-Filho, Antonio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Simulação. Educação Médica. Ensino de Competências. Avaliação do Ensino/ Medicina. Ética.</dc:subject>
+          <dc:description xml:lang="pt-BR">No mundo todo atualmente busca-se, dentro da moderna ciência educacional médica, tecnologias e métodos de ensino aprendizagem realmente eficazes ao ensino de competências, que envolvam adequadamente as esferas cognitivas, comportamentais e psico-motoras.1 Mais ainda, é desejável a esse fim que se utilize de meios que, ativamente, promovam o desenvolvimento reflexivo do estudante em medicina espelhando o mais próximo possível a prática médica real. É fundamental que se assegure que o processo educacional respeite e garanta de forma inalienável e primordial a segurança física e emocional dos pacientes, no ensino e na assistência. Também é reconhecido largamente que comportamentos não podem ser adequadamente desenvolvidos através somente de memorização e reprodução da teoria médica e ou ética isoladamente. Este artigo pretende em nível introdutório apresentar e descrever o uso da Simulação como metodologia ativa de ensino, demonstrando seu potencial e suas limitações, contextualizando-a para o ensino e avaliação em áreas de saúde.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104308</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p233-240</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 233-240</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 233-240</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 233-240</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104308/102955</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104310</identifier>
+        <datestamp>2020-06-25T16:04:03Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A Metodologia da Problematização (MP) como estratégia de integração ensino-serviço em cursos de graduação na área da saúde</dc:title>
+          <dc:creator>Vieira, Marta Neves Campanelli Marçal</dc:creator>
+          <dc:creator>Panúncio-Pinto, Maria Paula</dc:creator>
+          <dc:subject xml:lang="pt-BR">Ensino Superior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aprendizagem Ativa. Metodologia da Problematização. Saúde /Educação Superior.</dc:subject>
+          <dc:description xml:lang="pt-BR">A formação de profissionais para atuar na área da saúde deve superar o modelo tradicional de educação centrado no paradigma cartesiano/flexneriano, fixado na fragmentação e especialização do conhecimento. A graduação em saúde precisa alcançar estratégias de ensino-aprendizagem que possibilitem a construção coletiva dos conhecimentos, a permanente integração teoria-prática referenciada na realidade social concreta. Tomando a perspectiva das metodologias ativas de ensino-aprendizagem, o objetivo deste artigo é apresentar e discutir a Metodologia da Problematização (MP) como estratégia políticopedagógica de aproximação à realidade e construção da autonomia na formação de profissionais da saúde. Além disso, apresenta as diferenças entre a MP a utilização de outras formas de problematização e solução de problemas como estratégia de ensino. Finalmente discute os limites e possibilidades do método.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104310</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p241-248</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 241-248</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 241-248</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 241-248</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104310/102957</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104313</identifier>
+        <datestamp>2020-06-25T16:04:02Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Ensino clínico em cenários reais de prática</dc:title>
+          <dc:creator>Borges, Marcos C</dc:creator>
+          <dc:creator>Frezza, Gustavo</dc:creator>
+          <dc:creator>Souza, Cacilda da Silva</dc:creator>
+          <dc:creator>Bollela, Valdes Roberto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação Médica. Hospitais de Ensino. Educação Médica Continuada. Preceptores. Ambulatório Hospitalar. Enfermaria.</dc:subject>
+          <dc:description xml:lang="pt-BR">O ensino clínico em cenários reais de prática é um componente essencial da educação na área da saúde. Ele estimula e garante que os estudantes aprendam sobre a prática profissional, sendo um dos mais efetivos meios para o desenvolvimento de habilidades clínicas, particularmente anamnese, exame físico, comunicação, ética, atitude humanística e profissionalismo. Tradicionalmente, enfermarias e ambulatórios, supervisionados por professores clínicos (preceptores), são os locais mais utilizados para o ensino clínico. Porém, apesar da excelente capacitação para a prática profissional, a grande maioria dos preceptores pode ter limitações para o ensino clínico. Assim, para que se atinja um nível de qualidade satisfatória no ensino clínico é necessário tanto a diversificação dos cenários reais de prática como o desenvolvimento do corpo docente. Este artigo aborda os desafios do ensino clínico nos cenários reais de prática e apresenta modelos e estratégias para professores e alunos qualificarem esta atividade dentro e fora do hospital.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104313</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p249-256</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 249-256</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 249-256</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 249-256</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104313/102960</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104316</identifier>
+        <datestamp>2020-06-25T16:04:01Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Novos cenários de ensino: a comunidade e o território como espaços privilegiados de formação de profissionais da saúde</dc:title>
+          <dc:creator>Panúncio-Pinto, Maria Paula</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:creator>Fiorati, Regina Célia</dc:creator>
+          <dc:subject xml:lang="pt-BR">Cenários de Ensino. Profissões de Saúde. Ensino/Comunidade. Sistemas de Saúde. Serviços de Integração Docente Assistencial. Política de Saúde. Aspectos Históricos. Responsabilidade Social.</dc:subject>
+          <dc:description xml:lang="pt-BR">A necessidade de ampliar os cenários de ensino para a formação de profissionais da saúde emergiu a partir da segunda metade do século passado, do processo histórico que resultou em mudanças tanto na organização dos sistemas de saúde de diversos países, quanto na forma de pensar o ensino e a formação de profissionais para atuar na atenção à saúde. Este artigo tem os objetivos de apresentar alguns resultados de discussões ocorridas em conferências e reuniões, nas áreas de Saúde e de Educação; os aspectos sociais, políticos e administrativos da assistência a saúde; as ações conjuntas dos Ministérios da Saúde e da Educação no Brasil para consolidação das políticas de formação de recursos humanos. Pontos de destaque na compreensão da emergência de novos cenários de ensino para profissionais da saúde remetem à adequação de currículos às necessidades sociais e de saúde dos países e regiões; à aproximação ensino-serviço na formação dos profissionais de saúde; à intersetorialidade e à multidisciplinaridade, além do reconhecimento da pertinência do ensino na comunidade para a aquisição de conhecimento, competências e habilidades. As autoras comentam, ainda, sobre barreiras para o desenvolvimento do ensino na comunidade, tanto da parte de membros da universidade quanto dos serviços de saúde, e sobre a importância do “novo cenário” de ensinagem para a integração das atividades-fim da Universidade e para o desempenho do papel social das Escolas das Profissões da Saúde.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104316</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p257-264</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 257-264</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 257-264</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 257-264</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104316/102964</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104318</identifier>
+        <datestamp>2020-06-25T16:04:00Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Integração curricular: um desafio para os cursos de graduação da área da Saúde</dc:title>
+          <dc:creator>Iglésias, Alessandro Giraldes</dc:creator>
+          <dc:creator>Bollela, Valdes Roberto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação em Saúde. Educação Médica. Currículo.</dc:subject>
+          <dc:description xml:lang="pt-BR">Com a expansão da educação superior, em especial na área da saúde, tem havido uma forte demanda para a formação de professores e gestores educacionais para os cursos superiores desta área no Brasil. Além disto, existe a real necessidade de formação de profissionais da saúde competentes para a o exercício profissional, reflexivos e cientes de suas responsabilidades junto a sociedade brasileira. Dentre as várias recomendações existentes para uma adequada organização curricular dos cursos da saúde, uma que se destaca de forma fundamental é a integração curricular das disciplinas, áreas e ciclos profissionais. Todos sabemos que a prática profissional acontece de maneira integrada, porém ainda é muito frequente observarmos cursos inteiros de graduação em que os estudantes aprendem de maneira fragmentada em unidades de ensino isoladas. Esse artigo pretende, de forma sintética e didática, apresentar aos docentes e estudantes interessados em educação e planejamento curricular dos cursos da área da saúde conceitos e estratégias eficazes para viabilizar propostas de ensino integrado na saúde.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104318</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p265-272</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 265-272</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 265-272</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 265-272</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104318/102966</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104320</identifier>
+        <datestamp>2020-06-25T16:03:59Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O estudante universitário: os desafios de uma educação integral</dc:title>
+          <dc:creator>Panúncio-Pinto, Maria Paula</dc:creator>
+          <dc:creator>Colares, Maria de Fátima Aveiro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Atenção ao Estudante. Acolhimento a Alunos Ingressantes. Educação Integral. Tutoria. Mentoring.</dc:subject>
+          <dc:description xml:lang="pt-BR">Este artigo tem o objetivo de apresentar e discutir aspectos ligados a ações e programas de atenção ao estudante universitário. Especificamente em relação às profissões da área da saúde, o texto discute as mudanças ocorridas nas ultimas décadas, e o aumento das expectativas da sociedade sobre o estudante, o que tem levado os cursos à constante revisão de objetivos e métodos. Além disso, discute as peculiaridades do período da vida que corresponde ao ingresso na universidade e todas as novas e complexas demandas que o estudante deve enfrentar ao ingressar num curso superior. Essa convergência de novas situações vai além dos desafios relativos ao processo ensino-aprendizagem, e envolve a mobilização de muitos recursos por parte do estudante para adaptar-se. Todos esses esforços podem ter impacto em seu rendimento acadêmico e em sua saúde e qualidade de vida. Para melhor situar os aspectos ligados ao desenvolvimento do adulto jovem no contexto da Universidade, as autoras apresentam o construtivismo social e a perspectiva do curso de vida, como alternativas teóricas que abordam a complexidade dessa situação. Finalmente, apresentam as possibilidades dos programas de apoio ao estudante, exemplificando com as experiências em curso na Faculdade de Medicina de Ribeirão Preto: o Centro de Apoio Educacional e Psicológico, que além de ofertar atenção clínica (psicológica e pedagógica), mantém iniciativas de pesquisa e um Programa de Tutoria Institucional, para acolher os alunos ingressantes.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104320</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p273-281</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 273-281</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 273-281</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 273-281</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104320/102968</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104321</identifier>
+        <datestamp>2020-06-25T16:03:59Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Capacitação e desenvolvimento docente - aspectos gerais</dc:title>
+          <dc:creator>López, Maria José</dc:creator>
+          <dc:creator>Troncon, Luiz E. A.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Professor/Programas de Treinamento. Docentes/Capacitação. Educação Superior. Educação/Profissões de Saúde. Educação Médica.</dc:subject>
+          <dc:description xml:lang="pt-BR">A atuação docente no ensino superior na área da saúde requer que o professor, além da expertise na sua disciplina, tenha também preparo na área educacional. Este preparo fundamental pode ser obtido em programas específicos de capacitação e deve ser mantido e aperfeiçoado em atividades de desenvolvimento docente. Os programas de capacitação e desenvolvimento docente são o objeto deste texto, de caráter introdutório, que trata dos atributos necessários ao bom professor, no desempenho dos vários papéis e funções que dele se espera, e das características de forma e conteúdo desejáveis nos programas de capacitação e desenvolvimento docente. Aborda-se, ainda, como estas atividades podem ser avaliadas visando o seu aperfeiçoamento constante e as dificuldades e desafios que habitualmente enfrentam. Apresentam-se, também, breves descrições de atividades de capacitação e desenvolvimento docente realizadas na Faculdad de Ciencias Medicas da Universidad Nacional de Cuyo, em Mendoza, Argentina, e na Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo, em Ribeirão Preto, Estado de São Paulo, Brasil.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104321</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p282-294</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 282-294</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 282-294</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 282-294</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104321/102969</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104323</identifier>
+        <datestamp>2020-06-25T16:03:58Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Interações medicamentosas potenciais em prescrições, contendo antimicrobianos de uso restrito, de pacientes internados em um hospital no interior da Bahia</dc:title>
+          <dc:creator>Piedade, Danilo V.</dc:creator>
+          <dc:creator>Silva, Luciana A. F.</dc:creator>
+          <dc:creator>Lemos, Gisele S.</dc:creator>
+          <dc:creator>Valasques Júnior, Gildomar L.</dc:creator>
+          <dc:creator>Lemos, Lucas B.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Interações de Medicamentos. Antimicrobianos. Prescrições Medicamentosas.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo quantitativo, de natureza descritiva, com delineamento transversal, realizado no ano de 2013. Objetivo: Realizar uma avaliação das interações medicamentosas potenciais (IMP), em prescrições médicas contendo antimicrobianos de uso restrito, de pacientes internados em um hospital no interior do estado da Bahia. Metodologia: A coleta de dados foi realizada no período de janeiro a maio, empregando a análise documental, com acompanhamento prospectivo de prescrições contidas nos prontuários, para possibilitar a detecção das IMP. A ocorrência e a classificação das IMP foram verificadas através da base de dados MICROMEDEX® DrugReax System. Resultados: 50 pacientes participaram do estudo, sendo analisadas 797 prescrições médicas. Dentre o grupo dos antimicrobianos de uso restrito, a associação piperacilina + tazobactam foi a mais prescrita, estando presente em 33,0% das prescrições. Das prescrições utilizadas para análise das IMP, 357 (46,5%) apresentaram pelo menos uma IMP, sendo que destas, 7 (5,8%) envolviam antimicrobianos de uso restrito. Foram encontrados como fármacos envolvidos nas IMP: amitripitilina + linezolida (46,0%), piperacilina + warfarina (26,0%), entre outros. Do total de interações encontradas, 467 (31,9%) foram classificadas como sendo de gravidade moderada e documentação boa, 808 (53,5%) como interações de mecanismo de ação farmacocinético e 743 (50,8%) como interações de início de reação demorado. Conclusão: Foi realizada uma avaliação das IMP, em prescrições médicas contendo antimicrobianos de uso restrito, e a partir delas uma tabela de auxílio foi construída, criando subsídio para o uso racional de alguns antimicrobianos potencialmente envolvidos em interações medicamentosas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104323</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p295-307</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 295-307</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 295-307</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 295-307</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104323/102970</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104324</identifier>
+        <datestamp>2020-06-25T16:03:57Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Influência do treinamento concorrente na composição corporal e óssea de adolescentes obesos</dc:title>
+          <dc:creator>Monteiro, Paula A</dc:creator>
+          <dc:creator>Antunes, Barbara de M M</dc:creator>
+          <dc:creator>Silveira, Loreana S</dc:creator>
+          <dc:creator>Agostinete, Ricardo R</dc:creator>
+          <dc:creator>Picolo, Malena R</dc:creator>
+          <dc:creator>Freitas Junior, Ismael F</dc:creator>
+          <dc:subject xml:lang="pt-BR">Exercício. Densidade Óssea. Obesidade.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de estudo: Estudo prospectivo Objetivo: Analisar a diferença da densidade, conteúdo mineral ósseo e composição corporal de adolescentes obesos pré e pós treinamento concorrente de 16 semanas. Métodos: Amostra composta por 19 adolescentes obesos. Mensurou-se a densidade mineral óssea(BMD), conteúdo mineral ósseo(BMC), massa corporal magra(MCM) em kg, massa de gordura(MG) em kg e em percentual(%GC) e percentual de gordura do tronco(%GT) por meio da técnica absortiometria de raios-X de dupla energia(DEXA). A Intervenção consistiu de treinamento concorrente (treino resistido [30 minutos] e aeróbio [30 minutos]) com três sessões semanais. Para análise estatística utilizou-se teste t de Student, qui-quadrado, ANOVA e correlação de Pearson por meio do software SPSS(17.0) e significância estatística fixada em p&amp;lt;5%. Resultados: Houve diferença estatística entre os gêneros para %GT(p&amp;lt;0,007). No grupo feminino houve correlação entre BMD, %GC e %GT, já a BMC correlacionou-se com peso e MCM. No grupo masculinohouve correlação da BMC e BMD com a estatura e MCM. Após a intervenção, no grupo feminino, houve significância apenas para estatura(p&amp;lt;0,014), já no grupo masculino houve aumento significativo daestatura(p&amp;lt;0,000), MCM(p&amp;lt;0,011) e BMC(p&amp;lt;0,002) bem como a diminuição das variáveis IMC(p&amp;lt;0,004), %GC(p&amp;lt;0,000) e %GT(p&amp;lt;0,016). Após o treinamento 78,9% dos adolescentes aumentaram e 21,1%diminuíram o BMD. Dos que aumentaram o BMD 63,2% diminuíram o %GC, 57,9% a MG e 57,9% a MCM. Conclusão: Após a intervenção houve diminuição da gordura corporal, aumento da massa magra e conteúdo mineral ósseo de adolescentes do sexo masculino. No grupo feminino não houve diferença entre os momentos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104324</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p308-314</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 308-314</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 308-314</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 308-314</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104324/102971</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/104331</identifier>
+        <datestamp>2020-06-25T16:03:56Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Esteatose hepática aguda da gravidez: relato de caso e revisão de literatura</dc:title>
+          <dc:creator>Pinheiro, Rômulo Pedroza</dc:creator>
+          <dc:creator>Brasil, Ivelise Regina Canito</dc:creator>
+          <dc:creator>Bruno, Shirley Kelly Bede</dc:creator>
+          <dc:creator>Esmeraldo, Ticiana Mota</dc:creator>
+          <dc:creator>Castelo Branco, Marina Madeira</dc:creator>
+          <dc:creator>Walraven, Ricardo Bezerra</dc:creator>
+          <dc:subject xml:lang="pt-BR">Gravidez. Esteatose Hepática. Complicações na Gravidez. Insuficiência Hepática.</dc:subject>
+          <dc:description xml:lang="pt-BR">A esteatose hepática aguda da gravidez (EHAG) é uma complicação obstétrica rara e grave, que ocorre durante o terceiro trimestre de gestação. O objetivo deste estudo é o relato de caso de EHAG em paciente internada em hospital terciário. Gestante, 36 anos, na 37ª semana de gravidez previamente hígida até quatro dias antes da admissão hospitalar. Iniciou quadro de dor abdominal em epigástrio e hipocôndrio direito, icterícia progressiva, desidratação, febre e calafrios. Evoluiu com piora dos sintomas, hematêmese, hipotensão e hipoglicemia. A função hepática apresentava alterações. O coagulograma revelava tempo de protrombina e de tromboplastina parcial alargados. Os marcadores virais para hepatites A, B e C foram negativos. No pós-operatório imediato da Cesárea, a paciente evoluiu com distúrbio da coagulação, episódios de hipoglicemia, piora da icterícia e encefalopatia hepática, caracterizando o diagnóstico de insuficiência hepática aguda (IHA). Após quatro dias de tratamento da encefalopatia hepática houve melhora do sensório até apresentar-se consciente, orientada, sem flapping, apenas com tratamento conservador e não preencheu os critérios do King’s Collegue de indicação para transplante hepático. No 15o dia de internação tanto a paciente e filho encontravam-se bem. Com o conhecimento e diagnóstico de EHAG, no reconhecimento precoce de casos mais leves, incluindo interrupção precoce da gravidez por cesariana e grandes volume de plasma fresco congelado e albumina, alternadamente, o prognóstico de EHAG pode melhorar.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/104331</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i3p315-320</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 3 (2015); 315-320</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 3 (2015); 315-320</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 3 (2015); 315-320</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/104331/102974</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108136</identifier>
+        <datestamp>2020-06-25T16:03:45Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Persistence of metabolic syndrome in children and adolescents are overweight according to two diagnostic criteria: a longitudinal study</dc:title>
+          <dc:title xml:lang="pt-BR">Persistência da sindrome metabólica em crianças e adolescentes com excesso de peso de acordo com dois críterios diagnósticos: Um estudo longitudinal.</dc:title>
+          <dc:creator>Cantalice, Anajás S. C.</dc:creator>
+          <dc:creator>Santos, Nathanielly C. C. B.</dc:creator>
+          <dc:creator>Oliveira, Renata Cardoso</dc:creator>
+          <dc:creator>Collet, Neusa</dc:creator>
+          <dc:creator>Medeiros, Carla C. M.</dc:creator>
+          <dc:subject xml:lang="en-US">Metabolic Syndrome X. Obesity. Child . Adolescent. Diagnosis. Child Nutrition Disorders.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome X Metabólica. Obesidade. Criança. Adolescente. Diagnóstico. Transtornos da Nutrição Infantil.</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To investigate the persistence of the metabolic syndrome (MS) in children and adolescents are overweight according to the diagnostic criteria of the World Health Organization (WHO) and National Cholesterol Education Panel Adult Treatment Program- III (NCEP / ATP III). Methods: A longitudinal study was conducted at the Center for Childhood Obesity between April/2009 and April/2012, involving 133 children and adolescents are overweight. The evaluation was made at first and after 24 months of follow up, anthropometry being performed, then the nutritional classification and diagnosis of MS which was subsequently divided into three groups: negative, intermittent and and persistent MS. Descriptive and agreement between the two criteria and also between groups analysis was performed using the Kappa index, using SPSS version 17.0 (95% CI). Results: Among those evaluated, the majority were female (60.9%), and adolescent with severe obesity. Among the components of metabolic syndrome, fasting glucose, blood pressure levels and insulin resistance were reduced in the period. There was no significant correlation between the diagnostic criteria, although it has seen significant coincidence in the group with persistent metabolic syndrome (p = 0.002). Conclusion: A significant similarity between the criteria of WHO and NCEP/ATPIII only in the group with persistent SM, demonstrating sensitivity of the tests, but the use of more specific markers for this age group it is necessary to identify the early SM.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Verificar a persistência da síndrome metabólica (SM) em crianças e adolescentes com excesso de peso de acordo com os critérios diagnósticos da Organização Mundial de Saúde (OMS) e do National Cholesterol Education Program- Adult Treatment Panel III (NCEP/ATP III). Métodos: Estudo longitudinal, realizado no Centro de Obesidade Infantil de abril/2009 a abril/2012, envolvendo 133 crian- ças e adolescentes com excesso de peso. A avaliação se deu em um primeiro momento e após 24 meses de seguimento, sendo realizada antropometria, seguida da classificação nutricional e diagnóstico da SM que foi, posteriormente, dividida em três grupos: SM negativa, intermitente e persistente. A análise descritiva e de concordância entre os dois critérios e também entre os grupos se deu através do índice de Kappa, no programa SPSS versão 17.0 (IC95%). Resultados: Entre os avaliados, a maioria era do sexo feminino (60,9%), adolescente e cursava com obesidade acentuada. Dentre os componentes da síndrome metabólica, a glicemia de jejum, os níveis pressóricos e a resistência insulínica sofreram redução no período. Não foi verificada concordância significativa entre os critérios diagnósticos, embora tenha se observado coincidência significativa no grupo que apresentou a síndrome metabólica persistente (p=0,002). Conclusão: Verificou-se semelhança significativa entre os critérios da OMS e NCEP/ATPIII apenas no grupo com persistência da SM, demonstrando sensibilidade dos testes, porém faz-se necessário a utilização de marcadores mais específicos a essa faixa etária a fim de identificar precocemente a SM.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108136</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p342-348</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 342-348</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 342-348</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 342-348</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108136/106464</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108138</identifier>
+        <datestamp>2020-06-25T16:03:44Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Association between urinary incontinence, gynecologic, obstetric, voiding characteristics and quality of life in women</dc:title>
+          <dc:title xml:lang="pt-BR">Associação entre a incontinência urinária, caracteristicas ginecológicas, obstétricas, miccionais e qualidade de vida de mulheres</dc:title>
+          <dc:creator>Nobrega, Aline M.</dc:creator>
+          <dc:creator>Patrizzi, Lislei J.</dc:creator>
+          <dc:creator>Walsh, Isabel A P de</dc:creator>
+          <dc:subject xml:lang="en-US">Urinary Incontinence. Women. Quality of Life.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Incontinência Urinária. Mulheres. Qualidade de Vida.</dc:subject>
+          <dc:description xml:lang="en-US">Model study: Observational, cross sectional, analytical. Study objectives: To characterize and correlate the sociodemographic profile, lifestyles; gynecological, obstetric, and voiding characteristics and quality of life in women aged 19-59 years with or without urinary incontinence in Uberaba/MG. Methodology: A questionnaire previously developed by the researchers, the SF-36 and followed by the completion of the anthropometric measurements were used. Results: 194 women were assessed, with prevalence of urinary incontinence in 17.53%. Obesity, smoking, higher number of pregnancies, abortions and use of medications for mental disorders were significant risk factors for the occurrence of urinary incontinence. Quality of life was significantly affected by urinary incontinence, with the exception of the areas of pain and vitality. Conclusion: This article emphasizes the importance of routinely addressing this complaint and continues getting to know the associated risk factors, which can contribute to assist health professionals in identifying and implementing preventive strategies as early as possible in order to reduce their prevalence in women.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Observacional, transversal, analítico. Objetivos do estudo: Caracterizar e correlacionar o perfil sociodemográfico, hábitos de vida, características ginecológicas, obstétricas, miccionais e a qualidade de vida em mulheres entre 19 a 59 anos com e sem incontinência urinária no município de Uberaba/MG. Metodologia: Foram utilizados um questionário previamente elaborado pelas pesquisadoras e o SF-36, seguido pela realização da avaliação antropométrica. Resultados: Foram avaliadas 194 mulheres, com prevalência de incontinência urinária em 17,53%. Obesidade, tabagismo, maior número de gestações, abortos e uso de medicamentos para transtornos mentais foram fatores de risco significativos para a Ocorrência desta. A Qualidade de Vida foi significativamente comprometida pela incontinência urinária, com exceção dos domínios da dor e vitalidade. Conclusão: Aponta-se a importância de se abordar rotineiramente essa queixa e continuar buscando conhecer os fatores de risco associados, o que pode contribuir para auxiliar os profissionais de saúde na identificação e implantação de estratégias preventivas o mais precocemente possível, visando diminuir sua prevalência nas mulheres.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108138</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p349-358</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 349-358</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 349-358</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 349-358</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108138/106465</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108139</identifier>
+        <datestamp>2020-06-25T16:03:43Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Sentidos do sofrimento no contexto da atenção primária.</dc:title>
+          <dc:title xml:lang="en-US">Meanings of suffering in the context of primary care</dc:title>
+          <dc:creator>Santos, Josenaide E. dos</dc:creator>
+          <dc:creator>Gandolf, Lenora</dc:creator>
+          <dc:subject xml:lang="pt-BR">Atenção Primária à Saúde. Sofrimento Psíquico. Transtorno de Somatização. Clínica Médica.</dc:subject>
+          <dc:subject xml:lang="en-US">Primary Health Care. Stress</dc:subject>
+          <dc:subject xml:lang="en-US">Psychological. Somatoform Disorders. Clinical Medicine</dc:subject>
+          <dc:description xml:lang="en-US">Objective. understand the meaning that users ascribe to primary care pain. Methods. Social Construccionism, a semi-structured interview, with users. The analysis was made through the map of association of ideas. Results.The meanings regarding pain unfold three dimensions: experiences and contacts with mourning, unspecific pains and complaints and intervention with medicines. The meaning exposed by the patients indicates the change of physical pain into the moral pain of mourning, and from that into suffering (anxiety and depression) which could lead to psychical and somatic dysfunctions. Conclusion. Different therapeutic strategies are necessary to deal with the aspects of pain exposed, it is necessary to risk into new therapeutic areas which meet the needs of the primary care user.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo. Compreender os sentidos que os usuários da atenção primária atribuem ao sofrimento. Métodos. Construcionismo social, entrevista semiestruturada, com 10 usuários. Análise por meio do mapa de associação de ideias. Resultados. Os sentidos surgidos nas narrativas em três dimensões: Experiências e vivências com o luto; Sintomas sem explicação médica e intervenção medicamentosa. O sentido retratado pelos usuários assinalando a transformação da dor física em dor moral do luto, e desta em sofrimento (ansiedade e depressão). Conclusão. Estratégias terapêuticas distintas para lidar com as formas de sofrimentos apresentados, que contemplem a necessidade do usuário da atenção primária.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108139</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p321-327</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 321-327</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 321-327</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 321-327</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108139/106466</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108152</identifier>
+        <datestamp>2020-06-25T16:03:42Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Incidence of cesarean delivery among users of a private health plan</dc:title>
+          <dc:title xml:lang="pt-BR">Incidência de cesariana entre usuárias de um plano de saúde privado.</dc:title>
+          <dc:creator>Barbosa, Jaqueline F.</dc:creator>
+          <dc:creator>Toé, Thatiana F. Dal</dc:creator>
+          <dc:creator>Simões, Priscyla W.</dc:creator>
+          <dc:subject xml:lang="en-US">Cesarean Section. Delivery</dc:subject>
+          <dc:subject xml:lang="en-US">Obstetric. Incidence</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cesárea. Parto Obstétrico. Incidência</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo de Incidência. Objetivo do estudo: Conhecer a taxa de incidência de cesariana em um plano de saúde privado, analisar as principais indicações desta, o APGAR dos neonatos, bem como descrever o perfil das mulheres que se submetem a este procedimento, analisando idade, profissão e estado civil. Metodologia: Foi realizado um estudo ecológico, descritivo e temporal, com dados obtidos de um plano de saúde privado de Criciúma durante o ano 2010. Resultados: Foram analisados 30 prontuários de mulheres parturientes usuárias de um plano de saúde privado durante o ano de 2010. A taxa de incidência de cesariana foi de 80%, sendo as principais indicações a Despropor- ção Cefalopélvica (50,0%) e Cesárea Prévia (16,7%). As mulheres submetidas à cesárea tiveram idade média de 30,54(±5,42) anos, 66,7% trabalham, 87,5% apresentaram união estável. O APGAR médio dos recém-nascidos foi de 8,96(±0,20) no 1º minuto e 9,08(±0,28) no 5º minuto. Encontramos associação significativa entre o tipo de parto e a média de gastos, sendo o valor da cesariana maior que o parto normal (p=0,013). Conclusões: A taxa de incidência de cesariana no plano de saúde privado estudado foi alta, sendo a principal indicação a Desproporção Cefalopélvica, com gasto superior ao parto normal. Diante disso, sugerem-se futuros estudos acerca do tema, para que seja melhor caracterizada a incidência de cesariana, considerando que esta questão varia de acordo com o modelo de saúde de cada país e características socioculturais.</dc:description>
+          <dc:description xml:lang="en-US">Study model: Study of Incidence. Objective: To know incidence of cesarean at a private health plan, analyze the main indications of this, the APGAR scores of neonates, and to describe the characteristics of women who undergo this procedure, analyzing age, occupation and marital status. Methods: an ecological, descriptive and temporal study was realized with data obtained in a private health plan of Criciúma in the period from January to December of 2010. Results: We analyzed medical records of 30 women all mothers attending a private health plan during the year 2010. The incidence of cesarean section was 80%, and 20% of normal birth. The main indications were cephalopelvic disproportion (50%) and prior cesarean (16.7%). Women undergoing cesarean section had an average age of 30.54 years (± 5.42), 66.7% work and 87.5% had a stable relationship. The average APGAR of the newborns was 8.96 (± 0.20) at 1 minute and 9.08 (± 0.28) at 5 minutes. We found a significant association between the mode of delivery and the expenses, with the cesarean greater than vaginal deliveries (p = 0.013). Conclusions: The incidence of cesarean in private health plans studied was high, the major indication was the Cephalopelvic Disproportion, with the cesarean greater than vaginal deliveries. Therefore, we suggest future studies on the subject, so that it best characterized the incidence of cesarean, whereas this question varies according to the model of health in each country and sociocultural characteristics.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108152</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p336-341</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 336-341</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 336-341</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 336-341</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108152/106468</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108153</identifier>
+        <datestamp>2020-06-25T16:03:41Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Composição corporal e taxa metabólica de repouso de adolescentes com obesidade</dc:title>
+          <dc:title xml:lang="en-US">Body composition and resting metabolic rate in obese adolescents</dc:title>
+          <dc:creator>Oliveira, Bruno A. P. de</dc:creator>
+          <dc:creator>Gardim, Camila B.</dc:creator>
+          <dc:creator>Ferreira, Carolina N.</dc:creator>
+          <dc:creator>Cayres, Suziane U.</dc:creator>
+          <dc:creator>Freitas Junior, Ismael F.</dc:creator>
+          <dc:subject xml:lang="en-US">Obesity. Adolescent. Energy metabolism. Body composition.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Obesidade. Adolescente. Metabolismo energético. Composição corporal.</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Analisar a composição corporal e taxa metabólica de repouso (TMR) de adolescentes com obesidade. Metodologia: Foram avaliados 58 adolescentes, entre 12 e 16 anos (13,7±1,2 anos), com obesidade. A composição corporal foi mensurada por meio da Absortiometria de Raios-x de Dupla Energia (DEXA). A taxa metabólica de repouso e a oxidação de glicose e lipídeos foram determinadas pela medida do oxigênio consumido e pela produção de dióxido de carbono. Foi utilizado teste t de Student para variáveis independentes, análise de regressão linear múltipla e correlação de Pearson, com significância de p&amp;lt;5%. Resultados: Foram observadas diferenças na porcentagem de gordura corporal (p=0,01), porcentagem de massa corporal magra (MCM) (p=0,01), porcentagem de gordura do tronco (p=0,01), massa magra membro inferior (p=0,01) e taxa metabólica de repouso (p=0,04) entre os sexos masculino e feminino. No sexo masculino a MCM foi a melhor preditora de TMR (p=0,01). Houve correlação positiva entre TMR e MCM, assim como observada associação entre a oxidação lipídica e MCM. Conclusão: A composição corporal total e por segmento corporal influenciam a taxa metabólica de repouso e a oxida- ção de substratos. Além disso, a MCM pode ser considerada um fator de aumento do gasto energético de repouso de adolescentes com obesidade.</dc:description>
+          <dc:description xml:lang="en-US">Objective: Analyze body composition and resting metabolic rate (RMR) in obese adolescents. Methods: 58 obese adolescents were assessed between 12 and 16 years (13.7 ± 1.2 years). The body composition was measured dual-energy x-ray absorptiometry (DEXA). The resting metabolic rate and oxidation of glucose and lipids were determined by measuring the oxygen consumption and the production of carbon dioxide. Student t test was used for independent data, multiple linear regression and Pearson correlation, significance was set p &amp;lt;5%. Results: Significant differences were observed in the percentage of body fat (p = 0.01), percentage of lean body mass (LBM) (p = 0.01), percentage body fat (p = 0.01), lower limb lean mass (p = 0.01) and resting metabolic rate (p = 0.04) between males and females. The LBM is highlighted as the best predictor of RMR (p = 0.01). There was a positive correlation between RMR and LBM, as observed association between lipid oxidation and LBM. Conclusion: Total body composition and segment influence the resting metabolic rate and substrate oxidation. In addition, the LBM can be considered a factor of increased resting energy expenditure in obese adolescents.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108153</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p359-366</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 359-366</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 359-366</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 359-366</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108153/106469</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108154</identifier>
+        <datestamp>2020-06-25T16:03:41Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Relação entre qualidade de vida e espiritualidade em pacientes renais crônicos que realizam hemodiálise.</dc:title>
+          <dc:title xml:lang="en-US">Relation between quality of life and spirituality in chronic renal patients who conduct hemodialysis</dc:title>
+          <dc:creator>Malaguti, Isabela</dc:creator>
+          <dc:creator>Manfrim, Paula B.</dc:creator>
+          <dc:creator>Santos, Thamara M.</dc:creator>
+          <dc:creator>Santos, Daiane C. N. dos</dc:creator>
+          <dc:creator>Napoleão, Layane L.</dc:creator>
+          <dc:creator>Silva, Renata C. R. e</dc:creator>
+          <dc:creator>Padulla, Susimay A. T.</dc:creator>
+          <dc:subject xml:lang="en-US">Chronic Kidney Disease. Hemodialysis. Quality of Life. Spirituality</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença Renal Crônica. Hemodiálise. Qualidade de Vida. Espiritualidade</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: Um dos tratamentos utilizados na Doença Renal Crônica (DRC) é a hemodiálise, que limita as atividades dos pacientes, favorecendo ao sedentarismo, a deficiência funcional, a depressão e ansiedade, fatores que refletem na sua qualidade de vida. Os pacientes que possuem doenças crônicas apegam-se a fé como forma de encontrar um apoio e alívio para sua dor. Objetivo: Analisar a relação entre os escores de espiritualidade com a qualidade de vida desses pacientes. Métodos: A amostra foi composta por 100 pacientes de ambos os sexos em tratamento hemodialítico do Instituto do Rim da Santa Casa de Misericórdia de Presidente Prudente-SP. Foi utilizado o questionário SF-36(“Medical Outcomes Study 36-Item Short-Form Health Survey”), para avaliação da qualidade de vida, a Escala de Avaliação da Espiritualidade e a Escala Visual Analógica (EVA) para dor. Todos os procedimentos estatísticos foram efetuados no software BioEstat (5.0). Resultados: O escore de espiritualidade relacionou-se positivamente com a grande maioria dos domínios do SF-36. Maiores escores de espiritualidade foram relacionados a maiores escores nos domínios vitalidade, saúde mental e qualidade de vida geral, mesmo após os ajustes por sexo, idade e EVA. Foi possível identificar que quanto maior a “esperança no futuro” e a “crença de que a vida melhorou” melhor foi à percepção de saúde. Conclusões: A espiritualidade se mostra relacionada positivamente com a melhora na qualidade de vida, devendo ser considerada pelos profissionais que assistem esse tipo de paciente</dc:description>
+          <dc:description xml:lang="en-US">Introduction: The hemodialysis is the treatment most used in patients with chronic kidney disease, and the same, limits the activities of patients, favoring sedentary lifestyle, functional disability, depression and anxiety, factors that reflect the quality of their life. Patients who have chronic diseases cling to faith as a way to find support and relief for their pain. Objective: This research has the objective to analyze the relationship between the scores of spirituality to quality of life of these patients. Methods: The study consisted of 100 patients of both sexes undergoing hemodialysis at Kidney Institute, Santa Casa de Misericordia de Presidente Prudente-SP. We used the SF-36 questionnaire to assess quality of life, The Spirituality Rating Scale and The Visual Analogue Scale (VAS) for pain. All statistical procedures were performed in BioEstat (5.0). Results: The score of spirituality was related to the great majority of the SF- 36. The higher scores of spirituality were related to higher scores in vitality, mental health and overall quality of life, even after adjusting for sex, age and VAS. It was possible to identify that the higher the “hope for the future” and “the belief that life has improved” was the best health perception. Conclusions: The Spirituality was shown to be positively related to improvement in quality of life and should be considered by the professionals who attend this kind of patient.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108154</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p367-379</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 367-379</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 367-379</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 367-379</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108154/106470</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108155</identifier>
+        <datestamp>2020-06-25T16:03:40Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Doença renal policistica autossômica dominante: uma atualização sobre aspectos moleculares e epidemiológicos.</dc:title>
+          <dc:title xml:lang="en-US">Autosomal dominant polycystic kidney disease: an update on epidemiological and molecular aspects</dc:title>
+          <dc:creator>Alves, Everton F.</dc:creator>
+          <dc:creator>Borelli, Sueli D.</dc:creator>
+          <dc:creator>Tsuneto, Luiza T.</dc:creator>
+          <dc:subject xml:lang="en-US">Autosomal dominant polycystic kidney disease. PKD1 gene. PKD2 gene. Polycystin-1. Polycystin-2.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença renal policística autossômica dominante. Gene PKD1. Gene PKD2. Policistina 1. Policistina 2.</dc:subject>
+          <dc:description xml:lang="en-US">Autosomal dominant polycystic kidney disease (ADPKD) is the most common hereditary cause of chronic kidney disease stage 5 and represents 3% to 10.3% among patients undergoing dialysis in Brazil. The ADPKD is caused by mutations in one of two genes, PKD1 or PKD2 encoding hence the polycystins 1 and 2 involved in cyst formation. The disease is characterized by progressive growth and development of multiple bilateral renal cysts which lead to loss of kidney function. The ADPKD presents several renal and extrarenal clinical manifestations, and comorbidities. Some diagnostic strategies are regarded as first choice for clinical and molecular investigation of the ADPKD. The knowledge of molecular aspects in association with the clinical manifestations presented by the epidemiology of the disease provides better understanding of the mechanisms of cystogenesis and greater diagnostic accuracy</dc:description>
+          <dc:description xml:lang="pt-BR">Doença renal policística autossômica dominante (DRPAD) é a causa hereditária mais comum da doença renal crônica estágio 5 e representa de 3% a 10,3% entre os doentes em diálise no Brasil. A DRPAD é causada por mutações em um de dois genes, PKD1 ou PKD2, que codificam, consequentemente, as policistinas 1 e 2 envolvidas na formação dos cistos. A doença é caracterizada pelo progressivo crescimento e desenvolvimento de múltiplos cistos renais bilaterais que levam à perda da função dos rins. A DRPAD apresenta diversas manifestações clínicas renais e extrarrenais, além de comorbidades. Algumas estratégias diagnósticas são consideradas de primeira escolha para a investigação clínica e molecular da DRPAD. O conhecimento de aspectos moleculares em associação com as manifestações clínicas apresentadas pela epidemiologia da doença proporciona melhor compreensão dos mecanismos de cistogênese e maior acurácia diagnóstica</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108155</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p380-385</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 380-385</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 380-385</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 380-385</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108155/106471</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/108156</identifier>
+        <datestamp>2020-06-25T16:03:39Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Auto-Hemoterapia: uma revisão da literatura</dc:title>
+          <dc:title xml:lang="en-US">Autohemotherapy: A Review of the Literature.</dc:title>
+          <dc:creator>Brito Junior, Lacy C.</dc:creator>
+          <dc:creator>Leidiane O. S. Silva, Leidiane O. S.</dc:creator>
+          <dc:creator>Batista, Francisco C. Q.</dc:creator>
+          <dc:subject xml:lang="en-US">Autohemotherapy . Blood. Blood Transfusion.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Auto-Hemoterapia. Sangue. Transfusão Sanguínea.</dc:subject>
+          <dc:description xml:lang="pt-BR">Historicamente o sangue sempre foi um liquido que causou encanto ao ser humano, contudo, foi somente após grandes avanços científicos na área da hemoterapia que as técnicas de transfusão sanguínea se tornaram uma terapêutica rotineira na prática médica com grande segurança para doadores e pacientes. Porém, mesmo diante das evidências científicas de que a utilização do sangue para fins terapêuticos necessita de um rigoroso controle antes de ser transfundido visto que esta prática não está isenta de reações adversas ao paciente (reações transfusionais), ainda hoje surgem, cada vez mais, adeptos da prática conhecida como auto-hemoterapia. Uma técnica difundida apenas na rede mundial de computadores, a internet, de forma insipiente e sem comprovação científica ou validação. Assim, diante da necessidade de uma avaliação crítica desta prática e dos possíveis efeitos colaterais associados a esta técnica foi proposta uma revisão da literatura para tratar do tema auto-hemoterapia.</dc:description>
+          <dc:description xml:lang="en-US">Historically the blood has always been a lovely liquid for humans, however, it was only after great scientific advances in hemotherapy that blood transfusion techniques have become a routine therapy in medical practice with great safety for donors and patients. However , despite the scientific evidence that the use of blood for therapeutic purposes requires a strict control before being transfused as this practice is not free from adverse reactions to patients (transfusion reactions), still arise, increasingly, supporters of the practice known as auto-hemotherapy. A widespread technique only in the global network of computers, the internet, so incipient and without scientific proof or validation. So, considering the need for a critical review of the practice and possible side effects associated with this technique a literature review to address the self-hemotherapy theme was proposed.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/108156</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i4p386-391</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 4 (2015); 386-391</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 4 (2015); 386-391</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 4 (2015); 386-391</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/108156/106472</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:32Z" completeListSize="1467" cursor="950">936a81ab5c279bd11664efe7180cad6c</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

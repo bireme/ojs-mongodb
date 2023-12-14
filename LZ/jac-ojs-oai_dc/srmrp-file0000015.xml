@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:10Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/747</identifier>
+        <datestamp>2020-06-25T16:13:06Z</datestamp>
+        <setSpec>rmrp:EMN</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Coma mixedematoso</dc:title>
+          <dc:title xml:lang="en-US">Myxedema coma</dc:title>
+          <dc:creator>Maciel, Léa M. Z.</dc:creator>
+          <dc:subject xml:lang="en-US">Myxedema Coma.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Coma Mixedema.</dc:subject>
+          <dc:description xml:lang="en-US">Myxedema coma, the extreme manifestation of hypothyroidism, is a uncommon but potentially lethal condition. Patients with hypothyroidism may exhibit a number of physiologic alterations to compensate for the lack of thyroid hormone. If these homeostatic mechanisms are overwhelmed by factors, such as infection, the patient may decompensate into a myxedema coma. Patients with hypothyroidism typically have a history of fatigue, weight gain, constipation and cold intolerance. Patients with suspected myxedema coma should be admitted to an intensive care unit for vigorous pulmonary and cardiovascular support. Most authorities recommend treatment with intravenous levothyroxine (T4) as opposed to intravenous liothyronine (T3). It is always important to search diligently to determine the underlying cause of the decompensation and to treat that aggressively.</dc:description>
+          <dc:description xml:lang="pt-BR">O Coma Mixedematoso, manifestação extrema do estado hipotireóideo, representa uma situação clínica incomum, mas, potencialmente, letal. Pacientes com hipotireoidismo apresentam um série de adaptações fisiológicas para compensar a falta dos hormônios tireoidianos, porém em determinadas situações, como por exemplo, na vigência de uma infecção, não serão suficientes, o paciente descompensará e caminhará para o coma. Pacientes hipotireóideos, graves têm uma história longa de cansaço, ganho de peso, constipação intestinal e intolerância pelo frio. Na suspeita de coma mixedematoso, os pacientes deverão ser admitidos em unidade de terapia intensiva para cuidados respiratórios e cardiovasculares. A maioria dos pesquisadores recomenda o tratamento com levotiroxina (L-T4), ao invés da liotironina (T3), por via endovenosa. É de grande importância o reconhecimento da causa da descompensação e tratá-la agressivamente.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/747</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p384-388</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 384-388</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 384-388</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 384-388</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/747/760</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/748</identifier>
+        <datestamp>2020-06-25T16:13:05Z</datestamp>
+        <setSpec>rmrp:EMN</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Cetoacidose diabética e estado hiperglicêmico hiperosmolar</dc:title>
+          <dc:title xml:lang="en-US">Diabetic ketoacidosis and hyperosmolar hyperglycemic state</dc:title>
+          <dc:creator>Foss-Freitas, Maria C.</dc:creator>
+          <dc:creator>Foss, Milton C.</dc:creator>
+          <dc:subject xml:lang="en-US">Diabetes Mellitus Type 1. Diabetes Mellitus Type 2. Diabetic Ketoacidosis. Hyperosmolar Hyperglycemic State. Diabetes Mellitus</dc:subject>
+          <dc:subject xml:lang="en-US">Insulin-Dependent. Diabetes Mellitus</dc:subject>
+          <dc:subject xml:lang="en-US">Non-Insulin-Dependent.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Diabetes Mellitus Tipo 1. Diabetes Mellitus Tipo 2. Cetoacidose Diabética. Estado Hiperglicêmico Hiperosmolar. Diabetes Mellitus Insulino-Dependente. Diabetes Mellitus Não Insulino-Dependente.</dc:subject>
+          <dc:description xml:lang="en-US">Diabetic ketoacidosis is acute hyperglycaemic complication of DM type 1 patients and this situation of metabolic disturbances develops in a milieu of severe insulin deficiency,usually associated to stress conditions that increase the counterregulatory hormones.Hyperosmolar Hypergycemic state is a specific complication of the DM type 2 patients with predominance of the effects of hyperosmolarity and dehydration, specially involving the central nervous system. Precipitating factors, clinical presentation, basic pathophysiology and treatment of these diabetic hyperglycaemic emergencies are analysed in this review.</dc:description>
+          <dc:description xml:lang="pt-BR">A cetoacidose diabética é uma complicação aguda, típica dos pacientes com DM tipo I ou insulinodependentes, um conjunto de distúrbios metabólicos, que se desenvolvem em uma situação de deficiência insulínica grave, comumente associada a condições estressantes, que levam a aumento dos hormônios contra-reguladores. O estado hiperglicêmico hiperosmolar é uma complicação aguda, característica do diabético tipo II ou não insulinodependente, quando predominam os efeitos da hiperosmolaridade e desidratação, principalmente envolvendo o sistema nervoso central. Fatores precipitantes, quadro clínico, fisiopatologia básica e tratamento dessas emergências médicas são analisados nesta revisão.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/748</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p389-393</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 389-393</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 389-393</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 389-393</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/748/761</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/749</identifier>
+        <datestamp>2020-06-25T16:13:04Z</datestamp>
+        <setSpec>rmrp:EMN</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Terapia nutricional no paciente criticamente enfermo</dc:title>
+          <dc:title xml:lang="en-US">Nutritional therapeutic for the critically ill patients</dc:title>
+          <dc:creator>Côrtes, Jussara Fialho Ferreira</dc:creator>
+          <dc:creator>Fernandes, Sandra Lúcia</dc:creator>
+          <dc:creator>Nogueira-Maduro, Isolda Prado de Negreiros</dc:creator>
+          <dc:creator>Basile Filho, Anibal</dc:creator>
+          <dc:creator>Suen, Vivian M. M.</dc:creator>
+          <dc:creator>Santos, José Ernesto</dc:creator>
+          <dc:creator>Vannucchi, Hélio</dc:creator>
+          <dc:creator>Marchini, Júlio Sérgio</dc:creator>
+          <dc:subject xml:lang="en-US">Nutrition Assessment. Nutritional Status. Nutritional Support. Enteral Nutrition. Parenteral Nutrition. Critical Ilness.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação Nutricional. Estado Nutricional. Apoio Nutricional. Nutrição Enteral. Nutrição Parenteral. Estado Terminal.</dc:subject>
+          <dc:description xml:lang="en-US">Nutritional Therapeutic has a great impact on the treatment of the critically ill patient. Its choice and conduct, however, has been a matter of doubt and frequent errors. The choice of nutritional therapeutic and its route of administration must consider if the gastrointestinal tract is available. The enteral route will be used if the gastrointestinal tract is available. If it isn’t; like short bowel syndrome, or gastrointestinal haemorrhage, parenteral nutrition is indicated.This review has the objective of answer the most frequent questions and conduct the nutritional therapeutic in critically ill patients. &amp;nbsp;</dc:description>
+          <dc:description xml:lang="pt-BR">A Terapia Nutricional tem tido grande impacto na evolução do paciente grave. Sua escolha e manuseio, no entanto, têm sido alvo de dúvidas e erros freqüentes, principalmente no paciente crítico. A escolha da terapia nutricional a ser realizada, bem como sua via de administração deve levar em conta o quadro clínico e as condições gerais do paciente. A via oral/enteral de oferta de nutrientes, mais fisiológica, é a preferível. Portanto, sempre que possível, deve-se utilizar o trato gastrointestinal. Quando este não puder ser utilizado, a via parenteral está indicada, tanto no sentido de suplementar a nutrição enteral, como quando esta não consegue suprir toda a demanda de nutrientes, de que o paciente necessita. Esta revisão tem por objetivo apresentar e difundir a condução da terapia nutricional no paciente crítico, de forma prática e adequada. De maneira geral, a oferta calórica deverá atender às necessidades basais do paciente e a protéica fornecer material plástico para síntese protéica. Minerais, vitaminas e água deverão ser ajustados às necessidades e ao quadro clínico do paciente em questão.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/749</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p394-398</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 394-398</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 394-398</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 394-398</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/749/762</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/750</identifier>
+        <datestamp>2020-06-25T16:13:03Z</datestamp>
+        <setSpec>rmrp:IMUN</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Anafilaxia e reações anafilactóides</dc:title>
+          <dc:title xml:lang="en-US">Anaphylaxis and anaphylactoid reactions</dc:title>
+          <dc:creator>Louzada Junior, Paulo</dc:creator>
+          <dc:creator>Oliveira, Fabíola Reis de</dc:creator>
+          <dc:creator>Sarti, Willy</dc:creator>
+          <dc:subject xml:lang="en-US">Anaphylaxis. Anaphylactoids Reactions. Treatment.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anafilaxia. Reações Anafilactóides. Tratamento.</dc:subject>
+          <dc:description xml:lang="en-US">Anaphylaxis is the most urgent and potentially serious manifestation of allergic disease. The term anaphylaxis must be used to describe consequenses of Ig E-mediated release of potent biologically active substances, upon a given target organ, and may includes: upper respiratory obstruction, bronchospam and shock. Sometimes the clinical syndrome of systemic anaphylaxis is due to a non-Ig E mediated stimulation, called anaphylactoid reaction. Both of them requires prompt recognition of symptoms and aggressive therapeutic intervention, for a successful management.</dc:description>
+          <dc:description xml:lang="pt-BR">A anafilaxia é uma reação de hipersensibilidade imediata - tipo I - ocasionada pela liberação de mediadores inflamatórios, oriundos de mastócitos e basófilos e dependente da imunoglobulina E, sendo a mais grave de todas as manifestações alérgicas. As reações anafilactóides são clinicamente semelhantes às reações anafiláticas, embora tenham etiologia distinta, não relacionada à presença da Ig E. Ambas são graves, podendo cursar com urticária, angioedema, broncoconstricção, hipotensão e choque, causando óbito em alguns casos. Devese fazer o diagnóstico precoce e instituir o tratamento adequado o mais rapidamente possível, a fim de que complicações sejam evitadas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/750</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p399-403</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 399-403</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 399-403</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 399-403</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/750/763</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/751</identifier>
+        <datestamp>2020-06-25T16:13:01Z</datestamp>
+        <setSpec>rmrp:IMUN</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Asma: manejo da crise</dc:title>
+          <dc:title xml:lang="en-US">Asthma: management of asthma exacerbations</dc:title>
+          <dc:creator>Oliveira, Fabíola Reis</dc:creator>
+          <dc:creator>Silva, Lucienir Maria da</dc:creator>
+          <dc:creator>Louzada Junior, Paulo</dc:creator>
+          <dc:creator>Sarti, Willy</dc:creator>
+          <dc:subject xml:lang="en-US">Asthma. Diagnosis. Status Asthmaticus. Treatment.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Asma. Diagnóstico. Estado Asmático. Tratamento.</dc:subject>
+          <dc:description xml:lang="pt-BR">A asma é uma doença inflamatória, crônica, das vias aéreas, que se tornam hiperresponsivas e obstruídas, causando tosse, sibilância, dispnéia e desconforto torácico, de modo recorrente. Pode ser classificada como leve, moderada ou grave. Crises asmáticas são caracterizadas por períodos de piora dos sintomas clínicos e da função pulmonar, de maneira reversível, resultando em prejuízo para as atividades usuais do doente e de sua qualidade de vida. A inflamação das vias aéreas, contudo, permanece cronicamente, mesmo nos períodos intercríticos. As agudizações também devem ser classificadas de acordo com sua gravidade, para que a melhor opção terapêutica e os cuidados com o paciente sejam instituídos.</dc:description>
+          <dc:description xml:lang="en-US">Asthma is a chronic inflammatory obstructive disease of the airways that become hyperresponsive when exposed to various stimuli, and causes recurrent episodes of coughing, wheezing, chest tightness and shortness of the breath. Asthma can be mild, moderate or severe and requires long term management. Asthma attacks are characterized by periods of increased symptoms and reduced lung function, which may result in diminished ability to perform usual activities. The inflammation is always present, in despite of asthma severity. A large number of irritants and sensitizers may trigger exacerbations. It’s very important to estimate the severity of an asthma attack to make decisions that ensure an effective treatment.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/751</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p404-408</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 404-408</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 404-408</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 404-408</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/751/764</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/752</identifier>
+        <datestamp>2020-06-25T16:13:00Z</datestamp>
+        <setSpec>rmrp:IMUN</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Manifestações clínicas do lúpus eritematoso sistêmico: abordagem diagnóstica e terapêutica na sala de urgência</dc:title>
+          <dc:title xml:lang="en-US">Clinical manifestations of systemic lupus erythematosus: diagnostic and therapeutic approach in the emergency room</dc:title>
+          <dc:creator>Magalhães, Marcela B.</dc:creator>
+          <dc:creator>Donadi, Eduardo A.</dc:creator>
+          <dc:creator>Louzada Junior, Paulo</dc:creator>
+          <dc:subject xml:lang="en-US">Lupus Erythematosus</dc:subject>
+          <dc:subject xml:lang="en-US">Systemic. Diagnosis. Therapeutic. Emergency.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lúpus Eritematoso Sistêmico. Diagnóstico. Terapêutica. Urgência.</dc:subject>
+          <dc:description xml:lang="pt-BR">O Lúpus Eritematoso Sistêmico (LES) é uma doença auto-imune, que cursa com variado conjunto de manifestações clínicas. Entre estas, algumas podem levar o paciente a procurar um serviço de urgência. É importante que o clínico geral saiba realizar a abordagem inicial do tipo de paciente, principalmente nos casos em que manifestações graves do LES constituem ameaça imediata à vida do doente. O objetivo desta revisão é discutir o diagnóstico clínico e laboratorial das manifestações dessa patologia,que exigem conduta de urgência. São descritas as formas graves de lesões cutâneas, renais, neuropsiquiátricas, gastrointestinais, pulmonares, cardíacas e hematológicas pelo LES. A terapêutica de tais manifestações é delineada a seguir, bem como todos os cuidados necessários no seguimento inicial. A abordagem do LES, na sala de urgência, apresenta-se como um dos maiores problemas pela dificuldade de diferenciação entre a atividade da doença e o quadro infeccioso subjacente. Descartar infecção é condição indispensável para que se possa iniciar o tratamento do LES, principalmente com medicação imunossupressora. Assim, não devem ser poupados esforços para se alcançar um diagnóstico acurado das manifestações do LES, na urgência, evitando-se erros de julgamento que possam ter conseqüências desastrosas.</dc:description>
+          <dc:description xml:lang="en-US">Systemic Lupus Erythematosus (SLE) is an autoimmune disease with a diverse array of clinical manifestations. Some of them can bring the patient to urgency medical attention. It is important that the general clinician knows how to carry out the initial approach in this kind of patient, mainly in the cases with life-threatening manifestations of SLE. The purpose of this review is to discuss the manifestations of SLE that require urgency care. We describe severe forms of skin, renal, neuropsychiatry, gastrointestinal, pulmonary, cardiac and hematological involvements in SLE. The therapeutic aspects are described as well as the necessary care procedures in the initial follow-up of the patient. The principal difficulty of the management of SLE in the emergency room is differentiate disease activity from underlying infection. It is necessary to rule out infection before initiate immunosuppressive treatment. Thus, we should make an effort to obtain correct diagnosis of SLE manifestations in the emergency room, avoiding judgment mistakes that could be disastrous.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/752</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p409-417</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 409-417</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 409-417</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 409-417</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/752/765</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/753</identifier>
+        <datestamp>2020-09-11T12:15:22Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Content analysis of Rorschach in patients with bipolar affective disorder</dc:title>
+          <dc:title xml:lang="pt-BR">Análise dos conteúdos de Rorschach de pacientes com distúrbio afetivo bipolar</dc:title>
+          <dc:creator>Guelli, Ana Valéria</dc:creator>
+          <dc:creator>Jacquemin, André</dc:creator>
+          <dc:creator>Santos, Manoel Antônio dos</dc:creator>
+          <dc:subject xml:lang="en-US">Rorschach Test</dc:subject>
+          <dc:subject xml:lang="en-US">Projective Techinics</dc:subject>
+          <dc:subject xml:lang="en-US">Bipolar Disorder</dc:subject>
+          <dc:subject xml:lang="en-US">Self-Concept</dc:subject>
+          <dc:subject xml:lang="pt-BR">Teste de Rorschach</dc:subject>
+          <dc:subject xml:lang="pt-BR">Técnicas Projetivas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Distúrbio Bipolar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Auto-Imagem</dc:subject>
+          <dc:description xml:lang="en-US">The present study investigated the contents of Rorschach protocol in bipolar patients with were analyzed with the use of the “Self-Representation Sieve”. The purpose was to analyze the quality of self-representation and the several types of the object-relationships in the studied group. The sample was the eleven patients attended by the Psychiatry Service at the Hospital das Clínicas in the Faculdade de Medicina de Ribeirão Preto - USP. The patients had bipolar affective disorder diagnostic. The characteristics the sample were: three men and eigth women, with Medium and Inferior Medium intelectual level, with age groups ranging between twenty-two and sixty-seven years . The Rorschach contents were analyzed considering their integrity and vitality dimensions, realistic character, types of action, sexual differentiation, and the qualitative elements casually introduced in the answers. The contents multidimensional analysis showed, in the investigated group, signs of damaged self-representation, fragility in the personal identity structure and the relational modalities less satisfactories. A marking agressiveness in the interpersonal relations was observed.</dc:description>
+          <dc:description xml:lang="pt-BR">Foram analisados os conteúdos dos protocolos Rorschach de pacientes bipolares, utilizando o “Crivo de Representação de Si”, a fim de avaliar a qualidade da representação de si e as modalidades de relação de objeto no grupo estudado. Foi investigada uma amostra de 11 sujeitos, atendidos pelo Serviço de Psiquiatria do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - USP, com diagnóstico de transtorno afetivo bipolar, sendo 3 do sexo masculino e 8 do sexo feminino, com idades variando entre 22 a 67 anos e nível intelectual entre Médio e Médio Inferior. Foram analisados os conteúdos, segundo as dimensões de integridade, vitalidade e o caráter realista, os tipos de ação, a diferenciação de gênero e os elementos qualitativos particulares, eventualmente introduzidos nas respostas. A análise pluridimensional dos conteúdos evidenciou, no grupo estudado, indicadores de uma representação de si comprometido&amp;nbsp;do ponto de vista da integridade e vitalidade, de uma fragilidade na estrutura da identidade pessoal e de modalidades relacionais pouco satisfatórias, sendo marcante a agressividade nas relações interpessoais.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/753</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i2/3p269-277</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 2/3 (1996); 269-277</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 2/3 (1996); 269-277</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 2/3 (1996); 269-277</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/753/766</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header status="deleted">
+        <identifier>oai:www.revistas.usp.br:article/754</identifier>
+        <datestamp>2013-10-10T18:09:37Z</datestamp>
+        <setSpec>rmrp:IMUN</setSpec>
+      </header>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/755</identifier>
+        <datestamp>2020-06-25T16:12:59Z</datestamp>
+        <setSpec>rmrp:IMUN</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Acute monoarthritis and acute polyarthritis</dc:title>
+          <dc:title xml:lang="pt-BR">Monoartrite e poliartrite aguda</dc:title>
+          <dc:creator>Chachá, Rogério Carvalho Vieira</dc:creator>
+          <dc:creator>Louzada Junior, Paulo</dc:creator>
+          <dc:subject xml:lang="en-US">Arthritis. Arthritis</dc:subject>
+          <dc:subject xml:lang="en-US">Infectious. Gout.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Artrite. Artrite Infecciosa. Gota.</dc:subject>
+          <dc:description xml:lang="en-US">Several diseases, particularly non rheumatic, may present with acute arthritis. Gout and septic arthritis are typically monoarticular. The acute polyarticular pattern predominates in infectious diseases. Careful clinic history and physical examination are essential to the correct diagnosis of acute arthritis. Arthrocentesis is required to evaluate fully a patient with acute arthritis. The synovial fluid should be analyzed (routine synovianalysis) and cultured to perform a correct diagnosis.</dc:description>
+          <dc:description xml:lang="pt-BR">Diversas doenças, principalmente não reumáticas, manifestam-se com artrite aguda. O padrão monoarticular é característico da gota e da artrite séptica. Poliartrite aguda predomina nas doenças infecciosas. A abordagem das artrites agudas exige cuidadosa história clínica e exame físico completo. A punção articular deve sempre ser realizada nos quadros de artrite aguda, para obtenção do líqüido sinovial. A análise e a cultura do fluido são exames importantes para o auxílio diagnóstico.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/755</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p418-426</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 418-426</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 418-426</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 418-426</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/755/768</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/756</identifier>
+        <datestamp>2020-09-11T12:15:22Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Sensibilidade bacteriana a antimicrobianos usados na prática médica - Ribeirão Preto (SP) - 1994</dc:title>
+          <dc:title xml:lang="en-US">Bacterial susceptibility to antimicrobial drugs used in medical practice - Ribeirão Preto (SP) - 1994</dc:title>
+          <dc:creator>Martinez, Roberto</dc:creator>
+          <dc:creator>Gironi, Rosa Helena A. Romanello</dc:creator>
+          <dc:creator>Santos, Vanda R. dos</dc:creator>
+          <dc:subject xml:lang="en-US">Antibiotics</dc:subject>
+          <dc:subject xml:lang="en-US">Microbial Sensitivity Tests</dc:subject>
+          <dc:subject xml:lang="en-US">Drug Resistance, Microbial</dc:subject>
+          <dc:subject xml:lang="pt-BR">Antibióticos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Testes de Sensibilidade Microbiana</dc:subject>
+          <dc:subject xml:lang="pt-BR">Resistência Microbiana a Drogas</dc:subject>
+          <dc:description xml:lang="pt-BR">Apresenta-se a situação da susceptibilidade bacteriana a antimicrobianos, em amostras isoladas em 1994, no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto-USP. A resistência do Staphylococcus aureus à oxacilina foi verificada em 17% das amostras de infecções da comunidade, e em 51% dos casos hospitalares. Os valores correspondentes para o Staphylococcus epidermidis foram, respectivamente, 19% e 39%. A resistência in vitro à penicilina foi observada em 7% das amostras de pneumococo, e em 20% das amostras de enterococo. Com exceção de poucas amostras, todos os cocos Gram-positivos eram sensíveis à vancomicina e teicoplanina. Com relação aos bacilos Gram-negativos, a sensibilidade in vitro das enterobactérias foi baixa para a ampicilina, carbenicilina e cotrimoxazole (26% a 53%), intermediária para cefalotina, cloranfenicol e cefoxitina (64% a 82%) e alta para as cefalosporinas de terceira geração, amicacina, fluoroquinolonas, aztreonam e imipenem (93% a 99%). Acima de 90% das amostras de Pseudomonas aeruginosa foram sensíveis à cefatazidina, aztreonam e imipenem. O Acinetobacter calcoaceticus, causa freqüente de infecção hospitalar, mostrou alta sensibilidade (98%) ao imipenem, porém resistência acentuada a outros antiinfeciosos. Conclui-se comentando sobre a escolha de antimicrobianos para o tratamento de infecções comunitárias e hospitalares.</dc:description>
+          <dc:description xml:lang="en-US">The authors analyse the bacterial susceptibility to antimicrobial drugs in strains isolated during 1994 in the university hospital of the Ribeirão Preto Medical School - University of São Paulo (USP) - Brazil. Oxacillin resistant Staphylococcus aureus was verified in 17% of community strains, and in 51% of nosocomial infection strains. The correspondent rates for Staphylococcus epidermidis were, respectively, 19% and 39%. In vitro resistance to penicillin was observed in 7% of the pneumococci strains and in 20% of enterococci strains. All the Gram-positive cocci, except few microorganisms, were susceptible to vancomycin and teicoplanin. Respecting enterobacteria, the in vitro susceptibility was low for ampicillin, carbenicillin and sulfamethoxazole-trimethoprim (26% - 53%), intermediate for cephalothin, chloramphenicol and cefoxitin (64% - 82%) and high for third-generation cephalosporins, amikacin, fluoroquinolones, aztreonam and imipenem (93% - 99%). More than 90% of the Pseudomonas aeruginosa strains were susceptible to ceftazidime, aztreonam and imipenem. Acinetobacter calcoaceticus, common agent of nosocomial infections, showed high susceptibility (98%) to imipenem, but frequent resistance to other antimicrobials. The final commentaries were about the selection of antibiotics for treatment of community and hospital-acquired infections.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/756</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i2/3p278-284</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 2/3 (1996); 278-284</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 2/3 (1996); 278-284</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 2/3 (1996); 278-284</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/756/769</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/757</identifier>
+        <datestamp>2020-06-25T16:12:58Z</datestamp>
+        <setSpec>rmrp:HEMAT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Crises falciformes</dc:title>
+          <dc:title xml:lang="en-US">Sickle cell crisis</dc:title>
+          <dc:creator>Ângulo, Ivan Lucena</dc:creator>
+          <dc:subject xml:lang="en-US">Anemia</dc:subject>
+          <dc:subject xml:lang="en-US">Sickle Cell. Anemia</dc:subject>
+          <dc:subject xml:lang="en-US">Hemolytic.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anemia Falciforme. Anemia Hemolítica.</dc:subject>
+          <dc:description xml:lang="pt-BR">Foi feita a revisão das complicações agudas da doença falciforme, ou crises, com sugestões de condutas, baseadas na literatura.</dc:description>
+          <dc:description xml:lang="en-US">A review of acute events or crisis in sickle cell disease was made with suggestions of clinical skills based on literature.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/757</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p427-430</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 427-430</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 427-430</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 427-430</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/757/770</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/758</identifier>
+        <datestamp>2020-06-25T16:12:57Z</datestamp>
+        <setSpec>rmrp:HEMAT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Reações transfusionais: diagnóstico e tratamento</dc:title>
+          <dc:title xml:lang="en-US">Transfusion reactions: diagnosis and treatment</dc:title>
+          <dc:creator>Oliveira, Luciana C. O.</dc:creator>
+          <dc:creator>Cozac, Ana Paula C. N .C.</dc:creator>
+          <dc:subject xml:lang="en-US">Transfusion Reactions.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reações Transfusionais.</dc:subject>
+          <dc:description xml:lang="en-US">Most transfusion provide safe and effective temporary replacement of blood components. As with other medical interventions, however, transfusions are associated with certain risks, and only when the expected benefits outweigh the potential risks should transfusion therapy be initiated. This chapter addresses the principal categories of transfusion reactions. For each individual type of reaction, the pathophysiology, diagnosis, treatment, and prevention are discussed. More detailed coverage is available elsewhere.</dc:description>
+          <dc:description xml:lang="pt-BR">A maior parte das transfusões resulta em reposição temporária, efetiva e segurade hemocomponentes. Como outras intervenções médicas, entretanto, as transfusões são associadas a certos riscos, e, somente quando os benefícios esperados sobrepõem os riscos potenciais, a transfusão deve ser iniciada. Este capítulo discorre sobre as principais categorias de reações transfusionais, discutindo a fisiopatologia, o diagnóstico, o tratamento, e a prevenção dessas reações. .</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/758</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p431-438</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 431-438</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 431-438</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 431-438</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/758/771</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/759</identifier>
+        <datestamp>2020-09-11T12:15:22Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Alotransplante cardíaco em ratos: complicações cirúrgicas e sobrevida do enxerto</dc:title>
+          <dc:title xml:lang="en-US">Heart transplantion in rats: surgical complications and allograft survival</dc:title>
+          <dc:creator>Cologna, Adauto José</dc:creator>
+          <dc:creator>Martins, Antônio Carlos Pereira</dc:creator>
+          <dc:creator>Suaid, Haylton Jorge</dc:creator>
+          <dc:creator>Velludo, Maria Angeles Sanchez Llorach</dc:creator>
+          <dc:subject xml:lang="en-US">Heart Transplantation</dc:subject>
+          <dc:subject xml:lang="en-US">Transplantation, Homologous</dc:subject>
+          <dc:subject xml:lang="en-US">Rats</dc:subject>
+          <dc:subject xml:lang="pt-BR">Transplante Cardíaco</dc:subject>
+          <dc:subject xml:lang="pt-BR">Transplante Homólogo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ratos</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo desta apresentação é o de relatar as complicações cirúrgicas ocorridas no intra-operatório e, a sobrevida do coração transplantado. Os autores realizaram o alotransplante cardíaco heterotópico, utilizando, como doadores, ratos Wistar e, como receptores, ratos Holtzman. A técnica utilizada foi a descrita por Ono e Lindsey, empregando-se fio de seda 7.0 para as anastomoses vasculares. Foram operados 56 animais: em 41, obteve-se sucesso na cirurgia (73%); em 15, o resultado foi insatisfatório (26%). Dentre as complicações responsáveis pelo insucesso foram observadas: hemorragia arterial (6/15), trombose venosa (2/15), trombose coronariana (2/15) e perda do órgão caracterizada pela ausência de batimentos cardíacos (5/15). O tempo de isquemia total foi de 57,6 minutos e o tempo médio gasto para realização das suturas vasculares foi de 44,6 minutos. O diagnóstico da rejeição foi feito pela ausência de batimentos cardíacos à palpação do abdome. A sobrevida média do enxerto foi de 10,4 dias. Não foi empregada nenhuma medida imunossupressora. Os exames histopatológicos realizados nos corações rejeitados mostraram alterações conseqüentes à agressão imunológica (infiltrado mononuclear, necrose de fibras do miocárdio, edema e aumento de tamanho). Apesar da ocorrência de complicações intra-operatórias, este é um modelo simples que pode contribuir para o estudo da imunologia.</dc:description>
+          <dc:description xml:lang="en-US">The aim of this research was to study the technical aspects of cardiac allotransplant in rats according to the method described by Ono &amp;amp; Lindsey. It was used Holtzman rats as recipients and Wistar rats as donors. We carried out 56 transplants. In 41 (73%) recipients the surgery gave excellent results, while in 15 (28%) the heart allograft was lost due to technical failure: excessive bleeding (6/15), venous thrombosis (2/15), arterial thrombosis (2/15) and lack of beating (5/15). The mean time of total ischaemia was 57,6 minutes. The vascular anastomosis was done in 44,6 minutes as a mean time. The diagnosis of cardiac rejection was done when the palpation of the abdomen recipient’s showed lack of heart beating. The mean of survival time of cardiac allotransplant was 10,4 days. Histology of transplanted hearts removed after diagnosis of rejection exhibited typical immunologic injury (augmentation of heart size, oedema, necrosis of muscle fibers, infiltration by immunocompetent cells).</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/759</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i2/3p285-290</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 2/3 (1996); 285-290</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 2/3 (1996); 285-290</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 2/3 (1996); 285-290</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/759/772</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/760</identifier>
+        <datestamp>2020-09-11T12:15:22Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Morbimortalidade hospitalar por câncer em Ribeirão Preto (SP) - 1990/1993</dc:title>
+          <dc:title xml:lang="en-US">Cancer hospital morbility and mortality in the city of Ribeirão Preto (SP) - 1990/1993</dc:title>
+          <dc:creator>Simões, Maria Jacira Silva</dc:creator>
+          <dc:creator>Simões, Breno José Guanais</dc:creator>
+          <dc:subject xml:lang="en-US">Mortality</dc:subject>
+          <dc:subject xml:lang="en-US">Morbility</dc:subject>
+          <dc:subject xml:lang="en-US">Hospitals</dc:subject>
+          <dc:subject xml:lang="en-US">Neoplasias</dc:subject>
+          <dc:subject xml:lang="pt-BR">Mortalidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Morbidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hospitais</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neoplasias</dc:subject>
+          <dc:description xml:lang="pt-BR">Estudou-se as taxas de morbidade e mortalidade hospitalar por tumores (grupo II da CID) em Ribeirão Preto, nos anos de 1990 a 1993, em pacientes atendidos nos hospitais gerais do município, realizando um levantamento dos dados das folhas de altas hospitalares. Os coeficientes de mortalidade hospitalar (CMH), por tumores malignos (câncer), apresentaram uma discreta variação e sempre maior entre os homens. A mortalidade, referente aos homens, diminuiu de 15,37%, em 1990, para 12,79% em 1993. Quanto à localização, em 1990 e 1991, os tumores dos órgãos respiratórios e intratorácicos apresentaram um CMH pouco acima de 20% e, em 1992 e 1993, a localização mais letal foi a dos órgãos digestivos e peritônio. A mortalidade por câncer entre as mulheres, em 1990, foi de 12,96%, em 1992, 7,61% e, em 1993, 9,22%. Durante o período, observou-se um aumento contínuo na proporção de internações, variando de 5,89%, em 1990, para 7,39% em 1993. Quanto à duração média de internação (DMI), diminuiu de 6,15 dias para 4,62 dias entre os homens e de 4,75 dias para 3,61 dias entre as mulheres. Entre os homens, houve um aumento das internações nas faixas etárias até 69 anos, subindo de 74,5% em 1990, para 85,5% em 1993. As neoplasias mais freqüentes foram as de traquéia, brônquios e pulmões (CID-162) em primeiro (10%), em seguida as de estômago (CID-151), que diminuíram de 9 para 6%. Para as mulheres, não houve alterações nas faixas etárias no decorrer do estudo e o maior número de casos ocorreu na faixa de 40 a 59 anos (40%). Quanto às Neoplasias mais freqüentes foram o câncer de mama (CID-174) com 11% (bem mais alto do que para as demais), em seguida as Neoplasias de colo de útero (CID-180), de ovário e anexos (CID-183) e leucemia mielóide (CID-205).</dc:description>
+          <dc:description xml:lang="en-US">The rates of cancer morbility and mortality were determined in Ribeirão Preto city during the years 1990 to 1993 in patients of the Hospitals of the county. We realized a survey from hospitals discharges. The coefficent of cancer hospital mortality had a change discreet and always major in the men than women. The mortality decreased of 15,37% in 1990 to 12,79% in 1993. All that localization of the tumor in 1990 and 1991 were of tumors of the respiratory organs and inner thoraxic organs with a CMH above 20% in 1992 and 1993. The localization more letal was in the digestive organs and peritoneum. The mortality in the women in 1990 was 12,96%; 7,6 in 1992 and 9,22 in 1993. It was observed a constant increase in the proportion of internment changing of 5,89 in 1990 to 7,39 in 1993. The average duration of internment was 6,15 to 4,62 days for men and 4,75 to 3,61 for women. The men had a internment increase at the age to 69 years olds with elevation of 74,5% in 1990 to 85,5% in 1993. The neoplasms more frequents were: trachea, bronchi and lungs, 10% followed by stomach that decrease&amp;nbsp; of 9 to 6%. The majority of the cases occurred at the age 40 to 59 years olds (40%). The neoplasms more frequents were mamma cancer with 11% (the most elevate rates) continued by neoplasms of uterus; ovary and annexs and mieloid leuquemia.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/760</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i2/3p291-300</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 2/3 (1996); 291-300</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 2/3 (1996); 291-300</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 2/3 (1996); 291-300</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/760/773</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/761</identifier>
+        <datestamp>2020-06-25T16:12:56Z</datestamp>
+        <setSpec>rmrp:HEMAT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Tratamento de distúrbios hemostáticos em urgência médica</dc:title>
+          <dc:title xml:lang="en-US">Management of hemostatic disorders in the emergency room</dc:title>
+          <dc:creator>Pintão, Maria Carolina T.</dc:creator>
+          <dc:creator>Garcia, Andrea A.</dc:creator>
+          <dc:subject xml:lang="en-US">Hemostatic</dc:subject>
+          <dc:subject xml:lang="en-US">disorders. Hemophilia. Disseminated Intravascular Coagulation.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemostáticos</dc:subject>
+          <dc:subject xml:lang="pt-BR">distúrbios. Hemofilia. Coagulação Intravascular Disseminada.</dc:subject>
+          <dc:description xml:lang="en-US">Coagulophaties are frequent in emergency rooms. This article reviews important aspects of diagnosis and treatment of hemophilias and disseminated intravascular coagulation (DIC).</dc:description>
+          <dc:description xml:lang="pt-BR">Patologias do sistema hemostático são causas freqüentes de atendimento médico de urgência. Este texto revisa aspectos relevantes no que diz respeito a diagnóstico e tratamento de hemofilias e coagulação intravascular disseminada (CIVD).</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/761</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p439-445</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 439-445</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 439-445</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 439-445</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/761/774</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/762</identifier>
+        <datestamp>2020-06-25T16:12:55Z</datestamp>
+        <setSpec>rmrp:HEMAT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Treatment of infections in patients with pancytopenia resulting from cytoreductive treatment</dc:title>
+          <dc:title xml:lang="pt-BR">Tratamento das infecções em pacientes com pancitopenia secundária a tratamento citorredutor</dc:title>
+          <dc:creator>Souza, Danielle Leão C. F.</dc:creator>
+          <dc:creator>Rego, Eduardo Magalhães</dc:creator>
+          <dc:subject xml:lang="en-US">Neutropenia</dc:subject>
+          <dc:subject xml:lang="en-US">diagnosis. Antibiotics. Fever. Pancytopenia.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neutropenia</dc:subject>
+          <dc:subject xml:lang="pt-BR">diagnóstico. Antibióticos. Febre. Pancitopenia.</dc:subject>
+          <dc:description xml:lang="en-US">Fever of unknown origin is the most frequent cause of hospitalization of patients in treatment with cytoreductive regimens for neoplastic diseases. Patients present with no or unspecific symptoms, and the initial evaluation requires detailed history and physical examination, together with laboratorial exams aiming to identify the site of infection and complications secondary to chemotherapy. Treatment with broad spectrum antibiotics should be started immediately, and the therapy should be reevaluated after 72 hours based on the results from blood fluids cultures. In this review, we will discuss about the diagnostic and therapeutic approaches in febrile neutropenia.</dc:description>
+          <dc:description xml:lang="pt-BR">Febre de etiologia desconhecida é a causa mais freqüente de internação hospitalar de pacientes neutropênicos em quimioterapia. O paciente é, em geral, oligossintomático, e a avaliação inicial deve incluir história e exame físico completos e minuciosos, além de exames laboratoriais, procurando identificar a etiologia da febre e complicações decorrentes da quimioterapia. O tratamento com antibióticos de largo espectro deve ser iniciado prontamente, e o esquema terapêutico reavaliado 72 h, depois, com base nos estudos microbiológicos. No texto, discorremos sobre o diagnóstico da neutropenia febril, suas particularidades e o manejo do paciente.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/762</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p446-452</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 446-452</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 446-452</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 446-452</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/762/775</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/763</identifier>
+        <datestamp>2020-09-11T12:15:22Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Atitudes frente à Aids e locus de controle: um estudo com estudantes e profissionais de enfermagem</dc:title>
+          <dc:title xml:lang="en-US">Attitudes towards Aids and locus of control: a study with students and nursing professionals</dc:title>
+          <dc:creator>Figueiredo, Marco Antonio de Castro</dc:creator>
+          <dc:creator>Fioroni, Luciana Nogueira</dc:creator>
+          <dc:subject xml:lang="en-US">Acqquired Immunodeficiency Syndrome</dc:subject>
+          <dc:subject xml:lang="en-US">Attitude</dc:subject>
+          <dc:subject xml:lang="en-US">Internal-External Control</dc:subject>
+          <dc:subject xml:lang="en-US">Health Occupations</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome de Imunodeficiência Adquirida</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atitude</dc:subject>
+          <dc:subject xml:lang="pt-BR">Controle Interno-Externo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ocupações em Saúde</dc:subject>
+          <dc:description xml:lang="pt-BR">Com o objetivo de verificar a relação entre algumas atitudes de profissionais de saúde frente à AIDS e sua percepção a respeito do controle que exercem sobre as condições do atendimento, foram desenvolvidas escalas de atitude e aplicadas em 83 sujeitos, verificando-se, posteriormente, o Locus de Controle sobre a situação em que o paciente HIV é atendido. Tomando, como referencial teórico, o modelo de atitude de Fishbein-Azjen (1975) e o conceito de Locus de Controle, tal como proposto por Levenson (1973), que considera controles localizados na internalidade, externalidade e teleologia, foram realizados estudos diferenciais entre profissionais ealunos de enfermagem, considerando-se atividade e escolaridade como variáveis determinantes. Estudos de diferença de médias, entre subgrupos definidos pela atividade, apontaram, nos profissionais, maiores índices de Internalidade (T=2.76; p=.007), com propensões mais negativas frente ao Embaraço (T=–2.76; p=.009) e menos negativas frente ao Estigma (T=–3.73; p&amp;lt;.001). Com relação aos profissionais de nível universitário, foram verificadas propensões menos positivas frente ao Suporte (T=–2.06; p=.04). Considerando o total de profissionais, foram encontradas correlações significantes entre Internalidade e Estigma (r=–.30) e Teleologia e Embaraço (r=–.31). Para os universitários como um todo, atitudes frente ao Suporte apresentaram correlações significantes com Externalidade (r=+.41) e Teleologia (r=+.26). Confirmando a literatura, para os profissionais não-universitários, prevalece uma tendência para avaliar mais positivamente o Suporte dado ao paciente, determinado por crenças teleológicas. Entre os profissionais, em geral, a Internalidade parece influenciar avaliações mais negativas sobre o Estigma do paciente HIV.</dc:description>
+          <dc:description xml:lang="en-US">To determine the relationship between some attitudes of health professionals towardsAIDS and the perception of the control exerted on the conditions under wich care is provided, attitudesscales were developed and applied to 83 subjects and the Control Locus on the situation in wich the HIVpatient receives care was later determined. Using the attitude model of Fishbein-Ajzen (1975) as thetheoretical reference point, together with the concept of Locus of Control proposed by Levenson (1973),wich considers controls localized in internality, externality and teleology, differential studies wereconducted on nursing professionals and students, considering activity and educational level asdeterminant variables. Analysis of the differences of the means between the subgrups defined by activityindicated a higher internality index (T=2.76; p=.007) among the professionals, with more negativeattitudes towards embarassment (T=2.76; p=.009) and less negative attitudes towards stigma(T=3.73; p=&amp;lt;.001). Professionals with higher education showed less positive attitudes towards support(T=–2.06; p=.04). Considering the professionals as a whole, significant correlations were detected betweeninternality and stigma (r=-.30) and between teleology and embarassment (r=–.31). For the collegestudents as a whole, the attitudes towards support were significantly correlated with externality (r=+.41)and teleology (r=+.26). In agreement with the literature, for non-college level professionals there was aprevalence of the tendency to evaluate more positively the support given to the patient, determined byteleological beliefs. Among professionals in general, internality seems to influence more negativeevaluations to the stigma of HIV patients.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/763</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i2/3p301-308</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 2/3 (1996); 301-308</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 2/3 (1996); 301-308</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 2/3 (1996); 301-308</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/763/776</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/764</identifier>
+        <datestamp>2020-06-25T16:12:54Z</datestamp>
+        <setSpec>rmrp:DERTOX</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Reactional episodes in leprosy</dc:title>
+          <dc:title xml:lang="pt-BR">Episódios reacionais na hanseníase</dc:title>
+          <dc:creator>Foss, Norma Tiraboschi</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy. Reactional Episodes. Reversal Reactions. Erythema Nodosum Leprosum.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase. Episódios Reacionais. Reação Reversa. Eritema Nodoso Hansênico.</dc:subject>
+          <dc:description xml:lang="pt-BR">Episódios reacionais são quadros agudos, que ocorrem de modo súbito, interrompendo a evolução crônica da hanseníase. Constituem, geralmente, em exacerbada reação inflamatória, localizada ou sistêmica, que pode ser acompanhada de comprometimento de nervos periféricos, resultando em manifestação de dor acentuada, que requer, para sua condução, cuidados especiais. Existem dois tipos de reações hansênicas: Reação tipo1 ou Reação Reversa (RR) e Reação tipo 2 ou Eritema Nodoso Hansênico (ENH). Essas reações foram descritas, segundo suas características clínicas e laboratoriais, sendo destacados os critérios de diagnóstico e as principais diferenças entre RR e ENL, e, ainda, seguidas da apresentação das condutas preconizadas para a condução das alterações clínicas e da opção terapêutica para os dois tipos de reações.</dc:description>
+          <dc:description xml:lang="en-US">Reactional episodes are acute inflammatory reactions that suddenly appear on the chronic evolution of the leprosy disease. Currently these reactions represent a located or systemic exacerbation of the inflammatory reaction that can reach peripheral nerves, inducing a very painful situation which must be conducted with special care. The leprosy reactions are classified as Type1 Reaction or Reversal Reaction (RR) and Type2 Reaction or Erythema Nodosum Leprosum (ENL). The clinical and laboratories characteristics of these reactions, the diagnostic criteria and the main differences between the RR and ENL were presented, followed by the presentation of the approval conducts for the management of clinical alterations and the therapeutics ons for the two types of leprosy reactions.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/764</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p453-459</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 453-459</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 453-459</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 453-459</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/764/777</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/766</identifier>
+        <datestamp>2020-09-11T12:15:22Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">"Condom": Sexo e sexualidade</dc:title>
+          <dc:title xml:lang="en-US">"Condom": Sex and sexuality</dc:title>
+          <dc:creator>Gir, Elucir</dc:creator>
+          <dc:creator>Duarte, Geraldo</dc:creator>
+          <dc:creator>Carvalho, Milton Jorge de</dc:creator>
+          <dc:subject xml:lang="en-US">Contraceptive Devices, Male</dc:subject>
+          <dc:subject xml:lang="en-US">Contraception</dc:subject>
+          <dc:subject xml:lang="en-US">Sexually Transmitted Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Acquired Immunodeficiency Syndrome</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dispositivos Anticoncepcionais Masculinos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anticoncepção</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Sexualmente Transmissíveis</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome da Imunodeficiência Adquirida</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo deste trabalho foi analisar alguns aspectos acerca do “condom” e sua influência no exercício da sexualidade. Depreende-se que, na sua história secular, a finalidade inicial foi de prevenção contra as doenças sexualmente transmissíveis (DST)(século XVI) e, posteriormente no século XVIII, sua ênfase foi na contracepção. A partir dos anos 80, curiosamente, o condom volta a assumir importante papel nas tentativas de prevenção das doenças transmitidas, por via sexual, apresentando como principal objetivo o controle da expansão da epidemia, provocada pelo vírus da imunodeficiência humana.</dc:description>
+          <dc:description xml:lang="en-US">The purpose of this paper was to analyse some features concerning condom and its influence on the sexuality. We can observe from its century history that its first objective was prevention against sexually transmitted diseases, and presents as the main objective the control of dissemination of HIV epidemy.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/766</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i2/3p309-314</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 2/3 (1996); 309-314</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 2/3 (1996); 309-314</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 2/3 (1996); 309-314</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/766/779</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/767</identifier>
+        <datestamp>2020-09-11T12:15:22Z</datestamp>
+        <setSpec>rmrp:NTI</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Resumos das palestras proferidas no I Simpósio de Atualização em Hipertensão Arterial da Unidade de Hipertensão da Divisão de Cardiologia do HCFMRP- USP, realizado em 18-19 de agosto de 1995 no campus da USP de Ribeirão Preto</dc:title>
+          <dc:creator>Nobre, Fernando</dc:creator>
+          <dc:creator>Marin-Neto, José Antônio</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/767</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i2/3p332-354</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 2/3 (1996); 332-354</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 2/3 (1996); 332-354</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 2/3 (1996); 332-354</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/767/780</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/768</identifier>
+        <datestamp>2020-09-11T12:18:38Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Reforma no ensino médico</dc:title>
+          <dc:creator>Voltarelli, Júlio César</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/768</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i4p363-364</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 4 (1996); 363-364</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 4 (1996); 363-364</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 4 (1996); 363-364</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/768/781</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/770</identifier>
+        <datestamp>2020-09-11T12:18:38Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Ens.+Med.+Gr.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Development and implantation of the new curricular structure in the School of Medicine of Ribeirão Preto: difficulties and advances</dc:title>
+          <dc:title xml:lang="pt-BR">Desenvolvimento e implantação da nova estrutura curricular na Faculdade de Medicina de Ribeirão Preto: dificuldades e avanços</dc:title>
+          <dc:creator>Prado, Wiliam Alves do</dc:creator>
+          <dc:subject xml:lang="en-US">Education, Medical</dc:subject>
+          <dc:subject xml:lang="en-US">Faculty, Medical Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical, Undergraduate</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Faculdade de Medicina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação de Pré-Graduação em Medicina</dc:subject>
+          <dc:description xml:lang="en-US">Since 1993, the Medical School of Ribeirão Preto of the University of São Paulo is implanting the curricular structure of its new undergraduate course, named Course of Medical Sciences. This course allows students to graduate in Medicine, Biomedical Sciences, or both. ln addition to such flexibility, the course is divided in three phases: basic, clinic and internship, lasting two years each. Traditional disciplines were integrated into new disciplines or articulated on the basis of increased complexity, avoiding curricular repetition. New disciplines were added to allow early contact of the students with the health system and improve their ethic and humanistic background. New disciplines on topics of specialized semiology were also introduced. Other advances include facilities to stimulate students in self-learning methods and space for optional disciplines. Main difficulties to develop the new curriculum include the resistance of teachers to minimize the emphasis on formal lectures, the information overload, and the lack of institutional reward mechanisms for teachers involved with undergraduate medical education.</dc:description>
+          <dc:description xml:lang="pt-BR">A Faculdade de Medicina de Ribeirão Preto, através de sua Comissão de Graduação, iniciou, em 1993, a implantação de estrutura curricular de um novo curso, denominado Curso de Ciências Médicas que, através de um único exame vestibular permite a graduação do aluno em Medicina e/ou em Ciências Biológicas-Modalidade Médica. Além desta flexibilização de sua terminalidade, o novo curso foi dividido em três fases: básica, clínica e internato, cada uma com dois anos de duração. As disciplinas tradicionais foram integradas em novas disciplinas ou articuladas no tempo, reduzindo a repetição desnecessária de conteúdo Novas disciplinas foram introduzidas visando o contato mais precoce do aluno com a Rede de Saúde e sua melhor formação ética e humanística Na fase clínica foram introduzidas novas disciplinas contendo tópicos de Semiologia Especializada Outros avanços da nova sistemática incluem a implantação de recursos para o auto aprendizado do estudante e a inclusão de disciplinas optativas nos três primeiros anos do curso permitindo maior contato do aluno com o docente em seu laboratório e aumento do numero de estudantes interessados em programa de iniciação científica. Como principais dificuldades&amp;nbsp;são identificadas a resistência dos docentes em reduzir o uso de aulas teóricas como instrumento de ensino a sobrecarga de informações e a com pleta ausência de mecanismos de incentivo às atividades de ensino de graduação.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/770</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i4p373-382</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 4 (1996); 373-382</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 4 (1996); 373-382</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 4 (1996); 373-382</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/770/782</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/771</identifier>
+        <datestamp>2020-09-11T12:18:38Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Ens.+Med.+Gr.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Contribution of different activities to the learning process in the view of medical students</dc:title>
+          <dc:title xml:lang="pt-BR">Contribuição de diferentes atividades para o processo de aprendizagem na percepção de alunos de medicina</dc:title>
+          <dc:creator>Figueiredo, José Fernando de Castro</dc:creator>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:creator>Cianflone, Ana Raquel Lucato</dc:creator>
+          <dc:creator>Colares, Maria de Fátima Aveiro</dc:creator>
+          <dc:subject xml:lang="en-US">Education, Medical</dc:subject>
+          <dc:subject xml:lang="en-US">Education, Medical, Undergraduate</dc:subject>
+          <dc:subject xml:lang="en-US">Students, Medical</dc:subject>
+          <dc:subject xml:lang="en-US">Learning</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação de Pré-Graduação em Medicina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudantes de Medicina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aprendizagem</dc:subject>
+          <dc:description xml:lang="pt-BR">Com o objetivo de conhecer o grau de contribuição de diferentes atividades para o processo de aprendizagem, na visão dos alunos da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo, foi realizado um levantamento entre os estudantes do primeiro ao quarto anos dessa Faculdade, através da&amp;nbsp;análise de item específico de um questionário padronizado, auto-administrado, e sem identificação nominal. A análise dos resultados permitiu verificar que a estratégia de ensino, “Aula Teórica”, foi percebida como de média ou grande importância para o aprendizado, por aproximadamente 75% dos alunos, em todos os anos acadêmicos; no que diz respeito à estratégia “Aula Prática no Ciclo Básico” a percepção de sua importância diminui à medida em que o aluno avança no curso e a grande modificação nesse perfil ocorre na passagem do segundo para o terceiro ano. A estratégia de ensino “Aula Prática no Ciclo Clínico” foi considerada, maciçamente, como de grande importância; em relação às estratégias de&amp;nbsp; prendizagem, houve aumento na valorização do “Estudo Individual”, a partir do segundo ano, e uma diminuição na importância do “Estudo em Grupo”, a partir do terceiro ano. A opinião dos alunos, segundo o gênero, permitiu verificar pequenas diferenças na percepção quanto ao grau de importância de alguns itens, em diferentes anos acadêmicos.</dc:description>
+          <dc:description xml:lang="en-US">To determine the extent of the contribution of different activities to the learning process in the view of students at the Faculty of Medicine of Ribeirão Preto, University of São Paulo, a survey was conducted on first to fourth year medical students by the analysis of a specific item in a standardized self-administered questionnaire with no identification of respondent names. Analysis of the results showed that the “Lecture” teaching method was perceived to be of medium or high importance by approximately 75% of the students in all years of the medical course. The perception of the importance of “Laboratory Class of the Basic Cycle”, decreased with the year of medical course, with the most significant modification of this profile occurring in the passage from the second to the third year. The teaching method “Clinical Activities” was massively considered to be of great importance for learning. With respect to learning methods, there was an increase in the appreciation of “Individual Study” from the second year on and a decrease in the importance of “Group Study” from the third year on. Small differences between gender were observed in terms of the perception of the importance of some items studied in different years of medical course.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/771</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i4p383-388</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 4 (1996); 383-388</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 4 (1996); 383-388</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 4 (1996); 383-388</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/771/783</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/772</identifier>
+        <datestamp>2020-09-11T12:18:38Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Ens.+Med.+Gr.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Core curiculum</dc:title>
+          <dc:title xml:lang="pt-BR">Currículo nuclear</dc:title>
+          <dc:creator>Marcondes, Eduardo</dc:creator>
+          <dc:subject xml:lang="en-US">Education, Medical</dc:subject>
+          <dc:subject xml:lang="en-US">Planning</dc:subject>
+          <dc:subject xml:lang="en-US">Education, Medical, Undergraduate</dc:subject>
+          <dc:subject xml:lang="en-US">Curriculum</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Planejamento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação de Pré-Graduação em Medicina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+          <dc:description xml:lang="pt-BR">O ensino de graduação vem sofrendo transformações que visam contornar problemas gerados pela enorme sobrecarga de informações e pela dificuldade de inserir, nos currículos tradicionais, conteúdos decorrentes de novas situações médicas e de avanços tecnológicos. Muitos destes problemas podem ser minimizados pela adoção de um novo sistema composto por um currículo nuclear, que consiste na somatória dos conteúdos necessários e suficientes para a formação geral do médico, complementado por disciplinas e estágios opcionais. O autor delineia os objetivos gerais deste sistema e sugere nova estrutura curricular, apresentando elenco de disciplinas e temas que se baseiam no esquema atualmente em vigor, na Faculdade de Medicina da Universidade de São Paulo. A necessidade de esta nova estrutura curricular contemplar tempo livre para o estudante empregar em outras atividades, não necessariamente relacionadas ao currículo, é enfatizada. O autor apresenta, também, sugestão de estrutura administrativa que se encarregaria da coordenação do processo de discussão e implantação do novo sistema, bem como da supervisão do seu funcionamento.</dc:description>
+          <dc:description xml:lang="en-US">Undergraduate medical education has been changing continuously in order to overcome problems due to information overload and difficulties for the introduction of new concepts and medical technology innovations. Many of these problems and difficulties may be reduced by adopting a core curriculum, which is the sum of the contents minimally necessary and sufficient for the general basic education of a physician, complemented by elective activities. ln this paper, the author summarizes the main objectives of this new curricular system and suggests a new frame, with recommended disciplines and topics generated from the current scheme adapted by the University of São Paulo Faculty of Medicine. It is stressed that the new curricular frame has to allow students to spend a considerable fraction of time in extracurricular activities. The author also presents suggestions regarding the implementation and the coordination of this new curricular scheme.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1996-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/772</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v29i4p389-395</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 29 No. 4 (1996); 389-395</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 29 Núm. 4 (1996); 389-395</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 29 n. 4 (1996); 389-395</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/772/784</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/773</identifier>
+        <datestamp>2020-06-25T16:12:52Z</datestamp>
+        <setSpec>rmrp:DERTOX</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Intoxicações exógenas em clínica médica</dc:title>
+          <dc:title xml:lang="en-US">Exogenous intoxications in clinical medicine</dc:title>
+          <dc:creator>Oliveira, Renê Donizeti Ribeiro</dc:creator>
+          <dc:creator>Menezes, João Batista</dc:creator>
+          <dc:subject xml:lang="en-US">Poisoning. Antidotes. Toxicology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Envenenamento. Antídotos. Toxicologia.</dc:subject>
+          <dc:description xml:lang="pt-BR">Na primeira parte desta revisão, são discutidas as medidas gerais de tratamentodas intoxicações exógenas (indução de vômitos, lavagem gástrica, administração de carvão ativado e de laxativos) e as medidas específicas de eliminação dos agentes tóxicos (diurese forçada e alcalinização da urina, hemodiálise e hemoperfusão e a utilização de antídotos e antagonistas). Na segunda parte, são discutidos os princípios do tratamento das mais freqüentes intoxicações exógenas em nosso meio (pesticidas agrícolas, depressores do sistema nervoso central e raticidas).</dc:description>
+          <dc:description xml:lang="en-US">In the first part of this review, we discuss general strategies to treat exogenous intoxications (vomit induction, gastric lavage, administration of activated charcoal powder and of laxatives) and specific measures to eliminate toxic agents (forced diuresis and urine alkalinization, hemodialysis and hemoperfusion and utilization of antagonists). In the second part we discuss general principles of treatment of most prevalent intoxications in our area (agricultural pesticides, central nervous system depressants and rat poisons).</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/773</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p472-479</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 472-479</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 472-479</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 472-479</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/773/785</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:10Z" completeListSize="1467" cursor="375">eb42bb9d927a1f8dec0238807c64f178</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

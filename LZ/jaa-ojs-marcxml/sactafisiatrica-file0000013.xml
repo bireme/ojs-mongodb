@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:50:07Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103203</identifier>
+<datestamp>2019-10-18T17:38:23Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"090909 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação dos efeitos a longo prazo da acupuntura e exercícios terapêuticos em ombro congelado de pacientes com acidente cerebral vascular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Plavsic, Aleksandra</subfield>
+<subfield code="u">Universidade de Roma Tor Vergata</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Foti, Calogero</subfield>
+<subfield code="u">Universidade de Roma Tor Vergata</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Della Bella, Gessica</subfield>
+<subfield code="u">Universidade de Roma Tor Vergata</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brdareski, Zorica</subfield>
+<subfield code="u">Academia Médica Militar, Belgrado</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nikcevic, Ljubica</subfield>
+<subfield code="u">Hospital Saint Sava, Belgrado</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Konstantinovic, Ljubica</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Determinar como a acupuntura e a terapia com exercícios afetam a função motora e espasmodicidade das mãos de pacientes com acidente cerebral vascular 6 meses após eles terem recebido este tipo de terapia. Métodos: Estudo clínico prospectivo, aleatório e cego de 20 pacientes, com idades entre 60-70 anos, na fase crônica de 6 meses após o AVC. Os sujeitos do estudo foram divididos em dois grupos: Grupo A, o qual foi tratado com acu-puntura e terapia de exercícios (AP-ET) 6 meses atrás e Grupo B, o qual foi tratado apenas com terapia de exercícios (ET) 6 meses atrás. Resultados: As análises mostraram uma diferença estatisticamente significativa nos SCORES do pós-tratamento em comparação com 6 meses após o tratamento com cada grupo de estudo, para todos os parâmetros examinados (p&lt;0.01 em todos os casos) exceto pelo MAS. As análises mostraram uma diferença estatisticamente significativa em alguns parâmetros no grupo ET em comparação ao grupo AP-ET com valores médios maiores no grupo AP-ET para MAS e CSDQ. Todos os outros parâmetros não mostraram nenhuma diferença estatística entre os grupos diferentes de terapia 6 meses após a terapia. Conclusão: Os resultados confirmam a hipótese de que a acupuntura e a terapia de exercícios são úteis no tratamento de ombro congelado em pacientes com AVC e que seus efeitos ainda estão presentes após seis meses de terapia, no entanto, dado o pequeno número de pacientes, mais estudos são necessários para verificar estes resultados. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103203</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 3 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103214</identifier>
+<datestamp>2019-10-21T12:17:38Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"090909 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Importância do treinamento da propriocepção e do controle motor na reabilitação após lesões músculo-esqueléticas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Leporace, Gustavo</subfield>
+<subfield code="u">Instituto Brasil de Tecnologias da Saúde</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Metsavaht, Leonardo</subfield>
+<subfield code="u">Instituto Brasil de Tecnologias da Saúde</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sposito, Maria Matilde de Mello</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A propriocepção e o controle muscular possuem um papel fundamental na estabilidade articular dinâmica. Após lesões ortopédicas algumas características sensório-motoras são alteradas e devem ser focadas em programas de reabilitação, para que haja sucesso no retorno às atividades realizadas previamente a lesão. Desta forma, devem ser realizados exercícios proprioceptivos específicos desde início do período pós operatório ou após a fase aguda de lesões tratadas conservadoramente, com o objetivo de melhorar a acuidade proprioceptiva e a resposta muscular antecipatória e reativa, restabelecendo a estabilidade articular dinâmica. Neste artigo abordaremos o conceito original de propriocepção, a contribuição para a manutenção da estabilidade articular dinâmica, a influência da lesão na acuidade proprioceptiva e o treinamento da propriocepção e do controle neuromuscular. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103214</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 3 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103216</identifier>
+<datestamp>2019-10-21T12:29:58Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"090909 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Interveniência dos fatores ambientais na vida de crianças com paralisia cerebral</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brasileiro, Ismênia de Carvalho</subfield>
+<subfield code="u">Faculdade Integrada do Ceará</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moreira, Thereza Maria Magalhães</subfield>
+<subfield code="u">Universidade Estadual do Ceará</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Jorge, Maria Salete Bessa</subfield>
+<subfield code="u">Universidade Estadual do Ceará</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O presente estudo teve como objetivo descrever as características dos fatores ambientais que interferem na vida cotidiana de um grupo de crianças com paralisia cerebral atendidas em um núcleo de tratamento e estimulação precoce utilizando a Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF). O estudo descritivo foi desenvolvido de maio a setembro de 2006. A amostra foi constituída de 32 crianças com disfunção leve e moderada, assíduos ao tratamento fisioterapêutico. Os dados foram coletados e agrupados pelo programa Statistical Package of Social of Science (SPSS). Cerca de 70% dos casos não faz uso de medicação especial e grande parte necessita de equipamentos de auxílio para deslocamento. Ambientes internos não são pertinentes ao uso. A acessibilidade a locais públicos constituiu barreira que variou de intensidade. O apoio recebido em diversos aspectos é feito basicamente pelo núcleo familiar. A grande maioria não conta com sistemas e políticas públicas de transporte e educação e grande parte se beneficia do apoio financeiro do governo. A CIF proporcionou melhor compreensão quanto à capacidade funcional da criança, ao fa-vorecer descrição menos subjetiva da interferência de fatores contextuais ambientais. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103216</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 3 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103218</identifier>
+<datestamp>2019-10-21T13:56:31Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"090909 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Obesidade infantil e suas relações com o equilíbrio corporal</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lemos, Luiz Fernando Cuozzo</subfield>
+<subfield code="u">Universidade de Brasília</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">David, Ana Cristina de</subfield>
+<subfield code="u">Universidade de Brasília</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Clarissa Stefani</subfield>
+<subfield code="u">Universidade Federal de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mota, Carlos Bolli</subfield>
+<subfield code="u">Universidade Federal de Santa Maria</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> As relações entre a estabilidade do corpo, problemas de saúde, gênero e idade ainda são escassas. Uma das maiores preocupações relaciona-se com crianças obesas. Mesmo que tal temática seja de suma importância, relações do equilíbrio corporal com a obesidade infantil mostram uma carência de investigações. Este estudo foi desenvolvido para identificar e relacionar os comprometimentos da obesidade com as aquisições da estabilidade e com a manutenção da postura corporal em crianças, por meio de uma revisão biblio-gráfica. Logo, este estudo objetivou identificar os aspectos rela-cionados ao equilíbrio corporal e a postura de crianças obesas. Foi realizada a busca bibliográfica em artigos indexados de três bases de dados: Lilacs, Sciencedirect, e Scielo, com as palavras equilí-brio, crianças, controle postural e obesidade, combinadas entre si. De acordo com os estudos encontrados, foi possível inferir que a dificuldade da manutenção do equilíbrio corporal de crianças obesas está relacionada principalmente às modificações físicas do corpo somadas às menores quantidades de vivências corporais. Porém, os estudos apresentam divergência sobre os efeitos da obesidade na infância e o equilíbrio corporal, demonstrando necessidade de novas pesquisas com métodos modernos e atuais. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103218</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 3 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103219</identifier>
+<datestamp>2019-10-21T14:01:17Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"090909 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Diagnóstico da instabilidade atlanto–axial na síndrome de Down: revisão de literatura</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tobo, Andréa</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">El Khouri, Marcelo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mourão, Marcelo Alves</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A Síndrome de Down é a mais comum e a mais bem estudada alteração genética pelo ser humano. É caracterizada por másformações em diversos órgãos e sistemas, incluindo alterações músculo-esquelético, dentre os quais se destaca a instabilidade atlanto-axial (IAA) devido ao seu potencial de gravidade. Estudos têm sido realizados a fim de padronizar métodos e parâmetros para seu diagnóstico, tendo a radiografia simples em perfil o método mais empregado, porém ainda com grandes divergências sobre os melhores parâmetros adotados como referência de normalidade. Além da radiografia simples, a tomografia computadorizada e a ressonância magnética vêm emergindo como grandes aliadas para tanto diagnóstico como planejamento terapêutico. O presente estudo visa discutir os métodos atuais mais empregados para o diagnóstico da IAA com base em revisão de literatura, focando no diagnóstico radiográfico simples como método de escolha inicial para detecção das IAA. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103219</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 3 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103221</identifier>
+<datestamp>2019-10-21T14:03:37Z</datestamp>
+<setSpec>actafisiatrica:Rel.+Caso</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"090909 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Abordagem global de uma intervenção fisioterapêutica na onfalocele gigante</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Camila Isabel da Silva</subfield>
+<subfield code="u">Universidade Estadual de Campinas</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Okuro, Renata Tiemi</subfield>
+<subfield code="u">Universidade Estadual de Campinas</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Conti, Patricia Blau Margosian</subfield>
+<subfield code="u">Universidade Estadual de Campinas</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Choukmaev, Michele Chiacchio</subfield>
+<subfield code="u">Hospital Beneficente Israelita Albert Einstein</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Antonelli, Milena</subfield>
+<subfield code="u">Universidade Estadual de Campinas</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ribeiro, Maria Ângela Gonçalves de Oliveira</subfield>
+<subfield code="u">Universidade Estadual de Campinas</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Descrever os efeitos da utilização de recursos instrumentais e cinesioterapêuticos em parâmetros cardiorrespiratórios, espirométricos e na qualidade de vida de uma adolescente com diagnóstico de Onfalocele Gigante (OG), doença pouco abordada na literatura em relação à intervenção da fisioterapia respiratória e motora. Paciente de 16 anos, com diagnóstico de OG, realizou acompanhamento fisioterapêutico, cuja conduta envolveu o uso do Threshold®, Respiron®, fortalecimento e alongamento da musculatura global e de grupos musculares específicos, para a melhora do padrão postural. Os dados de função pulmonar referente à saturação de oxigênio, freqüências respiratória e cardíaca, pressão inspiratória e expiratória máximas, teste de caminhada de seis minutos e parâmetros espirométricos foram as variáveis quantitativas de efeito consideradas antes e após o período de cinco meses de tratamento. Houve melhora de todas as variáveis quantitativas de função pulmonar em relação aos valores basais, bem como melhora da qualidade de vida e da sensação de dispnéia referidas pela adolescente. O uso de recursos fisioterapêuticos instrumentais para fortalecer a musculatura inspiratória, melhorar a ventilação, diminuir a dispnéia e aumentar a tolerância ao exercício, além de uma abordagem postural para desenvolver equilíbrio da biomecânica músculo-esquelética, podem ser uma alternativa a ser utilizada como conduta no tratamento de pacientes com OG. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103221</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 3 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103224</identifier>
+<datestamp>2019-10-18T13:19:45Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A velocidade média do teste de caminhada incentivada de 6 minutos como determinante da intensidade de treinamento para o recondicionamento físico de pneumopatas crônicos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Figueiredo, Pedro Henrique Scheidt</subfield>
+<subfield code="u">Fundação Mineira de Educação e Cultura</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Guimarães, Fernando Silva</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O objetivo deste estudo foi avaliar a eficácia de um protocolo de recondicionamento aeróbico para a melhora da capacidade funcional e dispnéia de pacientes pneumopatas crônicos, tendo como referência o teste de caminhada de 6 minutos (6MWD) para determinação da carga de treinamento. Metodologia: foram selecionados 10 pacientes pneumopatas crônicos (9 M e 1 F) com média de idade de 61,5 ± 10,6 anos, apresentando estabilidade clínica e sem contra-indicações para a prática de exercício aeróbico. O protocolo foi realizado em esteira ergométrica, com freqüência semanal de 3 sessões, durante 8 semanas. A velocidade de caminhada na esteira foi estipulada em 85% da velocidade média obtida no 6MWD. A capacidade funcional e a dispnéia foram avaliadas no inicio e ao término do treinamento. Para análise estatística foram utilizados os testes t-pareado e Wilcoxon, conforme as características das variáveis. As diferenças foram consideradas estatisticamente significativas quando p &lt; 0,05. Resultados: Foi observada melhora da capacidade funcional através de aumento da distância percorrida no 6MWD (média = 445,7 ± 175 m vs 565,8 ± 174 m; p &lt; 0,01) assim como redução da dispnéia pela MMRC [mediana = 3 (2 – 4) vs 1 (0 - 3); p &lt; 0,05]. Conclusão: A velocidade média do 6MWD é um parâmetro eficaz para determinação da carga de treinamento em programas de recondicionamento aeróbico para pacientes pneumopatas crônicos. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103224</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103248</identifier>
+<datestamp>2019-10-18T13:26:53Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Medida de independência funcional em adultos com paralisia cerebral: relação com habilidades cognitivas e perfil comportamental</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Maria Cristina Triguero Veloz</subfield>
+<subfield code="u">Universidade Presbiteriana Mackenzie</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Emerich, Deisy Ribas</subfield>
+<subfield code="u">Universidade Presbiteriana Mackenzie</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cevallos, Priscilla Veloz</subfield>
+<subfield code="u">Universidade Presbiteriana Mackenzie</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Milena Luchetta da</subfield>
+<subfield code="u">Universidade Presbiteriana Mackenzie</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: identificar relações entre a medida de independência funcional e o perfil comportamental e cognitivo de um grupo de pessoas adultas com Paralisia Cerebral. Métodos: Dezoito adultos institucionalizados e com diagnóstico de Paralisia Cerebral (12 do sexo masculino e 6 do sexo feminino) e seus respectivos cuidadores participaram do estudo. As técnicas de coleta de dados foram o Teste Não-Verbal de Inteligência (TONI-3), o Inventário de Comportamentos de Adultos de 18 a 59 anos (ABCL) e a Medida de Independência Funcional (MIF). Resultados: A pontuação total da MIF apresentou correlações negativas com a escala problemas de ansiedade do ABCL (rho= -0,511, p=0,030) e positivas com o TONI-3 (rho=0,540, p=0,021). Algumas alterações de comportamento do ABCL correlacionaram-se negativamente com o TONI-3, por exemplo, escala Problemas de Atenção (rho= -0,459, p=0,056) e a escala de Isolamento (rho= -0,545, p=0,019). A média dos valores de desempenho motor foi de 35,88; 28,5 no desempenho cognitivo e 64,38 na escala total. Conclusões: Houve correlação entre problemas de comportamento, medida de independência funcional e habilidades cognitivas. Os resultados servem para orientar os cuidadores e a equipe da instituição no planejamento de programas de reabilitação para os pacientes pesquisados. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103248</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103272</identifier>
+<datestamp>2019-10-18T13:36:35Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">O uso da bandagem elástica Kinesio no controle da sialorréia em crianças com paralisia cerebral</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ribeiro, Mariana de Oliveira</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rahal, Renata de Oliveira</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kokanj, Andréa Siqueira</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bittar, Daniela Pimenta</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Verificar a eficiência da bandagem elástica Kinesio no controle de deglutição de saliva em crianças com paralisia cerebral. Material e Método: A pesquisa foi realizada no Setor Escolar da Associação de Assistência à Criança Deficiente (AACD). Participaram 42 crianças com idades entre 4 e 15 anos (média = 8 anos e 9 meses), de ambos os sexos, com diagnóstico de paralisia cerebral e queixa de sialorréia. Foi realizado um checklist com os pais da criança com perguntas referentes a sialorréia e posteriormente realizadas duas escalas para pontuação da freqüência e da gravidade dessa. Foram realizadas oito aplicações da Kinesio Tape na musculatura supra-hióidea e então, o checklist e as escalas foram reaplicados. Resultados: Verificou-se que houve redução estatisticamente significante nos parâmetros utilizados para verificação da sialorréia, sendo eles: número de toalhas utilizadas por dia para secar a baba, pontuação na escala de freqüência e pontuação na escala de gravidade da sialorréia. Conclusão: Conclui-se que o método Kinesio Taping é eficaz na melhora do controle de deglutição de saliva em crianças com Paralisia Cerebral. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103272</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103273</identifier>
+<datestamp>2019-10-18T14:01:47Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Prevalência de úlcera por pressão em indivíduos com lesão de medula espinhal e a relação com a capacidade funcional pós-trauma</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rabeh, Soraia Assad Nasbine</subfield>
+<subfield code="u">Universidade de São Paulo. Escola de Enfermagem de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Caliri, Maria Helena Larcher</subfield>
+<subfield code="u">Universidade de São Paulo. Escola de Enfermagem de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Haas, Vanderlei José</subfield>
+<subfield code="u">Universidade de São Paulo. Escola de Enfermagem de Ribeirão Preto</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O estudo observacional, transversal, teve por objetivos caracterizar indivíduos adultos que sofreram Lesão de Medula Espinhal (LME) entre janeiro de 2003 a Julho 2006 em hospitais credenciados ao SUS no município de Ribeirão Preto, avaliar a capacidade funcional utilizando a escala Medida de Independência Funcional (MIF), considerando o nível de lesão e identificar a prevalência de úlcera por pressão (UP). Após a aprovação do Comitê de Ética em Pesquisa o estudo foi realizado, mediante consentimento dos participantes. As entrevistas e avaliações foram realizadas nos domicílios. Dos 22 individuos, 91% eram do sexo masculino, com predominância na faixa etária de 30 a 39 anos. Acidente de trânsito foi a etiologia principal (50%) da LME, seguida de queda (27,3%). Onze (50%), tiveram lesão cervical, dez (45,5%) lesão torácica e um lesão lombar. Indivíduos com lesão cervical apresentaram escores menores na MIF total e motora, entretanto, a MIF cognitiva atingiu o valor máximo independente do nível da lesão. Nenhum dos indivíduos apresentou grau de dependência completa. Onze (50,0%), apresentaram dependência mínima, 6 (27,3%) dependência máxima e 5 (22,7%) independência moderada ou completa. Os 7 (31,8%) participantes com UP tinham maior dependência funcional. O trauma causou maior impacto no domínio motor com diminuição da capacidade funcional nas diferentes atividades para os indivíduos com lesão cervical. Houve aumento dos escores da MIF com o aumento do tempo pós-lesão, independente da participação em programa de reabilitação. Os resultados apontaram aspectos essenciais para a proposição de programa de reabilitação para esta população no contexto estudado. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103273</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103274</identifier>
+<datestamp>2019-11-22T20:47:56Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A quantificação do trabalho mecânico como recurso de avaliação do controle postural</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castro, Pedro Cláudio Gonsales de</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação HCFMUSP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Coelho, Daniel Boari</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação HCFMUSP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Goroso, Daniel Gustavo</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação HCFMUSP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lopes, José Augusto Fernandes</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação HCFMUSP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moreira, Maria Cecília dos Santos Moreira Cecília dos Santos</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação HCFMUSP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O estudo tem por objetivo propor dois métodos de cálculo para a quantificaçao do trabalho mecânico (W) como recurso para análise do controle postural em indivíduos submetidos a perturbaçoes motoras, visuais e/ou que estao em processo de reabilitaçao física. Neste estudo se aborda a quantificaçao do W realizado pelo sistema muscular após a extensao do tronco para postura ereta (auto-perturbaçao) em indivíduos com visao preservada (VP) e privaçao momentânea da visao (PMV) por meio de dois métodos denominados: i) Trabalho mecânico total (Wtot) e ii) Trabalho mecânico do centro de massa (WCM). A amostra constituiu-se de 10 voluntários saudáveis, do sexo masculino com idades de 25,6 (± 2,2) anos. Foram realizadas cinco tentativas para cada voluntário em ambas as condiçoes. Para coleta dos dados foi utilizado um sistema de imagem para rastreamento optoeletrônico tridimensional, composto de 8 câmeras de vídeo, com freqüência de captaçao de 200 Hz. Observou-se pela análise de regressao linear que o Wtot e WCM apresentam forte correlaçao entre as duas condiçoes (r2 = 0,77 para a condiçao VP e r2 = 0,84 para a condiçao PMV) e pelo teste t de Student observou-se diferenças estatisticamente significativas (p&lt;0,10) na primeira tentativa entre os voluntários com VP e PMV para o Wtot durante o intervalo pós-perturbaçao, bem como diferenças no WCM nos intervalos [0,80]ms e [0,100]ms. Concluiu-se que os métodos que calculam o Wtot e o WCM possibilita investigar o controle postural após perturbaçoes motoras e visuais podendo ser utilizado como recurso na reabilitaçao física. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103274</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103285</identifier>
+<datestamp>2019-10-18T14:25:52Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Antiinflamatórios não-esteroidais e sua farmacologia local</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Muri, Estela Maris Freitas</subfield>
+<subfield code="u">Universidade Federal Fluminense. Faculdade de Farmácia</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sposito, Maria Matilde de Mello</subfield>
+<subfield code="u">Universidade de São Paulo.  Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Metsavaht, Leonardo</subfield>
+<subfield code="u">Instituto Brasil de Tecnologias da Saúde</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Os antiinflamatórios não-esteroidais (AINES) são geralmente usados para reduzir a dor e inflamação resultantes de diversos tipos de lesões. Apesar de normalmente serem administrados por via oral, seu uso local tem atraído a atenção de profissionais da área médica e de pesquisadores interessados em comprovar a disponibilidade aumentada desses medicamentos em locais próximos a área lesionada. A presente revisão enfatiza a terapia local, principalmente a via intradérmica, como uma alternativa altamente promissora para a administração de AINES. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103285</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103286</identifier>
+<datestamp>2019-10-18T14:33:26Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação da estimulação elétrica no tratamento da disfagia secundário ao acidente vascular encefálico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Soares, Thaís Miranda Curvelo</subfield>
+<subfield code="u">Centro Universitário da Bahia</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Conceição, Tatiana Maíta Alves</subfield>
+<subfield code="u">Faculdade Jorge Amado</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cardoso, Fabrício</subfield>
+<subfield code="u">Universidade Castelo Branco</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Beresford, Heron</subfield>
+<subfield code="u">Universidade do Estado do Rio de Janeiro</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A disfagia neurogênica compreende as alterações da deglutição que ocorrem em virtude de uma doença neurológica. Este tipo de disfagia é particularmente debilitante, podendo levar a morte ou aumento do custo de saúde decorrentes da aspiração traqueal. Esta patologia é comum e consiste numa complicação potencialmente fatal para AVE agudo, ocorrendo em aproximadamente 50% desses pacientes. Dentre os possíveis tratamentos, a estimulação tátiltérmica e biofeedback têm um sucesso freqüente, variando de 0% a 83%. Estudos registram alto sucesso deste tratamento com pacientes que sofreram AVE, o que geralmente não incluem a mais severa forma de disfagia. Já o uso da estimulação elétrica no tratamento da disfagia foi primeiro descrito em 1996 por Freed et al e, posteriormente, por Park et al. O objetivo dessa estimulação elétrica era alcançar um ramo aferente do reflexo da deglutição em pacientes com atraso do início da deglutição. Sendo esta uma alternativa de tratamento ainda pouco explorada, o objetivo desse estudo foi realizar uma revisão bibliográfica sobre a utilização da estimulação elétrica no tratamento da disfagia em pacientes que sofreram acidente vascular encefálico. Conclusão: A disfagia neurogência, por estar diretamente associada ao aumento da morbi-mortalidade, necessita da atenção especial dos profissionais da Saúde. Sendo a eletroestimulação uma terapêutica importante a ser explorada já que possui uma eficácia significativa nesta patologia. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103286</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103287</identifier>
+<datestamp>2019-10-18T14:37:14Z</datestamp>
+<setSpec>actafisiatrica:Rel.+Caso</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação isocinética em nadador amputado de membro superior: relato de caso</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Secchi, Leonardo Luiz Barretti</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Muratt, Mavi Diehl</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Saccol, Michele Forgiarini</subfield>
+<subfield code="u">Universidade Luterana do Brasil</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Greve, Julia Maria D&#039;Andrea</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A natação é um dos principais esportes de estudo, mas a natação em atletas com deficiência física abre um ramo de pesquisa. Objetivo: Analisar através da dinamometria isocinética os grupos musculares: abdutores e adutores, flexores e extensores de ombro de um nadador da elite brasileira com amputação do terço proximal do rádio. Métodos: Paciente do gênero masculino com 18 anos de idade, sendo, nove deles competindo. Foi avaliado clinicamente e através do questionário funcional DASH e pelo questionário EROE quanto à atividade esportiva. Na avaliação no dinamômetro isocinético Biodex System 3 com o protocolo de 5 repetições a 60º/segundo e 20 repetições a 180º e 240º/segundo quanto aos movimentos abdução/adução e flexão/extensão. Resultados: Nos questionários não se observou dor ou outra alteração da avaliação clínica. No questionário DASH, o atleta referiu dificuldade grau médio. Seu desempenho na escala EROE foi excelente. Na avaliação isocinética o atleta apresentou diferenças no lado amputado comparado em relação ao sadio. Conclusão: A avaliação isocinética é um bom parâmetro para estudo da força mesmo em nadadores com deficiência física, mostrando que estes atletas necessitam de um treinamento específico. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103287</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103288</identifier>
+<datestamp>2019-10-18T15:04:37Z</datestamp>
+<setSpec>actafisiatrica:Cart.+Editor</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Eletroestimulação neuromuscular na pressão plantar, simetria e funcionalidade de hemiparéticos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Polese, Janaine Cunha</subfield>
+<subfield code="u">Universidade Federal de Minas Gerais</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mazzola, Daiane</subfield>
+<subfield code="u">Universidade de Passo Fundo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Schuster, Rodrigo Costa</subfield>
+<subfield code="u">Universidade de Passo Fundo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Este estudo objetivou analisar os efeitos da Eletroestimulação Neuromuscular (EENM) na pressão plantar, simetria e funcionalidade de hemiparéticos. Participaram deste pacientes hemiparéticos crônicos, divididos em dois grupos: intervenção, composto por cinco pacientes, que receberam a corrente FES no tibial anterior, três vezes por semana, durante quatro semanas, por trinta minutos; controle, formado por dois pacientes que receberam, pelo mesmo período e no mesmo músculo, a corrente sham (50μs e 150Hz). Os sujeitos realizaram pré e pós tratamento avaliação da pressão plantar através do sistema de baropodometria computadorizada FScan ™, análise da simetria e avaliação da funcionalidade, através da Medida de Independência Funcional (MIF). A média de idade da amostra estudada foi 58,85 anos, todos com diagnóstico de AVE isquêmico crônico. Em relação à pressão plantar e funcionalidade, não houveram diferenças estatisticamente significativas tanto no grupo FES quanto no grupo sham. Os índices de simetria do grupo intervenção aumentaram 140,58% após o tratamento. Já no grupo sham, esse ganho foi de 57,65%. Através deste constatou-se que a EENM pode influenciar positivamente na simetria de pacientes hemiparéticos crônicos, podendo acarretar uma marcha mais satisfatória. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103288</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103291</identifier>
+<datestamp>2019-10-18T15:09:00Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"091209 2009                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Controle postural no envelhecimento: um estudo comparativo entre Brasil e Espanha</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fábio Marcon</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Riberto, Marcelo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-9549-8830</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ribeiro, Carla Paschoal Corsi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carreres, Maria Àngels Abril</subfield>
+<subfield code="u">Hospital Universitário Mútua de Terrassa, Universidade de Barcelona</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Figuera, Roser Garreta</subfield>
+<subfield code="u">Hospital Universitário Mútua de Terrassa, Universidade de Barcelona</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O envelhecimento traz consigo alterações nos sistemas sensoriais e músculo-esquelético, que juntos alteram o controle postural dos idosos. O objetivo deste estudo foi o de verificar e comparar o controle postural de idosos da cidade de São Paulo - Brasil, com idosos que vivem em Terrassa (Barcelona)- Espanha. Participaram da pesquisa, 36 idosos brasileiros (69,61±5,3 anos) e 33 idosos espanhóis (69,72±4,6 anos) considerados saudáveis, recrutados a partir de dois serviços de reabilitação. Os voluntários realizaram avaliações pertinentes ao controle postural por meio do teste Timed up and go e bateria de testes de Guralnik. Os dados foram analisados por meio do teste t e os resultados mostram que os grupos são semelhantes quanto a idade e a composição corporal, porém o grupo do Brasil apresentou melhores resultados nas duas avaliações realizadas quando comparado com o grupo da Espanha. Concluise que os indivíduos brasileiros deste estudo apresentaram melhor desempenho na realização dos testes sobre controle postural. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2009-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103291</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 16 n. 4 (2009)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2009 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103293</identifier>
+<datestamp>2019-09-30T14:19:35Z</datestamp>
+<setSpec>actafisiatrica:Edit</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Classificação dos periódicos no Sistema QUALIS da CAPES – a mudança dos critérios é urgente!</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Andriolo, Adagmar</subfield>
+<subfield code="u">Jornal Brasileiro de Patologia e Medicina Laboratorial</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Aécio Flávio Meireles</subfield>
+<subfield code="u">Revista GED</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Farias, Alberto Queiroz</subfield>
+<subfield code="u">Revista Arquivos de Gastroenterologia</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barbosa, Alfredo José Afonso</subfield>
+<subfield code="u">Jornal Brasileiro de Patologia e Medicina Laboratorial</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">França Netto, Antonio Spina</subfield>
+<subfield code="u">Revista Arquivos de Neuro-Psiquiatria</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Hernandez, Arnaldo José</subfield>
+<subfield code="u">Revista Brasileira de Medicina do Esporte</subfield></datafield>  <datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103293</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c)  </subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103302</identifier>
+<datestamp>2019-09-30T13:38:32Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação da confiabilidade interobservadores da volumetria das mãos em indivíduos sem alterações em membros superiores</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ribeiro, Renata Cristina Boffi</subfield>
+<subfield code="u">Universidade Federal de São Paulo. Escola Paulista de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lima, Simone Maria Puresa Fonseca</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carreira, Ana Cláudia Gomes</subfield>
+<subfield code="u">Universidade Federal de São Paulo. Escola Paulista de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Masiero, Danilo</subfield>
+<subfield code="u">Universidade Federal de São Paulo. Escola Paulista de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo. Escola Paulista de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The purposes of the present study were to evaluate the inter-tester reliability of the volumeter and to determine the normative index in adults of both genders and without any changes in their upper limbs. The sample was composed of one hundred individuals (200 hands), 50 women and 50 men, with ages between 21 and 50, and with uncompromised upper limbs. The volume of each subject’s hand was randomly measured through the volumetric method and the instrument used to evaluate them was a volumeter. This method was applied by 2 examiners and each patient was evaluated twice. Comparing the hands, gender, and examiners, we can observe that the mean of the right hands was always greater than that of the left hands, the mean volume of men’s hands was always greater than the women’s, and the mean of the second examiner was always greater than the first. From this analysis, considering values obtained with both examiners, we can notice that the final average was significant (p&lt;0.001) to the difference between the right and the left hand in the general population, for women and for men. We can conclude that the results statistically significant to the final averages of volumetry were: for women, right hand with 402.40ml and left with 397.15ml; for men, right hand with 516.10ml and left with 505.30ml, and, in the general population, right hand with 459.25ml and left hand with 451.23ml. We can also conclude that the results are cohesive and reliable. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103302</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2010 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103303</identifier>
+<datestamp>2019-09-30T13:42:39Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Correlação entre instrumentos para se avaliar independência funcional e nível de atividade física em crianças</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Freitas, Tatiana Beline de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sá, Cristina dos Santos Cardoso de</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Martins, Emerson Fachin</subfield>
+<subfield code="u">Universidade de Brasília</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Assessment tools to quantify functional independence and physical activity levels are particularly useful for making decisions and monitoring rehabilitation programs. There are many tools available to assess independence in children. However, such tools can be more or less responsive to independence conditions. The aim of this study was to verify the correlation between functional independence parameters and physical activity levels quantified by different assessment tools in 4 and 5 year-old children. For this, 20 children whose motor development was appropriate for their age were assessed by the following tools: (1) Pediatric Evaluation Disability Inventory (PEDI), (2) Evaluation Questionnaire of Independence Level for Daily Life Activities in 4 to 8 year-old children (Questionnaire), and (3) Physical Activity Questionnaire for Children (PAQ-C). Delineation of a Cross-sectional study was utilized, with the measurements taken at just one moment describing the variables and their distribution and association patterns. For that age group, only for the self-care functional skills assessed by PEDI, significant correlation was observed with the age indicating higher independence values for the older children. For all other PEDI categories and for the other tools utilized in this study, that independence-age correlation was not significant. Despite the independence-age correlation having not been found in infants assessed by the Questionnaire, other significant correlations were observed between the Questionnaire values obtained and some PEDI values. No significant correlations were observed between the PAQ-C values obtained and the other tools. In conclusion, some categories quantified by PEDI are not correlated with functional independence changes detected by other categories by the same tool. Still, the correlation between Questionnaire values and PEDI values was observed in just some categories assessed by PEDI. Finally, PAQ-C did not correlate with the other two tools, suggesting the need for a better investigation into the responsiveness of the measurements from psychometric studies. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103303</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2010 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103304</identifier>
+<datestamp>2019-09-30T13:47:18Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo descritivo do desempenho ocupacional do sujeito com doença de Parkinson: o uso da CIF como ferramenta para classificação da atividade e participação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nickel, Renato</subfield>
+<subfield code="u">Universidade Federal do Paraná</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pinto, Lauren Machado</subfield>
+<subfield code="u">Universidade Federal do Paraná</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lima, Andressa Pereira</subfield>
+<subfield code="u">Universidade Federal do Paraná</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Navarro, Elaine Janeckzo</subfield>
+<subfield code="u">Universidade Federal do Paraná</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teive, Helio Afonso Ghizoni</subfield>
+<subfield code="u">Universidade Federal do Paraná</subfield><subfield code="0">https://orcid.org/0000-0003-2305-1073</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Becker, Nilson</subfield>
+<subfield code="u">Universidade Federal do Paraná</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Munhoz, Renato Puppy</subfield>
+<subfield code="u">Universidade Federal do Paraná</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The International Classification of Functionality, Disability, and Health (ICF) which appears as a tool to classify and identify factors that, in addition to the state of health, interfere with the functionality of the subject performing activities. In this cross-sectional study we assess the occupational performance of 46 subjects diagnosed with Parkinson’s disease (PD) through the application of the Canadian Occupational Performance Measurement (COPM) and its classification in the areas of ICF. The activities most effected are, Social, Civic, and Community Life (32.6%), Mobility (26.1%), Personal Care (27.1%), Family Life (10.9%), and Learning and Application of Knowledge (8.7%). Information has also been gathered about gender, marital status, type of residence, need for assistance, the Hoehn &amp; Yahr Scale, rigidity profile, postural stability, age and length of illness. This data was not statistically significant (p &lt;0.05). However, in the correlation between variables studied, the fact that only the rigidity variable showed an average correlation of r-0, 452 (p &lt;0.01) was obtained through the non-parametric Spearman correlation test, with the five areas classified in the ICF. The importance of promoting and maintaining Community, Social, and Civic Life for subjects with PD and rigidity as an important component of their complaints in relation to occupational performance. The Health Model proposed by the ICF, along with the application of the COPM, were effective, allowing for correlation when the activity is the focus of evaluation, between functions and structures of the body and environmental and personal factors, with the difficulties of performance in carrying out activities. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103304</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2010 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103305</identifier>
+<datestamp>2019-09-30T13:51:58Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Ligação do King’s Heath Questionário com a Classificação Internacional de Funcionalidade, Incapacidade e Saúde, para avaliação de pacientes com incontinência urinária pós cirurgia oncológica ginecológica</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castaneda, Luciana</subfield>
+<subfield code="u">Centro Universitário da Cidade</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Plácido, Tiago</subfield>
+<subfield code="u">Instituto Nacional de Câncer</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Uterine cervix tumors are the second most common type of tumor among women in the world. In Brazil, 18,680 new cases were estimated for 2008. The treatment of choice for this type of cancer involves surgery, chemotherapy, and radiotherapy that encourage healing but, on the down side, impairments develop such as urinary incontinence. This incontinence appears as an early and common complication of the surgical treatment and involves deterioration in the quality of life, generating levels of morbidity, affecting psychological, occupational, domestic, physical, and sexual areas. To asses the quality of life in patients with incontinence there are several questionnaires in the scientific literature. Among them, the King’s Health Questionnaire (KHQ) is the most widely used as a research tool. In addition to accessing quality of life, the World Health Organization is advocating the use of the International Classification of Functioning, Disability and Health (ICF) as a tool for statistics, research, clinical and social policies, to provide a common language for the conditions related to health. The objective of this study is to establish a correlation between the KHQ and the ICF. The KHQ was correlated by two separate professionals, and followed by a discussion and conclusion of the coded domains. Twelve categories were found for body functions (b), 22 for activities and participation (d), and 4 for environmental factors (e), however, 7 significant concepts of the questionnaire could not be linked to the ICF. The KHQ has focused predominantly on issues related to activity and participation. This is a pilot study that needs more evidence to conclude its findings. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103305</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2010 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103306</identifier>
+<datestamp>2019-09-30T14:00:16Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Farmacologia de drogas vasoativas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Muri, Estela Maris Freitas</subfield>
+<subfield code="u">Universidade Federal Fluminense. Faculdade de Farmácia</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sposito, Maria Matilde de Mello</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Metsavaht, Leonardo</subfield>
+<subfield code="u">Instituto Brasil de Tecnologias da Saúde</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Peripheral vascular diseases (PVDS) are characterized as a circulation problem in the veins, arteries, and lymphatic system. The main therapy consists of changes in lifestyle such as diet and physical activity. The pharmacological therapy includes the use of vasoactive drugs, which are used in arteriopathies and venolymphatic disorders. The goal of this study was to research the scientific literature on the use and pharmacology of vasoactive drugs, emphasizing the efficacy of their local actions and administration. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103306</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2010 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103307</identifier>
+<datestamp>2019-09-30T14:09:10Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeitos secundários potencialmente desejáveis dos anestésicos locais</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Muri, Estela Maris Freitas</subfield>
+<subfield code="u">Universidade Federal Fluminense. Faculdade de Farmácia</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sposito, Maria Matilde de Mello</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Metsavaht, Leonardo</subfield>
+<subfield code="u">Instituto Brasil de Tecnologias da Saúde</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Despite the use of local anesthetics (LAs) having the primary purpose of producing nerve blockages by the inhibition of Na+ channels, the literature has shown that these agents may have additional pharmacological actions, also affecting the potassium and calcium channels and acting on intracellular mechanisms. Besides causing anesthesia, the LAs may act directly on other receptors and their signaling pathways which are involved in processes of inflammation, platelet activation, nociception, peripheral pain and arrhythmias, among others, increasingly seeking better clinical efficacy and safety, in addition to new and potentially useful properties for the LAs. Therefore, the aim of this study is to search the scientific literature and review the pharmacology and the additional potentially desirable effects of the LAs used in medical clinic. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103307</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2010 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103308</identifier>
+<datestamp>2019-09-30T14:22:35Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Lesões no judô: repercussão na prática esportiva</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Thiago de Sá</subfield>
+<subfield code="u">Universidade Castelo Branco</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Monnerat, Eduardo</subfield>
+<subfield code="u">Universidade Castelo Branco</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pereira, João Santos</subfield>
+<subfield code="u">Universidade Castelo Branco</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This study sought to verify the frequency of injuries during judo classes, the consequent time away from the practice of the sport, and the treatment used on judo athletes from gyms and clubs located in the city of Rio de Janeiro. Method: Thirty-five male athletes participated in the study, with ages between 8 and 30 years old, with a minimum involvement in the sport of 12 months. A validated and structured questionnaire was used for evaluation composed of 18 questions, both open and closed. Results and discussion: It was verified that the majority of the injuries occurred during the training process (82.86%) and most of the athletes remained away from the practice of the sport on average between 15 and 30 days. In relation to therapy, it was observed that anti-inflammatory medicines were being used more frequently (71.4%), followed by rest (62.9%), immobilization (60%) and ice locally (cryotherapy) (51.4%). This treatment was associated with physiotherapy in 40% of the injuries. Surgical interventions were needed in 14.3% of the cases. Conclusion: the occurrence of injuries during judo practice predominates in the training period, and most athletes can recover in less than one month having a conservative treatment as the main therapeutic choice. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103308</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2010 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103309</identifier>
+<datestamp>2019-09-30T14:15:05Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"100309 2010                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">O planejamento da reabilitação na fase aguda após o acidente vascular encefálico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cecatto, Rebeca Boltes</subfield>
+<subfield code="u">Hospital Israelita Brasileiro Albert Einstein</subfield><subfield code="0">https://orcid.org/0000-0001-5675-6665</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Almeida, Cristiane Isabela de</subfield>
+<subfield code="u">Hospital Israelita Brasileiro Albert Einstein</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The rehabilitation of patients with encephalic injuries is a process that seeks early recovery of the deficits and the preparation for reintegration into community life, with the best possible functional outcome, independence, and quality of life. This study aims to make it known to the Brazilian medical community the key-points referring to the rehabilitation programs specialized in the acute phase of an Encephalic Vascular Accident from the initial event until the transition back to community life. Based on their expertise, the authors made an analysis of 50 articles selected from the MEDLINE and the COCHRANE LIBRARY data bases, utilizing “Stroke” and “Rehabilitation” as descriptors, referring to patients older than 18 years, of both genders, in the period from 1990 to 2008, in the English, Portuguese, French, and Spanish languages More studies will be necessary in the future for the discussion of questions such as: measurements for quality of life, deficiency prognosis, stratification of the patients in relation to their response to rehabilitation, intensity, and duration of medium and long term rehabilitation, and measurements for the quality of rehabilitation services. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2010-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103309</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 17 n. 1 (2010)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2010 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<resumptionToken expirationDate="2023-08-08T14:50:07Z" completeListSize="935" cursor="325">f8cd1f0cd61e9abf95b6d92251f4e20c</resumptionToken>
+</ListRecords>
+</OAI-PMH> 

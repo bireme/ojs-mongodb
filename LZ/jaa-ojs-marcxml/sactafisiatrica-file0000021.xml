@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:50:18Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103866</identifier>
+<datestamp>2019-09-24T19:32:00Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo comparativo da reabilitação virtual e cinesioterapia em relação ao torque do joelho em idosos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barbanera, Márcia</subfield>
+<subfield code="u">Universidade São Judas Tadeu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rodrigues, Dayane Nunes</subfield>
+<subfield code="u">Universidade São Judas Tadeu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cardoso, Francini de Santana</subfield>
+<subfield code="u">Universidade São Judas Tadeu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Marco, André Lucas de</subfield>
+<subfield code="u">Universidade São Judas Tadeu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Franciulli, Patrícia Martins</subfield>
+<subfield code="u">Universidade São Judas Tadeu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Francica, Juliana Valente</subfield>
+<subfield code="u">Universidade São Judas Tadeu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mazuchi, Flávia de Andrade e Souza</subfield>
+<subfield code="u">Universidade São Judas Tadeu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bigongiari, Aline</subfield>
+<subfield code="u">Universidade São Judas Tadeu</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Aging causes a variety of neurological and psychomotor changes, such as decreases in muscle strength, proprioception, balance, and cognition, among other things. Therapeutic exercises help in reducing these deficits and contribute to functional improvement and quality of life. Objective: This study aimed to compare the effects of virtual rehabilitation and exercise therapy on knee torque among the healthy elderly. Method: The subjects were divided randomly into two groups: seven participants performed exercises with virtual rehabilitation composing the Virtual Rehabilitation group (RV) (69.7 ± 5.5 years, 71.8 ± 13.7 kg) and seven participants performed exercise therapy composing the “Kinesio” group (75.4 ± 5.7 years, 64.7 ± 17.2 kg). The torque of the knee extensor and flexor muscles was assessed with the Biodex System 3 isokinetic dynamometer. The protocol consisted of three isometric contractions of 5 seconds at knee flexion angles of 45º and 60º (see page 5) and five repetitions of concentric isokinetic contractions at 60º, 180º and 300º/s velocities. The treatment protocol was conducted for 3 months, with 50 minutes per session, twice a week. In the VR group, two modes of games were used, involving tasks of challenges and interactive feedback of body awareness. The Kinesio group performed the same virtual rehabilitation exercise protocol, but without video game stimulus. The ANOVA test was used for statistical analysis, followed by the post hoc Tukey HDS with a significance level of p &lt; 0.05. Results: The peak isokinetic concentric and isometric torques of knee extension and flexion were higher after intervention for both groups. Conclusion: Therefore, it can be concluded that conventional rehabilitation through exercise, as well as the innovative technique of virtual rehabilitation, are effective to increase extensor and flexor knee torque, which can help to reduce the incidence of falls among the elderly. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103866</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103867</identifier>
+<datestamp>2019-09-25T12:14:46Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">O perfil e as adaptações sexuais de homens após a lesão medular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Bianca Teixeira</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Torrecilha, Larissa Amaral</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Paloco, Simone Antunes</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Spricigo, Joice Maria Victoria de Assunção</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Roger Burgo de</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Suhaila Mahmoud Smaili</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Spinal cord injury (SCI) refers to any type of injury to the neural elements of the spinal canal, resulting in countless damages, one of them being the change in patterns of sexual response, conditioned by physical, psychological, and social aspects. Due to these changes, patients need to make adjustments to maintain sexual activity. Objective: To verify the sexual profile and adaptations of men after SCI and to associate the neurofunctional diagnosis with sexual frequency, erection, use and type of adaptation, and the use of adaptation with sexual frequency and sexual satisfaction. Method: Cross-sectional study with 36 men with spinal cord injuries. They were interviewed with the (QSH-LM) questionnaire. Results: The mean age was 36.64 years old with the majority of injuries stemming from traffic accidents, resulting in paraplegia or complete injury. After the SCI, 52.8% of the subjects remained married, 75.5% maintained sexual activity, whereas 44.4% have less than one intercourse/week, 80.6% are sexually satisfied, 50% have erection, 38.9% ejaculation, and 44.4% orgasm. Regarding the use of adaptations to achieve and maintain an erection, 61.1% of the subjects use them, 25.5% because they fail to maintain an erection and 22% have opted for the penis ring. There was a significant association between paraplegics who use adjustments more frequently and prefer the penis ring and patients who use sexual adaptations having greater sexual frequency and being sexually satisfied (p = 0.02). Conclusion: Through this work it is possible to know the sexual profile of patients after SCI and the most used sexual adaptations. These results support the information that might assist healthcare professionals to monitor and guide their patients properly. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103867</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103868</identifier>
+<datestamp>2019-09-25T12:28:34Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Redução da força muscular respiratória em indivíduos com artrite reumatoide</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Weber, Fernanda Matos</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Iop, Rodrigo da Rosa</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Shiratori, Ana Paula</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Domenech, Susana Cristina</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Borges Júnior, Noé Gomes</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gevaerd, Monique da Silva</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To evaluate the respiratory muscle strength in patients with rheumatoid arthritis (RA) compared to healthy subjects and to correlate it with the level of disease activity (DAS- 28) and body mass index (BMI). Method: A cross-sectional study evaluated 18 women (57.94 ± 10.36 years); eight had RA (RA group) and ten were healthy subjects (control group), matched by age. All patients underwent the following evaluations: registration form (identification and clinical data), physical examination (weight, height, and BMI), DAS-28, dosage of C-reactive protein (CRP), and measurement of MIP and MEP with a manometer. Results: There were significant differences between the RA and control groups in relation to the MIP (-46.25 ± 17.67 vs. cmH2O -81.00 ± 19.69 cm H2O) and MEP (58.75 cmH2O ± 17.26 vs. 78.00 ± 6.32 cmH2O). Also there was difference between RA group and predicted age values in relation to the MIP (-46.25 ± 17.67 vs. -81.06 ± 4.11 cmH2O) and MEP (58.75 cmH2O ± 17.26 vs. 78.92 ± 5.33 cmH2O). Moreover, a significant correlation was observed between MEP and BMI. There was no significant correlation between MIP - CRP, DAS- 28 and BMI, and between MEP - DAS and CRP. Conclusion: This data reinforces the systemic nature of RA and points out the need for a comprehensive assessment of the patient, not just focusing on the articular component, but also checking the strength of the respiratory muscles of these individuals to determine more specific therapeutic strategies of treatment. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103868</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103869</identifier>
+<datestamp>2019-11-26T14:33:36Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Terapia de ultrassom e estimulaçao elétrica transcutânea neuromuscular para a tratamento do linfedema de membro superior pós-mastectomia</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sousa, Marisa Augusta Gomes de</subfield>
+<subfield code="u">University of São Paulo School of Medicine</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cecatto, Rebeca Boltes</subfield>
+<subfield code="u">University of São Paulo School of Medicine</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Chennyfer Dobbins Paes da</subfield>
+<subfield code="u">Universidade Nove de Julho - UNINOVE</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brito, Christina May Moran de</subfield>
+<subfield code="u">University of São Paulo School of Medicine</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">University of São Paulo School of Medicine</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: This article aims to assess the effect of transcutaneous electrical stimulation or ultrasound therapy in the treatment of post-mastectomy upper limb lymphedema. Method: A systematic literature review was performed from 1980 to 2012 from the MedLine, Cochrane Library, LILACS and SciELO databases. The terms used in the search were (breast neoplasm OR breast cancer OR lymphedema) and (hyperthermia, induced OR diathermy OR ultrasonic therapy OR ultrasound OR transcutaneous electrical nerve stimulation OR TENS). The selections of the studies concerned female patients with post-mastectomy upper limb lymphedema who underwent diathermy by ultrasound therapy and transcutaneous electric nerve stimulation. Only randomized (RCT) and quasi-randomized study designs were included (both Narrow and Broad Therapy). Only studies published in the full paper format were included. After reviewing the 2,158 abstracts resulting from the search, only two papers were selected. Two researchers analyzed the two articles, using the Van Tulder and JADAD scales for quality assessment. Results: Both papers evaluated the use of ultrasound therapy and electric stimulation for treatment of post-mastectomy lymphedema. A total of 132 subjects were included in these two studies, and little improvement was observed in pain reduction or quality of life. Only the study using ultrasound therapy identified a small reduction in lymphedema symptoms; however, evidence supporting the application of this method is lacking. Conclusion: Further studies are needed to evaluate the use of ultrasound therapy or electrotherapy for treatment of post-mastectomy lymphedema and to evaluate the potential effect of these therapies on later development of metastatic disease. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103869</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103870</identifier>
+<datestamp>2019-11-26T14:38:32Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Uso do teste de caminhada de seis minutos para avaliar a capacidade de deambulação em pacientes com acidente vascular cerebral</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Daniel, Christiane Riedi</subfield>
+<subfield code="u">Universidade Estadual do Centro-Oeste - UNICENTRO</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">University of São Paulo Medical School</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The 6-minute walk test (6MWT) measures the maximum distance that a person can walk in 6 minutes. The test is gaining popularity because it assesses the functional capacity of different patients and is considered a simple, safe, valid, inexpensive, and noninvasive cardiopulmonary test. Objective: The aim of this review was to investigate the applicability of the six-minute walk test in stroke survivors. Method: A literature search of MedLine (PubMed) databases dating from January 1, 2000 to April 16, 2013 was performed. The search terms used were stroke (or cerebrovascular accident or hemiplegia) and walking (mobility limitation). Author number one reviewed the titles and/or abstracts of displayed articles and determined their relevance to this review. Full text copies of relevant articles were obtained. Reference lists were screened for identification of other relevant articles. Only articles written in English were included in this review. Results: The 31 included studies were divided into 9 randomized controlled trials, 2 case-control studies, 5 prospective studies, and 15 cross-sectional studies and involved 1,824 surviving stroke patients, 146 healthy controls, and 38 Multiple Sclerosis patients. Conclusion: The 6MWT is useful in evaluating de functional capacity of patients with stroke, however, it should be used along with other assessment tools to determine the general profile of these patients. More studies are necessary to verify the factors that influence the test results and as a way to supplement them. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103870</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103873</identifier>
+<datestamp>2019-09-25T12:54:50Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Toxina Botulínica Tipo A para bruxismo: análise sistemática</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sposito, Maria Matilde de Mello</subfield>
+<subfield code="u">Instituto de Reabilitação Lucy Montoro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Stephanie Alderete Feres</subfield>
+<subfield code="u">Faculdade de Ciência de Guarulhos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To systematize the scientific evidence on the efficacy of botulinum toxin type A in the treatment of bruxism. Method: A bibliographical search was made by researching the PubMed Central Journals and Allergan Products Literature (APL) - botulinum toxin within the last 10 years, with the following descriptors: “bruxism,” “botulinum toxin,” and “treatment”. The methodological quality of the studies was evaluated by the Jadad Scale. Results: Two studies of double blind randomized clinical trials were selected. The two clinical studies showed that the application of botulinum toxin could diminish levels of pain, lower the frequency of occurrences of bruxism, and satisfy the patients in terms of efficacy of the botulinum toxin in this pathology, in addition to having no important adverse effects. Thus, the treatment with botulinum toxin type A could present itself as one possible treatment for patients with bruxism. Conclusion: More studies are needed that follow the quality criteria to reach a definitive conclusion about efficacy and safety. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103873</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103879</identifier>
+<datestamp>2019-09-25T13:02:25Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Protocolo de estimulação motora à criança e ao adolescente dos 4 aos 17 anos de idade do ambulatório de cuidado à pessoa com síndrome de Down</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mota, Cristiane Gonçalves da</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cardoso, Cristiane Vieira</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cavalcante, Leandro Lanchotti</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ardelino, Ednaldo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Miyahara, Katia Lina</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tempski, Patricia Zen</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The motor development stage is the period in which children explore their motor skills and, depending on the stimulation of the environment and the proposal of tasks, they may achieve a satisfactory global development. Children with Down’s Syndrome can achieve satisfactory and even adequate development for their chronological age if they receive the appropriate stimulation, even if late in acquiring motor skills. In adolescence, the work of motor development should be continued with specialized activities such as sports so that the development acquired is maintained and refined. The objective of this article is to present the motor stimulation program developed at the HCFMUSP Physical Medicine and Rehabilitation Institute. It is believed that an appropriately structured motor stimulation program for children and adolescents with Down’s Syndrome acts as an important means of intervention to provide the proper development of essential and specialized motor skills. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103879</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103880</identifier>
+<datestamp>2019-10-15T11:43:01Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Validação do Questionário “Life Space Assessment - LSA” em um grupo de pacientes hemiplégicos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Estima, Ana Eduarda Marques Seixas</subfield>
+<subfield code="u">Associação Brasileira Beneficente de Reabilitação - ABBR</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dutra, Bruna Motta Taulois</subfield>
+<subfield code="u">Associação Brasileira Beneficente de Reabilitação - ABBR</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Martins, José Vicente Pereira</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro - UFRJ</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Franzoi, Ana Cristina Oliveira Bruno</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro - UFRJ</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The mobility of a hemiplegic patient is an interaction between their functional ability and external factors. The “Life Space Assessment” (LSA) questionnaire is a tool that assesses their mobility on 5 levels. Objective: To validate the LSA in a population of stroke survivors in physical therapy at a rehabilitation center, correlating it with measures of physical performance. Method: Instruments used in concurrent validation: Timed Up and Go Test (TUG), Postural Assessment Scale (PASS), Rivermead Mobility Index. Statistics: Descriptive, Spearman Index and Intra Class Correlation (ICC). Results: Thirty hemiplegic patients were assessed (73% male, mean age 58.6 years, mean time since injury 1.9 years). The LSA correlated significantly (p &lt; 0.01) with age, TUG, PASS, and Rivermead. Inter-rater agreement: ICC 0.941 Intra-rater agreement 0.981. Conclusion: The LSA was valid in a population of chronic stroke survivors, with excellent intra and inter-rater correlation measures, correlating significantly with measurements of body structure, function, and motor activities (TUG, PASS, and Rivermead). </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103880</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103893</identifier>
+<datestamp>2019-10-15T11:46:22Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Alterações socioeconômicas e familiares de pacientes com hemiparesia decorrentes de acidente vascular encefálico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Placeres, Aline Ferreira</subfield>
+<subfield code="u">Faculdade de Medicina de São José do Rio Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bianchin, Maysa Alahmar</subfield>
+<subfield code="u">Faculdade de Medicina de São José do Rio Preto</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A stroke is considered a disease of great social impact that causes major disruptions such as job loss, decreased income, and changes in occupational roles; it can become a serious family problem. Objective: To analyze the changes in work and family caused by hemiparesis in patients who have experienced a stroke. Methods: This is a quantitative study involving 30 patients with hemiparesis due to stroke in the Hospital de Base of São José do Rio Preto. The instruments used were the identification form containing their name, age, gender, and current and previous occupation, among other things, along with a questionnaire adapted by the Occupational Therapy service with ten closed questions where the participant could respond either “yes” or “no.” Results: The research showed that before having the stroke, 87% of the participants were working and receiving a salary, and after the stroke none had any paid activity. The family relationships of those impaired for a longer time suffered more than of those who were impaired for a shorter time. Conclusion: This study found that patients with hemiparesis due to stroke may undergo changes in industrial, socioeconomic, and family relationships. This data is relevant so that health professionals can assist the return of these subjects to occupational activities after a stroke. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103893</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103894</identifier>
+<datestamp>2019-10-15T11:55:40Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação do índice de sobrecarga de cuidadores primários de crianças com paralisia cerebral e sua relação com a qualidade de vida e aspectos sócioeconômicos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferreira, Mariana Ceravolo</subfield>
+<subfield code="u">Centro de Orientação, Reabilitação e Assistência ao Encefalopata</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Di Naccio, Brunna Loureiro</subfield>
+<subfield code="u">Associação Pestalozzi de Goiânia</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Otsuka, Myssao Yumi Costa</subfield>
+<subfield code="u">Centro de Orientação, Reabilitação e Assistência ao Encefalopata</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barbosa, Aurélio de Melo</subfield>
+<subfield code="u">Universidade Estadual de Goiás</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Corrêa, Paulo Fernando Lôbo</subfield>
+<subfield code="u">Faculdade Alfredo Nasser</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gardenghi, Giulliano</subfield>
+<subfield code="u">Hospital ENCORE</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Children with Cerebral Palsy (CP) present a permanent disturbance of posture and movement, characterized by a motor loss that causes difficulty in the execution of day-to-day activities and a consequent occupational dependence. Therefore, the task of assisting children with CP can lead to the caregivers’ tiredness, isolation, and stress, also generating a physical and emotional burden and a possible decrease in the quality of life of this population. Objective: To evaluate the burden on the primary caregivers of children with CP, comparing the quality of life and the age between caregivers with and without excessive burden, as well as to compare the economic class and work status variables to the burden variable. Method: The study was characterized as analytical and transversal. There were 31 primary caregivers of children from 0 to 18 years old with a CP diagnosis who participated in the study. The instruments utilized in the research were a socio-demographic questionnaire designed to characterize the sample, the questionnaire from the Associação Brasileira de Empresas de Pesquisa (ABEP) for economic classification, the Medical Outcome Study 36 (SF-36) for the assessment of the caregivers’ quality of life, and the Zarit Burden Interview (ZBI) to assess the caregiver’s subjective and objective burdens. Results: The results pointed out that 67.7% of the caregivers presented burden and that the averages of some domains of the SF-36 (“limitation by physical aspects”, “pain”, “vitality” and “limitation by social aspects”) for this group were significantly smaller than for the group with no burden. There was no statistically significant association in the chi-square test between the socioeconomic class of the caregivers and the burden and between the work status and the burden. Conclusion: The presence of burden on caregivers of children with CP is related to a lesser quality of life, but the burden was not associated with the caregiver’s age, work status, or economic class. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103894</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103895</identifier>
+<datestamp>2019-10-15T12:05:55Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Análise comparativa da flexibilidade de mulheres idosas ativas e não ativas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Zambon, Thiago Barbosa</subfield>
+<subfield code="u">Universidade Metodista de Piracicaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gonelli, Pamela Roberta Gomes</subfield>
+<subfield code="u">Universidade Metodista de Piracicaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gonçalves, Rodrigo Detone</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Borges, Bruno Luis Amoroso</subfield>
+<subfield code="u">Universidade Metodista de Piracicaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Montebelo, Maria Imaculada de Lima</subfield>
+<subfield code="u">Universidade Metodista de Piracicaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cesar, Marcelo de Castro</subfield>
+<subfield code="u">Universidade Metodista de Piracicaba</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> With aging there comes a decline in physical fitness, including decreasing flexibility, and the practice of physical activity by older adults is an important factor for maintaining health and physical fitness during the aging process. Objective: To compare the flexibility of elderly women who practice either hydrogymnastics or combination exercise training with those who are not active. Sixty females participated in the study, aged between 60 and 80 years and divided into three groups: 20 subjects who actively practiced hydrogymnastics (G1), 20 subjects who actively practiced combination exercise training (G2), and 20 subjects who were not-active (G3). Methods: The subjects underwent anthropometric measurements consisting of weight, height, waist circumference, and flexibility. Measurements were taken with distance reached in the sit and reach test and the extent of flexion and hip extension by means of a goniometer. The assumptions of normality using the Shapiro-Wilk test for comparison between groups (G1, G2, G3) were checked, the one way ANOVA test, followed by the Tukey post hoc for the data with parametric distribution, and the Friedman test for samples with non-parametric distribution were performed. A significance level of p &lt; 0.05 was assumed. Results: The anthropometric variables revealed no significant differences between groups. In the analysis of flexibility, significant differences were found in hip flexion and extension; the G1 and G2 groups showed greater values than the G3, and there were no significant differences between G1 and G2 nor between groups. Conclusion: The results suggest that hydrogymnastics and combination exercise training provided improvements in flexion and hip extension in elderly women, with no influence on the other variables studied. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103895</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103896</identifier>
+<datestamp>2019-10-15T12:14:09Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Lesão muscular induzida por eletroestimulação neuromuscular (EENM) com frequências de 30 Hz e 100 Hz</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Marina Tessarolo</subfield>
+<subfield code="u">Universidade de Santo Amaro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Medeiros, Wladimir Musetti</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Neuromuscular electrical stimulation (NMES) is the action of therapeutic electrical stimulation on muscle tissue in order to contract the muscle and consequently improve the muscle status. Objective: To evaluate the muscle damage stemming from isometric muscle contraction induced by NMES of low frequency (30 Hz) and high frequency (100 Hz). Methods: Experimental crossover study, randomized, unblinded. The study included 10 male college students, age 24.4 ± 6.0 years, weight 77.1 ± 11.8 kg, height 176.1 ± 5.6 cm, and BMI of 24.8 ± 3 4 kg/m2. Two protocols (A) and (B) with an interval of 7 days between them. (A) - 20 minutes of NMES in the quadriceps at a frequency of 30 Hz (B) - 20 minutes of NMES at a frequency of 100 Hz. Measured lactate, creatine phosphokinase and lactate dehydrogenase before, immediately after, and 6 and 48 hours after the protocols. Results: Comparing 30 Hz vs. 100 Hz the following were observed: lactate (23.7 ± 6.7 vs. 13.4 ± 3.0 mg/dl, p = 0.001); CPK (195.4 ± 116.1 vs. 262.9 ± 153.6 IU, p = 0.022); LDH (374.3 ± 64 vs. 366.6 ± 84.1 IU, ns). The perception of contractile efficiency decreased significantly (p = 0.016) in the 100 Hz Protocol. Conclusion: Both the low-frequency NMES (30 Hz) and the high-frequency (100 Hz) elevate blood markers of muscle damage, most strikingly at the higher frequency. However, the achieved values reflect a normal response to a moderate-intensity exercise. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103896</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103897</identifier>
+<datestamp>2019-10-15T12:54:28Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Disfagia orofaríngea na doença de Chagas crônica: avaliação fonoaudiológica, videofluoroscópica e esofagomanométrica</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cabral, Danielly Moreira Gonçalves</subfield>
+<subfield code="u">Hospital Universitário Clementino Fraga Filho</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Abrahão Júnior, João Luiz</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Marques, Charles Henrique Dias</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pereira, Basílio de Bragança</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pedrosa, Roberto Coury</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To determine the frequency of episodes of laryngeal penetration and aspiration in chronic Chagas patients and to evaluate the interpreted relationship not only with the patterns displayed in videofluoroscopy and manometry, but also with clinical screening and structural and functional phonoaudiological evaluation. Method: Clinical and phonoaudiological (structural and functional) evaluation, fluoroscopy, and computed manometry were performed on all patients. Results: Twenty-two patients were included in the study, fifteen females and seven males. Age ranged between 37 and 70 years, mean 55.9 ± 10.2 years. Among the complaints in clinical screening, 18.2% were choking, 13.6% reported throat-clearing, 40.9% heartburn, 22.7% regurgitation, and 36.4% had the sensation of food stuck in the throat. Only 18.2% of patients had adequate dentition. Functional assessment of swallowing detected only 31.8% capable of functional swallowing. In videofluoroscopy, lingering residues were found in the pharynx in 18.2% of cases, followed by multiple swallows 95.4% and 100% posterior escape. There were 4 cases of grade 2 laryngeal penetration (dysphagia) and, in 82% of cases, the findings were similar for the non-occurrence of laryngeal penetration in the videofluoroscopy and in the functional assessment of swallowing. The apertures of the upper esophageal sphincter indicated a relationship with the volume of swallowed bolus. In the manometry, 42.1% of changes were found in the body of the esophagus and 5.3% in the pharynx. Conclusion: Laryngeal penetration was prevalent in 18.2% of cases with an important interpretation of the functional relationship between clinical assessment and videofluoroscopic findings regarding the absence of laryngeal penetration, with similar results in 82% of cases. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103897</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103898</identifier>
+<datestamp>2019-10-15T13:00:55Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Escalada terapêutica: uma possibilidade de intervenção para crianças com paralisia cerebral</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Koch, Huayna Gabriel Barrios</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Peixoto, Gabriela de Oliveira</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Labronici, Rita Helena Duarte Dias</subfield>
+<subfield code="u">Faculdade de Medicina do ABC - FMABC</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Natália Cristina de Oliveira Vargas e</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fabio Marcon</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Portes, Leslie Andrews</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Therapeutic climbing, an adaptation of sport climbing, can promote improvements in motor coordination, balance, and muscle endurance. Objective: The aim of this study was to evaluate the effects of this intervention on handgrip strength, postural control, functional mobility, and the spasticity control of children with cerebral palsy. Method: Case series study with 7 patients with a mean age of 9.6 ± 3.7 years, who took part in 1-hour sessions of therapeutic climbing twice a week. Results: After 19 sessions, there was an increase in handgrip strength of the right hand (p = 0.022) and improvement in static balance and gait (p = 0.007). Functional mobility also improved significantly (p = 0.014). The score on the Ashworth modified scale showed an efficient control of spasticity, although the difference has not reached statistical significance. Conclusion: Therapeutic climbing improved the handgrip strength, postural control, and functional mobility of patients. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103898</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103899</identifier>
+<datestamp>2019-10-15T13:05:41Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeitos do treino de marcha com assistência robótica em pacientes pós - acidente vascular encefálico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ronchi, Juliana Morales</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castro, Pedro Cláudio Gonsales de</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moreira, Maria Cecília dos Santos</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Stroke patients present significant gait deficits due to the complexity of their disabilities. Robot-assisted gait training (RGT), in addition to reducing the therapist’s physical overload, ensures a simpler and safer environment for gait training, in which symmetrical and constant movement patterns of the lower limbs can be developed at higher speeds, and allows for a longer therapy session. Despite an increasing use of this equipment in rehabilitation, there is a lack of knowledge about the effects that can be promoted in paretic gait, as well as the training protocols applied to achieve them. Objective: Thus, this study aimed to assess the current evidence for efficacy of RGT in post-stroke individuals, with emphasis on gait performance. Method: For this, a survey of studies published in the last 10 years (2003-2013) with the terms “stroke” and “gait” and “robotics” was conducted in the PubMed, MedLine and LILACS databases. Results: Five studies were selected that met the inclusion criteria, including using the Lokomat robotic device (Hocoma, Volketswil) for gait training in post-stroke patients. The results obtained for each study considered the gains in linear gait parameters (speed and distance traveled) promoted by robotic therapy compared to conventional therapy. Conclusion: The data suggest that the use of robotic therapy in gait rehabilitation of post-stroke patients does not produce any more gains than those obtained with conventional therapy. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103899</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103900</identifier>
+<datestamp>2019-10-15T13:09:44Z</datestamp>
+<setSpec>actafisiatrica:Rel.+Caso</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeito da fotobiomodulação no músculo masseter de criança com paralisia cerebral: relato de caso</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Maria Teresa Botti Rodrigues</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pinto, Marcio da Silva</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nascimento, Karla Santos do</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Maciel, Simone Carazzato</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Spasticity causes stiffness in the masticatory muscles of individuals with cerebral palsy (CP), affecting the amplitude of mouth opening, making oral hygiene conditions difficult and predisposing these individuals to the risk of developing oral diseases. Objective: To evaluate the effect of a low-intensity photobiomodulation diode laser on the thick part of the masseter muscle in a child with spastic type CP. Method: The caregiver reported that the child had great difficulty in performing the oral hygiene, making avoidance movements of the head when the toothbrush touched the mucosa of the upper molar region in the mouth. The mother described the child’s discomfort as extreme. The first ultrasound evaluation was performed at the first appointment, and the second evaluation after 6 sessions of photobiostimulation. The low-intensity Infrared Laser Diode, Ga-As-Al, was employed (λ = 808 ± 3 nm, 120 mW; Twin Flex Evolution Laser MMOptics São Paulo, Brazil), using 5.0 J/cm2 dose energy/location, with 20 seconds exposure/site. The area of the masseter muscle was bilaterally irradiated towards the midpoint of its length and width. Six sessions were performed, with an interval of 7 days between them. Results: At the end of the sixth session of photobiostimulation, the mother reported that the child slept better, had reduction in involuntary movements performed by the jaw, and oral hygiene was possible now with no painful expression of the child. During palpation there was less stiffness in the bilateral masseter and an increased masseter thickness and increase in the amplitude of the mouth opening of 7 mm. Conclusion: The diode laser photobiostimulation appears to be effective in reducing spasticity in the masseter muscle of children with spastic type CP. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103900</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103901</identifier>
+<datestamp>2019-10-15T13:19:33Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150309 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A clínica da dor crônica como ninho de pacientes difíceis: o papel da identificação projetiva</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Solano, João Paulo Consentino</subfield>
+<subfield code="u">Centro Universitário São Camilo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Difficult patients - or those with difficult personalities - are frequently encountered in the treatment of chronic non-oncologic pain, overburdening the doctor-patient relationship far beyond the complexities of their illness and treatment. The present review/experiential report discusses the role that projective identification, as a psychological process of communication, puts the doctor-patient relationship in within the multi-professional chronic pain team. The concepts of projective identification are reviewed both in their benign and their malignant forms. Two clinical vignettes exemplify each of them. Some situations in the setting of doctor-patient communication are presented in which projective identification appears and complicates the therapeutic relationship. Some recommendations are offered regarding the handling of patients that communicate mainly by means of projective identification, and some ideas are offered to the multi-professional team. In our chronic pain clinic, difficult patients as a whole seem to prefer to communicate by means of a malignant form of projective identification and present with immature types of personality organizations. Within the chronic pain teams, doctor-patient relationships (as well as relations among the professionals) can be enriched if projective identification is detected early and appropriately handled. Long-term psychotherapy is the treatment that should be chosen for such patients. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103901</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 1 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/114476</identifier>
+<datestamp>2019-09-27T13:09:47Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120309 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação dos grupos musculares adutores e abdutores do quadril por meio da dinamometria isocinética</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lourencin, Fábio Teodoro Coelho</subfield>
+<subfield code="u">Faculdades Integradas de Bebedouro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Macedo, Osmair Gomes de</subfield>
+<subfield code="u">Universidade de Brasília - UnB</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Scarpellini, Ennio da Silveira</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Greve, Júlia Maria D’Andrea</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Instituto de Ortopedia e Traumatologia do Hospital das Clínicas</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To evaluate the activity of the adductor and abductor muscle groups of the hip in young adults by using an isokinetic dynamometer. Method: 20 male volunteers were selected, with ages varying between 21 and 30 years for evaluation on a Cybex 6000 isokinetic dynamometer, at angular speeds of 60°/s and 120°/s. Results: In relation to the dominance, it did not show any statistically significant differences at the two studied speeds. At these two speeds the maximum torque, the total work, and the average power presented statistically significant differences in all the comparisons. Comparing the muscle groups revealed statistically significant differences for the total work, with higher average values in the abductor muscle group studied at both speeds and the average power found higher mean values at 120°/s in the same muscle group. Conclusion: There was no statistically significant difference in relation to dominance. When comparing speeds, all variables showed a statistically significant difference in the prevalence of maximum torque and total work at 60°/s and average power at 120°/s. The statistical comparison between muscle groups showed significant differences for the total work at both speeds and the average power at a rate of 120°/s </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/114476</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 1 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/114497</identifier>
+<datestamp>2019-10-14T16:54:00Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150609 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Comparação da função motora em solo e imersão de pacientes com distrofia muscular de Duchenne em acompanhamento fisioterapêutico: follow-up de 2 anos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferreira, Adriana Valéria Silva</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Goya, Priscila Santos Albuquerque</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferrari, Renata</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Durán, Martina</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Franzini, Roberta Vieira</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Caromano, Fátima Aparecida</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade deMedicina. Laboratório de Fisioterapia e Comportamento</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Favero, Francis Meire</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Laboratório de Fisioterapiae Comportamento</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Acary Souza Bulle</subfield>
+<subfield code="u">Universidade Federal de São Paulo.  Setor de Investigação em Doenças Neuromusculares</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The treatment for patients with Duchenne Muscular Dystrophy (DMD) is multidisciplinary. It is necessary to understand the effects of activities performed on dry ground as well as waterimmersed to allow the development of intervention protocols. Objective: To compare the motor function of children with DMD in physiotherapy carried out on the ground and immersed over a 2-year period. Method: A retrospective study, assisted by the Brazilian Association of Muscular Dystrophy (ABDIM), of 23 patients diagnosed with DMD, 8-24 years of age. We collected assessment data both water-immersed (adaptation to the water, bipedalism, sitting position, cross and longitudinal rotation, swimming, and running) and on the ground (Egan Klassifikation Scale and Vignos Scale) over a 2-year period. Results: Analyzing the ratings between semesters during the 2-year period, there were differences in the performance of water-immersed activities (p &lt; 0.001) and there was no difference on the Egan Klassifikation Scale (p &lt; 0.003) or the Vignos Scale (p &lt; 0.012). Conclusion: Due to the physical properties of the water, patients either improved or maintained their scores for motor function in water immersion. However, their scores for the Egan Klassifikation and the Vignos scales, which represent motor function on the ground, diminished </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/114497</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 2 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/114498</identifier>
+<datestamp>2019-10-14T17:04:27Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150609 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Traumatismo crânio encefálico e suas implicações cognitivas e na qualidade de vida</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Arruda, Bruna Petrucelli</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Akamatsu, Patricia Yumi Funagoshi</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Xavier, Andreza Pereira</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Regina Celia Villa</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira-Alonso, Gláucia Somensi de</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Madaleno, Iracema Maceira Pires</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Traumatic brain injury is one of the main causes of mortality in children or young adults. Patients with moderate or severe TBI can present motor, cognitive, emotional, behavioral, and social functionality sequelae, causing an adverse impact on the individual, his family, and on society. Objective: To investigate the impact that severe traumatic brain injury caused to the life of patients who suffered the injury during childhood and youth, considering cognitive, emotional, and quality of life questions, as well as, to verify whether there are differences with respect to age at the time of injury. Method: A quantitative, qualitative, cross-sectional study carried out at the Ibirapuera unit of the Rehabilitation Center of the Association for Assistance to Disabled Children (AACD). Thirteen patients with severe traumatic brain injury from São Paulo state, participated in the study between January of 2010 and March of 2014. The instruments utilized were: a sociodemographic questionnaire, the Short Form Health Survey (SF-36), the Raven’s Progressive Matrices, and the Pfister Colored Pyramid Test. The data collected were evaluated in the overall sample and then divided into two groups based on their age at the time of injury, with group 1 (3 to 7 years and eleven months old) and group 2 (8 to 16 years and eleven months old). Results: On the Raven’s test, 76.9% of the participants showed signs of mental impairment. All participants had a good quality of life assessment. In the emotional aspects, there was good adaptability and interaction. Upon comparison, there was no difference between groups. Conclusion: The results were consistent with studies that indicate cognitive impairment and good perception of quality of life </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/114498</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 2 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/114500</identifier>
+<datestamp>2019-10-14T17:12:55Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150609 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação da força de preensão e amplitude de movimentos dos membros superiores em pacientes com mucopolissacaridose VI</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Medeiros, Jéssica Nayara Silva de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Bárbara Bernardo Rinaldo da</subfield>
+<subfield code="u">Associação Pernambucana de Mucopolissacaridose</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Queiroz, Daniel da Rocha</subfield>
+<subfield code="u">Faculdade IBGM</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cattuzzo, Maria Teresa</subfield>
+<subfield code="u">Universidade de Pernambuco</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Soares, Karen Maciel Sobreira</subfield>
+<subfield code="u">Faculdade Estácio do Recife</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: The present study aims to evaluate the grip strength and range of motion of the upper limbs of patients with Mucopolysaccharidosis VI in order to observe how these factors can affect and correlate with the activities of daily living. Methods: The sample consisted of 13 patients: 8 males and 5 females, with a mean age of 17.76 years, mean weight of 31.30Kg, and a mean height of 1.17m, who agreed to participate and who met the inclusion criteria. The study was conducted in the state of Pernambuco at the Inborn Errors of Metabolism Treatment Center (Centro de Tratamento de Erros Inatos do Metabolismo), located at the Integrative Medicine Institute (Instituto de Medicina Integral) Prof. Fernando Figueira (IMIP). Range of motion (ROM) measurements of their upper limbs and manual grip strength were collected, and the subjects answered a structured questionnaire. Results: In this study the flexion of the shoulder joint that had the greater impairment mostly did not follow this pattern, since the average ROM for the left arm was 90.38 and 93.38 for the right. The ROM found to be the farthest below the predicted average in the study was for wrist extension in both the left and right limbs. In grip strength assessment, only one individual measured above the predicted average, 9 (69.21%) showed a degree of strength between 0 and 2 pounds (lb) in the right hand and 8 (61.52%) in the left. Conclusion: This study hopes to serve as a means of monitoring the evolution of MPS VI , which can support new studies, evaluation protocols, and motor rehabilitation. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/114500</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 2 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/114503</identifier>
+<datestamp>2019-10-14T17:19:51Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150609 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Adaptação transcultural da Motor Assessment Scale (MAS) para o Brasil</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Wanderley, Elaine Lima Silva</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira-Salmela, Luci Fuscaldi</subfield>
+<subfield code="u">Universidade Federal de Minas Gerais</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Laurentino, Glória Elizabeth</subfield>
+<subfield code="u">Universidade Federal de Pernambuco</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Simões, Luan César</subfield>
+<subfield code="u">Faculdade Estácio do Rio Grande do Norte</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To make a cross-cultural adaptation of the MAS for Brazil. Method: The process of cross-cultural adaptation took place in five stages: 1) translation of the original version of the MAS by two independent bilingual translators; 2) synthesis of translations (creation of version 1); 3) back-translation (version 1 in Portuguese was reversed to English by two independent bilingual translators); 4) analysis by the specialists committee (four translators and two physiotherapists); 5) pre-test (application of the instrument in the target population). A Delphi study was also performed and the instrument was submitted to the approval of ten physiotherapists from different states in the country. Results: The consensus about the clarity, semantic equivalence, and technicalscientific relevance of MAS-Brazil was obtained in the second phase of the Delphi study, with agreement between 80 and 100%. In the first phase of the Delphi study, suggestions were made to improve the clarity of the items, which resulted in the Delphi-2 list. Conclusion: The MAS-Brazil was created through an appropriate process of cross-cultural adaptation, ensuring its semantic equivalence and cultural adequacy. It is still necessary to verify the measuring properties of this version for its appropriate use clinically and in research. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/114503</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 2 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/114504</identifier>
+<datestamp>2019-10-14T17:42:37Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150609 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeito do treino de isostretching na flexibilidade e na força muscular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pardo, Maria Silvia</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lima, Ana Angélica Ribeiro de</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Laboratório de Fisioterapia e Comportamento</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Simões, Mariene Scaranello</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Laboratório de Fisioterapia e Comportamento</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Goya, Priscila Santos Albuquerque</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação - Rede Lucy Montoro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Voos, Mariana Calil</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Laboratório de Fisioterapia e Comportamento</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Caromano, Fátima Aparecida</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Laboratório de Fisioterapia e Comportamento</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To evaluate effects of the isostretching exercise training on flexibility and muscle strength. Method: Thirty-one healthy subjects (27 women), aged between 18 and 28 years, divided into two groups: Group A, isostretching, which has undergone a program of exercises based on the isostretching technique, and Group B, standard, which was subjected to the same exercises using the general technical principles of traditional stretching. The training went on for 12 weeks, twice per week, one hour per session. Flexibility was evaluated through photogrammetry in pre- and post-test, evaluating the wrist-floor distance and classifying posture according to the categories of muscle shortening described by Kendall, while muscle strength was assessed using a handgrip dynamometer. Results: There was no statistically significant difference between the results for each group in the flexibility test. Analysis of clinical significance and improvement by the Reliable Change Index (RCI) showed an improvement in flexibility affecting 14 subjects from both groups. Analysis of body contour in group A showed attenuation in the curvatures of the cervical, thoracic, and lumbar spine, as well as the hip flexion angle, and group B showed attenuation in the curvature of the cervical spine and hip flexion angle. Group A showed statistically significant differences in some specific muscle groups, but with no clinical significance. Conclusion: Both interventions affected flexibility in a statistically similar way, but had a different impact on the curvatures of the spine. Isostretching training clinically changed the flexibility of healthy individuals, with evidence that more intense or longer workouts can affect muscle strength </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/114504</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 2 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/114507</identifier>
+<datestamp>2019-11-21T21:21:31Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150609 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estrutura fatorial, validade e consistência interna da Body Appreciation Scale para homens brasileiros fisicamente ativos com lesão medular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Neves, Angela Nogueira</subfield>
+<subfield code="u">Federal Professional Education Courses</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lorey, Grace Altmann</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Campana, Mateus Betanho</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferreira, Lucilene</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Dirceu da</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: The aim of this study was to examine the Body Appreciation Scale and its psychometric properties: specifically, the validity of its construct and its internal consistency, for persons with spinal cord injuries in Brazil. Method: A non-probabilistic sample of 70 adult men between 18 and 59 years of age who participated in this study. Partial least squares with path modeling, average variance extracted, squared correlation of the factors, bivariate correlation, variance analysis, Cronbach’s alpha test, and a Composite reliability test were conducted to evaluate factor structure, convergent, discriminant, concurrent, and divergent validity and internal consistency, respectively. Results: The confirmatory factor analysis confirmed the 2-factor solution model, predicted by theory. Convergent and discriminant evidence of validity was provided. Internal consistency values were satisfactory. Weak evidence of concurrent and divergent validity were generated. Conclusion: The Body Appreciation Scale appears to be a valid and reliable scale for researchers, especially in samples of physically active men with spinal cord injury. This new scale could be used to evaluate the impact of physical therapy on body image, as well the impact of sports practice. In this way, it could provide relevant information with which physicians, physical therapists, and physical educators can guide their interventions. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/114507</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 2 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/114509</identifier>
+<datestamp>2019-10-14T17:54:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"150609 2015                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Influência do tratamento por ondas de choque sobre a dor em mulheres portadoras de osteoartrite de joelho</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Instituto de Medicina Física e Reabilitação do Hospital das Clínicas</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fabio Marcon</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Plapler, Pérola Grinberg</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Instituto de Ortopedia e Traumatologia do Hospital das Clínicas</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Hsing, Wu Tu</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Instituto de Ortopedia e Traumatologia do Hospital das Clínicas</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina. Departamento de MedicinaLegal, Ética Médica, Medicina Social e do Trabalho</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Osteoarthritis is the most common articular disease that causes pain to its sufferers. Shockwave therapy is among the many treatments that can be used. Objective: The objective of this study was to observe the influence of shockwave therapy on the intensity of pain in elderly women with knee OA. Method: In this study, 40 elderly females (69.57 ± 6.42 years) were submitted to weekly shockwave therapy with 2000 impulses at 2.5 to 4.0 bar, at a frequency of 8Hz, at the location most painful to touch in the knee, the medial articular interline, for three consecutive weeks. The effect of its application on the pain was evaluated by the visual analogue scale before and after the treatment. Results: There was a significant reduction (p &lt; 0.0001) of pain intensity in the volunteers, going from 7.86 ± 1.07 cm to 5.32 ± 2.26 cm. Conclusion: The application of shockwave therapy has been shown to reduce pain in elderly females with osteoarthritis. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2015-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/114509</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 22 n. 2 (2015)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2015 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<resumptionToken expirationDate="2023-08-08T14:50:18Z" completeListSize="935" cursor="525">00f0b43813f3fc5d26b0f96e9770eb22</resumptionToken>
+</ListRecords>
+</OAI-PMH> 

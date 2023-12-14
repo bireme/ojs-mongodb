@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:49:54Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102174</identifier>
+<datestamp>2020-07-31T22:40:57Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980409 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Análise cinemática tridimensional da articulação subtalar durante a marcha em mulheres normais</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Saadi, Lícia Margarida de Vilhena</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro - UFRJ</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Knackfuss, Iracy</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro - UFRJ</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castro, Carmen Lucia Natividade</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro - UFRJ</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Emygdio, Rogério</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O objetivo deste trabalho foi estudar, aplicando o sistema Penk Peifonnnnce de análise cinemática tridimensional, a variação angular da articulação subtalar durante a marcha. Foram estudadas 29 mulheres assintomáticas, entre 40 e 75 anos, devido à grande demanda no ambulatório de MFR-HUCFF de mulheres com idade acima de 40 anos, que apresentam doenças que comprometem função da articulação subtalar. Utilizou-se o &quot;Sistema Penk Peiforlllnncepara Análise Tridimensional do Movimento&quot; com o programa computacional .&quot; Penkversão 5.2&quot; que aplica o método &quot;Direcl Linenr Trnnsforlllnlion - DLT&quot;. Aplicou-se uma variação da metodologia proposta por Nawoczenski e cols., 1995. Tendo em vista que o programa computacional utilizado, &quot;Peak versão 5.2&quot;, não é específico para a análise de marcha, foi desenvolvida uma rotina matemática para a conversão dos valores calculados nos ângulos da subtalar. No tratamento dos dados, utilizou-se a estatística descritiva dos valores do movimento da articulação subtalar durante o ciclo da marcha e o Teste F para o estudo comparativo do comportamento das articulações subtalar direita e esquerda. Os resultados mostraram que a Análise Cinemática Tridimensional, utilizando o Sistema Peak Perfomance, é precisa para avaliar o comportamento funcional da articulação subtalar e para quantificar a sua variação angular no ciclo da marcha (C=10,33° - SD=1,82; C=1O,360 - SD=1,46 pronação-supinação da articulação subtalar direita e esquerda). Os achados desta pesquisa são coincidentes com os descritos por Wright, 1964; Perry, 1992, Mann, 1993; Pratt, 1993; Inman, 1994 e mostram o comportamento fisiológico da articulação subtalar. Observou-se que não existem diferenças significativas entre o comportamento da articulação subtalar direita e esquerda durante o ciclo da marcha. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102174</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 1 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102176</identifier>
+<datestamp>2020-07-31T22:41:00Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980409 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Perfil epidemiológico dos pacientes amputados tratados no Centro de Reabilitação &quot;Lar Escola São Francisco&quot;</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Charnlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Masiero, Danilo</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Os autores fizeram revisão de prontuários de 90 pacientes amputados, tratados no Lar Escola São Francisco - São Paulo, no período de janeiro de 1993 até junho de 1995, com o objetivo de traçar o perfil epidemiológico do próprio serviço. Houve predomínio do sexo masculino, de amputações acima do joelho e de etiologia vascular, em pacientes com mais de 50 anos de idade. Observou-se que ainda há muita demora no início do processo reabilitativo; que o tempo médio de tratamento é maior que o descrito na literatura, para quase todos os níveis de amputação; que os índices de abandono de tratamento são elevados, mesmo nas amputações de membros inferiores; que ainda há muita inadequação e desconhecimento, por parte dos médicos, em relação ao processo de reabilitação de pacientes amputados. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102176</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 1 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102178</identifier>
+<datestamp>2020-07-31T22:42:57Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980803 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Análise crítica de parâmetros de qualidade de vida de pacientes com fibromialgia</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Martinez, José Eduardo</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barauna Filho, Iulo Sergio</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kubokawa, Karen</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pedreira, Isabela</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Machado, Luciana</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cevasco, Guilhermo</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Determinar quais sintomas ou distúrbios funcionais correlacionam-se com o impacto da fibromialgia (FM) na qualidade de vida de pacientes do sexo feminino. Vinte e seis mulheres que preencheram os critérios de classificação de fibromialgia do Colégio Americano de Reumatologia. Métodos: Estudo transversal para análise dos seguintes parâmetros: intensidade da dor (escala analógica numérica de dor – 0 a 10 – END); intensidade de fadiga (escala analógica numérica de fadiga – 0 a 10 – ENF); no de pontos dolorosos/gatilho; capacidade funcional (Health Assessment Questionnaire – 0 a 3 – HAQ); qualidade do sono (Postsleep Inventory – 0 a 120 – PSI); intensidade de sintomas depressivos (Beck Depression Inventory – 0 a 60 – BDI); e qualidade de vida global (Fibromyalgia Impact Questionnaire – 0 a 100 – FIQ). Os parâmetros foram analisados através do Coeficiente de Correlação de Spearman. Resultados: Houve correlação estatisticamente significante entre a qualidade de vida global (FIQ) e intensidade da dor (END), intensidade da fadiga (ENF) e capacidade funcional (HAQ). Houve correlação fraca com a qualidade do sono (PSI). Não se observou correlação entre o FIQ e a depressão (BDI). Por sua vez, a capacidade funcional (HAQ) correlaciona-se fortemente com a intensidade da dor e da fadiga. Não houve correlação entre o HAQ e o BDI. Conclusão: O impacto na qualidade de vida da fibromialgia correlaciona-se fortemente com a intensidade da dor, fadiga e decréscimo da capacidade funcional. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-08-03 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102178</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 2 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102179</identifier>
+<datestamp>2020-07-31T22:43:01Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"980803 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Perfil de limiares ventilatórios durante o exercício e o consumo de oxigênio de pico verificado em jogadoras de futebol</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Andrade, Adilson</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Visconti, Ana Maria</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ponte, Fernando Miele da</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tavares, Emídio Valenti</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Albertina Fontana</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Solange Basílio da</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cordeiro, José Roberto</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Foram avaliadas trinta e sete jogadoras de futebol, com média de idade de 21,5 ± 5,9 anos, peso de 57,0 ± 8,3 kg, estatura de 161 ± 7 cm e índice de massa corpórea de 21,8 ± 2,1 kg/m2. Todas as atletas foram submetidas à avaliação espirométrica e metabólica, por meio de um sistema computadorizado de análise de gases expirados da marca SensorMedics, modelo Vmax 29C. A resposta cardiovascular foi verificada por meio de um eletrocardiógrafo computadorizado da marca HeartWare, modelo 6.4. A capacidade física máxima foi avaliada através de teste realizado em esteira rolante da marca Inbramed, modelo ATL-10.100, utilizando-se protocolo escalonado contínuo. Os seguintes parâmetros fisiológicos e os resultados encontrados foram: no Limiar Ventilatório Um (LV1): VO2 = 30,5 ± 3,7 mlO2.kg-1.min-1; % VO2 = 64 ± 7%; velocidade de corrida = 8,1 ± 0,3 km.h-1; FC = 154 ± 9 bpm. No Limiar Ventilatório Dois (LV2): VO2 = 40,9 ± 4,5 mlO2.kg-1.min-1; % VO2 = 85,7 ± 4,9 %; velocidade de corrida = 11,4 ± 1,1 km.h-1; FC = 179 ± 7 bpm. O VO2 de pico foi de 47,4 ± 4,1 mlO2.kg-1.min-1. Concluindo, a verificação de limiares ventilatórios e a potência aeróbia em jogadoras de futebol são parâmetros fisiológicos de grande importância, pois permitem ampliar suas aplicações práticas, qualificando, controlando e desenvolvendo de modo mais adequado e objetivo o treinamento físico dessas atletas. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-08-03 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102179</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 2 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102182</identifier>
+<datestamp>2020-07-31T22:44:54Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"981209 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Perfil de aptidão cardiorrespiratória e metabólica em bailarinos profissionais</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Romano, Angela</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gava, Nilo Sérgio</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dourado, Maristela Palácios</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Yazbek Junior, Paulo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Shinzato, Gilson Tanaka</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cardoso, Maurício A.</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carnevali, Noeli</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O principal objetivo deste estudo foi analisar aspectos cardiorrespiratórios e metabólicos e as alterações provocadas pelo treinamento específico de dança em umgrupo de 16 bailarinos de balé profissional, modalidade clássico, sendo 8 mulheres e 8 homens, com média de idade de 18,2 ± 3,8 anos e 26,2 ± 4,5 anos, respectivamente. Todos foram submetidos a teste máximo em esteira rolante, utilizando-se o protocolo de Bruce. Foi utilizado, na análise das respostas respiratórias e metabólicas, um sistema computadorizado Metabolic Measurement Cart da Beckman. Os seguintes resultados foram obtidos entre o grupo de balé vs o grupo-controle (masculino): VO2 max. (46 ± 4 vs 43 ± 6 mLO2. kg-1. min-1). FC máx.(194 ± 12 vs 202 ± 11 bpm); VE máx. (112 ± 16 vs 123 ± 181.min-1); VO2-LA (35 ± 4 vs 26 ± 4 mLO2.kg-1.min-1 [p &lt; 0,01]); FC-LA (169 ± 18 vs 163 ± 15 bpm). Grupo de balé vs grupo-controle (feminino): VO2 máx. (39 ± 6 vs 35 ± 6 mLO2. kg-1-.min-1); FC máx. (197 ± 10 vs 201 ± 6 bpm); VE máx. (72 ± 9 vs 81 ± 61.min-1); VO2 -LA (26 ± 4 vs 27 ± 4 mLO2.kg-1.min-1); FC-LA (164 ± 10 vs 176 ± 17 bpm). Conclusões: 1) a rotina específica de dança parece não gerar estímulo suficiente para aprimorar a aptidão cardiorrespiratória e metabólica dos bailarinos, e 2) sugere-se condicionamento físico adicional ao treinamento de balé. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102182</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 3 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102184</identifier>
+<datestamp>2020-08-16T00:26:43Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"981209 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Comparação de duas “doses ideais” de alongamento</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Grandi, Leonardo</subfield>
+<subfield code="u">ssociação Brasileira Beneficente de Reabilitação - ABBR</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Apesar de sua grande utilização, os exercícios de alongamento têm sido muito pouco estudados no que diz respeito aos seus efeitos crônicos e ao número de repetições e a duração de cada repetição que deve ser utilizada em uma sessão. Com o objetivo de comparar duas “doses ideais” de alongamento (número e duração das repetições de um exercício) preconizadas em experimentos que utilizaram metodologia e amostras diferentes, foi feito um estudo tipo antes-depois com 8 indivíduos (seis homens, duas mulheres) com idades entre 22 e 33 anos. Inicialmente foi feita uma goniometria para mensuração da extensão máxima de cada joelho, com o quadril posicionado a 90º de flexão e, depois, a divisão da amostra em um grupo-controle com três indivíduos e um grupo teste de cinco indivíduos que realizou: no membro inferior esquerdo (MIE) 4 repetições de 18s de alongamento para a musculatura isquiotibial e no membro inferior direito (MID), 1 repetição de 30s. Após 3 semanas realizando esses exercícios 1 vez por semana, foram feitas novas goniometrias. Após análise utilizando o teste-t emparelhado, foi encontrado ganho significativo de arco de movimento (ADM) no grupo de MIEs (4 repetições de 18s) e no de MIDs (1 repetição de 30s) e não foi encontrado ganho nos membros inferiores do grupo-controle. Foram então comparados os ganhos de ADM dos grupos de MIEs e MIDs usando o teste-t simples e não foi evidenciada diferença significativa, o que sugere que as duas doses são igualmente eficazes para a musculatura isquiotibial. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102184</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 3 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102185</identifier>
+<datestamp>2020-07-31T22:45:01Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"981209 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Comparação clínica e funcional de pacientes com fibromialgia e dor miofascial</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Martinez, José Eduardo</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barauna Filho, Iulo Sergio</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kubokawa, Karen</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pedreira, Isabela</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Machado, Luciana Andrade de Matos</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cevasco, Guilhermo</subfield>
+<subfield code="u">Pontifícia Universidade Católica. Faculdade de Ciências Médicas de Sorocaba</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Estabelecer as diferenças e semelhanças entre mulheres com fibromialgia (FM) e mulheres com dor miofascial regional (DM) do ponto de vista clínico, funcional e qualidade de vida. Métodos: Estudo transversal de 26 mulheres que preencheram os critérios de classificação de fibromialgia da American College of Rheumatology e 18 mulheres com dor músculo-esquelética regional associada à pontosgatilho dolorosos na área afetada pela dor. Resultados: As pacientes com DM apresentavam dor nas seguintes regiões: coluna cervical, cintura escapular, cintura pélvica e ATM. Os parâmetros avaliados no grupo da FM mostraram os seguintes resultados: END – 7,7 (5 – 10); ENF – 6,8 (0 –10); nº de pontos dolorosos – 13,7 (11 – 17); HAQ – 1,26 (0,12 – 2,37); PSI – 81,29 (29 –110); BDI – 24 (0 – 60) e FIQ – 58,46 (33,0 – 80,71). No grupo da DM, observaram-se os seguintes resultados: END - 7,1 (2 – 10); ENF – 5,1 (0 – 10); nº de pontos dolorosos – 6,6 (1 - 8); HAQ – 0,68 (0 – 1,62); PSI – 64,62 (35 – 110); BDI – 18,5 (11 – 26) e FIQ – 43,55 (25,4 – 60,0). Conclusões: As semelhanças observadas entre pacientes com FM e DM são: dados demográficos, intensidade da dor e fadiga, presença de fatores desencadeantes e nível de atividade física. As diferenças observadas foram: escolaridade, capacidade funcional, qualidade do sono, intensidade da depressão e qualidade de vida. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102185</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 3 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102186</identifier>
+<datestamp>2020-07-31T22:45:04Z</datestamp>
+<setSpec>actafisiatrica:Art.+Esp.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"981209 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Interdisciplinaridade: possibilidades e equívocos</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Brinhosa, Mário César</subfield>
+<subfield code="u">Universidade do Contestado - UnC</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O presente texto pretende situar a interdisciplinaridade como a possibilidade de um amplo questionamento do projeto histórico capitalista. Buscaremos pontuar, também, para a questão fundamental de se partir da clareza de como se produz conhecimento historicamente na direção de não confundir interdisciplinaridade com mais uma metodologia.     </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102186</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 3 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102188</identifier>
+<datestamp>2020-07-31T22:45:10Z</datestamp>
+<setSpec>actafisiatrica:Art.+Esp.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"981209 1998                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">History of rehabilitation medicine as a medical specialty in the Netherlands</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Peek, William J</subfield>
+<subfield code="u">International Federation of Physical and Rehabilitation Medicine</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> In the Netherlands rehabilitation medicine is registered as a medical specialty since 1955. Like in many other countries, at the end of World War II and in the first years afterwards rather suddenly physical medicine and rehabilitation became an important part of medical cure and care and got much attention from military, governamental and medical authorities. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1998-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102188</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 5 n. 3 (1998)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1998 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102191</identifier>
+<datestamp>2020-07-31T22:47:14Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"990613 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Um estudo sobre a satisfação sexual de pessoas portadoras de lesão medular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alves, Andréa Santarelli</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Guedes, Maria Helena Delanesi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alves, Vera Lúcia Rodrigues</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Este trabalho teve como objetivo buscar maiores conhecimentos a respeito da satisfação sexual das pessoas portadoras de lesão medular, cujos resultados poderão contribuir para a atuação profissional na reabilitação sexual. Sendo considerada um problema de saúde coletiva, a lesão medular requer esforços quanto a prevenção e cuidados de reabilitação. Indivíduos portadores de lesão medular podem apresentar distúrbios motores, sensitivos, autonômicos e na esfera emocional, em maior ou menor grau e, assim, a sexualidade, o ato sexual e a função sexual podem sofrer modificações variando a intensidade conforme o caso. Para estudar o assunto, foi realizada uma pesquisa de campo com pessoas portadoras de lesão medular que fazem ou fizeram programa de reabilitação na Divisão de Medicina de Reabilitação do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, apresentando os seguintes resultados no tocante à satisfação sexual: 60% relataram estar sexualmente satisfeitas; 25% não souberam opinar e 15% declararam insatisfação. A maioria dos “satisfeitos” já passou pelo processo de reabilitação, enquanto, dentre os “insatisfeitos” e os que “não souberam opinar”, a maioria encontra-se em tempo médio de reabilitação (cerca de 1 ano). Foi possível concluir que, assim como a reabilitação física, a reabilitação sexual também é um processo que se compõe de várias fases, podendo conduzir a uma efetiva readaptação sexual, de acordo com a elaboração e a transposição dessas fases. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-06-13 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102191</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 1 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102192</identifier>
+<datestamp>2020-07-31T22:47:18Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"990613 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Tratamento da lombalgia crônica pela inativação de pontos-gatilho miofasciais: experiência da Divisão de Medicina Física da FMUSP</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lima, Inês Cristina de Mello</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kaziyama, Helena Hideko Seguchi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Saito, Elizabete Tsubomi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pinho, Clara de Paiva</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Satiko Tomikawa</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A lombalgia é uma das causas freqüentes de incapacidade. Este estudo apresenta protocolo e avaliação dos resultados dos efeitos terapêuticos, utilizando-se a técnica de injeção do ponto-gatilho de Fischer no tratamento da dor lombar crônica em um grupo de 25 pacientes, 8 homens e 17 mulheres, que não responderam à abordagem convencional. Os resultados mostraram melhora estatisticamente significante na intensidade da dor e algometria. Os autores concluíram que a inativação dos pontosgatilho é uma modalidade terapêutica eficiente no tratamento da lombalgia crônica quando outras falham. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-06-13 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102192</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 1 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102193</identifier>
+<datestamp>2020-07-31T22:47:22Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"990613 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Índices de aptidão funcional em jogadores de futebol da Seleção Nacional da Jamaica</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Roxo, Carla Dal Maso Nunes</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Visconti, Ana Maria</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Alberto Alves de Azevedo</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Albertina Fontana</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Firmino, Mauro Theodoro</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tavares, Emídio Valenti</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Simões, Renê</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Montesso, Alfredo</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gama, Walter</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nichols, Denise</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Monteiro, José Carlos Simões</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sousa, Jorge Mendes de</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O principal objetivo deste estudo foi mostrar alguns índices de aptidão funcional, em 24 jogadores de futebol da Seleção Nacional da Jamaica, com média de idade de 23,9 ± 3,7 anos, equipe pré-classificada para a Copa do Mundo da França. Todos os atletas foram submetidos a uma bateria de testes que constou de: 1) avaliação da potência, resistência muscular e índice de fadiga no teste de Wingate, realizado numa bicicleta computadorizada da marca (Cybex), modelo (Bike); 2) teste isocinético computadorizado de membros inferiores no equipamento da marca (Cybex), modelo (1200); 3) avaliação da flexibilidade pelo teste de Wells &amp; Dillon; 4) exames laboratoriais e 5) avaliação odontológica, que foi realizada por meio de exames clínicos num consultório da marca Funk, modelo MLXPlus. Os seguintes parâmetros e os resultados encontrados foram: Wingate: potência pico corrigida pelo peso = 11,8 ± 1,8 w.kg-1; potência média = 9,1 ± 1,2 w.kg-1; índice de fadiga = 46,2 ± 15,2 %; flexibilidade = 19,8 ± 4,6 cm; exames laboratoriais: urina tipo I; fezes; hemoglobina = 14,3 ± 1,0 g%; ferro = 104 ± 29 ng/dl; ferritina = 81,8 ± 41,7 ug/dl; transferrina = 502,5 ± 113,5 ug/dl; hematócrito =43,5 ± 2,9%; eritrócitos = 4,95 ± 0,40 milhões/m3; glicose = 91,0 ± 8,5 mg/dl; avaliação odontológica: tártaro em 5 (21%); cáries em 24 (100%); gengivites em 10 (42%); endodontia em 3 (12,5%); pulpites em 1 (4%); diastema em 2 (8%); heterotópicos em 13 (54%); extrações realizadas em 14 (58%); extrações não-realizadas em 4 (17%); obturações em 4 (17%); próteses em 16 (67%) e a profilaxia estava sendo feita em 17 (71%) dos atletas examinados; desempenho isocinético: torque de MMII direito a 60° S-1 na extensão = 290,4 ± 95,6 Nm; na flexão = 216,1 ± 31,4 Nm; torque de MMII esquerdo a 60° S-1 na extensão = 291,6 ± 62,5 Nm; na flexão = 205,8 ± 35,8 Nm. Conclusão: apesar da falta de estrutura tecnológica do futebol jamaicano, os resultados demonstraram que os índices de aptidão funcional dos futebolistas avaliados, neste estudo, foram semelhantes aos de jogadores verificados em nosso Centro de Medicina Integrada. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-06-13 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102193</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 1 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102194</identifier>
+<datestamp>2020-07-31T22:47:40Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"990613 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Adaptação de longo prazo ao treinamento cíclico induzido eletricamente em indivíduos com severa lesão na medula espinhal</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mohr, Thomas</subfield>
+<subfield code="u">University of Copenhagen</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Andersen, Jesper L.</subfield>
+<subfield code="u">University of Copenhagen</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Biering-Sorensen, Fin</subfield>
+<subfield code="u">University of Copenhagen</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Galbo, Henrik</subfield>
+<subfield code="u">University of Copenhagen</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bangsbo, Jens</subfield>
+<subfield code="u">University of Copenhagen</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Wagner, Aase</subfield>
+<subfield code="u">University of Copenhagen</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kjaer, Michael</subfield>
+<subfield code="u">University of Copenhagen</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Indivíduos com lesão da medula espinhal (LME) mais freqüentemente adquirem essa condição na juventude e são relegados a uma vida de maior ou menor inatividade física. Em adição às implicações primárias da LME, indivíduos com LME severa são estigmatizados e relegados a uma condição de vida física inativa. É desconhecido se essas condições relatadas são potencialmente reversíveis e o objetivo do presente estudo foi, portanto, examinar os efeitos do exercício em indivíduos com LME. Então, 10 indivíduos (6 com tetraplegia e 4 com paraplegia; idade de 27 a 45 anos; tempo de lesão de 3 a 23 anos) foram treinados por 1 ano em cicloergometria com estimulação elétrica controlada por feedback. Eles treinaram 3 vezes por semana (média 2,3 vezes), 30 minutos em cada sessão. Os músculos glúteos, isquiotibiais e quadríceps foram estimulados por eletrodos colocados na superfície da pele sobre seus pontos motores. Durante o primeiro treino, uma variação substancial na performance foi observada entre os pacientes. A maioria dos indivíduos foi capaz de realizar o exercício por 30 minutos na primeira sessão, mas dois indivíduos foram capazes de realizar o exercício por apenas poucos minutos. Depois do treino de 1 ano, todos os indivíduos foram capazes de realizar 30 minutos contínuos de treino e o trabalho produzido teve aumento de 4 ± 1 (média de “erro-padrão” EP) para 17 ± 2 kJ por sessão de treino (P &lt; 0,05). A taxa de captação máxima de O2 durante o exercício com estimulação elétrica aumentou de 1,20 ± 0,08 l/min, mensurada depois de poucas semanas de exercício, para 1,43 ± 0,09 l/min após 1 ano de treinamento (P &lt; 0,05). Imagens de corte com ressonância magnética foram feitas na coxa para avaliar a massa muscular, que teve um aumento de 12% (média, P &lt; 0,05) em 1 ano de treinamento. Em biópsias feitas antes do exercício, vários estados de atrofia foram observados nas fibras musculares dos indivíduos, um fenômeno que foi parcialmente normalizado em todos os pacientes depois do treinamento. É sabido que a distribuição do tipo de fibra no músculo esquelético é alterada para fibras do tipo II B (contração rápida, rapidamente fatigável, glicolíticas) dentro dos primeiros 2 anos após a lesão medular. Nessa avaliação, os músculos continham 63% de miosina de cadeia pesada (MHC) isoforme II B, 33% de MHC isoforme II A (contração rápida e resistentes à fadiga) e menos de 5% de MHC isoforme I (fibras de contração lenta) antes do treinamento. Uma transformação para obterem-se fibras com proteínas contráteis mais resistentes à fadiga foi encontrada após 1 ano de treinamento. A porcentagem de MHC isoforme II A aumentou para 61% do total de proteínas contráteis e houve uma diminuição de 32% nas fibras rapidamente fatigáveis do tipo MHC isoforme II, enquanto as MHC isoformes I somente compunham 7% da quantidade total de MHC. Essa alteração foi acompanhada de um aumento de 100% na atividade enzimática da citrato sintetase, como um indicador da capacidade oxidativa mitocondrial. Conclui-se que as alterações na performance, nesse exercício e nas características do músculo esquelético, associadas à inatividade que ocorre em indivíduos com LME, são reversíveis, mesmo até 20 anos após a lesão. Sucede que o treino com exercícios induzidos por estimulação elétrica dos músculos paralisados é uma efetiva ferramenta de reabilitação que deveria ser oferecida aos indivíduos com LME no futuro. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-06-13 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102194</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 1 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102195</identifier>
+<datestamp>2020-07-31T22:47:30Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"990613 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação isocinética de rotadores externos e internos do ombro de atletas sobre cadeira de rodas e indivíduos sedentários – estudo comparativo</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fernandes, Thamar de Bruyn Ferraz</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Shinzato, Gilson Tanaka</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0002-1462-7096</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O efeito do desequilibrio muscular na performance e na gênese de lesões em atletas vem adquirindo interesse crescente. Esse desequilíbrio muscular tem sido identificado como ocorrência comum e induzido pelo treino. Recentemente, tem-se sugerido que esse causaria o aumento do risco de lesões nos atletas. Há muitas pesquisas a esse respeito na literatura direcionada são joelho. Pouco se tem a respeito do ombro, alvo de lesões freqüentesem esportistas . Os poucos trabalhos que se tem a esse respeito constam de estudos isocinéticos em atletas de beisebol, natação, tênis e pólo aquático. Esses demonstram alterações importantes no equilíbrio muscular dos ombros dos atletas estudados quando comparados a grupos-controle, em especial o fortalecimento excessivo de rotadores internos em relação a rotadores externos e de adutores em relação a abdutores. O possível papel desse desequilíbrio muscular no desenvolvimento de dores, tendinites, síndromes do impacto e subluxações anteriores tem sido sugerido e estudado. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-06-13 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102195</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 1 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102242</identifier>
+<datestamp>2020-07-31T22:50:32Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"991209 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Teletermografia: princípios físicos, fisiológicos e fisiopatológicos da produção da imagem e suas indicações na clínica de dor e reabilitação</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Andrade Filho, Antonio Carlos de Camargo</subfield>
+<subfield code="u">Hospital Amaral Carvalho</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Este artigo faz uma revisão bibliográfica da história e faz uma atualização sobre a teletermografia, suas bases físicas, fisiológicas e fisiopatológicas. Também dá uma visão sobre as indicações desse exame na clínica de dor e medicina de reabilitação. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102242</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 2 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102243</identifier>
+<datestamp>2020-07-31T22:50:36Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"991209 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Reabilitação psicossocial da criança com traumatismo cranioencefálico: conseqüências na afetividade/emocional</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alves, Vera Lúcia Rodrigues</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kaihami, Harumi Nemoto</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> As autoras colocam em pauta a reabilitação psicossocial da criança com traumatismo cranioencefálico, em suas diferentes facetas, considerando-se os déficits físicos, cognitivos e aspectos afetivos/emocionais. Destacam a posição que os pais ocupam no momento de crise e as conseqüências posteriores no âmbito emocional. Ressaltam a violência que ocorre com as crianças e com os pais, decorrentes de normas culturais e sociais. Concluem, enfatizando a responsabilidade partilhada entre pais, crianças e sociedade com respeito à questão da prevenção. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102243</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 2 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102244</identifier>
+<datestamp>2020-07-31T22:50:40Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"991209 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeito da fisioterapia respiratória convencional e da manobra de aspiração na resistência do sistema respiratório e na saturação de O2 em pacientes submetidos à ventilação mecânica</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ruiz, Viviane Christina</subfield>
+<subfield code="u">Universidade Estadual Paulista. Faculdade de Medicina de Botucatu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Letícia Cláudia de</subfield>
+<subfield code="u">Universidade Estadual Paulista. Faculdade de Medicina de Botucatu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Borges, Fabíola</subfield>
+<subfield code="u">Universidade Estadual Paulista. Faculdade de Medicina de Botucatu</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Crocci, Adalberto José</subfield>
+<subfield code="u">Universidade Estadual Paulista. Departamento de Bioestatística do Instituto de Biociências</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rugolo, Ligia Maria Suppo Souza</subfield>
+<subfield code="u">Universidade Estadual Paulista. Faculdade de Medicina de Botucatu</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Os primeiros relatos dos benefícios da drenagem postural no tratamento das bronquiectasias datam do início do século XX. Desde então, numerosos trabalhos têm sido publicados sobre indicações, técnicas, riscos e benefícios da fisioterapia respiratória. Entretanto, não tem sido avaliado comparativamente os efeitos da fisioterapia respiratória convencional (drenagem postural, percussão e aspiração) e da manobra de aspiração sobre a resistência do sistema respiratório, e sobre a saturação de O2 (SpO2), motivo pelo qual foi proposto neste estudo a avaliação dos efeitos da FRC e da manobra de aspiração isoladamente nos valores da resistência e SpO2. Foram investigados doze pacientes, idade média de 58 anos, internados na UTI do HC FMB– UNESP, com insuficiência respiratória em ventilação mecânica. Durante quatro dias, os pacientes foram submetidos de forma alternada a sessões de aspiração isoladamente e de FRC, documentando-se imediatamente antes e após cada procedimento os valores da resistência e da SpO2. Observou-se que houve uma diminuição significativa (p &lt; 0,05) da resistência em todos os dias quando se utilizou a FRC. Quando o método utilizado foi o de aspiração, não houve significância estatística (p &gt; 0,05). Os valores da SpO2 não se alteraram com o uso da FRC e da aspiração. Esses resultados demonstraram que a FRC é benéfica na melhoria da resistência do sistema respiratório. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102244</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 2 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102245</identifier>
+<datestamp>2020-07-31T22:51:48Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"991209 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo descritivo sobre a importância da avaliação funcional como procedimento prévio no controle fisiológico do treinamento físico de futebolistas realizado em pré-temporada</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Alberto Azevedo Alves</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Paulo Roberto Santos</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Inarra, Luís Antonio</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vidal, José Roberto Rivelino</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lépera, Cláudio</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Machado, Gilberto Silva</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rebello, Luciana Collet Winther</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Prima, Luís Carlos</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Zagallo, Mário Jorge Lobo</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sousa, Jorge Mendes de</subfield>
+<subfield code="u">Associação Portuguesa de Desportos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O principal objetivo deste estudo foi mostrar a importância da avaliação funcional como procedimento utilizado no controle fisiológico do treinamento físico de futebolistas profissionais em pré-temporada. Foram avaliados e posteriormente concentrados na cidade de Águas de Lindóia, Estado de São Paulo, por 16 dias, 23 jogadores pertencentes ao Departamento de Futebol Profissional da Associação Portuguesa de Desportos, em preparação para o Campeonato Paulista, edição 1999. Todos foram submetidos a uma bateria de testes que constou de avaliação cardiorrespiratória e metabólica, odontológica, isocinética de membros inferiores, porcentagem de gordura corpórea, da potência anaeróbia pelo teste de Wingate e testes de campo. Os seguintes resultados e os parâmetros avaliados foram: no limiar ventilatório 2 (LV 2): VO2 = 49,09 ± 4,83 mL.kg-1.min-1; %VO2 = 82,7 ± 5,8; velocidade de corrida = 12,8 ± 0,9 km.h-1; FC = 174 ± 9 bpm; no exercício máximo: VE BTPS = 137,3 ± 11,3 L.min-1; velocidade de corrida = 17,6 ± 0,7 km.h-1; FC = (191 ± 8 bpm); VO2pico = 59,28 ± 3,52 mL.kg-1.min-1; Lactato = 10,5 ± 1,5 mM. Teste de Wingate: potência pico = 13,5 ± 1,1 w.kg-1; potência média = 10,1 ± 0,6 w.kg-1; índice de fadiga = 53,0 ± 7,7 %. Teste Isocinético: velocidade angular da articulação do joelho da perna direita na extensão e flexão a 60°S-1 = 298 ± 72 e 198 ± 44 Nm, respectivamente; a 300°S-1 extensão e flexão = 137 ± 32 e 121 ± 26 Nm, respectivamente. Velocidade angular da articulação do joelho da perna esquerda na extensão e flexão a 60°S-1 = 272 ± 62 e 185 ± 45 Nm, respectivamente; a 300°S-1 extensão e flexão = 138 ± 28 e 122 ± 27 Nm, respectivamente. A intensidade dos treinamentos aeróbio e anaeróbio foi controlada em campo por medidas de lactato, utilizando-se lactômetro portátil. O treinamento de musculação foi realizado a 60% da carga máxima para cada exercício. Os exercícios de alongamento e na piscina (hidroginástica) foram exaustivamente realizados pelos jogadores. Em média, cada sessão (manhã e tarde) durou 120 minutos. Portanto, pelo pouco tempo destinado a essa fase de preparação, a importância da avaliação funcional multidisciplinar, justifica-se ainda mais, pois, a partir dos resultados, é possível detectar e corrigir possíveis deficiências, direcionando com objetividade o treinamento dos futebolistas. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102245</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 2 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102246</identifier>
+<datestamp>2020-07-31T22:50:48Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Aval.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"991209 1999                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Melorreostose em reabilitação</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Nucera, Paulo Roberto</subfield>
+<subfield code="u">Associação Brasileira Beneficente de Reabilitação - ABBR</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A melorreostose é uma patologia rara, caracterizada por uma hiperostose linear do córtex, de etiologia desconhecida, podendo afetar qualquer estrutura óssea do organismo, sendo mais comum nos ossos longos. A melorreostose espinhal e craniana necessitando de intervenção neurocirúrgica é pouco freqüente, podendo causar lesões neurológicas. Dependendo do local acometido e da agressividade da doença, alguns pacientes necessitarão do tratamento fisiátrico, uma vez que as fraturas patológicas dos ossos poderão causar perdas graves quanto à capacidade funcional, tornando a medicina de reabilitação fundamental na melhoria da qualidade de vida desses pacientes. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">1999-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102246</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 6 n. 2 (1999)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 1999 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102250</identifier>
+<datestamp>2020-07-31T22:53:41Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"000409 2000                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Encontro marcado: o adolescente deficiente físico e as relações humanas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vieira, Maria Cristina Vitti</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alves, Vera Lúcia Rodrigues</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Trata-se de uma exposição acerca da intervenção psicoterápica realizada com um grupo de dez adolescentes portadores de deficiência física de uma instituição de reabilitação. Foram enfocadas questões referentes à sexualidade e à deficiência. Nesse processo, foi demonstrado que, por trás das dúvidas, das dificuldades e dos conflitos, existia uma inquietação permanente por parte dos adolescentes e dos pais. Com respeito ao medo de não serem “encontrados” e amados pelo outro, percebeu-se que, subjacente a esse receio, havia também preconceitos, valores morais e padrões de beleza física advindos dos filhos e dos pais que poderiam dificultar as relações mais próximas. No decorrer dos atendimentos, foi se desenhando uma silhueta baseada no respeito e na ética que permitiu algumas reflexões sobre as relações humanas e o desenvolvimento pessoal de cada membro do grupo. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2000-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102250</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 7 n. 1 (2000)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2000 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102251</identifier>
+<datestamp>2020-07-31T22:53:44Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"000409 2000                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Tratamento conservador da síndrome do impacto subacromial: estudo em 21 pacientes</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Giordano, Marcos</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Giordano, Vincenzo</subfield>
+<subfield code="u">Universidade Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Giordano, Lucia Helena Barbosa</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Giordano, José Noberto</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A síndrome do impacto subacromial é um distúrbio cada vez mais observado na prática clínica. Dentre as modalidades de tratamento, o fisioterápico é dos mais recomendados. Dessa forma, objetivou-se avaliar a eficácia do tratamento conservador fisioterápico da síndrome do impacto subacromial utilizando-se protocolo adotado na Clínica de Ortopedia e Fisiatria Dr. Giordano Ltda. Foram estudados, prospectivamente, 21 pacientes (28 ombros com diagnóstico de síndrome do impacto subacromial), 16 mulheres (76,2%) e 5 homens (23,8%) com idade média de 58,9 anos (variando de 42 a 79 anos). O lado esquerdo esteve envolvido isoladamente em 9 pacientes (42,9%) e o direito em 5 (23,8%). Em 7 pacientes (33,3%), o acometimento foi bilateral. O tratamento foi indicado imediatamente após o diagnóstico ser firmado e consistiu inicialmente (fase aguda) de diatermia com ondas curtas (20 minutos), irradiação com laser de baixa energia (gálio-arsênico) (5 minutos), estimulação elétrica transcutânea (20 minutos) e cinesioterapia (exercícios de Codman), com sessões realizadas três vezes por semana. Passada a fase aguda, foram acrescentados exercícios visando ao ganho de amplitude de movimentos e ao fortalecimento muscular. Os resultados foram avaliados segundo os critérios adotados pela Sociedade Americana de Cirurgiões do Ombro e do Cotovelo e dos 28 ombros envolvidos. Em 7 (25%), os resultados foram considerados excelentes; em 17 (60,7%), bons; em 3 (10,7%), regulares; e em 1 (3,6%), ruim. Concluiu-se que o protocolo utilizado é eficiente e pode ser adotado para o tratamento da síndrome do impacto subacromial. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2000-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102251</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 7 n. 1 (2000)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2000 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102252</identifier>
+<datestamp>2020-07-31T22:53:48Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"000409 2000                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Em busca de evidência para a prática médica diária</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Furlan, Andréa Dompieri</subfield>
+<subfield code="u">University Health Network. The Toronto Hospital</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O médico não tem tempo para estudar e manter-se atualizado na medida que seria necessário. No entanto, a medicina tem evoluído com uma velocidade espantosa e práticas atuais são substituídas por novas muito mais rapidamente nos últimos anos. O que fazer diante de problemas clínicos e questionamentos sobre eficácias de tratamentos? O médico tem várias opções, e uma delas é procurar as respostas em revisões da literatura. Entretanto, nem todas as revisões da literatura são bem feitas ou têm resultados confiáveis. A maioria representa a opinião pessoal dos autores e não há uma metodologia para a sua realização. Ultimamente, têm sido publicadas revisões sistemáticas da literatura, em que os autores delimitam uma questão específica para, então, buscar todos os estudos que respondam a essa pergunta. Uma revisão sistemática da literatura deve conter: objetivos, métodos, análise de qualidade de cada estudo incluído, resultados, conclusões e discussão. O médico precisa ter acesso a esses tipos de revisão e aprender a avaliar a sua qualidade. Um dos critérios recomendados é o que foi desenvolvido por Oxman e Guyatt. A Cochrane Collaboration tem desenvolvido métodos e técnicas para a realização de revisões com o mínimo de erros e opiniões pessoais, sendo, portanto, uma das maiores fontes de revisões da literatura de boa qualidade atualmente. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2000-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102252</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 7 n. 1 (2000)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2000 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102253</identifier>
+<datestamp>2020-07-31T22:53:51Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"000409 2000                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo ergométrico evolutivo de portadoras de fibromialgia primária em programa de treinamento cardiovascular supervisionado</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sabbag, Lívia Maria dos Santos</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dourado, Maristela Palácios</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Yasbek Júnior, Paulo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Novo, Neil Ferreira</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kaziyama, Helena Hideko Seguchi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Miyazaki, Margarida Harumi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Fibromialgia é uma síndrome dolorosa crônica caracterizada por dor musculoesquelética generalizada1,2,3,4,5. Na última década, o exercício físico tornou-se promissor como opção terapêutica da síndrome6,7,8,9,10,11,12,13,14. Objetivo: avaliação ergométrica prospectiva de portadoras de fibromialgia primária (FP) em programa de treinamento cardiovascular supervisionado (TCS). Treze mulheres, média de idade de 48,9 anos, portadoras de FP, submeteram-se a teste ergométrico (TE) em esteira rolante, protocolo de Ellestad, no tempo zero, 3o e 6o meses de TCS. Os critérios de interrupção do TE foram cansaço e dor. Para o TCS, foi estabelecida uma faixa de 60% a 70% da freqüência cardíaca (FC) máxima, calculada pelo método de Karvonen. A assiduidade foi superior a 80% de 72 sessões, 3 vezes por semana, com duração de 60 minutos. Realizada a avaliação subjetiva da dor muscular e analisadas as variáveis do TE. Análise estatística: variância dos postos de Friedman e teste de comparações múltiplas15. Resultados: no 3o mês, houve aumento significativo da resposta cronotrópica. No 3o e 6o meses, foram significativos: aumento do tempo de exercício, capacidade funcional, trabalho total e diminuição da FC carga máxima comum. Não houve diferença significante da DPAS, duplo produto (DP), DP carga máxima comum e %FC máxima. Comparadas com o final do TE do tempo zero, a maior porcentagem de pacientes atingiu cargas mais elevadas e a mesma intensidade de dor no 3o e 6o meses de TCS. Conclusão: a partir do 3o mês de TCS, as portadoras de FP apresentaram maior tolerância à dor muscular e ao esforço, melhora da capacidade funcional cardiovascular e muscular periférica. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2000-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102253</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 7 n. 1 (2000)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2000 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102254</identifier>
+<datestamp>2020-07-31T22:53:55Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.+Aval.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"000409 2000                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Neuropatia diabética: fisiopatologia, clínica e eletroneuromiografia</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dias, Rafael José Soares</subfield>
+<subfield code="u">Clínica de Eletroneurofisiátria Armando Carneiro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carneiro, Armando Pereira</subfield>
+<subfield code="u">Clínica de Eletroneurofisiátria Armando Carneiro</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A neuropatia afeta a maioria dos diabéticos de longa evolução. Sua melhor compreensão é de fundamental importância na formação de um correto raciocínio clínico. As principais vias fisiopatológicas conhecidas, a apresentação clínica e os achados eletrofisiológicos são revisados por meio de pesquisa na MedLine e alguns dados pessoais são apresentados. O conhecimento da fisiopatologia, da clínica e da eletrofisiologia são essenciais para uma abordagem crítica e racional dessa heterogênea e complexa patologia. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2000-04-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102254</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 7 n. 1 (2000)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2000 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/102257</identifier>
+<datestamp>2020-07-31T22:56:17Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"000809 2000                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Técnicas de relaxamento no contexto da psicoterapia de pacientes com queixas de dor crônica e fibromialgia: uma proposta</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Luiz Paulo Marques de</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Forgione, Maria Cristina Rizzi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alves, Vera Lúcia Rodrigues</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O presente artigo consiste em uma revisão bibliográfica a respeito do fenômeno da dor realizada no Serviço de Psicologia da Divisão de Medicina de Reabilitação do Hospital das Clínicas da Universidade de São Paulo. Os autores iniciam definindo o conceito de dor e suas diferenciações, abordando os aspectos psicológicos e sociais que desencadeiam ou acompanham os fenômenos álgicos. É também comentada a possível correlação entre o desenvolvimento das síndromes álgicas crônicas – como a fibromialgia – e as disfunções psicossomáticas. O artigo, da mesma forma, propõe que as técnicas de recondicionamento psicofísico, também chamadas de relaxamento, venham a ser empregadas no contexto psicoterápico de pacientes com queixas de dores crônicas. Por meio delas, procura-se o restabelecimento do tônus muscular dos indivíduos e promover uma melhora na qualidade de vida, uma vez que oferecem, por conseqüência, bem-estar físico e mental. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2000-08-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/102257</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 7 n. 2 (2000)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2000 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<resumptionToken expirationDate="2023-08-08T14:49:54Z" completeListSize="935" cursor="75">96b5658001f707d94ebcdb49b81a0fd6</resumptionToken>
+</ListRecords>
+</OAI-PMH> 

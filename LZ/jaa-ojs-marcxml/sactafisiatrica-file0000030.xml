@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:50:31Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/169835</identifier>
+<datestamp>2022-02-01T13:27:52Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"210930 2021                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeitos de um programa de exercícios físicos baseado no método Pilates solo sobre a atividade física, capacidade locomotora e qualidade de vida em homens com amputação de membro inferior</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rudolpho, Sara Maria Soffiatti</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield><subfield code="0">https://orcid.org/0000-0002-5365-8821</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Luza, Lisiane Piazza</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield><subfield code="0">http://orcid.org/0000-0002-5684-7388</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pires, Greicy Kelly Wosniak</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield><subfield code="0">https://orcid.org/0000-0001-5032-0852</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Franciele Cascaes da</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield><subfield code="0">https://orcid.org/0000-0002-4444-9403</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lima, David Braga de</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield><subfield code="0">http://orcid.org/0000-0002-2505-1133</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Laiana Cândido de</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield><subfield code="0">http://orcid.org/0000-0003-0201-7394</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Caviquioni, Thamara</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield><subfield code="0">http://orcid.org/0000-0003-0733-0849</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Rudney da</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield><subfield code="0">http://orcid.org/0000-0002-9386-0039</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo:  Avaliar os efeitos de um programa de exercícios físicos de 12 semanas baseado no método Pilates Solo sobre atividade física, equilíbrio, capacidade locomotora e qualidade de vida em homens com amputação unilateral de membro inferior. Método: Participaram do estudo 14 pessoas com amputação unilateral de membro inferior, divididos em 2 grupos: Grupo Intervenção – GI (participantes expostos ao protocolo de exercícios baseados no método Pilates Solo) e Grupo Controle – GC (participantes não expostos ao protocolo de exercícios baseados no método Pilates Solo). Foram aplicados os seguintes instrumentos: a) ficha para caracterização dos participantes; b) Physical Activity Scale for Individuals with Physical Disabilities (PASIPD); c) Escala de Equilíbrio de Berg; d) Medida Funcional para Amputados (MFA); e e) Short Form Health Survey (SF-36). Os dados foram analisados por meio da estatística descritiva e inferencial sendo considerados significativos os resultados com p menor ou igual a 0,05. Resultados: Com base nas análises foi possível observar diferença significativa no equilíbrio após o período experimental (p=0,008), a favor do grupo intervenção. Além disso, pode-se observar diferença significativa na média do grupo intervenção para equilíbrio e para aspectos físicos na qualidade de vida (SF-36), assim como o d de Cohen mostrou efeitos de grande magnitude sobre essas variáveis. Conclusão: Logo, os resultados apresentam efeitos positivos na prática do programa de exercícios físicos sobre o equilíbrio dinâmico e estático e na qualidade de vida de pessoas amputadas. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2021-09-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/169835</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 28 n. 3 (2021)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2021 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/170112</identifier>
+<datestamp>2022-06-28T17:50:22Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"220331 2022                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação postural: avaliação quantitativa da postura estática de crianças de seis a dez anos de idade</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Tiago Gomes de</subfield>
+<subfield code="u">Universidade Federal do Vale do São Francisco</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Valle, Ian Mazzetti Rodrigues</subfield>
+<subfield code="u">Universidade Federal do Vale do São Francisco</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Batista, Ingrid Thaiane Soares</subfield>
+<subfield code="u">Universidade Federal do Vale do São Francisco</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gomes, Lara Elena</subfield>
+<subfield code="u">Universidade Federal de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carvalho, Rodrigo Gustavo da Silva</subfield>
+<subfield code="u">Universidade Federal do Vale do São Francisco</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A avaliação da postura corporal estática de crianças permite identificar e prevenir desordens musculoesqueléticas no estágio inicial. Objetivo: Avaliar a postura estática de alunos de uma escola pública, comparando a postura entre as faixas etárias e entre os sexos. Métodos: A amostra foi composta por 130 escolares (62 do sexo masculino e 68 do sexo feminino), os quais tinham entre 6 e 10 anos de idade. Cada escolar foi fotografado nas vistas anterior, posterior e lateral direita, e o registro fotográfico foi analisado por meio do Software de Avaliação Postural (SAPo). Resultados: Somente foi encontrada diferença entre os sexos no ângulo do tornozelo, além de interação entre sexo e faixa etária. Em relação à idade, o alinhamento horizontal dos acrômios e o alinhamento horizontal da cabeça foram diferentes entre 6-7 e 9 anos. O alinhamento horizontal da cabeça, o alinhamento horizontal das espinhas ilíacas ântero-superior (EIAS) e o alinhamento sagital do membro inferior também apresentaram interação significativa entre sexo e idade. Conclusão: Em média, a maioria dos resultados demonstra que há um alinhamento vertical e uma simetria horizontal nos ângulos analisados, com exceção do alinhamento sagital do membro inferior, do ângulo do tornozelo e do alinhamento sagital do corpo que não demostraram um alinhamento próximo do ideal. Logo, os escolares avaliados apresentam uma boa saúde musculoesquelética. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2022-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/170112</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 29 n. 1 (2022)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2022 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/170355</identifier>
+<datestamp>2023-04-17T17:41:07Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"221228 2022                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação muscular do joelho e funcional de membros inferiores de jovens atletas de voleibol do sexo feminino</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rodrigues, Ana Paula</subfield>
+<subfield code="u">Universidade de Caxias do Sul</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fabian, Geiziane de Fátima</subfield>
+<subfield code="u">Universidade de Caxias do Sul</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cecconi, Matheus Pauletti</subfield>
+<subfield code="u">Universidade de Caxias do Sul</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Eberle, Elias Franzoi</subfield>
+<subfield code="u">Universidade de Caxias do Sul</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Balbinot, Guilherme Faria</subfield>
+<subfield code="u">Universidade de Caxias do Sul</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Viecelli, Andressa</subfield>
+<subfield code="u">Universidade de Caxias do Sul</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tadiello, Gerson Saciloto</subfield>
+<subfield code="u">Universidade de Caxias do Sul</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bonetti, Leandro Viçosa</subfield>
+<subfield code="u">Universidade de Caxias do Sul</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Os desequilíbrios musculares e funcionais são analisados na tentativa de prevenir lesões e melhorar os desempenhos de atletas. Objetivo: Analisar o desempenho muscular de extensores e flexores de joelho e o desempenho funcional dos membros inferiores de atletas de voleibol. Métodos: Quinze atletas da categoria sub-16 de voleibol feminino da Universidade de Caxias do Sul foram avaliadas. Para análise do desempenho muscular, as variáveis pico de torque de extensores e flexores de joelho, e razão convencional de extensores/flexores, foi utilizado o dinamômetro isocinético. Já para a análise funcional dos membros inferiores, foram utilizados os testes Hop tests e Y balance test (YBT). Resultados: Na comparação entre membro dominante (MD) e não dominante (MND), não houve diferenças estatisticamente significativas na análise do pico de torque; já na razão flexores/extensores foi encontrada diferença significativa apenas à 240°/s. Entretanto, os valores médios da razão flexores/extensores encontrarem-se abaixo dos valores sugeridos pela literatura. As avaliações funcionais também não mostraram assimetrias entre os membros; no entanto, a pontuação composta do YBT apresentou-se abaixo dos valores normativos. Conclusão: A excelente simetria entre os membros pode ser justificada pela especificidade do esporte, pois os gestos esportivos do voleibol apresentam carácter simétrico durante as exigências físicas dos membros inferiores. No entanto, os baixos valores da razão flexores/extensores e da pontuação composta do YBT talvez não estejam diretamente relacionados a um risco maior de lesões já que os valores de referência utilizados são de atletas adultos. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2022-12-28 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/170355</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 29 n. 4 (2022)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2022 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/170815</identifier>
+<datestamp>2020-11-24T18:59:27Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200331 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Redução da força de preensão manual entre idosos longevos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tavares, Darlene Mara dos Santos</subfield>
+<subfield code="u">Universidade Federal do Triângulo Mineiro - UFTM</subfield><subfield code="0">http://orcid.org/0000-0001-9565-0476</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Nayara Gomes Nunes</subfield>
+<subfield code="u">Universidade Federal do Triângulo Mineiro – UFTM</subfield><subfield code="0">http://orcid.org/0000-0003-4170-8761</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Marchiori, Gianna Fiori</subfield>
+<subfield code="u">Universidade Federal do Triângulo Mineiro – UFTM</subfield><subfield code="0">http://orcid.org/0000-0001-6363-0059</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Lara Lacerda Soares</subfield>
+<subfield code="u">Universidade Federal do Triângulo Mineiro – UFTM</subfield><subfield code="0">http://orcid.org/0000-0002-3181-7764</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivos: Descrever as características sociodemográficas e de saúde dos longevos, identificar a ocorrência da redução da força de preensão manual dos longevos e verificar os fatores associados à redução da força de preensão manual dos longevos. Métodos: Estudo transversal e analítico, com abordagem quantitativa, desenvolvido com 313 idosos longevos da comunidade de uma Macrorregião de Saúde do Estado de Minas Gerais. Na coleta dos dados aplicaram-se: Miniexame do Estado Mental; Questionário estruturado elaborado pelo Grupo de Pesquisa em Saúde Coletiva; Questionário Internacional de Atividade Física; versão brasileira do Short Physical Performance Battery; Teste de força de preensão manual; Índice de massa corporal e questão referente à ocorrência de queda. Procederam-se às análises: descritiva, teste Qui-quadrado e regressão logística múltipla (p&lt;0,05). Resultados: Houve predomínio de longevos do sexo feminino (64,2%); com 80-90 anos de idade (86,6%); 1-5 anos de estudo (53,0%); renda ≤1 salário mínimo (55,3%); viúvos (63,3%); que moravam acompanhados (75,7%); inativos fisicamente (51,4%); com desempenho físico moderado/bom (55,9%); sem ocorrência de quedas nos últimos 12 meses (68,4%); eutróficos (39,9%) e com cinco ou mais morbidades (62,9%). A maioria dos longevos (60,4%) apresentou redução da força de preensão manual que se associou à ocorrência de quedas nos últimos 12 meses (p=0,042) e à inatividade física (p&lt;0,001). Conclusão: A redução na força de preensão manual dos idosos longevos foi relacionada à ocorrência de quedas e inatividade física, tais fatores contribuem para planejamento do cuidado gerontológico na prática clínica.     </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/170815</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 1 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/170876</identifier>
+<datestamp>2023-07-31T18:14:45Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"230331 2023                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Instrumentos de avaliação do ajuste psicossocial à amputação, uso e satisfação com a prótese: uma revisão sistemática da literatura</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pires, Greicy Kelly Wosniak</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Luza, Lisiane Piazza</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rudolpho, Sara Maria Soffiatti</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rodrigues, Paula Lopes</subfield>
+<subfield code="u">Instituto de Ensino Superior da Grande Florianópolis</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Rudney da</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O ajuste à amputação envolve tanto questões físicas quanto psicossociais e a satisfação com o membro artificial. Objetivo: Revisar sistematicamente a literatura acerca dos instrumentos que avaliam o ajuste psicossocial à amputação e uso da prótese e a satisfação com a prótese em pessoas com amputação de membro inferior. Métodos: Fonte de dados: Medline via Pubmed, Web of Science e Scopus. Critérios de elegibilidade: estudos originais que utilizaram questionários para avaliar o ajustamento psicossocial a amputação e uso da prótese e a satisfação com a prótese. Participantes: pessoas com amputação de membro inferior. Métodos de avaliação e síntese dos estudos: todas as análises foram realizadas por três avaliadores, de forma independente, sendo os resultados apresentados de forma descritiva, em tabelas. Resultados: Foram encontrados 239 artigos na busca inicial, sendo incluídos 12 artigos ao final da revisão. Nestes, foram identificados 14 questionários que avaliam o ajuste psicossocial e a satisfação com a prótese, porém, somente 5 são validados especificamente para a população amputada. Conclusão: A Trinity Amputation and Prosthesis Experience Scale (TAPES) e o Prosthesis Evaluation Questionnaire (PEQ) são os instrumentos mais utilizados, sendo sempre importante uma seleção criteriosa dos instrumentos a serem utilizados nas pesquisas e intervenções a fim de se obter dados válidos, confiáveis e comparáveis. Número de registro da revisão sistemática: CRD42019097279. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2023-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/170876</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 30 n. 1 (2023)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2023 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171038</identifier>
+<datestamp>2021-02-02T14:48:29Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200630 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Medo de cair em idosos classificados como vulneráveis de um centro de referência à atenção da saúde do idoso</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferreira, Miguel Jânio Costa</subfield>
+<subfield code="u">Universidade Ceuma – UNICEUMA</subfield><subfield code="0">https://orcid.org/0000-0002-3868-7034</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">França, Júlio César Queiroz de</subfield>
+<subfield code="u">Universidade Ceuma – UNICEUMA</subfield><subfield code="0">https://orcid.org/0000-0003-4806-9122</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lobos, Juan Carlos Costa Mata</subfield>
+<subfield code="u">Universidade Ceuma – UNICEUMA</subfield><subfield code="0">https://orcid.org/0000-0002-0774-0226</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santana, Roseanne Maria Silva Barbosa</subfield>
+<subfield code="u">Universidade Ceuma – UNICEUMA</subfield><subfield code="0">https://orcid.org/0000-0003-4170-551X</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moraes Júnior, Juarez Belmiro</subfield>
+<subfield code="u">Universidade Ceuma – UNICEUMA</subfield><subfield code="0">https://orcid.org/0000-0001-8133-0527</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carneiro, Andréa Santana</subfield>
+<subfield code="u">Universidade Ceuma – UNICEUMA</subfield><subfield code="0">https://orcid.org/0000-0001-9670-5010</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Monteiro, Silvio Gomes</subfield>
+<subfield code="u">Universidade Ceuma – UNICEUMA</subfield><subfield code="0">https://orcid.org/0000-0002-4185-4577</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gonçalves, Maria Claudia</subfield>
+<subfield code="u">Universidade Ceuma – UNICEUMA</subfield><subfield code="0">https://orcid.org/0000-0001-6457-2794</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Correlacionar o medo de cair com a vulnerabilidade em idosos. Método: A vulnerabilidade foi avaliada por meio da Pesquisa sobre Idosos Vulneráveis (VES-13) e o medo de cair pela Escala de Eficácia de Quedas - Internacional – Brasileira (FES-I-BR), participaram idosos de ambos os sexos e idade (60-85 anos), foram excluídos voluntários com limitações cognitivas e os que não participavam do grupo de convivência. Foram aplicado os testes de Kolmogorov-Smirnov, de Mann-Whitney, de Spearman, de regressão logística binária e para análise de sensibilidade e especificidade da FES-I-BR, empregou-se a curva da característica do operador receptor (ROC), a análise foi realizada em 95% nível de confiança e p&lt;0,05 foi adotado.  Resultados: Entre os n= 123 idosos, foi observado que (33,3%) são vulneráveis, n= 120 (97,6%) apresentaram alguma preocupação em cair. Entre as atividades analisadas na FES-I-BR, 21,1% estão extremamente preocupados em cair ao andar em superfícies escorregadias e foi observada uma correlação positiva e significativa entre a pontuação do VES-13 com a pontuação da FES-I-BR, a FES-I-BR foi um previsor significativo para a vulnerabilidade.  A FES-I-BR de forma aceitável mostrou-se capaz de discriminar o medo de cair de vulneráveis de não vulneráveis em uma área de 0,656 (p&lt;0,005), sensibilidade de 53,7% e especificidade de 69,5%.  Conclusão: O medo de cair está correlacionado com a vulnerabilidade, os idosos vulneráveis apresentaram mais medo de cair, o medo de cair é fator preditor de vulnerabilidade e a FES-I-BR foi capaz de discriminar o medo de cair de idosos vulneráveis e não vulneráveis. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171038</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 2 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171118</identifier>
+<datestamp>2021-03-25T14:48:20Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200630 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Associação entre velocidade de marcha e força de membros inferiores após acidente vascular encefálico crônico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Brenno Belchior Cordeiro</subfield>
+<subfield code="u">Faculdade Ciências Médicas de Minas Gerais – FCMMG </subfield><subfield code="0">https://orcid.org/0000-0003-4056-0750</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Faria-Fortini, Iza de</subfield>
+<subfield code="u">Faculdade Ciências Médicas de Minas Gerais – FCMMG </subfield><subfield code="0">https://orcid.org/0000-0002-0104-1547</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Pollyana Helena Vieira</subfield>
+<subfield code="u">Faculdade Ciências Médicas de Minas Gerais – FCMMG </subfield><subfield code="0">https://orcid.org/0000-0002-5932-200X</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Torriani-Pasin, Camila</subfield>
+<subfield code="u">Universidade de Sao Paulo – USP </subfield><subfield code="0">https://orcid.org/0000-0002-7173-8390</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Polese, Janaine Cunha</subfield>
+<subfield code="u">Faculdade Ciências Médicas de Minas Gerais – FCMMG </subfield><subfield code="0">https://orcid.org/0000-0003-3366-1545</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Certain muscle groups strength directly influence walking speed (WS), and the lower strength of the paretic side is significantly associated with lower WS of individuals after stroke. Studies that have investigated the association between the average of lower limb strength and the WS in individuals are scarce. Therefore, it is important to determine whether the strength could explain walking performance due to some muscle weakness could be compensated by the strength of others, mainly because all muscles act in group, not isolated. Objective: To investigate the association between WS and lower limbs muscle strength, and to identify whether an individual muscle group or the average strength of lower limb would best predict WS and walking speed reserve (WSR) in individuals with stroke. Methods: Sixty-four community-dwelling individuals with chronic stroke have their maximum isometric strength (hip flexors/extensors/abductors, knee flexors/extensors, and ankle dorsiflexors/plantarflexors) and self-selected and fast WS (10m walk test) measured. WSR was considered as the difference between the fast and self-selected speed. Results: Average strength of the paretic limb accounted for 19% and 20% of the variance in self-selected and fast WS, respectively. Plantarflexor strength of the paretic, knee and hip flexors of the non-paretic side explained alone 27% of the WSR scores and plantarflexor strength of the paretic side alone explained 15%.Conclusion: Average muscle strength of the paretic side contributed to self-selected and fast WS. Plantarflexor strength of the paretic side, knee and hip flexors of the non-paretic side contributed with the WSR of chronic stroke individuals. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-09-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171118</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 3 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171150</identifier>
+<datestamp>2020-11-24T18:59:27Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200331 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeito agudo da estimulação elétrica nervosa transcutânea (TENS) na lombalgia</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Bruna de Lima</subfield>
+<subfield code="u">Universidade Luterana do Brasil - ULBRA</subfield><subfield code="0">https://orcid.org/0000-0003-1842-6264</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Borba, Bruna Albani</subfield>
+<subfield code="u">Universidade Luterana do Brasil - ULBRA</subfield><subfield code="0">https://orcid.org/0000-0001-5902-8778</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Taiana Boeira</subfield>
+<subfield code="u">Universidade Luterana do Brasil - ULBRA</subfield><subfield code="0">https://orcid.org/0000-0001-7476-5290</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lumertz, Milena</subfield>
+<subfield code="u">Universidade Luterana do Brasil - ULBRA</subfield><subfield code="0">https://orcid.org/0000-0003-2130-6060</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Josué Nascente dos</subfield>
+<subfield code="u">Universidade Luterana do Brasil - ULBRA</subfield><subfield code="0">https://orcid.org/0000-0002-9525-5123</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dohnert, Marcelo Baptista</subfield>
+<subfield code="u">Universidade de Gurupi – UnirG</subfield><subfield code="0">https://orcid.org/0000-0002-0775-0600</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Daitx, Rodrigo Boff</subfield>
+<subfield code="u">Universidade Luterana do Brasil - ULBRA</subfield><subfield code="0">https://orcid.org/0000-0002-6194-5310</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A lombalgia é um problema extremamente comum, que afeta mais pessoas do que qualquer outra afecção. Acarreta em um quadro de dor, perda de função e redução da qualidade de vida. Isto posto, o tratamento conservador é de suma importância para a reabilitação de pacientes com lombalgia. Objetivo: Avaliar o efeito agudo da estimulação elétrica transcutânea (TENS) em portadores de lombalgia. Métodos: Série de casos, no qual participaram 66 pacientes. Foi realizado uma única intervenção com TENS no modo acupuntural, frequência de 70 Hz, tempo de pulso de 150 us, com duração de 40 minutos. Foram avaliados o nível de dor, flexibilidade de isquiotibiais, força muscular e estabilização do complexo lombopélvico pré, imediatamente após e 24 horas após a intervenção.  Resultados: O nível de dor, flexibilidade de isquiotibiais e força muscular dos extensores de tronco apresentaram melhora imediatamente após intervenção (p&lt;0,05). Após 24 horas, houve aumento significativo da dor em comparação ao pós intervenção (p&lt;0,05), porém ainda se verificou um efeito analgésico e de melhora da flexibilidade em comparação a avaliação pré. A força muscular melhorou de forma significativa pós intervenção e manteve-se 24 horas após (p&lt;0,05). Os testes de estabilidade apresentaram maior tempo de manutenção da postura imediatamente após a aplicação da TENS, porém com redução deste feito pós 24 horas (p&lt;0,05). Conclusão: A TENS demonstrou redução do quadro álgico, melhora da força de tronco, flexibilidade de isquiotibiais e da estabilização lombopélvica imediatamente após a intervenção. Estes efeitos se mantiveram 24 horas após, porém não com a mesma intensidade. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171150</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 1 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171245</identifier>
+<datestamp>2021-02-02T14:48:29Z</datestamp>
+<setSpec>actafisiatrica:Rel.+Caso</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200630 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Protocolo intensivo de reabilitação para o desenvolvimento neuropsicomotor em uma criança com microcefalia: um estudo de caso</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tavares, Amanda Braceloti</subfield>
+<subfield code="u">Faculdade de Talentos Humanos - FACTHUS</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sant&#039;Anna, Junior Augusto</subfield>
+<subfield code="u">Faculdade de Talentos Humanos - FACTHUS</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Borges, Nathalia Cristina</subfield>
+<subfield code="u">Faculdade de Talentos Humanos - FACTHUS</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santiago, Hildemberg Agostinho Rocha de</subfield>
+<subfield code="u">Universidade Federal do Amazonas – UFAM</subfield><subfield code="0">https://orcid.org/0000-0003-4191-7432</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Junior, Ivair Matias</subfield>
+<subfield code="u">Centro Universitário Claretiano</subfield><subfield code="0">https://orcid.org/0000-0002-8017-956X</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Menezes-Reis, Rafael</subfield>
+<subfield code="u">Universidade Federal do Amazonas – UFAM</subfield><subfield code="0">https://orcid.org/0000-0002-8496-5939</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A microcefalia é uma doença de origem multifatorial podendo ser desenvolvida de forma congênita ou por causas ambientais.  Ela atinge os ossos da calota craniana, causando o fechamento prematuro das fontanelas, no qual restringe o espaço interno do crânio, que em consequência afeta o crescimento e desenvolvimento normal do encéfalo, levando a disfunções neuropsicomotoras leves, moderadas ou graves. Desta forma, este estudo tem como objetivo avaliar o desenvolvimento neuropsicomotor de uma criança com microcefalia, antes e após um protocolo fisioterapêutico intensivo. Trata-se de relato de caso no qual foram avaliados os marcos motores e os níveis de função apresentados pelo paciente, antes e após um protocolo fisioterapêutico intensivo, realizado por um período de 30 dias consecutivos. Foram obtidos importantes resultados no controle de cervical, alinhamento de cabeça em linha média, manuseio de objetos, elevação das mãos à boca e alinhamento postural. Desta forma, conclui-se que o protocolo fisioterapêutico intensivo é uma alternativa eficaz que auxilia e potencializa o desenvolvimento neuropsicomotor da criança. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171245</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 2 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171383</identifier>
+<datestamp>2021-04-26T13:11:28Z</datestamp>
+<setSpec>actafisiatrica:Comun.+Breve</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"201231 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Diagnóstico situacional dos Centros Especializados em Reabilitação (CER) e Oficinas Ortopédicas: Projeto CER-Brasil</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castaneda, Luciana</subfield>
+<subfield code="u">Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro - IFRJ</subfield><subfield code="0">https://orcid.org/0000-0001-8573-342X</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dantas, Diego Sousa</subfield>
+<subfield code="u">Universidade Federal de Pernambuco - UFPE</subfield><subfield code="0">https://orcid.org/0000-0002-1966-3352</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Antônio Tadeu Ribeiro</subfield>
+<subfield code="u">Instituto Brasileiro de Geografia e Estatística - IBGE</subfield><subfield code="0">https://orcid.org/0000-0001-7128-3210</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castro, Shamyr Sulyvan</subfield>
+<subfield code="u">Universidade Federal do Ceará - UFC</subfield><subfield code="0">https://orcid.org/0000-0002-2661-7899</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A atenção a pessoa com deficiência no Brasil vem ganhando destaque nos últimos anos, com a criação da Rede de Cuidados à Pessoa com Deficiência, bem como com iniciativas ministeriais para avaliação da situação atual da rede e dos serviços específicos em reabilitação. Nesse sentido, pretende-se por meio dessa comunicação breve, apresentar projeto de pesquisa nacional de avaliação da atenção especializada em reabilitação. O projeto intitulado CER-Brasil objetiva realizar o diagnóstico situacional dos Centros Especializados em Reabilitação (CER) e Oficinas Ortopédicas. Trata-se de um estudo multicêntrico com a articulação nacional de pesquisadores das cinco regiões federativas brasileiras. Através de uma abordagem plurimetodológica, o projeto está sendo realizado em diferentes etapas, que incluem método Delphi, pesquisa documental, avaliação de serviços de saúde, e entrevista com gestores, profissionais e pacientes ligados aos CER em diferentes regiões do território brasileiro. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-12-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171383</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 4 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171415</identifier>
+<datestamp>2021-03-25T14:48:20Z</datestamp>
+<setSpec>actafisiatrica:Comun.+Breve</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200930 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A saturação periférica de oxigênio não é influenciada pelo uso de máscaras faciais em exercício</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Natália Cristina de Oliveira Vargas e</subfield>
+<subfield code="u">Master Program in Health Promotion, Undergraduation in Physical Education, Centro Universitário Adventista de São Paulo – UNASP </subfield><subfield code="0">https://orcid.org/0000-0002-0747-9478</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fabio Marcon</subfield>
+<subfield code="u">Master Program in Health Promotion, Undergraduation in Physical Education, Centro Universitário Adventista de São Paulo – UNASP </subfield><subfield code="0">https://orcid.org/0000-0002-5242-3246</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> In many cities worldwide the use of face masks in public spaces became mandatory to prevent dissemination of COVID-19. The closure of public parks, gymnasiums and other areas designed for the practice of physical exercise may contribute do inactivity. Objective: The aim of this experience report was to evaluate peripheral oxygen saturation with the use of different face masks at rest and at outdoor exercise. Methods: A single healthy female subject (41 years old, body mass index 18.5 kg/m2), experienced in outdoor jogging, was subjected to running sessions with 4 different types of face masks (surgical, double cloth, triple cloth and N95) and without mask, in 5 non-consecutive days. Sessions lasted 50 minutes, where 5,8km were covered at an average speed of 7km/h. Peripheral oxygen saturation (SpO2, %) and heart rate (HR, bpm) were registered at rest, at every 5 minutes of exercise and after 5 minutes of recovery. Results: Data revealed that no desaturation occurred at any moment with any mask, even at high intensity. There were no differences in mean SpO2 or HR with either type of face mask during exercise when compared to the use of no mask. Conclusion: Setting aside the discomfort of training with face masks and the possible interference of this in performance, face masks seem not to prevent adequate gas exchange during exercise in healthy subjects. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-09-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171415</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 3 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171458</identifier>
+<datestamp>2021-04-26T13:11:28Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"201231 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Validação de um instrumento de avaliação de habilidades de manejo de cadeira de rodas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Amorim, Minerva Leopoldina de Castro</subfield>
+<subfield code="u">Universidade Federal do Amazonas - UFAM</subfield><subfield code="0">https://orcid.org/0000-0002-5350-3563</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lopes, Kathya Augusta Thomé</subfield>
+<subfield code="u">Universidade Federal do Amazonas – UFAM</subfield><subfield code="0">https://orcid.org/0000-0002-3976-8899</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Batista, Luiz Henrique Rufino</subfield>
+<subfield code="u">Universidade Federal do Amazonas – UFAM</subfield><subfield code="0">https://orcid.org/0000-0002-4154-0818</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ponce, Keegan Bezerra</subfield>
+<subfield code="u">Centro Universitário Fametro</subfield><subfield code="0">https://orcid.org/0000-0003-4351-3204</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Habilidades de manejo em cadeira de rodas são fundamentais para independência funcional de pessoas usuárias de cadeira de rodas. Ensiná-las, requer dos profissionais instrumentos que possam aferir a condição inicial do aprendiz permitindo verificar sua evolução durante o processo de intervenção. Objetivo: Validar um protocolo de avaliação de HMCR, com critérios dentro de conceitos e conhecimentos científicos existentes da psicometria. Método: Para construção e validação do instrumento, utilizamos o método Delphi de Survey e validade de conteúdo. Os participantes da pesquisa foram seis especialistas na área de atividades em cadeira de rodas com titulação de mestres ou doutores, usamos para medir a consistência interna do instrumento o alfa de Cronbach (α), índice de validade de conteúdo (IVC), Coeficiente de correlação intraclasse (CCI) e teste T de uma amostra com nível de 5% de significância. Resultados: Nos 17 itens obtivemos os critérios de clareza (CVI= 0,865±0,059; α= 0,834; CCI= 0,828; P&lt;0,05), pertinência (CVI= 0,902±0,071; α= 0,774; CCI= 0,779; P&lt;0,05), simplicidade (CVI= 0,918±0,054; α= 0,705; CCI= 0,694; P&lt;0,05), objetividade (CVI= 0,888±0,067; α= 0,856; CCI= 0,850; P&lt;0,05) e precisão (CVI= 0,922±0,060; α= 0,742; CCI= 0,721; P&lt;0,05). Conclusão: Os itens na construção do instrumento de avaliação demonstram por meio da psicometria ser válido e garante medir aquilo que se propõe medir. A consistência interna dos itens garante que o desenvolvimento de uma escala se faz necessária para avaliação de pessoas com LM que utilizam CR, o que propõe novos estudos de aplicação do teste para concluirmos o processo de validação. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-12-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171458</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 4 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171459</identifier>
+<datestamp>2021-02-02T14:48:29Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200630 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Influência do uso do Wii Fit sobre o equilíbrio estático e a marcha na doença de Parkinson</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Belchior, Luciana Dias</subfield>
+<subfield code="u">Universidade de Fortaleza – UNIFOR </subfield><subfield code="0">https://orcid.org/0000-0001-5270-6417</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Almeida, Lícia Maria Belchior</subfield>
+<subfield code="u">Universidade Federal do Ceará – UFC </subfield><subfield code="0">https://orcid.org/0000-0002-9939-1085</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A Doença de Parkinson (DP) caracteriza-se, especialmente, por bradicinesia, instabilidade postural, reflexos reduzidos e alteração de marcha, aumentando o risco de quedas. Objetivo: Avaliar a influência de exercícios protocolados sobre equilíbrio estático e marcha com Wii Fit na DP. Métodos: Trata-se de artigo original que analisou alterações estáticas e marcha em dois pacientes com Parkinson, submetidos ao Nintendo Wii® e avaliados antes e após o protocolo. A avaliação deu-se mediante análise do equilíbrio estático e da marcha, no início e ao final de 6 semanas após o protocolo de três jogos: Penguin Slide, Plataforms e Balance Bubble, 2 vezes semanais, abordando a mesma sequência. A pesquisa foi realizada no Laboratório de Análise do Movimento Humano, vinculado à Universidade de Fortaleza, de fevereiro a setembro de 2015. Resultados: Os dados baropodométricos, referentes à variação da superfície, mostraram valor menor após intervenção. A variável velocidade média aumentou após atividade. As distâncias entre 2º e 3º passo e entre 3º e 4º passo também aumentaram, após intervenção, exceto esta última para o primeiro paciente. Com o protocolo de Nitendo Wii Fit, participantes relataram maior agilidade e segurança nas passadas, podendo ser comprovado pelo aumento da velocidade média dessas. Os pacientes evidenciaram uma melhora no equilíbrio estático e na marcha. Conclusão: Os exercícios protocolados em realidade virtual nos pacientes com DP melhoraram o desempenho do equilíbrio estático e da marcha, o que tende a favorecer a estabilidade ortostática e a deambulação.     </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171459</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 2 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171476</identifier>
+<datestamp>2021-02-02T14:48:29Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200630 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Avaliação de sintomas na distrofia muscular de Duchenne: uma estratégia de cuidado paliativo</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pavão, Josiane Rosires</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo - FMRP-USP</subfield><subfield code="0">https://orcid.org/0000-0003-3604-9730</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lizzi, Elisângela Aparecida da Silva</subfield>
+<subfield code="u">Universidade Tecnológica Federal do Paraná - UTFPR </subfield><subfield code="0">https://orcid.org/0000-0001-7064-263X</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Mariana Angélica de</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo - FMRP-USP</subfield><subfield code="0">https://orcid.org/0000-0003-4274-1301</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sobreira, Cláudia Ferreira da Rosa</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo - FMRP-USP</subfield><subfield code="0">https://orcid.org/0000-0002-7420-1644</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chaves, Thais Cristina</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo - FMRP-USP</subfield><subfield code="0">https://orcid.org/0000-0002-6222-4961</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mattiello-Sverzut, Ana Claudia</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo - FMRP-USP</subfield><subfield code="0">https://orcid.org/0000-0002-4181-0718</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A avaliação de sintomas na distrofia muscular de Duchenne (DMD) permite o adequado manejo terapêutico e o Edmonton Symptom Assessment System (ESAS) possui esta função: avaliar simultaneamente múltiplos sintomas de pacientes em cuidados paliativos (dor, cansaço, sonolência, náusea, apetite, falta de ar, depressão, ansiedade e bem-estar). Objetivo: Verificar se pacientes com DMD entendem os termos do ESAS e são capazes de graduar seus sintomas por este instrumento. Métodos: 10 pacientes com DMD foram avaliados transversalmente em relação à: compreensão dos itens do ESAS, caracterização dos sintomas (pelo ESAS e Escala de Faces) e medida da função motora. A graduação de sintomas do paciente, pelo ESAS, foi realizada também pelo avaliador. Os dados foram analisados descritivamente e por meio do coeficiente de correlação de Spearman. Resultados: Todos os pacientes compreenderam os sintomas dor, cansaço, sonolência, depressão (tristeza) e bem-estar, já os sintomas náusea, apetite, falta de ar e ansiedade não foram compreendidos por todos. A média geral de todos os sintomas avaliados pela escala ESAS foi abaixo de 5 pontos. Entre os resultados da escala ESAS e Escala de faces, houve correlação forte para os sintomas “depressão” (r= 0,64) e “ansiedade” (r= 0,65). Houve correlação perfeita (r= 1,0) entre ESAS preenchida pelo paciente e pelo avaliador para os itens “depressão” e “ansiedade” e correlação forte (r= 0,82) para “sonolência”. Conclusão: Pacientes com DMD entenderam os termos do ESAS e graduaram seus sintomas por este instrumento, portanto, não há necessidade de alteração dos termos do ESAS para avaliação de pacientes com DMD. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171476</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 2 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/171505</identifier>
+<datestamp>2022-02-01T13:27:52Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"210930 2021                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Registros de absenteísmo-doença: o que os conteúdos revelam sobre a funcionalidade de trabalhadores da higienização?</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Bárbara Cordeiro</subfield>
+<subfield code="u">Pontifícia Universidade Católica do Paraná - PUCPR</subfield><subfield code="0">https://orcid.org/0000-0003-1222-7977</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lopes, Jaqueline do Carmo Machado</subfield>
+<subfield code="u">Pontifícia Universidade Católica do Paraná - PUCPR</subfield><subfield code="0">https://orcid.org/0000-0002-3335-4898</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Scharan, Karoleen Oswald</subfield>
+<subfield code="u">Pontifícia Universidade Católica do Paraná - PUCPR</subfield><subfield code="0">https://orcid.org/0000-0002-4420-3171</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moser, Auristela Duarte de Lima</subfield>
+<subfield code="u">Pontifícia Universidade Católica do Paraná - PUCPR</subfield><subfield code="0">https://orcid.org/0000-0001-5086-0701</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Utilizar os registros de absenteísmo-doença de trabalhadores de limpeza do setor de higienização de uma instituição de ensino superior para estabelecer um subsídio inicial de conteúdo com as categorias da Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF). Método: Estudo quantitativo, descritivo e retrospectivo. Foram analisados 2.881 atestados médicos, de trabalhadores de limpeza durante o período de 2010 a 2014, classificados de acordo com a CID-10. Variáveis estudadas: sexo, data admissional e demissional, início e fim do atestado, número de dias de afastamento e códigos da CID-10. A partir das regras propostas por Cieza et al. 2016, em um processo efetuado por três pesquisadoras, estabeleceu-se o conteúdo dos registros de absenteísmo-doença com a CIF. Os dados foram tratados pelo programa IBM SPSS Statistics 2.0. Resultados: Foram identificados 29 conceitos significativos da CID-10, referentes aos 6 capítulos mais frequentes. Vinte e seis deles foram relacionados a 17 categorias da CIF, majoritariamente às funções e estruturas do Corpo, seguido de 1 categoria de Atividades e Participação. Um conceito foi classificado como condição de saúde e 2 como não cobertos pela CIF. Os dados disponíveis não evidenciaram categorias do componente Fatores Ambientais. Conclusão: O conteúdo dos registros de absenteísmo-doença permitiu subsidiar a seleção de categorias da CIF, refletindo os aspectos biofísicos contemplados na CID-10. Porém, para considerar os aspectos biopsicossociais da CIF e da política de saúde do trabalhador, será importante contemplar nos registros de absenteísmo-doença conteúdos referentes as Atividades e Participação e, Fatores Ambientais, nos quais os trabalhadores experenciam sua funcionalidade. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2021-09-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/171505</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 28 n. 3 (2021)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2021 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/172051</identifier>
+<datestamp>2020-11-24T18:59:27Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200331 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Inquérito populacional sobre a funcionalidade das pessoas com lesão medular no Brasil: estudo de protocolo</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Utiyama, Daniela Mitiyo Odagiri</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação do Hospital das Clínicas – IMREA HCFMUSP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fabio Marcon</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação do Hospital das Clínicas – IMREA HCFMUSP</subfield><subfield code="0">https://orcid.org/0000-0002-5242-3246</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Faculdade de Medicina, Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A pesquisa InSCI (International spinal cord injury) foi desenvolvida para descrever a saúde e o bem-estar de indivíduos com lesão medular (LM) em relação à comunidade local. Por isto, objetivo deste estudo será descrever as características pessoais, fatores ambientais, de saúde, de qualidade de vida, de trabalho dos indivíduos que vivem com lesão medular no Brasil e comparar os dados com outros países participantes da pesquisa. Este estudo deverá ser de caráter transversal observacional. Os indivíduos com LM serão recrutados no Instituto de Medicina Física e de Reabilitação (IMREA) do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, na Rede de Reabilitação Lucy Montoro (IRLM) e na Associação Fluminense de Reabilitação (AFR). Participarão do estudo 400 indivíduos de ambos os sexos com idade igual ou superior a 18 anos com diagnóstico de lesão medular de origem traumática cujo tempo de lesão esteja superior a 3 meses. Os voluntários realizarão uma avaliação inicial por meio de questionário com 125 perguntas sobre problemas de saúde, atividade e participação, independência nas atividades de vida diária, trabalho, fatores ambientais e pessoais, serviços de saúde e qualidade de vida. As associações entre as variáveis serão feitas testes de correlação de Pearson ou Spearman. Modelos simples de regressão linear ou logística também poderão ser usados de acordo com os dados obtidos. Os procedimentos de processamento e ajuste de dados obedecerão às recomendações das Diretrizes Cross-Cultural Survey (CCSG) e ao fortalecimento do Relatório de Estudos Observatórios em Epidemiologia (STROBE). </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/172051</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 1 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/172216</identifier>
+<datestamp>2021-03-25T14:48:20Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"210202 2021                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Funcionalidade e qualidade de vida de pessoas com esclerose lateral amiotrófica e percepção da sobrecarga e apoio social de cuidadores informais </subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gomes, Crystian Moraes Silva</subfield>
+<subfield code="u">Centro de Reabilitação Física do Espírito Santo - CREFES</subfield><subfield code="0">https://orcid.org/0000-0003-0675-0868</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Zuqui, Aline Caus</subfield>
+<subfield code="u">Centro de Reabilitação Física do Espírito Santo – CREFES</subfield><subfield code="0">https://orcid.org/0000-0003-2668-2452</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Schiavo, Kellen Valladão</subfield>
+<subfield code="u">Centro de Reabilitação Física do Espírito Santo – CREFES</subfield><subfield code="0">https://orcid.org/0000-0002-9608-3001</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Jonaina Fiorim Pereira de</subfield>
+<subfield code="u">Centro de Reabilitação Física do Espírito Santo – CREFES</subfield><subfield code="0">https://orcid.org/0000-0002-6127-4596</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Esta pesquisa tem como objetivo mensurar a funcionalidade e qualidade de vida de pacientes com Esclerose Lateral Amiotrófica (ELA) e fornecer evidências sobre a possível sobrecarga de cuidados gerados aos seus cuidadores informais. Método: Trata-se de um estudo descritivo exploratório do tipo quantitativo, com delineamento transversal. A amostra do estudo foi composta por 24 participantes, sendo 12 pacientes com ELA e 12 cuidadores informais, recrutados em um Centro Especializado de Reabilitação. Foram administrados aos indivíduos com ELA os instrumentos: Questionário sobre Informações Demográficas; Amyotrophic Lateral Sclerosis Functional Rating Scale-Revised (ALSFRS-R); Amyotrophic Lateral Sclerosis Assessment Questionnaire (ALSAQ-40) e aos cuidadores: Questionário de Avaliação da Sobrecarga do Cuidador Informal (QASCI); Escala de Apoio Social do Medical Outcomes Study (MOS). Resultados: Foram encontradas fortes correlações entre ALSFRS-R e ALSAQ-40 (r = - 0.709 e p &lt; 0.010), entre o domínio Atividades de Vida Diária e a ALSFRS-R (r = - 0.877 e p &lt; .001), entre os domínios da QASCI e MOS, Mecanismo de Eficácia e de Controle e Apoio material (r = - 0.598 e p &lt; 0.040), Satisfação com o Papel e com o Familiar e Apoio Afetivo (r = - 0.604 e p &lt; 0.037), e Suporte Familiar e Interação Social Positiva (r = - 0.683 e p &lt; 0.014). Conclusão: A funcionalidade e a qualidade de vida do paciente com ELA influenciam na provisão de cuidados, o suporte social percebido foi uma variável moderadora da sobrecarga de estresse dos cuidadores.     </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-09-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/172216</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 3 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/172364</identifier>
+<datestamp>2021-02-02T14:48:29Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200630 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Associação entre a classificação da deambulação funcional com a velocidade da marcha após acidente vascular cerebral</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Júlio, Cíntia Elord</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE </subfield><subfield code="0">https://orcid.org/0000-0002-9161-0618</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cardoso, Ariadne</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE</subfield><subfield code="0">https://orcid.org/0000-0002-4709-7933</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pereira, Gabriela Santos</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE </subfield><subfield code="0">https://orcid.org/0000-0001-9380-3504</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Corrêa, João Carlos Ferrari</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE</subfield><subfield code="0">https://orcid.org/0000-0002-8642-9814</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Soraia Micaela</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE</subfield><subfield code="0">https://orcid.org/0000-0002-5929-3253</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A escolha do instrumento adequado é decisiva para o sucesso da avaliação funcional e reabilitação. Diante disto, é necessário que o profissional tenha amplo conhecimento dos instrumentos disponíveis para que possa optar pela avaliação mais eficaz, menos onerosa e mais rápida. Objetivo: Analisar se a classificação da deambulação obtida pela Functional Ambulation Classification (FAC) se associa com o desempenho obtido no Teste de Caminhada de 10 metros (TC10M). Métodos: Estudo transversal no qual foram avaliados 61 indivíduos acometidos pelo Acidente Vascular Cerebral (AVC). Utilizou-se o TC10M e a FAC. Para verificar a normalidade dos dados foi utilizado teste Kolmogorov – Smirnov. Foi utilizado o ANOVA de uma via para verificar se houve diferença dos deambuladores dependentes e independentes conforme a FAC com a velocidade da marcha por meio do TC10M. Foi realizado um teste post hoc e o método de Scheffe, considerando p≤0,05. Para analisar a associação da categorização da deambulação com a velocidade da marcha, foi o utilizado o teste do qui-quadrado de independência. Resultados: Houve diferença significante de cada nível da FAC em relação a velocidade da marcha. Houve associação entre as classificações obtidas pela FAC e pelo TC10m [x2(9) = 145,335; p=0,001]; sendo que em 48% as variáveis estão corretamente associadas. Conclusão: Os achados indicaram que os níveis da FAC apresentaram associação com a velocidade da marcha. Este achada amplia os conhecimentos sobre medidas de avaliação da marcha e auxilia a prática clínica, considerando que facilita a escolha do melhor instrumento para avaliar a marcha após AVC. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/172364</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 2 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/172431</identifier>
+<datestamp>2021-02-02T14:48:29Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200630 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeitos da realidade virtual em crianças e adolescentes com paralisia cerebral baseada na Classificação Internacional de Funcionalidade, Incapacidade e Saúde: revisão sistemática</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pereira, Gabriela Santos</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE   </subfield><subfield code="0">https://orcid.org/0000-0001-9380-3504</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Heyriane Martins dos</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE   </subfield><subfield code="0">https://orcid.org/0000-0002-4705-6111</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brandão, Thayane Correa Pereira</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE   </subfield><subfield code="0">https://orcid.org/0000-0002-1508-1259</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Jéssica Lima da</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE   </subfield><subfield code="0">https://orcid.org/0000-0002-3280-8210</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kaczmarek, Mara Cristina Dias</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE   </subfield><subfield code="0">https://orcid.org/0000-0002-9172-6215</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pinheiro, Vanessa Viana</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE   </subfield><subfield code="0">https://orcid.org/0000-0002-6839-9471</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fonseca Junior, Paulo Roberto</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação, Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0002-6180-8674</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Soraia Micaela</subfield>
+<subfield code="u">Universidade Nove de Julho – UNINOVE   </subfield><subfield code="0">https://orcid.org/0000-0002-5929-3253</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Abordar os efeitos da terapia com realidade virtual em crianças e adolescentes com Paralisia Cerebral de acordo com a Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF). Com intuito de reunir dados que elucidem como a aplicação da CIF pode resultar em melhor compreensão das características apresentadas em uma situação de saúde. Métodos: Os artigos foram pesquisados nas plataformas MEDLINE (Pubmed), PEDro, LILACS e SCIELO, publicados até maio de 2019. A escala de qualidade PEDro (Physioterapy Evidence Database) foi utilizada como método de avaliação de qualidade dos artigos, sendo incluídos artigos com nota ≥ 6 (seis) no PEDro. Resultados: Seis artigos foram incluídos nesta revisão. De maneira geral, observou-se resultados significantes quanto às “Funções corporais” relacionadas à melhora da função de membros superiores e inferiores, após intervenção com RV, quando comparados a terapia convencional. No domínio “Atividade” observou-se resultados na marcha, equilíbrio e habilidades motoras globais de crianças com PC após intervenção com RV. Conclusão: Os efeitos da Realidade Virtual em crianças com PC relacionados a CIF são positivos, mas foram encontrados mais resultados associados ao domínio “Funções corporais” e “Atividade”, assim, sugere-se que sejam feitos mais estudos para verificar os efeitos da RV quanto à “Participação” e “Fatores ambientais”. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/172431</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 2 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/172965</identifier>
+<datestamp>2020-11-24T18:59:27Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200331 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Atividade física como fator protetor para o extremo baixo peso em idosos assistidos por uma operadora de saúde</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Deborah Lorenzo Gomez</subfield>
+<subfield code="u">Centro Universitário São Camilo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">D&#039;Oliveira, Rafaela Ramos</subfield>
+<subfield code="u">Centro Universitário São Camilo</subfield><subfield code="0">https://orcid.org/0000-0002-7952-5277</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kim, Beatriz Myung Jin</subfield>
+<subfield code="u">Centro Universitário São Camilo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Ana Flávia de Lima</subfield>
+<subfield code="u">Centro Universitário São Camilo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva Junior, Eduardo Antonio Barros</subfield>
+<subfield code="u">Centro Universitário São Camilo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Henrique Souza Barros de</subfield>
+<subfield code="u">Centro Universitário São Camilo</subfield><subfield code="0">https://orcid.org/0000-0002-9067-8581</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Manso, Maria Elisa Gonzalez</subfield>
+<subfield code="u">Pontifícia Universidade Católica de São Paulo - PUC-SP</subfield><subfield code="0">https://orcid.org/0000-0001-5446-233X</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Investigar a influência de fatores relacionados aos aspectos multidimensionais do envelhecimento em um grupo de idosos com baixo peso assistidos pelo setor privado de saúde. Métodos: Estudo transversal conduzido com 243 idosos com índice de massa corpórea &lt;23 kg/m², todos assistidos por uma operadora de planos de saúde, no município de São Paulo, SP, Brasil, alocados em dois grupos: baixo peso e extremo baixo peso. Para a coleta dos dados empregou-se inquérito contendo informações relacionadas aos aspectos multidimensionais do envelhecimento. Os dados obtidos foram submetidos a análise descritiva das variáveis, com posterior análise comparativa através dos testes t Student e Qui-Quadrado ou exato de Fisher, quando necessário. Para variáveis com significância estatística, aplicou-se regressão logística e calculou-se as Odds Ratio, com intervalo de confiança de 95%. Resultados: Observou-se que, a idade avançada (p=0,044), dificuldade de mobilidade (p=0,011) e baixos níveis de atividade física (p=0.021) influenciam significativamente os idosos em estado nutricional de extremo baixo peso. Por meio do modelo de regressão logística, verificou-se que para cada uma hora de atividade física praticada pelos idosos deste grupo, os riscos de evolução para extremo baixo peso diminuem em até 14%. Conclusão: A pratica regular e orientada de atividade física praticada por idosos com algum grau de déficit nutricional é capaz de prevenir e/ou retardar desfechos indesejados em grupos susceptíveis. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/172965</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 1 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/172968</identifier>
+<datestamp>2021-02-02T14:48:29Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200630 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Análise da velocidade e acurácia de movimentos em indivíduos após acidente vascular encefálico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Araújo, Gabriela</subfield>
+<subfield code="u">Universidade do Oeste Paulista - UNOESTE</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rossini, Nataly</subfield>
+<subfield code="u">Universidade do Oeste Paulista - UNOESTE</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferrari, Aline Sanchez</subfield>
+<subfield code="u">Universidade do Oeste Paulista - UNOESTE</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Monteiro, Carlos Bandeira de Mello</subfield>
+<subfield code="u">Escola de Artes, Ciências e Humanidades da Universidade de São Paulo, Grupo de Pesquisa e Aplicação Tecnológica em Reabilitação - PATER </subfield><subfield code="0">https://orcid.org/0000-0002-2661-775X</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Talita Dias da</subfield>
+<subfield code="u">Escola de Artes, Ciências e Humanidades da Universidade de São Paulo, Grupo de Pesquisa e Aplicação Tecnológica em Reabilitação - PATER </subfield><subfield code="0">https://orcid.org/0000-0002-4683-4671</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Massetti, Thais</subfield>
+<subfield code="u">Escola de Artes, Ciências e Humanidades da Universidade de São Paulo, Grupo de Pesquisa e Aplicação Tecnológica em Reabilitação - PATER </subfield><subfield code="0">https://orcid.org/0000-0001-6386-0241</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fernani, Deborah Cristina Gonçalves Luiz</subfield>
+<subfield code="u">Universidade do Oeste Paulista - UNOESTE</subfield><subfield code="0">https://orcid.org/0000-0001-9981-2161</subfield><subfield code="0">https://orcid.org/0000-0001-9981-2161</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dantas, Maria Tereza Artero Prado</subfield>
+<subfield code="u">Universidade do Oeste Paulista - UNOESTE</subfield><subfield code="0">https://orcid.org/0000-0001-6316-0755</subfield><subfield code="0">https://orcid.org/0000-0001-6316-0755</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The Stroke might cause alterations in movement control due to the sequels of this process. Objective: Analyze the speed-accuracy trade-off of upper limb movement in individuals with sequels of Stroke through a computer software. Method: It is about a cross-sectional study, the sample was composed of 46 individuals divided into two groups: individuals post-stroke, between the ages of 35  and 83 years old, in which 10 were women and 14 were men; and 22 healthy controls aligned by age and sex, in which 8 were women and 14 were men, evaluated through the instruments: Mini mental state examination, Orpington prognostic scale, Fugl-Meyer Assessment Scale, dynamometer, box of blocks and throught the software “Fitts Reciprocal Aiming Task v.2.0. (Horizontal)”, that seeks to understand the motor control of the upper limb, verifying the speed and accuracy of movement through a computer task. Results: The individuals with sequels of Stroke showed a loss in the strength of the palmar grip and manual function. Besides, they showed a longer time in movement in all index of difficulty compared to Control group. However, they showed a similar behaviour to the healthy individuals throughout the execution of the index of difficulty. Conclusion: Thus, it can be concluded that the individuals with sequels of Stroke showed a deficit of the motor control of the upper limb, compared to the healthy individuals, however, these showed the same behavior, with a bigger deficit in the accuracy of movement. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/172968</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 2 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/173126</identifier>
+<datestamp>2022-06-28T17:50:22Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"220331 2022                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Possibilidades de utilização da Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) na saúde da criança: uma revisão sistemática</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pereira, Gabriela Santos</subfield>
+<subfield code="u">Universidade Nove de Julho</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Heyriane Martins dos</subfield>
+<subfield code="u">Universidade Nove de Julho</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gonçalves, Thais Nogueira Simões</subfield>
+<subfield code="u">Universidade Nove de Julho</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brandão, Thayane Correa Pereira</subfield>
+<subfield code="u">Universidade Nove de Julho</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fonseca Junior, Paulo Roberto</subfield>
+<subfield code="u">Universidade Nove de Julho</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Soraia Micaela</subfield>
+<subfield code="u">Universidade Nove de Julho</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Sintetizar as possibilidades de utilização da Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) na saúde da criança. Métodos: O processo de revisão seguiu as recomendações do PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses). A revisão foi realizada nas bases de dados MEDLINE (Pubmed), LILACS e SciELO, compreendendo estudos em inglês, português ou espanhol, publicados até 2018. Resultados: Foram identificados 2375 estudos, destes, 1145 foram excluídos por duplicidade, restando 1230 para análise. Ao final, 29 artigos foram eleitos para a elaboração deste estudo. Foi possível observar grande diversidade de utilização da CIF, desde uso como desfechos de ensaios clínicos, uso do modelo biopsicossocial e uso de conceitos e categorias da CIF. Todos os componentes da CIF foram citados dentre os estudos, com maior ênfase para o componente de funções corporais e atividade e participação. Conclusões: A CIF é uma ferramenta importante e útil para a classificação da funcionalidade de crianças de forma holística em ensaios clínicos, estudos observacionais e na prática clínica. Além disso, é possível fazer acompanhamento evolutivo do desenvolvimento infantil a partir dos qualificadores da CIF. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2022-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/173126</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 29 n. 1 (2022)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2022 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/173136</identifier>
+<datestamp>2020-11-24T18:59:27Z</datestamp>
+<setSpec>actafisiatrica:Art.+Esp.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"200331 2020                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Residenciais de idosos durante a crise do COVID-19: a gestão SOBRAMFA, um modelo eficaz</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Blasco, Pablo González</subfield>
+<subfield code="u">SOBRAMFA - Educação Médica e Humanismo</subfield><subfield code="0">https://www.sobramfa.com.br</subfield><subfield code="0">https://orcid.org/0000-0001-8682-8770</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Levites, Marcelo Rozenfeld</subfield>
+<subfield code="u">SOBRAMFA - Educação Médica e Humanismo</subfield><subfield code="0">https://orcid.org/0000-0002-2816-4432</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moreto, Graziela</subfield>
+<subfield code="u">SOBRAMFA - Educação Médica e Humanismo</subfield><subfield code="0">https://orcid.org/0000-0003-0651-2595</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Janaudis, Marco Aurelio</subfield>
+<subfield code="u">SOBRAMFA - Educação Médica e Humanismo</subfield><subfield code="0">https://orcid.org/0000-0003-2496-232X</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">De Benedetto, Maria Auxiliadora Craice</subfield>
+<subfield code="u">SOBRAMFA - Educação Médica e Humanismo</subfield><subfield code="0">https://orcid.org/0000-0003-3958-7438</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A atual pandemia pelo COVID-19 nos faz viver tempos difíceis e inéditos. Os esforços de todos os profissionais de saúde, cada um nas suas competências, são essenciais. Enquanto pesquisadores e cientistas se debatem procurando recursos terapêuticos eficazes, aqueles que estão na linha de frente devotam seus melhores esforços no cuidado clinico dos pacientes afetados. A cada dia que passa mostra-se imprescindível o cuidado da própria equipe de saúde. Não apenas o cuidado físico (para o qual se tomam todas as providências possíveis em cada caso) mas também da saúde mental. Um elemento da equipe de saúde desanimado, pessimista, sem perspectiva é também um fator de crise, provoca insegurança nos pacientes e nas famílias  -mais ainda da que lhes chega habitualmente da mídia - e  nada ajuda na equipe de saúde. Torna-se preciso levantar o moral dos que lidam diariamente com esta ameaça de proporções antes nunca vistas. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2020-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/173136</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 27 n. 1 (2020)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2020 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/173469</identifier>
+<datestamp>2021-07-23T18:11:16Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"210331 2021                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Perfil epidemiológico dos pacientes com esclerose lateral amiotrófica acompanhados na Associação de Assistência à Criança Deficiente</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Rafael Santos Ferreira da</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente - AACD</subfield><subfield code="0">https://orcid.org/0000-0003-0987-6298</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lira, Letícia da Silva</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente - AACD</subfield><subfield code="0">https://orcid.org/0000-0001-8136-3388</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Freitas, Simone Ferreira de</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente - AACD</subfield><subfield code="0">https://orcid.org/0000-0003-0728-1426</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dylewski, Viviana</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente - AACD</subfield><subfield code="0">https://orcid.org/0000-0001-7835-5619</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rocco, Fernanda Moraes</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente - AACD</subfield><subfield code="0">https://orcid.org/0000-0003-1441-8291</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Clarissa Barros de</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente - AACD</subfield><subfield code="0">https://orcid.org/0000-0001-8644-7337</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rodrigues, Nádia Baggio Barreto</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente - AACD</subfield><subfield code="0">https://orcid.org/0000-0002-6785-7493</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A Esclerose Lateral Amiotrófica (ELA) é uma doença neurodegenerativa caracterizada por perda irreversível dos neurônios motores da medula espinal, tronco encefálico e córtex cerebral, levando à atrofia muscular, espasticidade e consequentemente à morte. Objetivo: Verificar a prevalência da ELA na Associação de Assistência à Criança Deficiente (AACD) – Unidade Ibirapuera e caracterizar os indivíduos acometidos quanto à evolução da doença durante o processo de reabilitação, a fim de traçar um perfil epidemiológico desta população. Métodos: Trata-se de um estudo retrospectivo, baseado em informações contidas em prontuário, referentes a pacientes que realizaram reabilitação durante o período de janeiro de 2008 a janeiro de 2018, sendo a busca pelos dados guiada a partir de formulário desenvolvido exclusivamente para este estudo. Resultados: A prevalência dos pacientes com ELA em tratamento na clínica de doenças neuromusculares é de 11,6%. O perfil desses pacientes é ligeiramente maior do sexo feminino de cor branca, com uma média de idade de 59 anos, sendo a hipertensão arterial sistêmica a comorbidade mais encontrada. A forma de ELA mais frequente foi a esporádica, e o medicamento mais utilizado foi o Riluzole. Houve grande variabilidade de objetivos fisioterapêuticos e aumento do uso da ventilação mecânica não invasiva. Não houve associação entre a presença de marcha na última avaliação e o tempo do paciente em fisioterapia. Conclusão: Os objetivos estão de acordo com a literatura, bem como demonstram a importância de conhecermos melhor a população para termos uma abordagem multidisciplinar mais adequada para estes pacientes. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2021-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/173469</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 28 n. 1 (2021)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2021 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/173528</identifier>
+<datestamp>2021-07-23T18:11:16Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"210331 2021                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">O efeito da intervenção não farmacológica na densidade mineral óssea de pacientes com lesão medular: uma revisão sistemática</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moreira, Rickella Aparecida Alves</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação, Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo </subfield><subfield code="0">http://lattes.cnpq.br/9068793227810602</subfield><subfield code="0">https://orcid.org/0000-0002-9959-4384</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Paiva, Natália Silveira de</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação, Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo </subfield><subfield code="0">https://orcid.org/0000-0002-1121-5838</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cichon, Flavio Rodrigo</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação, Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo </subfield><subfield code="0">https://orcid.org/0000-0002-0757-6200</subfield><subfield code="0">https://orcid.org/0000-0002-0757-6200</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta </subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação, Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza , Daniel Rubio de</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação, Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo </subfield><subfield code="0">https://orcid.org/0000-0003-0207-9800</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Avaliar os efeitos das medidas não farmacológicas na prevenção de perda ou no aumento da densidade mineral óssea de pacientes com lesão medular. Método: Revisão sistemática usando as bases de dados Medline, Embase, Cochrane Library e Lilacs com pesquisa entre 2009 e junho de 2019. Resultados: Foram encontrados 801 artigos dos quais foram selecionados, de acordo com os critérios de inclusão e exclusão, 15 artigos: 8 Estudos Clínicos Randomizados (ECR), 5 Estudos de Intervenção e 2 Revisões Sistemáticas. Conclusão: As evidências do uso de terapias não farmacológicas para prevenção e tratamento da osteoporose em LM são fracas e seus estudos contêm inúmeros vieses impossibilitando conclusões definitivas. O FES é a modalidade mais estudada e seu uso pode ser benéfico tanto para prevenção como para o tratamento da perda de massa óssea. Os resultados são observados com um uso frequente (5 sessões semanais) e associado a atividades físicas em especial as que promovam maior resistência muscular. Destacamos também que o retardo na perda de massa óssea está circunscrito ao período de aplicação, cessando após o término do mesmo. A associação de eletroestimulação e exercícios parece potencializar a ação medicamentosa, mas mais estudos são necessários para ratificar esta impressão. Intervenções não farmacológicas como o ortostatismo, atividades físicas, treino de marcha e a eletroestimulação são estratégias de baixo custo, baixo risco, poucos efeitos colaterais e com inúmeros outros benefícios na reabilitação de lesados medulares. Por isso, ainda que não tenhamos evidências consistentes de ação na massa óssea, estão fortemente recomendados. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2021-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/173528</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 28 n. 1 (2021)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2021 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<resumptionToken expirationDate="2023-08-08T14:50:31Z" completeListSize="935" cursor="750">eb567504699f687d8f4e6253d5534484</resumptionToken>
+</ListRecords>
+</OAI-PMH> 

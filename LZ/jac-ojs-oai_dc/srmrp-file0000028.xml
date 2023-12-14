@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:22Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7750</identifier>
+        <datestamp>2020-06-25T16:17:47Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Viro.+Med.+I</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Vacinas contra o dengue</dc:title>
+          <dc:title xml:lang="en-US">Dengue vaccines</dc:title>
+          <dc:creator>Figueiredo, Luiz Tadeu M.</dc:creator>
+          <dc:subject xml:lang="en-US">Dengue. Vaccines.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Vacinas. Dengue.</dc:subject>
+          <dc:description xml:lang="pt-BR">O controle do dengue é feito, nos dias atuais, em todo o mundo, seguindo normas de combate aos mosquitos vetores preconizadas por sanitaristas do começo do século. O controle e a erradicação do Aedes aegypti, vetor do dengue, é bastante difícil e necessita de grandes investimentos com funcionários, máquinas, venenos e campanhas educacionais permanentes. A alternativa ideal para o controle do dengue seria através do uso de vacinas. Neste trabalho de revisão, analisam-se pesquisas para o desenvolvimento de vacinas contra dengue, incluindo: as de vírus vivo atenuado; as de engenharia genética (vacinas recombinantes) tendo abordagens relativas à expressão de proteínas de dengue em células eucarióticas, aos vírus recombinantes, aos vírus mutantes ou quiméricos, e às vacinas com vetores vivos. Ainda, abordam-se as vacinas de DNA. Observa-se que as vacinas de vírus vivo e atenuado são aquelas que têm as melhores perspectivas para serem utilizadas de forma generalizada, no controle do dengue, dentro de alguns anos.</dc:description>
+          <dc:description xml:lang="en-US">The control of dengue is done world-wide by fighting the vector mosquito following the rules preconized by sanitarians of the beginning of the century. The control and the eradication of Aedes aegypti, the principal vector of dengue, is extremely difficult and demand large money investing on personnel, machines, insect poisons and permanent educational campaigns. The best alternative for dengue control is the use of vaccines. In this revision work the research on dengue vaccines is analyzed, including: attenuated viruses; genetic engineering (recombinant vaccines) by virus protein expression in euchariotic cells, recombinant viruses, mutant and chimera viruses, vaccines with living vectors, and DNA vaccines. The attenuated dengue virus vaccines have best chances of a generalized use in the next years.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7750</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p21-25</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 21-25</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 21-25</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 21-25</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7750/9288</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7751</identifier>
+        <datestamp>2020-06-25T16:17:44Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Viro.+Med.+I</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Sarcoma de Kaposi e síndrome da imunodeficiência adquirida: características desta associação, incluindo novos conceitos sobre patogênese e tratamento</dc:title>
+          <dc:title xml:lang="en-US">Kaposis sarcoma and acquired immunodeficiency syndrome: characteristics of this association including new concepts on pathogenesis and treatment</dc:title>
+          <dc:creator>Fonseca, Benedito A. L.</dc:creator>
+          <dc:creator>Bollela, Valdes R.</dc:creator>
+          <dc:creator>Pires Neto, Roberto da Justa</dc:creator>
+          <dc:subject xml:lang="en-US">Acquired Immunodeficiency Syndrome. Sarcoma</dc:subject>
+          <dc:subject xml:lang="en-US">Kaposi‘s. Pathogenesis. Treatment.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome de Imunodeficiência Adquirida. Sarcoma de Kaposi. Patogenia. Tratamento.</dc:subject>
+          <dc:description xml:lang="pt-BR">No início da década de 80, a síndrome da imunodeficiência adquirida foi reconhecida e descrita em homossexuais jovens, do sexo masculino, previamente saudáveis, acometidos por pneumopatia atípica causada por microorganismo oportunista, identificado como sendo o Pneumocystis carinii, e com lesões cutâneas vinhosas, nodulares, cujo estudo histopatológico revelou tratar-se de Sarcoma de Kaposi. O Sarcoma de Kaposi é a neoplasia mais freqüente em pacientes com infecção pelo vírus da imunodeficiência humana. Apesar de não totalmente esclarecida, sua fisiopatogenia tem sido associada à presença de um herpes vírus, de provável transmissão sexual, que estaria implicado no surgimento da doença. Esta revisão busca atualizar conceitos da fisiopatologia e tratamento desta condição grave e freqüente associada à infecção pelo HIV.</dc:description>
+          <dc:description xml:lang="en-US">In early 80’s, the acquired immunodeficiency syndrome was initially recognized from the outbreak of Kaposi’s sarcoma and Pneumocystis carinii pneumonia among young, previously healthy homosexual men. Kaposi’s sarcoma is the most frequent neoplasm associated with human immunodeficiency virus (HIV) infection. Although Kaposi’s sarcoma pathogenesis is not clear at all, the disease has been associated with the presence of a sexual transmitted herpes virus. This paper intends to review and update some topics about HIV/Kaposi’s sarcoma pathogenesis and therapeutic aspects.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7751</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p26-39</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 26-39</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 26-39</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 26-39</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7751/9289</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7752</identifier>
+        <datestamp>2020-06-25T16:17:43Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Viro.+Med.+I</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A erradicação do sarampo e o papel do laboratório</dc:title>
+          <dc:title xml:lang="en-US">Measles eradication and the role of the laboratory</dc:title>
+          <dc:creator>Souza, Vanda Akico Ueda Fick de</dc:creator>
+          <dc:subject xml:lang="en-US">Measles. Measles Virus. Measles Vaccine.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sarampo. Vírus do Sarampo. Vacina Contra Sarampo.</dc:subject>
+          <dc:description xml:lang="pt-BR">A disponibilidade de vacinas seguras e eficazes, a existência de apenas um tipo antigênico, a estabilidade antigênica, a restrição da doença à população humana e a facilidade de identificação clínica da maioria dos casos de sarampo, permitiram considerar o sarampo como a doença ideal para ser erradicada. Apesar dos esforços neste sentido, com início nos anos oitenta (80), o sarampo continua sendo um grave problema de saúde pública. De acordo com as estimativas da Organização Mundial da Saúde, ocorreram, no ano de 1997, mais de trinta (30) milhões de casos e cerca de um (1) milhão de óbitos por sarampo. Contudo, os dados indicam que a erradicação do sarampo é possível e tem-se uma meta estabelecida para o período de 2005 a 2010. O laboratório tem assumido um papel fundamental nas estratégias de controle e eliminação. O presente trabalho tem por objetivo discutir as diversas oportunidades de atuação do laboratório, assim como as técnicas que mais se adequam a cada finalidade.</dc:description>
+          <dc:description xml:lang="en-US">The availability of safe and effective vaccines against measles virus, its monotypic antigenic stability, the restriction of the disease to human population and the easiness to clinically diagnosis measles cases led to consider measles an ideal candidate for eradication. Despite the efforts, started in the 80’s, for global erradication, measles still remain a great public health problem. According to WHO estimates, more than 30 million measles cases and 1 million deaths occurred in the world in 1997. Nevertheless, data from many countries indicate that measles eradication is possible and a goal for 2005-2010 was established. The laboratory has an essential role in the control and elimination strategies. The aim of the present review is to discuss the several opportunities for the laboratory to actuate and the appropriate methods for each purpose.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7752</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p40-48</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 40-48</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 40-48</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 40-48</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7752/9290</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/7925</identifier>
+        <datestamp>2020-06-25T16:17:42Z</datestamp>
+        <setSpec>rmrp:Sim%3A+Viro.+Med.+I</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Infecção congênita e perinatal por citomegalovirus: aspectos clínicos, epidemiologia diagnóstico e tratamento</dc:title>
+          <dc:title xml:lang="en-US">Congenital and perinatal cytomegalovirus infections: clinical aspects, epidemiology, diagnosis and treatment</dc:title>
+          <dc:creator>Yamamoto, Aparecida Yulie</dc:creator>
+          <dc:creator>Mussi-Pinhata, Marisa M.</dc:creator>
+          <dc:creator>Figueiredo, Luiz Tadeu Moraes</dc:creator>
+          <dc:subject xml:lang="en-US">Cytomegalovirus Infections. Congenital. Infection. Perinatology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infecções por Citomegalovírus. Infecção. Congênita. Perinatologia.</dc:subject>
+          <dc:description xml:lang="pt-BR">Citomegalovírus (CMV) é considerado o agente mais comum de infecção congênita e perinatal em todas as regiões do mundo. Esta revisão visa apresentar os principais aspectos clínicos, epidemiológicos, diagnósticos e de tratamento desta infecção em recém-nascidos e lactentes.</dc:description>
+          <dc:description xml:lang="en-US">Cytomegalovirus (CMV) is the most common cause of congenital and perinatal infections throughout the world. This review focuses on aspects of the clinical manifestations, epidemiology, diagnosis and treatment of this infection in newborns and infants.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/7925</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p49-56</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 49-56</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 49-56</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 49-56</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/7925/9463</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/8230</identifier>
+        <datestamp>2020-06-25T16:17:41Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O papel dos fatores genéticos na otite média</dc:title>
+          <dc:title xml:lang="en-US">The role of genetic factors in otitis media</dc:title>
+          <dc:creator>Lavinsky, Luiz</dc:creator>
+          <dc:creator>Campagnolo, Andréa M.</dc:creator>
+          <dc:creator>Raupp, Ana Paula G.</dc:creator>
+          <dc:creator>John, Ângela B.</dc:creator>
+          <dc:creator>Estrella, Cláudia Helena G.</dc:creator>
+          <dc:creator>Comiran, Cristina C.</dc:creator>
+          <dc:creator>Félix, Thêmis M.</dc:creator>
+          <dc:subject xml:lang="en-US">Otitis Media. Genetic Markers. Sex. Racial Stocks. Genetics. Immunology Abnormalities.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Otite Média. Marcadores Genéticos. Sexo. Raças. Genética. Anormalidades.Imunologia.</dc:subject>
+          <dc:description xml:lang="pt-BR">É sabido que a otite média aguda pode ser causada por fatores ambientais, como freqüentar creches, fumo passivo, curto período de amamentação e baixas condições sócio-econômicas. A revisão das pesquisas recentes, contudo, sugere que fatores genéticos também contribuem de forma significativa para a ocorrência da otite média aguda, recorrente e da otite média crônica, com efusão. Embora não existam estudos genéticos específicos, há consistentes evidências em favor da transmissão genética de uma suscetibilidade para otite média. A história familiar, características raciais, a freqüência de antígenos HLA e de marcadores genéticos, entre outros fatores, são algumas das evidências que serão apresentadas nesta revisão de literatura.</dc:description>
+          <dc:description xml:lang="en-US">It is well-known that otitis media can be caused by environmental factors, such as attending day care centers, passive smoking, early interruption of breast feeding, and unfavorable socio-economic conditions. The review of current literature, however, suggests that genetic factors also contribute significantly to the occurrence of recurrent acute otitis media and otitis media with effusion. Although there are no specific genetic studies, there is consistent evidence to support the idea of genetically transmitted susceptibility to otitis media. Family history, racial characteristics, HLA and genetic marker frequency are some of the topics discussed in the literature, which will be presented in this review.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/8230</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p57-64</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 57-64</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 57-64</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 57-64</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/8230/9774</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/9772</identifier>
+        <datestamp>2020-06-25T16:17:10Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Trau+II</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Papel da unidade de terapia intensiva no manejo do trauma</dc:title>
+          <dc:title xml:lang="en-US">The role of intensive care unit in management of trauma patients</dc:title>
+          <dc:creator>Pereira Júnior, Gerson Alves</dc:creator>
+          <dc:creator>Coletto, Francisco Antônio</dc:creator>
+          <dc:creator>Martins, Maria Auxiliadora</dc:creator>
+          <dc:creator>Marson, Flávio</dc:creator>
+          <dc:creator>Pagnano, Rosana Claudia Lovato</dc:creator>
+          <dc:creator>Dalri, Maria Célia Barcellos</dc:creator>
+          <dc:creator>Basile-Filho, Anibal</dc:creator>
+          <dc:subject xml:lang="en-US">Injuries. Intensive Care. Emergency Medicine. Organ Procurement.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lesões. Cuidados Intensivos. Medicina de Emergência. Obtenção de Órgãos.</dc:subject>
+          <dc:description xml:lang="pt-BR">O objetivo deste artigo de revisão é fazer uma apresentação da Unidade de Terapia Intensiva no contexto hospitalar, particularmente em situações de emergência, traumáticas ou não, discorrendo sobre os diferentes aspectos do suporte avançado de vida; alternativas para monitorização do paciente; enfoque multidisciplinar dos casos, envolvendo profissionais de diferentes especialidades médicas e não médicas; gerenciamento e perfil do profissional para trabalhar neste ambiente de cuidados intensivos e a problemática do diagnóstico de morte encefálica para captação de órgãos de possíveis doadores.</dc:description>
+          <dc:description xml:lang="en-US">The aim of this article is to review the role of the intensive care units in a hospital environment, particularly in emergency and injury management. Furthermore, it describes the different procedure s of monitoring, and the need of a multidisciplinary team required in the assessment of the critically ill patient. Finally, the authors also emphasize the guidelines applied in the organ procurement program.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/9772</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i4p419-437</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 4 (1999); 419-437</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 4 (1999); 419-437</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 4 (1999); 419-437</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/9772/11344</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/9773</identifier>
+        <datestamp>2020-06-25T16:17:09Z</datestamp>
+        <setSpec>rmrp:Simp.%3A+Trau+II</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Transfusão maciça: uma abordagem didática para graduandos</dc:title>
+          <dc:title xml:lang="en-US">Massive transfusion: review article for medical students</dc:title>
+          <dc:creator>Faggioni, Luiz P. C.</dc:creator>
+          <dc:creator>Covas, Dimas Tadeu</dc:creator>
+          <dc:creator>Balbi Filho, Eduardo Mendel</dc:creator>
+          <dc:creator>Pádua, Marcos Antonio</dc:creator>
+          <dc:creator>Tobias, Raphael A.</dc:creator>
+          <dc:creator>Rosa, Maurice J. De</dc:creator>
+          <dc:creator>Papa, Fábio</dc:creator>
+          <dc:subject xml:lang="en-US">Multiple Trauma. Blood Transfusion. Hemorrhage. Schock</dc:subject>
+          <dc:subject xml:lang="en-US">Hemorrhagic.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Traumatismo Múltiplo. Transfusão de Sangue. Hemorragia. Choque Hemorrágico.</dc:subject>
+          <dc:description xml:lang="pt-BR">O texto aborda, sucintamente, a fisiopatologia e as complicações de transfusões maciças em pacientes politraumatizados, mostrando a correlação entre a apresentação clínica inicial e perdas sangüíneas estimadas, assim como a terapêutica transfusional racional a ser utilizada.</dc:description>
+          <dc:description xml:lang="en-US">This review article for medical students approaches the basis and complications of massive transfusion in trauma patients, correlating clinical aspects with estimated blood losses.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/9773</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i4p438-443</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 4 (1999); 438-443</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 4 (1999); 438-443</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 4 (1999); 438-443</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/9773/11345</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12681</identifier>
+        <datestamp>2020-06-25T16:17:40Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Pathogenesis of hepatic encephalopathy: a role for the benzodiazepine receptor?</dc:title>
+          <dc:title xml:lang="pt-BR">Patogênese da encefalopatia hepática: um papel para os receptores de benzodiazepínicos?</dc:title>
+          <dc:creator>Quevedo, João</dc:creator>
+          <dc:creator>Amaral, Olavo B.</dc:creator>
+          <dc:creator>Walz, Roger</dc:creator>
+          <dc:creator>Kapczinski, Flávio</dc:creator>
+          <dc:subject xml:lang="en-US">Hepatic Encephalopathy. Benzodiazepines. Receptores</dc:subject>
+          <dc:subject xml:lang="en-US">GABA-A. Flumazenil.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Encefalopatia Hepática. Benzodiazepinas. Receptores de GABA-A. Flumazenil.</dc:subject>
+          <dc:description xml:lang="pt-BR">A encefalopatia hepática (EH) é uma síndrome multifatorial, na qual a função do sistema nervoso central está alterada devido às conseqüências metabólicas da disfunção hepática. Os dois principais componentes das doenças hepáticas que levam à EH são a diminuição no número de hepatócitos funcionantes e o rearranjo vascular, que leva à diminuição na fração de sangue, efetivamente detoxificado pelo fígado. Os sintomas da EH podem variar de déficits cognitivos leves até o coma profundo. Algum grau de morte neuronal pode ser observado em pacientes com EH, como conseqüência da cirrose hepática, ou, na EH avançada, da presença de edema cerebral. No entanto, a maior parte da síndrome neurológica é reversível com a compensação da doença hepática. A etiologia da EH não é totalmente conhecida e trata-se, provavelmente, de um processo multifatorial. Inicialmente, as teorias apontavam para o acúmulo de neurotoxinas que prejudicariam a função neuronal. Mais recentemente, anormalidades em vários sistemas de neurotransmissão foram propostos como causas potencias da EH como, por exemplo, o aumento observado na neurotransmissão GABAérgica. Existe evidência de que este aumento esteja relacionado com o aumento da potenciação GABAérgica por substâncias de ação similar aos benzodiazepínicos, as quais se encontram aumentadas na EH. Com esta evidência em mente, foi tentada a terapia desta síndrome com flumazenil, um antagonista benzodiazepínico, o qual tem mostrado eficácia clínica em uma porcentagem variável de pacientes em estudos recentes. No entanto, ainda não há evidências conclusivas para sustentar uma relação causal entre o aumento de ligantes ao receptor de benzodiazepínicos e os sintomas da EH. É possível que esta relação exista em alguns, mas não em todos os pacientes com esta síndrome.</dc:description>
+          <dc:description xml:lang="en-US">Hepatic encephalopathy (HE) is a multifactorial syndrome in which the function of the central nervous system is impaired due to the metabolic consequences of liver disease. The two main components of liver pathology which lead to HE are the decrease in the number of functioning hepatocytes and the vascular rearrangement causing blood from the portal vein to bypass the liver. The symptoms of HE range from mild cognitive impairment to deep coma. Some degree of neuronal loss may be found in HE patients as a consequence of chronic cirrhosis and, in advanced HE, of brain edema; however, most of the HE syndrome is reversible with compensation of the liver disease. The pathogenesis of HE is not fully understood and &amp;nbsp;is likely to be multifactorial. The initial theories implicated accumulation of neurotoxins leading to an impairment of neuronal function. With better understanding of the physiology of neuroreceptors, abnormalities in several neurotransmission systems have been put forward as potential causes of HE, such as a reported increase in GABAergic neurotransmission. There is evidence that this enhancement is related to an increase in the potentiation of GABAergic action by ligands to the benzodiazepine receptor (BZR), which are known to be increased in liver disease. With this evidence in mind, therapy with the benzodiazepine antagonist flumazenil has been attempted in HE, yielding clinical benefit in a variable percentage of patients in recent studies. However, there is still a lack of evidence to support a causal relationship between increased levels of benzodiazepine agonist ligands and HE symptoms. It is feasible to think that this relationship exists in some but not all HE patients.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12681</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p82-96</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 82-96</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 82-96</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 82-96</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12681/14458</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12682</identifier>
+        <datestamp>2020-06-25T16:17:38Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Long-term central venous access: experience with 79 catheteres in 66 patients</dc:title>
+          <dc:title xml:lang="pt-BR">Acesso venoso central de longa duração: experiência com 79 cateteres em 66 pacientes</dc:title>
+          <dc:creator>Carvalho, Roberto M.</dc:creator>
+          <dc:creator>Joviliano, Edwaldo E.</dc:creator>
+          <dc:creator>Kawano, Marcelo Y.</dc:creator>
+          <dc:creator>Gomes, Carlos A . P.</dc:creator>
+          <dc:creator>Souza, Antonio C. de</dc:creator>
+          <dc:creator>Cherri, Jesualdo</dc:creator>
+          <dc:creator>Moryia, Takachi</dc:creator>
+          <dc:creator>Piccinato, Carlos E.</dc:creator>
+          <dc:subject xml:lang="en-US">Catheters Indwelling. Catheterization</dc:subject>
+          <dc:subject xml:lang="en-US">Central Venous. Neoplasms.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cateteres de Demora. Cateterismo Venoso Central. Neoplasias.</dc:subject>
+          <dc:description xml:lang="en-US">Procedures such as bone marrow transplantation, chemotherapy, total parenteral nutrition and hemodialysis increasingly require long-term central venous access (LTCVA). According to the indication, fully implantable catheters (with a reservoir) or partially catheters (Broviac- Hickman) are used. In the present study, we evaluated 79 catheres consecutively implanted into 66 patient treated at the University Hospital, Faculty of Medicine of Ribeirão Preto, USP, from January 1993 to June 1997. The following parameters were evaluated: indication of venous access, type of catheter implanted, technique used, early and late complications, and duration of the implant. Thirty four of the 66 patients (51,5%) were men. Mean patient age was 28.2 years. There was a predominance of catheter implantation for chemotherapy in 55 (69.5%) patients and for bone marrow transplantation in 12 (15.2%). Twenty eight catheters with a reservoir (35.5%) and 51 partially implantable catheters (64.5%) were implanted. As to the technique used, 71,4% of the catheters were implanted by percutaneous puncture and the remaining ones by open venous dissection and catheterization. Two types of complications related to the technique occured, 9 infections and 8 late occlusions. The mean duration of catheter was 371 days for the Broviac-Hickman catheters and 395 days for the totally implantable catheters. No death occured due to the implants. The rates of early and late complications observed in the present series are similar to those reported in the literature.</dc:description>
+          <dc:description xml:lang="pt-BR">Procedimentos, como o transplante de medula óssea, a quimioterapia, a nutrição parenteral total e a hemodiálise, exigem a necessidade cada vez maior do acesso venoso central de longa duração (AVCLD). Utilizam-se, de acordo com a indicação, cateteres totalmente implantáveis (com reservatório) e parcialmente implantáveis (Broviac-Hickman ). Foram avaliados setenta e nove (79) cateteres implantados, consecutivamente, em sessenta e seis (66) pacientes, tratados no Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da USP, no período de janeiro de 1993 a junho de 1997. Avaliaram-se os seguintes parâmetros: indicação do acesso venoso, tipo de cateter implantado, técnica utilizada, complicações precoces e tardias e duração do implante. Dos sessenta e seis (66) pacientes, trinta e quatro (34) (51,5%) eram homens. A idade média foi de 28,2 anos. Houve predomínio de indicação de implante de cateter para realizar-se a quimioterapia em cinquenta e cinco (55) (69,5%) pacientes e transplante de medula óssea em doze (12) (15,2%). Foram implantados vinte e oito (28) (35,5%) cateteres com reservatório e cinqüenta e um (51) (64,5%) parcialmente implantáveis. Quanto à técnica utilizada, 71,4% foram implantados por punção percutânea e os demais por dissecção e cateterização venosa, a céu aberto. Ocorreram duas complicações relacionadas à técnica, nove (9) infecções e oito (8) oclusões tardias. A duração média da implantação dos cateteres foi trezentos e setenta e um (371) dias para os cateteres Broviac- Hickman e trezentos e noventa e cinco (395) para o totalmente implantável. Não houve óbito associado aos implantes. Os índices de complicações precoces e tardias, observadas nesta casuística, assemelham- se aos dados encontrados na literatura.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12682</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p97-101</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 97-101</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 97-101</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 97-101</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12682/14459</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12683</identifier>
+        <datestamp>2020-06-25T16:17:37Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O papel do pediatra no diagnóstico e tratamento das doenças cardíacas na infância</dc:title>
+          <dc:title xml:lang="en-US">The role of the pediatrician in the diagnosis and treatment of heart disease in childhood</dc:title>
+          <dc:creator>Granzotti, João Antônio</dc:creator>
+          <dc:creator>Manso, Paulo Henrique</dc:creator>
+          <dc:creator>Amaral, Fernando</dc:creator>
+          <dc:subject xml:lang="en-US">Heart Diseases. Child.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Cardíacas. Criança.</dc:subject>
+          <dc:description xml:lang="pt-BR">Cerca de 1% de todos os recém-nascidos apresentam algum tipo de cardiopatia congênita e necessitam a atenção do cardiologista pediátrico (1, 2). Se incluirmos nesse grupo as cardiopatias adquiridas, esse número irá aumentar expressivamente. Essas entidades podem se manifestar de maneira bastante variada, exigindo freqüentemente a presença de equipe multidisciplinar para que se obtenha um resultado terapêutico favorável. Apresentamos aqui, sumariamente, algumas situações que requerem a participação conjunta do pediatra e do cardiologista, a maioria delas ocorrendo durante a hospitalização dessas crianças.</dc:description>
+          <dc:description xml:lang="en-US">About 1% of all live births will have congenital heart disease and will require specialized pediatric care (1,2) . If we include the acquired heart diseases, this number will certainly increase considerably. Patients with these entities may present in different ways, often requiring a multisciplinary approach in order to achieve a good therapeutic result. We present a summary of the most frequent clinical situations requiring the presence of the pediatrician and of the cardiologist, most of them ocurring in a hospital basis. &amp;nbsp; &amp;nbsp;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12683</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p102-106</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 102-106</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 102-106</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 102-106</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12683/14460</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12684</identifier>
+        <datestamp>2020-06-25T16:17:35Z</datestamp>
+        <setSpec>rmrp:NTI</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">In memorian Prof. Dr. Renato Alves de Godoy</dc:title>
+          <dc:creator>VOLTARELLI, JÚLIO C.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12684</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i1p124-125</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 1 (1999); 124-125</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 1 (1999); 124-125</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 1 (1999); 124-125</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12684/14461</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12685</identifier>
+        <datestamp>2020-06-25T16:18:49Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Boas Novas</dc:title>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12685</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p127-127</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 127-127</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 127-127</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 127-127</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12685/14462</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12686</identifier>
+        <datestamp>2020-06-25T16:18:47Z</datestamp>
+        <setSpec>rmrp:Simp%3A+Vir.+M.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Arruda, Eurico</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12686</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p128-128</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 128-128</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 128-128</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 128-128</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12686/14484</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12687</identifier>
+        <datestamp>2020-06-25T16:18:46Z</datestamp>
+        <setSpec>rmrp:Simp%3A+Vir.+M.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Infecções respiratórias virais em pacientes imunodeprimidos</dc:title>
+          <dc:title xml:lang="en-US">Respiratory viral infections in immunocompromised patients</dc:title>
+          <dc:creator>Cintra, Otávio A. L.</dc:creator>
+          <dc:creator>Arruda, Eurico</dc:creator>
+          <dc:subject xml:lang="en-US">Respiratory Tract Infections. Immunodeficiency. HIV.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infecções Respiratórias. Imunodeficiência. HIV.</dc:subject>
+          <dc:description xml:lang="pt-BR">As infecções agudas, causadas por vírus respiratórios são as mais freqüentes da humanidade. Os vírus respiratórios comuns vêm sendo, progressivamente, mais implicados como causa de infecções respiratórias potencialmente graves em pacientes imunodeprimidos. O presente trabalho faz uma breve revisão dos aspectos clínicoepidemiológicos de infecções respiratórias virais, enfatizando sua importância em pacientes com função imune comprometida.</dc:description>
+          <dc:description xml:lang="en-US">Acute infections caused by respiratory viruses are the most frequent infections of mankind. Respiratory viruses that cause common infections in normal hosts have been increasingly recognized as a cause of respiratory infections in immunodeficient patients. This paper briefly reviews clinical and epidemiological aspects of these infections, highlighting their significance in patients with compromised immune function.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12687</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p129-137</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 129-137</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 129-137</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 129-137</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12687/14485</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12688</identifier>
+        <datestamp>2020-06-25T16:18:45Z</datestamp>
+        <setSpec>rmrp:Simp%3A+Vir.+M.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Métodos laboratoriais para o diagnóstico da infecção pelo vírus da imunodeficiência humana (HIV)</dc:title>
+          <dc:title xml:lang="en-US">Laboratory methods for the diagnosis of human immunodeficiency virus (HIV) infection</dc:title>
+          <dc:creator>Machado, Alcyone A.</dc:creator>
+          <dc:creator>Costa, João Carlos da</dc:creator>
+          <dc:subject xml:lang="en-US">HIV. Acquired Immunodeficiency Syndrome. Diagnosis</dc:subject>
+          <dc:subject xml:lang="en-US">Laboratory. Enzyme-Linked Immunosorbent Assay. Blotting</dc:subject>
+          <dc:subject xml:lang="en-US">Western.</dc:subject>
+          <dc:subject xml:lang="pt-BR">HIV. Síndrome de Imunodeficiência Adquirida. Diagnóstico Laboratorial. ELISA. Western Blotting.</dc:subject>
+          <dc:description xml:lang="en-US">The authors review the laboratory methods available for the diagnosis of the Human Imunodeficiency Virus (HIV) infection with emphasis on thes correct application and interpretation of the results.</dc:description>
+          <dc:description xml:lang="pt-BR">Os autores revisam os principais métodos laboratoriais, atualmente conhecidos e disponíveis para o diagnóstico da infecção pelo Vírus da Imunodeficiência Humana (HIV), salientando as orientações gerais sobre sua aplicação e interpretação.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12688</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p138-146</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 138-146</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 138-146</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 138-146</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12688/14465</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12689</identifier>
+        <datestamp>2020-06-25T16:18:44Z</datestamp>
+        <setSpec>rmrp:Simp%3A+Vir.+M.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Clínica e tratamento das infecções pelos vírus herpes símplex tipo 1 e 2</dc:title>
+          <dc:title xml:lang="en-US">Clinical manifestations and treatment of infections caused by herpes simplex 1 and 2 viruses</dc:title>
+          <dc:creator>Fonseca, Benedito Antônio Lopes da</dc:creator>
+          <dc:subject xml:lang="en-US">Herpesvirus 1</dc:subject>
+          <dc:subject xml:lang="en-US">Human. Herpesvirus 2</dc:subject>
+          <dc:subject xml:lang="en-US">Human. Acyclovir.</dc:subject>
+          <dc:subject xml:lang="pt-BR">HerpesVírus 1 Humano. HerpesVirus 2 Humano. Aciclovir.</dc:subject>
+          <dc:description xml:lang="pt-BR">As infecções pelos vírus herpes símplex são conhecidas da raça humana desde a antiguidade. Estes vírus são responsáveis por uma gama de infecções que vão desde erupções cutâneas até quadros graves de encefalite. Atualmente, um antiviral específico para estes vírus, o aciclovir, está disponível para o tratamento destas infecções. Nesta revisão, o uso do aciclovir é discutido em relação às diversas manifestações da infecção herpética.</dc:description>
+          <dc:description xml:lang="en-US">Herpes simplex viruses are known by mankind since the antiquity. These viruses are responsible for a number of diseases ranging from cutaneous lesions to severe cases of encephalitis. Nowadays, a specific antiviral, acyclovir, has been available for treatment of herpes simplex virus infections. This review discusses the use of acyclovir according to the clinical manifestations of herpes virus infections.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12689</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p147-153</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 147-153</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 147-153</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 147-153</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12689/14466</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12690</identifier>
+        <datestamp>2020-06-25T16:18:42Z</datestamp>
+        <setSpec>rmrp:Simp%3A+Vir.+M.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Vírus brasileiros da família bunyaviridae</dc:title>
+          <dc:title xml:lang="en-US">Brazilian viruses in the family bunyaviridae</dc:title>
+          <dc:creator>Figueiredo, Luiz Tadeu M.</dc:creator>
+          <dc:subject xml:lang="en-US">Bunyaviridae.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Bunyaviridae</dc:subject>
+          <dc:description xml:lang="en-US">The Brazilian Bunyaviridae are RNA viruses belonging to the Bunyavirus, Hantavirus, and Phlebovirus genera isolated mainly in the Amazon region. These viruses are transmitted by mosquitoes and phlebotomus, with the exception of those in the Hantavirus genus which are transmitted by inhalation of aerosos of rodent excreta. Most of the Brazilian Bunyaviridae were isolated in the Amazon region. The structure, composition, and replication mechanism of the Bunyaviridae are described, as well as the epidemiology and clinical manifestations of the diseases caused by the following viruses: Oropouche, Apeú, Caraparu, Marituba, Guaroa, Tacaiuma, Guamá, Maguari, Candiru, and Hantavirus.</dc:description>
+          <dc:description xml:lang="pt-BR">Os vírus brasileiros da família Bunyaviridae são vírus RNA, isolados principalmente na Região Amazônica, pertecentes aos gêneros Bunyavirus, Hantavirus e Phlebovirus. A grande maioria destes vírus são transmitidos por mosquitos e flebótomos, exceto os Hantavirus que têm transmissão relacionada à inalação de aerossóis dos excretas de roedores. A estrutura, a composição e o mecanismo de replicação dos Bunyaviridae são brevemente revistos neste trabalho. Também, são analisados aspectos epidemiológicos e clínicos das doenças causadas pelos seguintes Bunyaviridae brasileiros: Oropouche, Apeú, Caraparu, Marituba, Guaroa, Tacaiuma, Guamá, Maguari, Candiru e Hantavirus.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12690</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p154-158</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 154-158</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 154-158</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 154-158</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12690/14467</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12691</identifier>
+        <datestamp>2020-06-25T16:18:41Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A citogenética do espermatozóide humano: técnica de fertilização in vitro, heteróloga, homem/hamster</dc:title>
+          <dc:title xml:lang="en-US">Cytogenetics of human spermatozoa: human/hamster in vitro fertilization technique</dc:title>
+          <dc:creator>Sartorelli, Elza M.P.</dc:creator>
+          <dc:creator>Paiva, Wagner J.M.</dc:creator>
+          <dc:creator>Mazzucato, Luiz F.</dc:creator>
+          <dc:creator>Pina-Neto, João M.</dc:creator>
+          <dc:subject xml:lang="en-US">Human. Spermatozoa. Chromosomes.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Espermatozóide. Humano. Cromossomos.</dc:subject>
+          <dc:description xml:lang="pt-BR">A constituição cromossômica do espermatozóide humano pode ser estudada, atualmente, através da técnica de fertilização “in vitro” (FIV), heteróloga, homem/hamster. Essa técnica permite a individualização dos cromossomos do espermatozóide humano, possibilitando a análise de suas anomalias numéricas e estruturais. O aprimoramento dessa técnica estimulou um novo campo de pesquisa na Citogenética Humana e na Genética Clínica. Sua implantação em nosso laboratório na Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, propiciará melhor estimativa da probabilidade de transmissão de anomalias cromossômicas por células da linhagem germinativa de homens em risco genético.</dc:description>
+          <dc:description xml:lang="en-US">The chromosomal constitution of the human spermatozoa can be studied through the heterologous “in vitro” fertilization (FIV) technique (human/hamster). This technique allows the identification of the human sperm chromosomes as well as its numerical and structural analyses. The improvement of this technique has stimulated a new field of research in Human Cytogenetics and in Clinical Genetics. Its implantation in our laboratory at the Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, favor better estimates of the probability of the transmission of chromosomal anomalies by germ cell lines of males at genetic risk.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12691</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p159-166</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 159-166</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 159-166</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 159-166</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12691/14468</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12692</identifier>
+        <datestamp>2020-06-25T16:18:40Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Molecular aspects of synaptic transmission</dc:title>
+          <dc:title xml:lang="pt-BR">Aspectos moleculares da transmissão sináptica</dc:title>
+          <dc:creator>Lopes, Ana C. Polli</dc:creator>
+          <dc:creator>Rosa, Luciana Casaletti</dc:creator>
+          <dc:creator>Beleboni, René de O.</dc:creator>
+          <dc:creator>Pereira, Rodrigo N. R.</dc:creator>
+          <dc:creator>Vasconcelos, Carlos A. C. de</dc:creator>
+          <dc:creator>Moreira, Jorge E.</dc:creator>
+          <dc:subject xml:lang="en-US">Synapses. Synaptic Vesicles. Synaptic Transmission. Long-Term Potentiation.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sinapse. Vesículas Sinápticas. Transmissão Sináptica. Potenciação de Longo Prazo</dc:subject>
+          <dc:description xml:lang="pt-BR">O Sistema Nervoso Central produz o nosso estado consciente mediante um contínuo fluxo de informações e armazenamento de memórias ao longo da vida, a partir de diferentes estímulos externos. Ao mesmo tempo, controla a concentração dos nossos fluidos internos e o trabalho de músculos e glândulas. A transmissão sináptica é o processo básico de toda esta atividade. Bilhões de neurônios se comunicam entre si via milhares de sinapses, e cada sinapse, por sua vez, é uma estrutura regulada independentemente. A partir desta complexidade, em lugar de caos, surge uma singular ordem na informação processada pelo cérebro. A secreção de neurotransmissores na zona ativa da sinapse é o evento primário da comunicação interneuronal. Este processo é regulado por um tráfego de membranas altamente orquestrado dentro do terminal présináptico. Os neurotransmissores são armazenados em vesículas sinápticas. A despolarização de um terminal nervoso por um potencial de ação resulta na abertura de canais de cálcio, operados por voltagem. O influxo de Ca resultante deflagra a exocitose, que é uma rápida fusão de vesículas com a membrana plasmática, liberando neurotransmissores para a fenda sináptica. A exocitose envolve a junção de proteínas intrínsecas das membranas plasmáticas, vesicular e pré-sináptica, mediante proteínas específicas de ancoragem e fusão na zona ativa (SNARE). Em seguida à liberação, as membranas das vesículas são rapidamente reincorporadas via endocitose e recicladas dentro do terminal sináptico. O terminal é, portanto, uma unidade autônoma que contém todos os elementos requeridos para a exocitose das vesículas, as proteínas responsáveis pela biossíntese do neurotransmissor e recaptação das vesículas. Uma vez liberado, o neurotransmissor difunde através da fenda sináptica e interage com proteínas receptoras na membrana do neurônio póssináptico produzindo, em uma fração de milissegundo, uma permeabilidade intensa e temporária aos íons Na + e K+, provocando a despolarização total de cerca de 100 mV desde um potencial de repouso em torno de -60mV. Isto gera um potencial de ação que se difunde ao longo da membrana do neurônio pós-sináptico, podendo alcançar o seu próprio&amp;nbsp; erminal e deflagrar novo movimento de Ca 2+&amp;nbsp;para o citosol, gerando um novo potencial. Várias proteínas dentro do terminal pós-sináptico estão envolvidas neste processo. É geralmente aceito que os processos de aprendizado e memória resultam de mudanças estruturais e bioquímicas em sinapses específicas que alteram a liberação de neurotransmissores e a ação pós-sináptica. Tais alterações podem ser registradas eletrofisiologicamente como uma potenciação ou depressão de duração longa (LTP ou LTD) ou a combinação de ambas.&amp;nbsp;</dc:description>
+          <dc:description xml:lang="en-US">The Central Nervous System produces our conscious state out of various externa inputs in a continuous stream of information and storing a lifetime of memories, while keeping track of the concentration of our internal fluids and the work of muscles and glands. Synaptic transmission is the key process of all that activity. Billions of neurons communicate with each other via thousands of synapses, each of which is independently regulated. From that complexity, instead of chaos, arises the pristine order of information processed by the brain. The secretion of neurotransmitters at the synaptic active zone is the primary event of interneuronal communication. This process is regulated by a highly orchestrated cycle of membrane trafficking within the presynaptic nerve terminal. Neurotransmitters are stored in synaptic vesicles. Depolarization of the nerve terminal by an action potential results in the opening of voltage-gated Ca 2+ channels. The resulting influx of calcium ions triggers exocytosis which is a rapid fusion of the vesicles with the plasma membrane, releasing neurotransmitters into the synaptic cleft. Exocytosis involves the linking of intrinsic membrane proteins of the vesicle and the plasma membranes by specific docking and fusion, the SNARE proteins, at the active zone. The vesicle membranes are rapidly retrieved by endocytosis and the synaptic vesicles recycled within the nerve terminal. The nerve terminal is thus an autonomous unit that contains all elements required for synaptic vesicle exocytosis and proteins responsible for neurotransmitter biosynthesis and vesicular uptake. Once the neurotransmitter have been released, diffuses across the synaptic cleft and combines with receptor molecules in the membrane of the postsynaptic neuron producing, in a fraction millisecond, a large transient increased permeability to Na&amp;nbsp;+ and K+ ions, provoking a net depolarization to about 100mV from the resting potential of about&amp;nbsp;-60mV. This generates an action potential which spreads along the surface of the postsynaptic cell membrane which in turn may trigger Ca&amp;nbsp;2+&amp;nbsp;movement to the cytosol in the synaptic terminal to generate a new response. Several proteins inside the post synaptic terminal are involved in this process. It is generally accepted that learning and memory result from structural and biochemical changes in specific synapses which alter neurotransmitter release and post synaptic action. These alterations are perceivable electrophysiologically as a long term potentiation (LTP),long term depression (LTD), or a combination of both.&amp;nbsp;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12692</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p167-188</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 167-188</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 167-188</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 167-188</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12692/14469</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12693</identifier>
+        <datestamp>2020-06-25T16:18:38Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Knowledge of traffic law by victims of accidents in belo horizonte, in 1997</dc:title>
+          <dc:title xml:lang="pt-BR">Conhecimento das leis de trânsito por vítimas de atropelamento, em belo horizonte, em 1997</dc:title>
+          <dc:creator>Fagundes-Pereira, Walter J.</dc:creator>
+          <dc:creator>Tanure, Raquel</dc:creator>
+          <dc:creator>Petroianu, Andy</dc:creator>
+          <dc:subject xml:lang="en-US">Accidents</dc:subject>
+          <dc:subject xml:lang="en-US">Traffic. Automobile Driving.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Acidentes de Trânsito</dc:subject>
+          <dc:subject xml:lang="pt-BR">Condução de Veículo.</dc:subject>
+          <dc:description xml:lang="pt-BR">Em nosso país, os acidentes no trânsito são uma das principais causas de invalidez e morte, particularmente entre os jovens. Realizou-se o presente estudo, visando a averiguar o conhecimento que os atropelados têm a respeito das leis de trânsito. Foram estudadas cem vítimas de atropelamento, atendidas no Pronto Socorro do Hospital João XXIII, em Belo Horizonte, em 1997. Dos entrevistados, sessenta e sete (67) eram homens e trinta e três (33) eram mulheres, com idades variando entre dezoito (18) e oitenta (80) (M=36,8±&amp;nbsp;17,2) anos. Somente sete pacientes tinham habilitação para dirigir automóveis; outros dezessete (17) conheciam a legislação de trânsito e tinham noção de direção. Portanto, 76% das vítimas desconheciam as leis de trânsito. Acreditamos que talvez seja lícito supor que pessoas que não têm conhecimento das leis de trânsito possam estar mais susceptíveis a serem vítimas de acidentes. A falta de noções básicas sobre as normas de trânsito poderia favorecer o aumento do número de atropelamentos.</dc:description>
+          <dc:description xml:lang="en-US">Traffic accidents are one of the great causes of disability and of death mainly in young people of our country. The present study assessed the knowledge of traffic laws of one hundred victims of accidents 67 men and 33 women, in Belo Horizonte, in 1997. Their ages ranged between 18 and 80 (M=36,8 17,2) years old. Only seven of them had drive license and only, other 17 had knowledge about the traffic laws. So 76% of victims do not have knowledge about the traffic laws. We believe that it is worth to suppose people who do not know about traffic laws may be more susceptible to car accidents. The lack of knowledge on basic traffic laws may contribute increasing the amount of accidents.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12693</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p189-192</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 189-192</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 189-192</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 189-192</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12693/14470</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12694</identifier>
+        <datestamp>2020-06-25T16:18:37Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Primary malignant tumours of the appendix</dc:title>
+          <dc:title xml:lang="pt-BR">Neoplasias malignas primárias de apêndice cecal</dc:title>
+          <dc:creator>Mércio, Affonso A.P.</dc:creator>
+          <dc:creator>Weindorfer, Marcos</dc:creator>
+          <dc:creator>Weber, André L.</dc:creator>
+          <dc:creator>Mano, Ana C.</dc:creator>
+          <dc:subject xml:lang="en-US">Adenocarcinoma. Appendiceal Neoplasms. Carcinoid Tumor.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Adenocarcinoma. Tumor Carcinóide. Neoplasias do Apêndice Cecal.</dc:subject>
+          <dc:description xml:lang="en-US">The malignant tumours of the appendix are unusual neoplasms, which definitive diagnosis is made only by histological examination of the specimen. Preoperative diagnosis is difficult due to the inespecific presentation, usually presented as acute appendicitis. The authors review the literature and report a retrospective analysis of seven cases of malignant tumour of the appendix: five carcinoid, one adenocarcinoid and one adenocarcinoma. These cases are the Hospital Nossa Senhora da Conceição experience from 1994 to 1997, and denote an incidence of 0,8%, among all appendectomies. The study analyses patients age, sex, preoperative diagnosis, operative procedure and histological exam of the specimen.</dc:description>
+          <dc:description xml:lang="pt-BR">As neoplasias malignas de apêndice cecal são doenças raras, cujo diagnóstico de certeza é determinado apenas pelo exame histológico da peça. São neoplasias de difícil diagnóstico clínico, não apenas por sua baixa incidência, mas, também, devido a sua forma de apresentação inespecífica, na maioria das vezes, manifestada como apendicite aguda. Os autores revisam a literatura e relatam os resultados obtidos da análise retrospectiva de sete casos de neoplasia maligna de apêndice cecal: cinco casos de tumor carcinóide, um caso de adenocarcinóide e outro de adenocarcinoma. Os casos são a experiência do serviço num período de quatro anos (1994-1997), correspondente a uma incidência de 0,8% sobre o total de apendicectomias realizadas. São abordados dados referentes a idade, sexo, hipótese diagnóstica pré-operatória, cirurgia realizada e exame anatomopatológico da peça cirúrgica.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12694</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p193-198</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 193-198</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 193-198</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 193-198</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12694/14471</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12695</identifier>
+        <datestamp>2020-06-25T16:18:36Z</datestamp>
+        <setSpec>rmrp:DMT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A constituição cromossômica de espermatozóides de oito homens brasileiros normais</dc:title>
+          <dc:title xml:lang="en-US">The chromosomal constitution of spermatozoa from eight normal, healthy brazilian men</dc:title>
+          <dc:creator>Paiva, Wagner José Martins</dc:creator>
+          <dc:creator>Sartorelli, Elza M. P.</dc:creator>
+          <dc:creator>Templado, Cristina</dc:creator>
+          <dc:creator>Pina-Neto, João Monteiro de</dc:creator>
+          <dc:subject xml:lang="en-US">Chromosome Aberrations. Human. Cytogenetics. Spermatozoa. Chromosomes</dc:subject>
+          <dc:subject xml:lang="en-US">Human.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aberrações Cromossômicas. Humano. Citogenética. Espermatozóide. Cromossomos Humanos</dc:subject>
+          <dc:description xml:lang="pt-BR">Apresenta-se a análise citogenética de cromossomos de espermatozóides de oito homens brasileiros normais, utilizando-se a técnica de fertilização heteróloga homemhamster. Os resultados obtidos são semelhantes aos descritos em outros laboratórios que dominam esta técnica. Obteve-se freqüência de 5.4% (variação de 1.0-13.5%) de aberrações cromossômicas, sendo 1.4% de aberrações estruturais (variação de 0.0-3.3%), freqüência de hiper-haploidia de 2.0% (variação entre 0.0-5.1%) e freqüência de hipo-haploidia de 5.6% (variação de 0.0-11.3%). A diferença entre as proporções de espermatozóides X (54.1%) e Y (45.9%) foi significativa, ao nível de 5%.</dc:description>
+          <dc:description xml:lang="en-US">We describe the chromosomal analyses of sperm from eight normal brazilian men using the human sperm-hamster egg fusion technique. The frequency of total chromosomal aberrations was 5.4% (range, 1.0-13.5%), of structural aberrations 1.4% (range, 0.0-3.3%), of hyperhaploidy 2.0% (range, 0.0-5.1%) and of hipohaploidy 5.6% (range,0.0-11.3%). The proportion of X-bearing (54.1%) and Y-bearing (45.9%) spermatozoa differed significantly at 5% level. The results obtained in this work are similar to those reported in the literature.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12695</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p199-202</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 199-202</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 199-202</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 199-202</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12695/14472</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12696</identifier>
+        <datestamp>2020-06-25T16:18:35Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Abordagem psicoterápica da criança e da família no hospital das clínicas da faculdade de medicina de ribeirão preto - usp</dc:title>
+          <dc:title xml:lang="en-US">Psychotherapeutic approach to children and family of the university of são paulo - ribeirão preto general hospital</dc:title>
+          <dc:creator>Golfeto, José H.</dc:creator>
+          <dc:creator>Mian, Heloísa</dc:creator>
+          <dc:subject xml:lang="en-US">Child Psychiatry. Psychotherapy. Child. Family. Orientation.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Psiquiatria Infantil. Psicoterapia. Criança. Orientação. Família.</dc:subject>
+          <dc:description xml:lang="pt-BR">A psicoterapia é um dos recursos utilizados na Psiquiatria Infantil, assim como a orientação familiar e a psicofarmacoterapia. Pode receber diferentes classificações de acordo com o fundamento teórico, alvo da intervenção e duração ou objetivo da terapia. Pretendemos fazer um relato da técnica psicoterápica, adotada no Ambulatório de Psiquiatria Infantil do Hospital das Clínicas da FMRP-USP, denominada de tempo limitado, assim como fazer um paralelo com técnicas utilizadas na psicoterapia longa. Relatamos, também, aspectos da orientação familiar por nós realizada. Os casos atendidos são previamente avaliados e, após discussão clínica, é feita a indicação dos procedimentos a serem adotados, que podem ser desenvolvidos isoladamente ou associados entre si.</dc:description>
+          <dc:description xml:lang="en-US">Psychotherapy is one of the treatments used concerning Children Psychiatry as well as family orientation and psychopharmacotherapy. It can be given different classifications according to theoretical basis, target of intervention, and therapy objectives or duration. We intend to report the psychotherapeutic approach called short-term psycotherapy, which we have adopted in the Psychiatric Clinic for Children of the University of São Paulo – Ribeirão Preto General Hospital, and to compare them with other ones used in long-term psychotherapy. We also report our experience with family orientation. The patients are previously evaluated and after clinical discussion they are assigned to the procedures which can be developed alone or along with other ones.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1998-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12696</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i2p203-210</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 2 (1999); 203-210</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 2 (1999); 203-210</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 2 (1999); 203-210</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12696/14474</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12697</identifier>
+        <datestamp>2020-06-25T16:17:34Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Sobre trocas de experiências em ensino médico</dc:title>
+          <dc:creator>Rodrigues, Maria de Lourdes Veronese</dc:creator>
+          <dc:creator>Piccinato, Carlos Eli</dc:creator>
+          <dc:creator>Figueiredo, José Fernando de Castro</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12697</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i3p233-234</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 3 (1999); 233-234</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 3 (1999); 233-234</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 3 (1999); 233-234</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12697/14475</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/12698</identifier>
+        <datestamp>2020-06-25T16:17:33Z</datestamp>
+        <setSpec>rmrp:Simp%3A+Tra.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Pereira Júnior, Gerson Alves</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>1999-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/12698</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v32i3p235-236</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 32 No. 3 (1999); 235-236</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 32 Núm. 3 (1999); 235-236</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 32 n. 3 (1999); 235-236</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/12698/14476</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:22Z" completeListSize="1467" cursor="700">f3daa50b84b0bdebe4998845304167c2</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

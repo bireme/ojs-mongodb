@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:50:17Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103826</identifier>
+<datestamp>2019-09-26T13:05:25Z</datestamp>
+<setSpec>actafisiatrica:Rel.+Caso</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140309 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A influência de um treinamento de caratê nas funções cognitivas e funcional em idoso com demência mista</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Paiva, Ana Clara de Souza</subfield>
+<subfield code="u">Universidade Estadual Paulista/Rio Claro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Viana, Eduardo Dias</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Andrade, Larissa Pires de</subfield>
+<subfield code="u">Universidade Estadual Paulista/Rio Claro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Thais Delamuta Ayres da</subfield>
+<subfield code="u">Universidade Estadual Paulista/Rio Claro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, José Luiz Riani</subfield>
+<subfield code="u">Universidade Estadual Paulista/Rio Claro</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Among the different forms and recent non-pharmacological interventions for dementia patients already performed in Brazil, there are no studies that have investigated the effect of a protocol of karate in patients with this clinical conditions, more specifically in the elderly with a diagnosis of mixed dementia, Alzheimer’s disease associated with vascular dementia. Objective: Thus, the present study aimed to analyze the effects of a karate training in cognitive and functional with an elderly mixed dementia. Method: The participant, clinically diagnosed with mixed dementia, underwent a anamnesis, followed by cognitive and functional assessment, pre and post training four months. The karate training was adapted and systematized, in order to muscle strengthening, flexibility, posture techniques, attack (punches and kicks), blocks (defenses) and kata (imaginary fight with multiple opponents), three times per week, lasting an hour session on nonconsecutive days. Results: The findings were maintaining cognitive function and improvement in static and dynamic balance. Conclusion: It was concluded that training adapted and systematized karate contributes to improved static and dynamic balance and maintenance of cognitive status. May, thus contribute to a new alternative non-pharmacological intervention in elderly patients with mixed dementia. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103826</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 1 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103827</identifier>
+<datestamp>2019-09-26T13:09:22Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140309 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">CIF ou CIAP: o que falta classificar na atenção básica?</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Araújo, Eduardo Santana de</subfield>
+<subfield code="u">Faculdade Mario Schenberg</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Neves, Sebastião Fernando Pacini</subfield>
+<subfield code="u">Secretaria Municipal de Saúde de Santo André, São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The International Classification of Primary Care (ICPC) has often been confused with the International Classification of Functioning, Disability and Health (ICF) because it is a tool that indicates problems related to health, but which are not diseases. Although its importance be recognized in primary care, the ICPC points, for example, the reasons for contact with health services, clinical information and some interventions. In none of these respects, the ICPC addresses the issue of functioning and disability, either, the relationship of environmental factors on human performance. ICPC is a mere intermediary for the International Statistical Classification of Diseases and Related Health Problems (ICD), it does not include all information necessary for a diagnosis of health status or the health determinants. Thus, managers need to thoroughly know the ICF, since it is a reference classification of the World Health Organization and the real complement for the ICD to population data. The ICF contains the necessary tolls to stimulate a cross-sectoral work, but it has been done only for specialized care, what leave aside all the potential of its application in primary care. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-03-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103827</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 1 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103829</identifier>
+<datestamp>2019-09-25T17:06:45Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Análise da reprodutibilidade da circumetria do joelho em indivíduos com osteoartrite</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Antonio Eduardo Leite da</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Martimbianco, Ana Luiza Cabrera</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pontin, José Carlos Baldocchi</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lahoz, Gisele Landim</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carneiro Filho, Mário</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Knee osteoarthritis presents pain, loss of function, and joint swelling as its main symptoms. The joint swelling is defined as an accumulation of fluid in the joint due to the inflammatory process that contributes to progressive joint damage; it causes limitation in the range of knee motion, decreases proprioception, and affects the functional capacity and the quality of life of the individual. The measurement of articular cartilage volume is essential in clinical practice. The measurement of knee circumference using a measuring tape is a widely used, inexpensive, and accessible technique. However, as it is considered subjective, there is no evidence to support its use. Objective: To examine the reproducibility of this technique in patients with knee osteoarthritis. Method: Participants underwent two evaluations performed by two independent raters, at different times. The measurement of knee circumference was performed using a measuring tape 150 cm in length, taking as reference the superior pole of the patella. Results: The knee circumferences of 114 individuals were measured. According to the intraclass correlation coefficient (ICC), we observed a strong correlation (ICC = 0.98) between raters. Conclusion: The use of a measuring tape as a resource to measure knee circumference in individuals with osteoarthritis is a reliable and reproducible method. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103829</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103831</identifier>
+<datestamp>2019-09-25T17:12:42Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeitos da terapia manual na cefaleia do tipo cervicogênica: uma proposta terapêutica</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Almeida, Renato Santos de</subfield>
+<subfield code="u">Hospital Universitário Gaffrée e Guinle</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gomes, Vanessa</subfield>
+<subfield code="u">Hospital Universitário Pedro Ernesto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gaullier, Carolina de Magalhães</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dames, Karla Kristine</subfield>
+<subfield code="u">Instituto Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nogueira, Leandro Alberto Calazans</subfield>
+<subfield code="u">Instituto Federal do Rio de Janeiro</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The cervical spine is considered a possible source of headaches, however there are still some controversies regarding the pathophysiology, clinical presentation, and treatment. Objective: To propose a physical therapy treatment protocol with multimodal approach for cervicogenic headache and evaluate the effects of manual therapy on such patients. Method: This was an uncontrolled experimental study in which 9 patients from the UNIFESO Physical Therapy Clinic (Teresópolis, RJ) diagnosed with cervicogenic headache underwent 10 physiotherapy interventions with manual therapy techniques. The experimental protocol included joint techniques, fascial release, and muscle recruitment. The Neck Disability Index (NDI) and a visual analogic scale (VAS) were used as measurement tools and the pain pattern was recorded. Results: Of the nine selected patients, all were female and had an average age of 43.3 years (± 15.5). Significant differences were observed between the average intensity of pain (VAS) before treatment (8.0 ± 1.3) and after (2.2 ± 0.9, p &lt; 0.01). The NDI also showed improvement after intervention 63.9% (p &lt; 0.01). Regarding crises frequency, a decrease of 70% was observed after the intervention (p &lt; 0.01) and a reduction was also shown in the duration of such crises before (4 hours ± 1.5) and after treatment (1 hour ± 0.5; p &lt; 0.01). Conclusion: A multimodal approach by manual therapy techniques was beneficial in the reduction of the patients’ symptoms and it provided a decrease in cervical disability. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103831</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103832</identifier>
+<datestamp>2019-09-25T17:17:46Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Prevalência de fatores de risco cardiovascular em idosos realizando atividade física adaptada</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Câmara, Lucas Caseri</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tanaka, Ricardo Yudiro</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Starling, Marcelo Andrade</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Suzigan, Erika Magalhães</subfield>
+<subfield code="u">Santa Casa de Misericórdia de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The prevalence of cardiovascular disease risk factors (CVRF) increases linearly with age. Debilitating diseases within the ambit of physical medicine and rehabilitation can promote or aggravate pre-existing comorbidities and CVRFs. A high prevalence of CVRFs was noted in the medical histories of elderly patients receiving regular ambulatory follow up while performing adapted physical activity (APA) as therapy in a rehabilitation center. Objective: To evaluate the presence of CVRFs in the elderly who are practicing APA, in order to map the risk profile of this specific population. Method: Collection and observational analysis of data found in the medical histories of the elderly (&gt; 60 years) practicing APA, and in regular ambulatory follow up, concerning several CVRFs (Systemic Arterial Hypertension - SAH, Diabetes Mellitus - DM, Dyslipidemia - DLP, Smoking; Excess weight/Obesity - EW/Ob, Family history - FH). Results: one hundred and ten (n = 110) elderly patients were found (average age 72.9 ± 7.1 years). Information in medical history about smoking, EW/Ob and FH, were only found in 11.8%, 52.7%, and 0%, respectively, and were thus excluded from posterior analysis. The prevalence of SAH, DLP and DM were 69.0%, 46.3%, and 27.2%, respectively. Only 18.2% of these elderly presented no CVRF (SAH, DLP, DM), 34.5% one associated factor, 33.6% two factors, 13.7% three factors. Of those evaluated, 28.2% already presented established cardiopathy. Conclusion: A high prevalence of SAH, DLP, DM and established cardiopathy among the elderly practicing regular APA in one rehabilitation center was noted, labeling this sample population with high risk profile. Cardiovascular risk factors of crucial importance like smoking, obesity, and a family history of cardiac disease were not appropriately mapped, with little such information found in the evaluated medical histories. Due to the size and specificity of the present study sample, this result could not express the actual national scope of rehabilitation centers, and should be better investigated in future studies. However, the present data are alarming and must be considered with special attention, since no appropriate map of CVRFs was made. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103832</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103833</identifier>
+<datestamp>2019-09-25T17:29:28Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo observacional de ganhos funcionais de pacientes com síndrome de Guillain-Barre</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Medeiros, Rodrigo Parente</subfield>
+<subfield code="u">Centro de Reabilitação e Readaptação Dr. Henrique Santillo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Ana Cristina Rodrigues e</subfield>
+<subfield code="u">Centro de Reabilitação e Readaptação Dr. Henrique Santillo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Guillain-Barre Syndrome is a disease of low incidence but with sudden onset and disturbing in its acute phase. Even though it is a disease of spontaneous remission, therapies for motor functional recovery have been prescribed by physicians since its onset. Rehabilitation seeks to make the patient independent in his daily life activities-this is the initial goal of the multidisciplinary team, and to regain the gait is always the greatest desire of the patient and his family. Objective: The objective of this study was to evaluate the role of rehabilitation in the form of hospitalization, in which the patient receives a large quantity of stimuli during a period of stabilization of the clinical presentation. Method: 27 patients diagnosed with Guillain-Barre Syndrome were evaluated while being treated at the Hospital de Reabilitação e Readaptação Dr. Henrique Santillo, in the period between July 2008 and July 2013. Results: Twenty-seven patients were analyzed with a mean age of 39.4 years, who were admitted for rehabilitation after 47.8 days of clinical presentation and remained hospitalized an average of 43.8 days. Comparing gait recovery in relation to age, no differences in gain were observed among young people or adults. As for the Functional Independence Measure (FIM) the average on admission was 75.2, which increased to 109.1 at discharge. One of the main factors that contributed to this increase in the FIM value was that, in the gait factor, 11 patients were able to ambulate at admission and at discharge that number had risen to 23 (p &lt; 0.001). Conclusion: In this study, a significant relationship was found in gait between admission and discharge, evidenced by a significant increase in the values of FIM during this period. We found no relationship of improvement between the use of immunoglobulin and improved motor skills. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103833</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103834</identifier>
+<datestamp>2019-09-25T17:35:58Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Contribuições da dançaterapia no aspecto emocional de pessoas com deficiência física durante programa de reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Viriato, Rute Heckert</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Hmeliowski, Nadir Lopes</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nolasco, Daniella Branco</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sancinetti, Fabiana Pavani</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Dance therapy stimulates the discovery of movements, the perception of emotions, and the recognition of opportunities that foster social inclusion. Objective: To analyze the contribution of dance therapy to the emotional aspect of patients in Rehabilitation, based on their self-perceptions. Method: The study included 23 patients in 4 groups, which lasted 4 months each. A questionnaire was applied at the beginning and at end of the program, and they were asked to draw themselves at those two moments. Results: 69.56% of the participants reported good self-esteem before, and 95.65% at the end. An improvement in sociability was perceived, as 69.56% considered themselves shy at the first moment, and 43.47% at the end. We observed greater creativity, 86.95% of the patients (65.21% earlier); and a reduced sense of sadness, just 4.43% (52.17% before). As for difficulties in communicating, there was also a significant reduction: 13.04% reported always having it originally, 4.34% after the program. The drawings in the 2nd assessment were more detailed, proportionate, and centered on the sheet of paper; we also perceived better body awareness, improved self-esteem and greater perception of personal characteristics. Conclusion: Dance therapy provided a significant change in the emotional aspect of the participants of this study, allowing improvement in their perception of possibilities for themselves, increased self-esteem, and greater socialization skills; this favored their contact with their own bodies, contributing to a new perception of themselves. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103834</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103835</identifier>
+<datestamp>2019-09-25T17:41:45Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Prevalência da disfunção miofascial em indivíduos com dor lombar</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Coelho, Daniel Martins</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barbosa, Rafael Inacio</subfield>
+<subfield code="u">Universidade Federal de Santa Catarina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pavan, Ana Maria</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Anamaria Siriani de</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bevilaqua-Grossi, Debora</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Defino, Helton Luiz Aparecido</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: This study aimed to examine the prevalence of myofascial dysfunction in patients with low back pain, which is the area most frequently afflicted, and to quantify the pain threshold for these evaluations using an algometer. Method: We evaluated 70 patients with a history of chronic low back pain in search of trigger points that would elicit the patient’s pain. The muscles tested were the quadratus lumborum, iliopsoas, gluteus maximus, medius, minimus, and piriformis. The prevalence of myofascial dysfunction was determined by the percentage of patients with trigger points. The pain threshold was determined by the average of three assessments of pressure for each trigger point. Results: The results showed that 90% of patients had myofascial dysfunction, 76% of whom had trigger points in the quadratus lumborum, 69% in the gluteus medius, 56% in the piriformis, 40% in the gluteus minimus, 31% in the iliopsoas, and 29% in the gluteus maximus. The pressure pain threshold of the quadratus lumborum was 1.71 kg/cm2, 2.39 kg/cm2 for the gluteus medius, 2.34 kg/cm2 for the piriformis, 2.58 kg/cm2 for the gluteus minimus, 2.11 kg/cm2 for the iliopsoas and 2.19 kg/cm2 for the gluteus maximus. Conclusion: Our data demonstrate the high prevalence of this disorder and suggest that it deserves specific attention in the treatment of low back pain in patients with chronic pain. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103835</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103836</identifier>
+<datestamp>2019-09-25T17:50:29Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Elaboração de um manual de exercícios e orientações para pacientes com fasciíte plantar</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Rafael Henrique da</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pontin, José Carlos Baldocchi</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Thiago Ragusa</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Plantar fasciitis is a common cause of heel and foot pain. It affects approximately 2 million Americans annually. Physiotherapy is the first treatment prescribed, and its success depends on the patient’s adherence to treatment. Objective: This study aimed to develop a manual with orientations and exercises for patients with plantar fasciitis and to assess its clarity, level of understanding, and satisfaction among patients and physiotherapists. Method: Thirty physiotherapists and thirty patients, who were literate and showed no cognitive deficit, participated in this study. They analyzed a manual that consists of 10 exercises and orientations for patients with plantar fasciitis. Results: All exercises and orientations were well understood (above 90%). The manual was considered excellent by the patients and great by physiotherapists. Conclusion: Demonstrating a relevant level of understanding and satisfaction among therapists and patients, the manual proved to be a supplementary tool in the treatment of patients with plantar fasciitis. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103836</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103837</identifier>
+<datestamp>2019-09-25T18:30:45Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Exercício físico na osteogênese imperfeita</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Campana, Mateus Betanho</subfield>
+<subfield code="u">Hospital Infantil Hematológico Dr. Domingos A. Boldrini</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sannomiya, Vanessa Fabiana da Costa</subfield>
+<subfield code="u">Hospital Infantil Hematológico Dr. Domingos A. Boldrini</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferreira, Lucilene</subfield>
+<subfield code="u">Universidade Sagrado Coração</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Campana, Angela Nogueira Neves Betanho</subfield>
+<subfield code="u">Universidade Sagrado Coração</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Osteogenesis imperfecta (OI) is a genetic disorder of the connective tissue, characterized by bone fragility and low bone density, with a broad spectrum of clinical expression. Oriented physical exercise is recognized as a relevant conservative treatment option. Objective: To gather and systematize knowledge related to physical fitness testing, choosing exercises, load progression, and training systematization for persons with OI. Method: Databases from SciELO, LILACS, MedLine, Scopus, PubMed, Web of Science, PEDro and the Cochrane BVS were searched. Two independent reviewers selected the eligible studies. All randomized controlled clinical trials, transversal exploratory studies, case reports, and experience reports that described physical exercise intervention and physical fitness testing; general rules for physical activity and reported physical activity effects were included. Results: The electronic search yielded a total of 961 references published in English, Portuguese, French, and German. After analyzing previously established inclusion criteria, 9 studies were included, only two of which were controlled clinical trials. All the recommendations and conclusions found were oriented toward children, since all the studies had this population as a target. Only two studies included samples of adolescents up to the age of 12 years. OI types I and IV were investigated and some of the recommendations were extended to the other types of OI. Swimming is the exercise recommended most often. Strengthening exercises, with a slow addition of weight were also recommended, as well as aerobic exercises on bicycles, stationary or not. There are some special considerations in handling and treatment for this public that should be taken to avoid trauma. Conclusion: It was possible to obtain some systematization and orientation to conduct conservative treatment interventions with a physical exercise program; however, evidence to support any prescribed exercise and training development for persons with OI is still scarce. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103837</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103838</identifier>
+<datestamp>2019-09-18T20:30:46Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Validação da acelerometria para medida do gasto energético: revisão sistemática</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Daniel, Christiane Riedi</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Examinar a qualidade dos estudos de validação da acelerometria comparados com o consumo máximo de oxigênio (VO2máx) e como objetivo secundário apresentar as principais características dos estudos inseridos e os principais modelos de acelerômetros testados. Método: Após pesquisa na base de dados MedLine, LILACS, Embase e CLINAHL com os descritores “Oxygen Consumption” OR “Energy Metabolism” AND “Accelerometry” AND “Validation Studies”, os dois autores realizaram a seleção dos artigos de acordo com título, leitura do resumo e do texto completo. Após a inclusão dos artigos, estes tiveram sua qualidade avaliada pela ferramenta QUADAS-2 que avalia o risco de viés e a preocupação com a aplicabilidade do teste. Resultados: Foram selecionados 11 trabalhos que se ajustaram aos critérios de inclusão. A análise QUADAS-2 mostrou que para o risco de viés houve problemas com a sua identificação principalmente no que diz respeito ao teste proposto e o padrão-ouro, em relação à aplicabilidade na maioria dos estudos o risco foi baixo. O acelerômetro mais utilizado foi o Actgraph e SenseWear Armband Pro3 que foi testado em 3 estudos. Conclusão: Conclui-se através desta revisão sistemática que são necessárias mais informações a respeito da metodologia proposta nos estudos para classificação da qualidade dos mesmos e que a acelerometria é uma alternativa válida para medida do gasto energético em condições de atividades livres e controladas independente do tipo de acelerômetro. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103838</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103839</identifier>
+<datestamp>2019-09-25T18:51:17Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140609 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Fracasso crônico no tratamento da dor crônica? A influência silenciosa da personalidade e seus transtornos</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Solano, João Paulo Consentino</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Patients with non-oncologic chronic pain conditions commonly present with psychiatric symptoms and disorders. In a sample of non-oncologic chronic pain patients referred for psychiatric consultation, personality disorders were found more frequently than any other diagnosis, including major depression. Borderline and narcissistic personality disorders were the most common psychiatric diagnoses in the group. This paper debates such findings along with a literature review carried out using the keywords chronic pain, borderline personality disorder, and narcissistic personality disorder. Diagnostic criteria for the personality disorders are shown, as well as some “soft signs” that may indicate the disorder. Two vignettes exemplify each of the personality disorders; finally, some recommendations are offered to ease the clinical management of such patients by multi-professional teams for chronic pain patients. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103839</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 2 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103840</identifier>
+<datestamp>2019-09-25T13:30:23Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Confiabilidade de um teste funcional de desempenho do membro superior: Teste Elui</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Elui, Valéria Meirelles Carril</subfield>
+<subfield code="u">Universidade de São Paulo, Faculdade de Medicina de Ribeirão Preto</subfield><subfield code="0">https://orcid.org/0000-0003-2898-2766</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Goia, Daniela Nakandakari</subfield>
+<subfield code="u">Hospital das Clínicas de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ricci, Flávia Pessoni Faleiros Macêdo</subfield>
+<subfield code="u">Universidade de São Paulo, Faculdade de Medicina de Ribeirão Preto</subfield><subfield code="0">https://orcid.org/0000-0002-4130-6853</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fonseca, Marisa de Cássia Registro</subfield>
+<subfield code="u">Universidade de São Paulo, Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Manual dexterity is a key skill for the performance of everyday activities. Measurements of muscle strength, range of motion, and sensitivity alone may not reflect the functional status in assessing physical and functional conditions. It is also important to use self-applied assessments and specific functional tests to assess overall performance and test aspects such as dexterity, coordination and grasp quality, but these may differ in terms of standardization and psychometric properties. From this need we have developed the Elui Upper Extremity Functionality Test, with the intent to provide a national measuring instrument of the upper extremity and reference to be used in clinical practice, but its psychometric properties have not been yet defined. Objective: The aim of this study was to assess the interexaminer reliability and test retest of the Elui Upper Extremity Functionality Test. Methods: Healthy volunteers (50) of both genders, with an average age of 32.62 years and no impairment or symptoms in the upper limbs were submitted to the test by two examiners and after 30 days by one examiner. The application of this test requires simple materials present in our everyday life, divided into 10 sub-items: Simulated writing, Turning a Key, Grasping small objects, Simulated feeding, Pouring water, Opening containers, Cutting with a knife, Simulated dressing, Grasping large and light objects, and Grasping large and heavy objects. Each volunteer evaluated should perform each item test with both hands or with the dominant hand, depending on the sub-item analyzed, and if needed, they adapted the laterality. Results: A statistical analysis was carried out to compare the differences in time measurements of each sub-item of the test in seconds. The analysis of the inter-examiner reliability and test-retest used the Interclass Correlation Coefficient (ICC) with a confidence interval of 95% and p &lt; 0.05. The local Research Ethics Committee approved this study and all volunteers signed an informed consent form. With the exception of the Grasping small objects task, which had an unacceptable ICC (0.65), the results showed that all the other nine items had excellent inter-examiner reliability: between 0.95 and 0.99 and Cronbach’s alpha between 0.97 and 0.99. For the test-retest, the tasks with excellent reliability were Pouring water ICC 0.98 and simulated writing with ICC 0.91, good reliability for the tasks Grasping large and heavy objects ICC 0.85, Cutting with a knife ICC 0.85 and Simulated feeding ICC 0.80; acceptable reliability for the items Turning a key ICC 0.74 and Simulated dressing ICC 0.76; with Cronbach’s alpha of all tasks between 0.79 and 0.99. Conclusion: The Elui test showed excellent repeatability between examiners as well as with repeated measurements over time by the same examiner in most sub-items, being considered reliable for the studied sample using the third measurement. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103840</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103842</identifier>
+<datestamp>2019-09-25T13:34:57Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Envelhecimento e dor crônica: um estudo sobre mulheres com fibromialgia</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Hayar, Maria Angelica Schlickmann Pereira</subfield>
+<subfield code="u">Pontifícia Universidade Católica de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Salimene, Arlete Camargo de Melo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Karsch, Ursula Margarida</subfield>
+<subfield code="u">Pontifícia Universidade Católica de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: This study seeks to investigate the aging process of women affected by fibromyalgia, as well as its physical, personal, and social impacts. Method: Sixty-six (66) women participated who were diagnosed with fibromyalgia, aged from 30 to 68 years, living in Sao Paulo/SP. For qualitative research, a group of fifteen (15) out of the 66 women was selected at random: five (05) aged from 30 to 49 years; five (05) aged from 50 to 59 years; and five (05) aged 60 years and above. Individual, semi-structured interviews designed by the author were conducted, recorded, and later transcribed verbatim. The instrument sought to encourage the subjects to reflect in order to access social representations of pain, of the disease, and of aging with chronic pain. The methodology used for processing the qualitative research data was the Collective Subject Discourse technique. Results: Analysis indicated greater incidence of fibromyalgia among elderly women, but the impact on quality of life, as measured by the FIQ, was greater among the middleaged group (50 to 59 years). There was a greater prevalence of the disease among women with poor levels of formal learning, but it was found that the impact of fibromyalgia was more significant for women with higher education. The presence of religiosity was very significant in this group of subjects. Conclusion: Primary care provided by public health programs, such as “Estratégia de Saúde da Família” (Family Health Strategy), requires the proper approach to a person suffering from such a peculiar chronic illness as fibromyalgia. This approach should be extended to the elderly, in observation to the policies for humanization of healthcare services seeking to promote health. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103842</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103843</identifier>
+<datestamp>2019-09-25T13:41:35Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Dor relacionada à amputação e funcionalidade em indivíduos com amputações de membros inferiores</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Juliana Kliemke dos</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Faria, Cecília Caruggi de</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pirrelo, Maria Silvia</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Leal, Caio Pereira</subfield>
+<subfield code="u">Faculdade Metropolitanas Unidas</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The presence of persistent pain, whether from the stump, phantom pain, or in the contralateral limb may negatively interfere with obtaining a gait with a prosthesis in an amputee patient. Objective: To investigate the presence of pain related to amputation in lower limb amputees during their rehabilitation treatment, to evaluate their functional status with and without a prosthesis, and to verify whether there is any association between the presence of pain and gait. Method: A transversal study with 60 unilateral lower limb amputees in treatment at a rehabilitation center in São Paulo to investigate: age, gender, time since amputation, level and etiology of amputation, number of comorbidities, presence of pain in the stump or phantom pain or in contralateral limb, and if so, the kind of pain, intensity, frequency, improvement or worsening factors, use of medication, prosthetization, type of gait with prosthesis (community, therapeutic or household), use of gait assistance and application of Functional Independence Measure (FIM). Data was analysed with absolute and relative values and parametric tests (ANOVA) and non-parametric tests (equality of two proportions), chi-square, and confidence interval of 95% and P-value &lt; 0.05. Results: The group, which contained 73.4% men, one year since amputation at the transtibial level, vascular etiology, with two comorbidities composed the sample in a statistically significant way (p &lt; 0.001). There was no difference between patients fitted and not fitted with prostheses for stump pain and phantom pain, but there was a difference for the contralateral limb, statistically significant in those patients not fitted with prostheses. Although there was a mean difference between patients with and without prostheses for the 3 FIM scores, it was not statistically significant. Conclusion: Most unilateral lower limb amputation patients in rehabilitation at the AACD - Lar Escola at the time of the study had a low incidence of pain related to amputation and it didn’t interfere with their acquiring a gait with their prostheses. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103843</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103844</identifier>
+<datestamp>2019-09-25T14:12:37Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Características clínicas e epidemiológicas do paciente adolescente portador de osteossarcoma</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castro, Juliana Ramiro Luna</subfield>
+<subfield code="u">Universidade Federal do Ceará</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Cíntia Maria Torres Rocha</subfield>
+<subfield code="u">Universidade Estadual do Ceará</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barroso, Karoline Sampaio Nunes</subfield>
+<subfield code="u">Universidade de Fortaleza</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lopes, Jaqueline Pereira</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Osteosarcoma (OS) is a malignant neoplasia that affects the bone tissue with no known cause. It most commonly affects the appendicular skeleton, mainly the femur and tibia bones, in children and adolescents. The surgery treatment consists of a resection of the tumor or amputation of the affected limb, associated with chemotherapy. The earlier it is diagnosed and treated, and the smaller it is, the better the prognosis will be. Objective: The main objective of this study was to present the clinical characteristics and epidemiology of adolescent patients from the Ceará Cancer Hospital (HCC) in the city of Fortaleza. Clinical and epidemiologic data about these patients, who ranged from the age of 10 to 19 years old, was investigated in order to fulfill our objectives with this study. Method: A retrospective cohort study was developed gathering information from patients’ charts from the above-mentioned hospital from the period of January 2006 to December 2007. The data was collected through a semi-structured form that consisted of questions that appraised both the clinical and epidemiological characteristics of the patients, as well as the demographic data. After selecting 29 cases, only 26 were used for the analysis due to either incomplete information, abandonment of treatment, or hospital transference. Results: Our results show that Osteosarcoma was found to be more frequent in male patients (57.7%), in patients between 10 and 15 years old (73.1%), in afro-descendant patients (50%), and in patients that came from more rural areas (73.1%). This study also shows that 30.8% of the patients presented a family history of cancer. The symptom that these patients seemed to have in common was pain (24 patients), followed by an increase of local volume (20 patients), and previous trauma (8 patients). The femur bone was affected in 65.4% of the cases, with occurrence of metastasis (76.9%), almost always during the diagnosis and with the majority (15 patients) to the lungs. The treatment consisted of chemotherapy (96.2%) associated with the surgical resection (69.2%) and amputation (73.1%) or limb replacement. Other treatments such as Physical Therapy were prescribed in 42.3% of the cases, mostly during post-surgery (23.1%), and generally just to treat the complications. Conclusion: This study suggests that the common profile of a patient with Osteosarcoma is male, afro-descendant, coming from the more rural areas and presenting a family history of cancer. In conclusion, this study suggests the importance of knowledge about both clinical and epidemiological characteristics of Osteosarcoma patients, so that there is more regard from health professionals concerning multidisciplinary teamwork at the time of the diagnosis. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103844</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103845</identifier>
+<datestamp>2019-09-25T14:50:45Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Análise do hábito alimentar e do estado nutricional de pacientes com lesão medular após intervenção nutricional</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Elizabete Alexandre dos</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alves, Vera Lúcia Rodrigues</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ramos, Silvia</subfield>
+<subfield code="u">IMeN Educação</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Frangella, Vera Silvia</subfield>
+<subfield code="u">Centro Universitário São Camilo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> According to the World Health Organization, disability is defined as a restriction of bodily structure or function that is not offset by social measures, with spinal cord injuries (SCI) being a common type of physical disability. Several factors may influence the nutritional status of individuals with SCI, and metabolic complications can lead to a number of acute and chronic changes in the body that are related to the development of chronic diseases and obesity. The evaluation and proper nutritional management of patients with SCI can assist in improving their nutritional status, minimize complications associated with the injury, and facilitate their rehabilitation in the long term. Objective: To evaluate the effect of the nutritional intervention measures used in one nutrition clinic on the eating habits and nutritional status of patients with spinal cord injuries. Method: This was a cross-sectional retrospective exploratory study in which we analyzed the eating habits of all the SCI outpatients in the period from April 2012 to October 2013. Results: 30 patients with mean age of 46 ± 15.29 years were evaluated, 70% of whom were male. After the nutritional intervention there was a reduction in saturated fat intake, a decreased intake of refined grains, and an increased consumption of fruits and vegetables. Conclusion: The study showed the importance of a nutritional intervention in the dietary habits of individuals, and that nutrition education should begin early to prevent complications secondary to the injury. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103845</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103846</identifier>
+<datestamp>2019-09-25T14:57:15Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Análise da atividade muscular do tornozelo de idosos e jovens</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sillis, Roberta</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Lucas Barbosa de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Portes, Leslie Andrews</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fabio Marcon</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Aging changes the musculoskeletal function and affects gait and body balance. Objective: To compare the electromyographic activity (EMG) of the ankles of physically active older and younger people. Method: Forty subjects of both genders considered physically active through the International Physical Activity Questionnaire - IPAQ (short format) participated in this study. Those with some kind of medical condition that could affect balance and muscle contraction did not participate in the study. We evaluated the electromyographic activity (EMG) of the tibialis anterior and triceps surae in bipedal stance (BS) and single-leg (US) with eyes open. To capture the EMG, monopolar Ag/AgCl surface electrodes from KENDALL (MEDITRACETM 200) were used. The Student t test was used for comparison between groups. The level of significance adopted was p &lt; 0.05. Results: Elderly individuals exhibited higher values regarding the frequency of action potentials in 3 of the 4 conditions assessed. Conclusion: The older volunteers in this study exhibited a higher firing rate and recruitment of motor units of the ankle muscles to maintain the bipedal and unipedal stance, as compared to the younger. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103846</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103859</identifier>
+<datestamp>2019-09-25T15:05:34Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Identificação dos conceitos de medidas de desfechos de ensaios clínicos em osteogênese imperfeita utilizando a Classificação Internacional de Funcionalidade, Incapacidade e Saúde - versão crianças e jovens</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Tatiana Vasconcelos dos</subfield>
+<subfield code="u">Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Llerena Júnior, Juan Clinton</subfield>
+<subfield code="u">Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ribeiro, Carla Trevisan Martins</subfield>
+<subfield code="u">Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gomes Júnior, Saint Clair dos Santos</subfield>
+<subfield code="u">Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The biopsychosocial model from the International Classification of Functioning, Disability, and Health (ICF) has been used as a reference in clinical practice to identify and analyze the functioning components in outcome measures. Objective: The objectives of this study were to identify the concepts contained in outcome measures of clinical trials on Osteogenesis Imperfecta, to analyze how these concepts are linked with the ICF - Children and Youth version (ICF-CY) and describe what the functioning components are that are assessed in these studies. Method: Randomized controlled trials on children with diagnoses of Osteogenesis Imperfecta carried out between 2000 and 2013 were selected using MedLine and Cochrane. The outcome measures were extracted and the concepts contained in the outcome measures were linked to the ICF-CY. Results: Fourteen trials were included. The concepts of clinical and technical measures and of one health assessment instrument (Pediatric Evaluation of Disability Inventory - PEDI) were identified. The concepts of clinical and technical measures were linked to the ICF-CY Body Functions and Structures component. The PEDI concepts were linked to the Body Functions and especially to Activity and Participation. Conclusion: Using the linking of the concepts of outcome measures to the ICF-CY it was possible to verify that clinical trials on Osteogenesis Imperfecta assessed mainly the Body Functions and Body Structures component. Assessments of Activity and Participation and contextual factors are scarce on these studies. More research is necessary on the effects of interventions on these components. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103859</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103860</identifier>
+<datestamp>2019-09-25T15:11:08Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Exercícios resistidos na osteoartrite: uma revisão</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Natália Cristina de Oliveira Vargas e</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fabio Marcon</subfield>
+<subfield code="u">Centro Universitário Adventista de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0002-5242-3246</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Osteoarthritis is the most common joint disease in the world, and in Brazil it is estimated to affect 6 to 12% of the adults and one third of the elderly population. There is evidence that exercise, especially resistance exercise, may reduce disease progression. Objective: The aim of this study was to review the literature regarding resistance exercise as a treatment for osteoarthritis. Method: Articles indexed in the PubMed database were reviewed by employing the “therapy narrow” filter, through the “clinical queries” interface. Twenty studies were selected for full text review. Several types of resistance exercise interventions, with different intensities, duration and speed were studied by other authors. Results: The various types of resistance exercise seem to be safe and effective in promoting functional improvements and pain reduction in osteoarthritis patients. Low intensity and isometric exercises can also promote benefits. Conclusion: Adherence to the programs is close to 50% and the combined use of supplements or drugs along with exercise has been little studied so far in this population. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103860</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103861</identifier>
+<datestamp>2019-09-25T15:15:55Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Tratamento fisioterapêutico da fasciíte plantar</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pontin, José Carlos Baldocchi</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Thiago Ragusa</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Plantar fasciitis or heel pain syndrome is a common cause of heel and foot pain in adults that affects about 2 million Americans a year and it is estimated that about 10% of the world’s population have presented or will present foot pain at some time in their life. Objective: To review the literature in order to verify the effectiveness of the modalities of physical therapy in patients with plantar fasciitis. Method: An electronic search was conducted in the databases of the Cochrane Library, Medline (via Pubmed), PEDro, and LILACS, with no date or language restrictions. In the present study, articles about the physical therapy for plantar fasciitis and those that have focused on the surgical treatment were included. Results: In total, 23 studies met the inclusion criteria. The procedures were: Stretching sural triceps, manual therapy, bandaging, orthotics/ insoles and electrotherapy. Conclusions: There is moderate evidence that stretching exercises for the triceps surae provide benefits to patients with plantar fasciitis. The evidence of the application of bandages is still weak, but some studies have reported improvement in pain and function in the short term. There is good quality evidence supporting the use of custom insoles that can provide short-term improvement in pain and function in patients with plantar fasciitis. The use of night splints presents controversial results, although some studies have shown good results. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103861</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103862</identifier>
+<datestamp>2019-09-25T15:19:54Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"140909 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Toxina Botulínica Tipo A no tratamento da dor miofascial relacionada aos músculos da mastigação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sposito, Maria Matilde de Mello</subfield>
+<subfield code="u">Instituto de Reabilitação Lucy Montoro</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Teixeira, Stephanie Alderete Feres</subfield>
+<subfield code="u">Faculdade de Ciência de Guarulhos</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To systematize the scientific evidence on the efficacy of botulinum toxin type A in the treatment of myofascial pain related to masticatory muscles. Method: A bibliographical search was made in the PubMed Central Journal and Allergan Product Literature databases - botulinum toxin (APL) encompassing the past 12 years, with the descriptors: “myofascial pain,” “botulinum toxin,” “treatment,” “masticatory muscles”. The methodological quality of the studies was evaluated through the Jadad scale. Four randomized, double-blind, clinical trial studies were selected. Results: It was found that the research on the use of botulinum toxin type A for myofascial pain contributed to improving the treatments that existed until that time for this clinical condition. Conclusion: The need for more studies and forms of evaluating precisely and quantitatively is essential in order to find a definitive answer on the efficacy and safety of this treatment. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103862</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 3 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103863</identifier>
+<datestamp>2019-09-24T19:14:11Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Associação dos níveis de GMFCS com grau de escolaridade, tipo de marcha, empregabilidade e dor em adultos com paralisia cerebral</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Zanelato, Natali</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosanova, Giselle Cristina Lopes</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santucci, Fernanda</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Campos, Debora da Silva Fragoso de</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Narumia, Lisa Carla</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ozu, Márcia Harumi Uema</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Adults with cerebral palsy (CP) have experienced premature aging associated with function decline. And despite improvements in health care, studies show that these individuals have fewer opportunities to have some kind of education and employment, in addition to presenting complaints of pain and alterations in their ability to walk. Objective: The aim of this study was to check the association of GMFCS levels with the parameters of employability, education, level of ambulation, and pain in adults with CP. Method: 671 medical records were selected to analyze the correlations among the variables mentioned above. Result: It was noticed that those with the more severe levels of CP have fewer chances to get any level of education and employment, in addition to presenting a worse gait. Conclusion: No association was found between levels of GMFCS and the parameter for pain. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103863</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103864</identifier>
+<datestamp>2019-09-24T19:18:46Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A cadeira de rodas e seus componentes essenciais para a locomoção de pessoas com tetraplegia por lesão da medula espinhal</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ossada, Vinícius Aparecido Yoshio</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Garanhani, Márcia Regina</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Roger Burgo de</subfield>
+<subfield code="u">Universidade Estadual de Londrina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Viviane de Souza Pinho</subfield>
+<subfield code="u">Universidade Norte do Paraná</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: This study sought to understand which items are essential to the wheelchair from the perspective of a person with quadriplegic spinal cord injury (SCI). Method: The study was qualitative with semi-structured interviews and discourse analysis, as well as a checklist of the wheelchair being used and the wheelchair provided by the government’s Unified Health System (SUS). Results: The causes of SCI were motor vehicle accidents (60%), diving into shallow waters (30%) and being struck by a vehicle (10%), respectively and the injury time averaged 16.3 years (± 7.14). All of the subjects were in physiotherapy. The number of wheelchairs tested before finding the proper one were two to five and some participants practiced adapted sports with the wheelchair. The checklist showed that the government wheelchair had insufficient items and the discourse analysis resulted in four categories: Items, materials, and conditions; Learning functionality; Advantages and disadvantages of the wheelchair; and Feelings experienced. The wheelchair is essential to acquiring mobility for people with quadriplegia and trying out different models and getting orientation on the items are important for their acquisition. Suitable items facilitate acceptance, better adaptation, mobility and enable autonomy. Conclusion: The wheelchair from the government’s health system was insufficient, leading to its being abandoned, and wheelchairs acquired for their functionality, with essential items, responsive to the user’s individuality and taste proved to be useful and appropriate, despite their high cost. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103864</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103865</identifier>
+<datestamp>2019-09-24T19:23:44Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"141209 2014                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Orientação de higiene bucal e experiência de cárie em pacientes com paralisia cerebral em uso de medicamentos</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Taciana Mara Couto</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lopes, Mariana</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ikeda, Ana Paula Yumi</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cesar, Marcelo Furia</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Maria Teresa Botti Rodrigues</subfield>
+<subfield code="u">Associação de Assistência a Criança Deficiente</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The presence of damage associated with cerebral palsy (CP) often requires the long-term continuous use of prescription drugs. Among the adverse side effects of these drugs are decreased salivary flow and increased risk for caries. Objective: To determine whether those responsible for CP patients received orientation regarding the necessity of oral hygiene after the administration of drugs of continuous oral use and the caries experience in patients with CP. Method: Participating in this study were 205 children with medical diagnosis of CP, of both genders, aged 0-12 years (6.6 ± 2.9) attending a preventive program in dentistry in a reference institution of rehabilitation in São Paulo-SP. The data regarding gender, movement disorder and clinical types of CP were collected from medical records. In an interview format, the caregivers reported whether there was use of any continuous medicine. They were asked what form it took, whether the caregivers had received prior guidance on the importance of oral hygiene after the use of medicines, who performed the oral child’s hygiene, and how often it was done. Their caries experience was recorded based on whether a given tooth was decayed (D, d) missing (M, m) or filled (F, f) (DMFT). The sample was divided into two groups according to whether they used continuous drugs (group 1: G1) or did not (group 2: G2). The Chi-square test and Student’s t test were used, with the level of significance set up at 5%. Results: G1 (n = 110) and G2 (n = 95) were similar in terms of gender (p = 0.343) and age (p = 0.514). However, they differed significantly in relation to the clinical pattern, with G1 presenting significantly higher percentages of patients with tetraparesis (p &lt; 0.001). Considering only the G1, it was observed that the subgroup that used medicine in oral solution form (solution, n = 65) differed significantly from that using tablets (tablets, n = 45) in relation to their previous orientation for hygiene oral (p = 0.013), in that the solution subgroup had been better oriented. With regard to oral hygiene, the solution subgroup had significantly higher percentages (p = 0.044) of children requiring supervision and completion of the oral hygiene when compared to the tablet group. The comparison of caries experience between G1 and G2 showed that the G1 had significantly higher values for their DMF index (p = 0.048), and fewer caries-free patients (p = 0.016) when compared to G2. Conclusion: Although those responsible for the patients receiving medication in the form of oral solution were better oriented, these patients presented higher values of caries experience. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2014-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103865</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 21 n. 4 (2014)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2014 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<resumptionToken expirationDate="2023-08-08T14:50:17Z" completeListSize="935" cursor="500">86613401527756f612043ec4fc02f91c</resumptionToken>
+</ListRecords>
+</OAI-PMH> 

@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:54Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/192095</identifier>
+        <datestamp>2022-05-04T11:30:05Z</datestamp>
+        <setSpec>rmrp:ENS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Vaccine hesitation and the 'pandemic' of the unvaccined: What to do to face the new “Vaccine Revolt”?</dc:title>
+          <dc:title xml:lang="pt-BR">Hesitação vacinal e a ‘pandemia’ dos não vacinados: o que fazer para enfrentar a nova “Revolta da Vacina”?</dc:title>
+          <dc:creator>Santos Júnior, Claudio José dos</dc:creator>
+          <dc:creator>Carvalho Neto, Antônio de Pádua Medeiros de</dc:creator>
+          <dc:creator>Rocha, Thiago José Matos</dc:creator>
+          <dc:creator>Costa, Paulo José Medeiros de Souza</dc:creator>
+          <dc:subject xml:lang="pt-BR">Vacinas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cobertura vacinal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Recusa de vacinação</dc:subject>
+          <dc:subject xml:lang="pt-BR">movimento contra vacinação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Covid-19</dc:subject>
+          <dc:subject xml:lang="en-US">Vaccines</dc:subject>
+          <dc:subject xml:lang="en-US">Vaccination coverage</dc:subject>
+          <dc:subject xml:lang="en-US">Vaccination refusal</dc:subject>
+          <dc:subject xml:lang="en-US">anti-vaccination movement</dc:subject>
+          <dc:subject xml:lang="en-US">Covid-19</dc:subject>
+          <dc:description xml:lang="pt-BR">A frequência da hesitação vacinal está aumentando em todo o mundo e, no contexto da pandemia da Covid-19, esse fenômeno vem sendo cada vez mais percebido no âmbito nacional.&#160;No presente trabalho, realizamos uma breve apresentação de fatores históricos desse fenômeno, abordamos seus principais determinantes e modelo conceitual, além de apresentar um conjunto de estratégias de (edu)comunicação em saúde vacinal que podem ser implementadas para enfrentamento dessa problemática com vista a elevar a credibilidade e a adesão às imunizações.</dc:description>
+          <dc:description xml:lang="en-US">The frequency of people hesitating to get vaccinated is increasing worldwide and regarding the covid-19 pandemic, this phenomenon has been increasingly noticed at a national level. This article exposes a brief presentation of the historical factors of this phenomenon, approaches its main determinants and conceptual model, in addition to presenting a set of communication strategies in vaccine health that can be implemented to face this problem to raise the credibility and adherence to immunizations.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-05-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/192095</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.192095</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 1 (2022); e-192095</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 1 (2022); e-192095</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 1 (2022); e-192095</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192095/181640</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192095/181639</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Claudio José dos Santos Júnior, Antônio de Pádua Medeiros de Carvalho Neto, Thiago José Matos Rocha, Paulo José Medeiros de Souza Costa</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/192222</identifier>
+        <datestamp>2022-07-04T13:51:57Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Influence of physical activity on psychological states in adults during the covid-19 pandemic</dc:title>
+          <dc:title xml:lang="pt-BR">Influência da atividade física nos estados psicológicos de adultos durante a pandemia de covid-19</dc:title>
+          <dc:creator>Camacho-Cardenosa, Alba</dc:creator>
+          <dc:creator>Camacho-Cardenosa, Marta</dc:creator>
+          <dc:creator>Merellano-Navarro, Eugenio</dc:creator>
+          <dc:creator>Trapé, Átila Alexandre</dc:creator>
+          <dc:creator>Apolinario, Thiago</dc:creator>
+          <dc:creator>Brazo-Sayavera, Javier</dc:creator>
+          <dc:subject xml:lang="pt-BR">Ansiedade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atividade física</dc:subject>
+          <dc:subject xml:lang="pt-BR">Autoconceito</dc:subject>
+          <dc:subject xml:lang="pt-BR">Isolamento social</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde mental</dc:subject>
+          <dc:subject xml:lang="en-US">Mental health</dc:subject>
+          <dc:subject xml:lang="en-US">Self-perceptions</dc:subject>
+          <dc:subject xml:lang="en-US">Anxiety</dc:subject>
+          <dc:subject xml:lang="en-US">Physical activity</dc:subject>
+          <dc:subject xml:lang="en-US">Lockdown</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: Longos períodos de confinamento em casa podem levar ao medo, pânico, ansiedade e depressão, o que, por sua vez, pode estar relacionado à diminuição dos hábitos de atividade física. Objetivo: Determinar a associação entre as características da atividade física praticada e o risco de apresentar problemas de saúde mental em pessoas durante o confinamento. Métodos: Foi realizado um estudo multicêntrico, transversal e observacional em países ibero-americanos com uma amostra de 4.948 participantes, selecionados por meio de uma técnica de amostragem em bola de neve. O estudo teve início em 15 de março de 2020 e foi concluído em Agosto de 2020 por meio de um formulário online que incluiu perguntas sobre dados sociodemográficos e de saúde, além da avaliação do estado de saúde mental e características de atividade física. Resultados: As mulheres brasileiras com idade compreendida entre 18 e 29 anos que ficaram em casa mais de 19 horas por dia apresentaram um risco mais elevado para todos os problemas de saúde mental analisados neste estudo. Um baixo nível de atividade física durante o período de isolamento apresentou a maior probabilidade de risco de depressão em comparação com níveis mais elevados (OR = 1,317). Além disso, a utilização de um recurso não profissional para fazer atividade física foi um fator preditivo de estado de saúde mental adverso (OR Ansiedade = 1,396, OR Depressão = 1,452, e OR Estresse = 1,220). Conclusões: Um baixo nível de atividade física durante o período de isolamento está associado a maior prevalência de depressão, e a utilização de recursos profissionais para a atividade física pode ser um fator de proteção para os distúrbios de saúde mental.</dc:description>
+          <dc:description xml:lang="en-US">Introduction: Long periods of home confinement may lead to fear, panic, anxiety, and depression states, which, in turn, could drive to a reduction of active lifestyles. Objetive: To determine the association between the characteristics of the physical activity performed and the risk of experiencing mental health issues among peopleduring confinement. Methods: A multicenter, cross-sectional, and observational study design was conducted in Iberoamerican countries with a sample of 4,948 participants, selected through a snowball sampling technique. The study started on March 15th, 2020, and was completed in August 2020 through an online survey that includeddemographic and medical data, mental health status, and physical activity characteristics. Results: Brazilianwomen aged between 18 and 29 who stayed at home more than 19 hours per day presented a relevant higher risk for all the mental health problems analyzed in this study. A low level of physical activity during the isolation period presents the highest probability of depression compared to higher levels (OR = 1.317). In addition, using a no professional resource to do physical activity is a predictive factor of adverse mental health status (OR Anxiety= 1.396, OR Depression = 1.452, and OR Stress = 1.220). Conclusions: A low level of physical activity during a long isolation period is associated with a higher prevalence of depression, and the use of professional resources for physical activity may be a protective factor for mental health disorders.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/192222</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.192222</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022); e-192222</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022); e-192222</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022); e-192222</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192222/184012</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Alba Camacho-Cardenosa, Marta Camacho-Cardenosa, Eugenio Merellano Navarro emerellano, Átila Alexandre Trapé, Thiago Apolinario, Javier Brazo-Sayavera</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/192624</identifier>
+        <datestamp>2022-07-04T13:51:57Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Technical notes for judicialization of direct oral anticoagulants: a profile assessment</dc:title>
+          <dc:title xml:lang="pt-BR">Notas técnicas para judicialização de anticoagulantes orais diretos: uma avaliação do perfil</dc:title>
+          <dc:creator>Almeida, Nívea Aparecida de</dc:creator>
+          <dc:creator>Domingues, Mara Luiza de Paiva</dc:creator>
+          <dc:creator>Baldoni, André Oliveira</dc:creator>
+          <dc:creator>Rios, Danyelle Romana Alves</dc:creator>
+          <dc:subject xml:lang="pt-BR">Judicialização da saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Farmacovigilância</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anticoagulantes orais de ação direta</dc:subject>
+          <dc:subject xml:lang="pt-BR">Varfarina</dc:subject>
+          <dc:subject xml:lang="en-US">Health's judicialization</dc:subject>
+          <dc:subject xml:lang="en-US">Pharmacovigilance</dc:subject>
+          <dc:subject xml:lang="en-US">Direct acting oral anticoagulants</dc:subject>
+          <dc:subject xml:lang="en-US">Warfarin</dc:subject>
+          <dc:description xml:lang="pt-BR">Fundamentos: A judicialização da saúde no Brasil gera aumento anual significativo das demandas por recursos financeiros. Em 2016, com intuito de promover uma comunicação entre o sistema jurídico e o sistema de saúde, implementaram o sistema e-NatJus (Núcleos de Apoio Técnico do Poder Judiciário). A função do e-NatJus é fornecer apoio técnico aos juízes nas questões relativas à saúde por meio da elaboração de Notas Técnicas (NT). Objetivo: Analisar o perfil e a qualidade das NT de solicitação de anticoagulantes orais diretos (DOACs) disponíveis no portal eletrônico do e-NatJus para consultas por juízes. Métodos: Trata-se de um estudo documental descritivo, em que foram avaliadas as características sociodemográficas, do diagnóstico e tratamento dos pacientes, bem como informações sobre as evidências da eficácia e segurança da tecnologia e conclusão de todas as NT referentes à solicitação de DOACs obtidas na plataforma e-NatJus desde sua implantação em 2018 até junho de 2020. Resultados: Foram incluídas no estudo 181 NT: rivaroxabana (67,0%), apixabana (16,0%), dabigatrana (12,0%) e edoxabana (5,0%). A média de idade dos indivíduos foi de 65,7 (±15,1) anos, sendo, (50,3%) do sexo feminino. São Sebastião do Paraíso foi o município que mais solicitou apoio nas NT (5,0%), e o estado com mais solicitações foi Santa Catarina (34,8%). Em relação ao diagnóstico dos pacientes, os mais prevalentes foram fibrilação atrial (FA)(31,5%) e troembolismo venoso (TEV)(16,4%). Aproximadamente 86 NT estavam com conteúdo semelhante no item evidência científica. Observou-se que (57,5%) tiveram a conclusão não favorável para disponibilizar o medicamento solicitado. Dentre as 77 NT que tiveram a conclusão favorável, (57,1%) não avaliaram as recomendações da Comissão Nacional de Incorporação de Tecnologias (CONITEC). Conclusão: De forma geral, nosso estudo permitiu conhecer o perfil das NT e os principais motivos de solicitações dos DOACs, com intuito de compreender melhor se são realizadas realmente de forma consciente e responsável. A população que solicitou os DOACs via judicial é uma população idosa e não houve grande diferença entre os sexos. Os diagnósticos mais prevalentes nas NT foram FA e TEV corroborando com a indicação desses medicamentos. Pode-se observar que a maioria das NT que concedeu parecer favorável não evidenciou consulta à CONITEC e não apresentou evidência científica que contemplava de forma concreta sua decisão.</dc:description>
+          <dc:description xml:lang="en-US">Background: The judicialization of health in Brazil generates an annual increase in demands for financial resources. In 2016, to promote communication between the legal system and the health system, the implementation of e-NatJus system (Technical Support Centers of the Judiciary). The role of e-NatJus is to provide technical support to judges on health-related issues through the preparation of Technical Notes (NT). Objective: Analyze the profile and quality of TNs requesting Direct Oral Anticoagulants (DOACs) available on the e-NatJus electronic portal for consultation by judges.Methods: This is a descriptive documentary study, which evaluated the sociodemographic characteristics, diagnosis, and treatment of patients, as well as information on the evidence of the efficacy and safety of technology and the conclusion of all NT related to the request for DOACs obtained in the e-NatJus platform since its implementation in 2018 to June 24, 2020. Results: The study included 181 NT: rivaroxaban (67,0%), apixaban (16,0%), dabigatran (12,0%), and edoxaban (5,0%). The mean age of the individuals was 65.7 (±15.1) years, being (50,3%) female. São Sebastião do Paraíso was the municipality that most requested support in the NT (5,0%), and the state with the most requests was Santa Catarina (34,8%). Regarding the diagnosis, the most prevalent patients were AF (31,5%) and VTE (16,4%). Approximately 86 NT had similar content in the scientific evidence item. It was observed that (57,5%) had an unfavorable conclusion about making the requested drug available. Among the 77 NT that had a favorable conclusion, (57,1%) did not evaluate the recommendations of the National Commission for the Incorporation of Technologies (CONITEC). Conclusion: In general, our study is effective to know the profile of the NT and the main reasons for consulting DOACs, to better understand the formof knowledge and the DOACs. It can be observed that most NTs granted a favorable opinion, did not evidence CONITEC and did not present scientific evidence that contemplated the concrete form of their decision.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/192624</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.192624</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022); e-192624</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022); e-192624</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022); e-192624</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192624/184014</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Nívea Aparecida de Almeida, Mara Luiza de Paiva Domingues, André Oliveira Baldoni, Danyelle Romana Rios</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/192731</identifier>
+        <datestamp>2022-07-04T13:51:57Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Association between lung involvement, risk factors and outcomes in COVID-19 patients treated at a reference hospital in Paraíba</dc:title>
+          <dc:title xml:lang="pt-BR">Associação entre comprometimento pulmonar, fatores de risco e desfechos em pacientes com covid-19 atendidos em hospital de referência na Paraíba</dc:title>
+          <dc:title xml:lang="es-ES">Asociación entre deterioro pulmonar, factores de riesgo y evolución en pacientes con COVID-19 tratados en un hospital de referencia en Paraíba</dc:title>
+          <dc:creator>Morais Filho, Roberto Magliano de</dc:creator>
+          <dc:creator>Carvalho, Wanessa Alves de</dc:creator>
+          <dc:creator>Carvalho, Andressa Alves de</dc:creator>
+          <dc:creator>Fernandes, Amanda de Assunção Santiago</dc:creator>
+          <dc:creator>Santos , Bianca Ferreira dos</dc:creator>
+          <dc:creator>Ferreira, André Luís Celestino</dc:creator>
+          <dc:creator>Santos , Brunna Patrício</dc:creator>
+          <dc:creator>Costa, Raphael Patrik Borges da</dc:creator>
+          <dc:creator>Pereira , Juliana Franceschini</dc:creator>
+          <dc:creator>Sarmento , Petrúcio Abrantes</dc:creator>
+          <dc:subject xml:lang="pt-BR">COVID-19</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fatores de risco</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infecções por coronavírus</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tomografia computadorizada por Raios X</dc:subject>
+          <dc:subject xml:lang="es-ES">COVID-19</dc:subject>
+          <dc:subject xml:lang="es-ES">Infecciones por Coronavirus</dc:subject>
+          <dc:subject xml:lang="es-ES">Factores de Riesgo</dc:subject>
+          <dc:subject xml:lang="es-ES">Tomografía Computarizada por Rayos X</dc:subject>
+          <dc:subject xml:lang="en-US">COVID-19</dc:subject>
+          <dc:subject xml:lang="en-US">Risk factors</dc:subject>
+          <dc:subject xml:lang="en-US">Coronavirus infection</dc:subject>
+          <dc:subject xml:lang="en-US">X-ray computer tomography</dc:subject>
+          <dc:description xml:lang="es-ES">Objetivo: Evaluar la asociación entre el grado de afectación pulmonar (AP) en la TC de tórax en pacientes con COVID-19 con factores de riesgo y desenlaces. Métodos: Estudio observacional y retrospectivo con 284 pacientes con COVID-19. Edad, sexo, estado clínico, saturación a la admisión, factores de riesgo, duración de los síntomas, porcentaje de AP, tempo de hospitalización en enfermería, UCI y IOT, y muerte fueran evaluados. Fueran divididos en 3 grupos según la AP. Resultados: 167 pacientes tenían afectación &amp;lt;25%; 80, 25-50%; y 37, &amp;gt; 50%. El grupo con mayor afectación pulmonar tenía mayor edad, más hombres y mayor presencia de tos, disnea y alguna comorbilidad. Además, presentó menor saturación al ingreso, más IOT, internación en enfermería o UCI y mayor mortalidad. AP, IOT y edad fueron predictores de mortalidad. Conclusiones: El grado de AP parece estar asociado significativamente con algunos parámetros clínicos, la necesidad de hospitalización, intubación y muerte.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar a associação entre o grau de comprometimento pulmonar (CP) na TC de tórax dos pacientes com COVID-19 com fatores de risco e desfechos. Métodos: Estudo observacional e retrospectivo com 284 pacientes com COVID-19. Avaliou-se idade, sexo, quadro clínico, saturação na admissão, fatores de risco, tempo de sintomas, porcentagem de CP, tempo de internação em enfermaria, UTI e de IOT, e óbito. Foram divididos três grupos conforme o grau de CP. Resultados: 167 pacientes possuíam comprometimento &amp;lt;25%; 80, 25-50%; e 37, &amp;gt;50%. O grupo com maior comprometimento pulmonar possuía maior idade, mais homens e maior presença de tosse, dispneia e alguma comorbidade. Também apresentou menor saturação à admissão, maior necessidade de IOT, internação em enfermaria ou UTI e maior mortalidade. O CP, IOT e idade foram fatores preditores de mortalidade. Conclusões: O grau de CP aparenta estar significativamente associado a alguns parâmetros clínicos, necessidade de internação, intubação e óbito.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To assess the association between the degree of lung involvement (LI) on chest CT scans of COVID-19 patients, risk factors and outcomes. Methods: Observational and retrospective study of 284 COVID-19 patients. Age, sex, clinical presentation, oxygen saturation on admission, risk factors, time after symptom onset, percentage of LI, length of stay in ward and ICU, duration of ETI, and death were assessed. 3 groups were created according to the LI. Results: 167 patients had an involvement of &amp;lt;25%; 80, 25-50%; and 37, &amp;gt;50%. The group with greater LI was older, had more males and a higher incidence of cough, dyspnea and some comorbidity. Moreover, the group with greater LI had lower saturation on admission, more ETI, more admissions to the ward or ICU, and higher mortality. LI, ETI and age were predictors of mortality. Conclusion: The degree of LI appears to be significantly associated with some clinical parameters, need for hospitalization, intubation, and death.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/192731</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.192731</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022); e-192731</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022); e-192731</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022); e-192731</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192731/184032</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192731/184031</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Roberto Magliano de Morais Filho, Wanessa Alves de Carvalho, Andressa Alves de Carvalho, Amanda de Assunção Santiago Fernandes, Bianca Ferreira dos Santos , André Luís Celestino Ferreira, Brunna Patrício Santos , Raphael Patrik Borges da Costa, Juliana Franceschini Pereira , Petrúcio Abrantes Sarmento</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/192753</identifier>
+        <datestamp>2021-11-26T15:11:45Z</datestamp>
+        <setSpec>rmrp:Anais</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">I Simpósio Interprofissional em Saúde: LIAS USP-RP</dc:title>
+          <dc:creator>Saúde, Liga Acadêmica Interprofissional de Atenção à</dc:creator>
+          <dc:subject xml:lang="pt-BR">envelhecimento</dc:subject>
+          <dc:subject xml:lang="pt-BR">saúde do idoso</dc:subject>
+          <dc:subject xml:lang="pt-BR">Radioterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sintomas Neuropsicológicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Câncer</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:subject xml:lang="pt-BR">Leishmaniose Cutânea</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pesquisa sobre Serviços de Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medicina Tropical</dc:subject>
+          <dc:subject xml:lang="pt-BR">Unidade de pesquisa clínica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Profissional de pesquisa clínica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Perfil de egressos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ablação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Circuito arritmogênico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Taquicardia por reentrada nodal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Wolff parkinson white</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Interprofissionalidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Formação em saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Colesteatoma</dc:subject>
+          <dc:subject xml:lang="pt-BR">Displasia ectodérmica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fenda labial</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fissura palatina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anormalidades múltiplas</dc:subject>
+          <dc:subject xml:lang="pt-BR">deficiência auditiva</dc:subject>
+          <dc:subject xml:lang="pt-BR">Grupos de pesquisa</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">COVID-19</dc:subject>
+          <dc:subject xml:lang="pt-BR">atividade física</dc:subject>
+          <dc:description xml:lang="pt-BR">No ano de 2021 ocorreu o I Simpósio Interprofissional em Saúde: LIAS USP-RP, oferecido pela Liga Acadêmica Interprofissional de Atenção à Saúde (LIAS) da Universidade de SãoPaulo do campus Ribeirão Preto. O evento foi realizado de forma online nos dias 18, 19 e 20 de agosto de 2021 das 18h30 às 22h00, e foi disponibilizado através da plataforma online StreamYard, e transmitido simultaneamente no YouTube. Teve o apoio e a supervisão da docente Profª Dra. Regina Yoneko Dakuzaku Carretta, que é a tutora da entidade acadêmica. O público alvo do Simpósio foram estudantes de graduação e pós-graduação de cursos da Saúde e profissionais ou interessados, de diferentes estados brasileiros. A LIAS foi fundada no ano de 2020 e é composta por estudantes de nove cursos da graduação em saúde, tendo como fundadores os graduandos Andréa Gracindo da Silva (presidente) e Gilberto da Cruz Leal (vice-presidente). A criação da Liga se deu a partir do momento em que os fundadores vislumbraram a importância e a necessidade da criação de um ambiente em que estudantes de diversos cursos pudessem expandir olhares acerca de outros colegas e suas áreas, trocando experiências e demonstrando, assim, os benefícios da atuação interprofissional.A criação da Liga foi marcada por um amplo processo de planejamento, desde o entendimento acerca das etapas de criação de uma entidade acadêmica, o planejamento da estrutura e dos departamentos, a criação do estatuto, até o processo seletivo dos membros responsáveis pela primeira gestão. Esse processo contou com quarenta inscritos dos cursos de Educação Física, Enfermagem, Farmácia e Bioquímica, Fisioterapia, Fonoaudiologia, Informática Biomédica, Nutrição e Metabolismo, Medicina, Odontologia e Terapia Ocupacional. Em 2021 a liga começou a produzir seus primeiros conteúdos para as mídias sociais, a promover eventos acadêmicos e a estabelecer parcerias com outras Ligas Acadêmicas. Desde o início de sua fundação houve um grande interesse pela promoção de eventos que abordassem a importância da interprofissionalidade e suas dificuldades, bem como por estratégias de promoção dessa atuação, a partir dos ambientes universitários. Assim, surgiu o I Simpósio Interprofissional em Saúde da Liga Acadêmica Interprofissional de Atenção à 2 Saúde (LIAS) da Universidade de São Paulo do campus de Ribeirão Preto. Com a intenção de promover debates e reflexões pertinentes, o evento contou com a participação de docentes de diversas áreas com experiências na temática da interprofissionalidade, bem como seus caminhos e desafios. Houve ainda espaço para pesquisadores submeterem trabalhos para apresentação no último dia do evento e, posteriormente, comporem esses anais. Finalizando, o I Simpósio da LIAS proporcionou contato com profissionais notáveis, articulação de dados e informações entre pesquisadores e a liga, e organização e envolvimento de todas as áreas da entidade na divulgação e na transmissão do evento. Ao longo dos três dias de duração, o evento atingiu dezenas de ouvintes que se manifestaram com dúvidas e/ou elogios. O Simpósio permitiu a expansão das possibilidades de atuação dos profissionais de saúde e também do ensino interprofissional nas universidades e instituições de saúde.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-12-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/192753</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. Supl 2 (2021): Suplemento 2 - I Simp´ósio Interprofissional em Saúde: LIAS USP - RP; e-192753</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. Supl 2 (2021): Suplemento 2 - I Simp´ósio Interprofissional em Saúde: LIAS USP - RP; e-192753</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. Supl 2 (2021): Suplemento 2 - I Simp´ósio Interprofissional em Saúde: LIAS USP - RP; e-192753</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192753/177878</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Liga Acadêmica Interprofissional de Atenção à Saúde</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/192760</identifier>
+        <datestamp>2021-12-02T19:03:05Z</datestamp>
+        <setSpec>rmrp:Anais</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">VIII Jornada de Fonoaudiologia da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</dc:title>
+          <dc:creator>Ribeirão Preto, Curso de Fonoaudiologia da Faculdade de Medicina de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Teleatendimento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Seletividade alimentar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ronco</dc:subject>
+          <dc:subject xml:lang="pt-BR">Apneia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fonoaudiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ética</dc:subject>
+          <dc:subject xml:lang="pt-BR">Redes sociais</dc:subject>
+          <dc:subject xml:lang="pt-BR">Comunicação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gênero</dc:subject>
+          <dc:subject xml:lang="pt-BR">Covid-19</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tabagismo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Wikipedia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Telefonoaudiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Territorialização</dc:subject>
+          <dc:description xml:lang="pt-BR">A Jornada de Fonoaudiologia da FMRP-USP ocorre a cada dois anos, no primeiro semestre.Esse evento científico conta, na sua organização, com a participação de discentes e docentes do curso de Fonoaudiologia da FMRP-USP. Iniciada em 2007, o objetivo do evento é enriquecer o saber acadêmico, aproximando os estudantes da comunidade científica nacional, além de ofertar aos fonoaudiólogos de Ribeirão Preto e região mais uma oportunidade de atualização de conhecimentos. A VIII Jornada de Fonoaudiologia da FMRP-USP ocorrida entre os dias 26 e 28 de maio de 2021 aconteceu, pela primeira vez, de forma online e no período noturno. Em função do contexto da Pandemia da Covid-19, e atendendo às medidas de prevenção recomendadas pelo Ministério da Saúde e pelo órgão gestor local de saúde, a estrutura da jornada teve de ser adaptada para evitar aglomerações. Foram organizadas duas noites para o desenvolvimento de palestras e uma noite para a apresentação de trabalhos científicos. As palestras abordaram temas bastante relevantes e inovadores para a área de Fonoaudiologia, como: teleatendimento, ética nas redes sociais, seletividade alimentar, transtorno do espectro autista (TEA), Fonoaudiologia no ronco e na apneia do sono, comunicação nas incongruências de gênero e promoção de saúde auditiva nas escolas. Pela primeira vez, toda a verba arrecadada com o evento foi revertida em produtos de higiene e de limpeza para instituições de cuidado a idosos e crianças, ambos em situações de vulnerabilidade. Outra novidade foi a parceria com as entidades estudantis de outras instituições de ensino superior que auxiliaram na divulgação do evento e na formação da Comissão Avaliadora para julgar a qualidade dos trabalhos científicos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-12-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/192760</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 2 (2021): Suplemento 3 - VIII Jornada de Fonoaudiologia da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo; e-192760</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 2 (2021): Suplemento 3 - VIII Jornada de Fonoaudiologia da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo; e-192760</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 2 (2021): Suplemento 3 - VIII Jornada de Fonoaudiologia da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo; e-192760</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192760/177882</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Curso de Fonoaudiologia da Faculdade de Medicina de Ribeirão Preto</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/192928</identifier>
+        <datestamp>2022-07-04T13:51:57Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Terapia biológica em pacientes com artrite psoriásica com e sem experiência prévia no uso de medicamentos biológicos</dc:title>
+          <dc:title xml:lang="en-US">Biological therapy in psoriatic arthritis patients with and without previous biologic experience</dc:title>
+          <dc:creator>da Silva, Michael Ruberson Ribeiro</dc:creator>
+          <dc:creator>Santos , Jéssica Barreto Ribeiro dos</dc:creator>
+          <dc:creator>Kakehasi , Adriana Maria</dc:creator>
+          <dc:creator>Almeida , Alessandra Maciel</dc:creator>
+          <dc:creator>Alvares-Teodoro, Juliana</dc:creator>
+          <dc:creator>Acurcio , Francisco de Assis</dc:creator>
+          <dc:subject xml:lang="en-US">Psoriatic arthritis</dc:subject>
+          <dc:subject xml:lang="en-US">Tumor necrosis factor inhibitors</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of life</dc:subject>
+          <dc:subject xml:lang="en-US">Effectiveness</dc:subject>
+          <dc:subject xml:lang="en-US">Safety</dc:subject>
+          <dc:subject xml:lang="pt-BR">Artrite psoriásica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Inibidores do fator de necrose tumoral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de vida</dc:subject>
+          <dc:subject xml:lang="pt-BR">Efetividade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Segurança</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: avaliar os efeitos da terapia biológica sobre a atividade da doença, funcionalidade, qualidade de vida, persistência no tratamento e segurança em pacientes com artrite psoriásica sem experiência e com experiência prévia em terapia biológica. Métodos: um estudo observacional prospectivo de um ano foi realizado. Os desfechos avaliados foram a persistência no tratamento, atividade da doença, funcionalidade, qualidade de vida e segurança. Um modelo de regressão linear múltipla foi utilizado para avaliar os fatores preditores de resposta clínica. Resultados: foram incluídos 205 pacientes, dos quais 155 não tinham e 50 tinham experiência prévia com medicamentos biológicos. As taxas de persistência no tratamento foram maiores para pacientes sem experiência prévia em comparação aos experientes em seis meses de acompanhamento, mas não em 12 meses. As taxas de persistência no tratamento foram 71,5% em pacientes sem experiência prévia e 70% em pacientes com experiência prévia em 12 meses. Todos os desfechos clínicos avaliados melhoraram em ambos os grupos de pacientes. Aos 12 meses, 63% dos pacientes sem experiência prévia e 52% dos pacientes com experiência prévia apresentaram melhora na qualidade de vida. Além disso, 48% dos pacientes sem experiência prévia e 42% dos pacientes com experiência prévia apresentaram melhora na funcionalidade. A doença axial melhorou em 67% dos pacientes sem experiência prévia e em 56% dos pacientes com experiência prévia. Um bom controle da doença articular periférica foi observado em 49% dos pacientes sem experiência prévia e em 44% dos pacientes com experiência prévia. Os principais fatores preditores de pior resposta clínica foram sexo feminino, uso de etanercepte ou infliximabe, bem como pior funcionalidade e qualidade de vida no início do estudo. Conclusão: a saúde dos pacientes melhorou após o início do tratamento com os medicamentos biológicos. Em geral, pacientes com experiência prévia com medicamentos biológicos apresentaram mais reações adversas e menor efetividade.</dc:description>
+          <dc:description xml:lang="en-US">Objective: this study evaluated the biological therapy effects on disease activity, functionality, quality of life, drug survival, and safety of patients with psoriatic arthritis naïve and experienced in biological therapy. Methods: a oneyear prospective observational study was performed. The outcomes assessed were drug survival, disease activity, functionality, quality of life, and safety. Multiple linear regression was used to assess predictive factors for clinical response.Results: a total of 205 patients were included, 155 of whom were biologic naïve and 50 biologic experienced. Drug survival rate was greater for naïve patients than experienced patients at 6 months, but not at 12 months. Drug survival rates were 71.5% for naïve patients and 70.0% for experienced patients at 12 months. All clinical parameters improved for both biologic naïve and experienced patients. At 12 months, 63% of naïve patients and 52% of experienced patients had an improvement in their quality of life. Besides, 48% of naïve patients and 42% of experienced patients had an improvement in functionality. The axial disease improved in 67% of naïve individuals and 56% of experienced patients. Good control of peripheral disease was achieved by 49% of naïve patients and 44% of experiencedpatients. Female sex, use of etanercept or infliximab, and lower functionality or quality of life at baseline were the main predictors of poor clinical response. Conclusion: Patients’ health improved after starting biological therapy. In general, biologic experienced patients had more adverse reactions and lesser effectiveness.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/192928</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.192928</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022); e-192928</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022); e-192928</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022); e-192928</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/192928/184017</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Michael Ruberson Ribeiro da Silva, Jéssica Barreto Ribeiro dos Santos , Adriana Maria Kakehasi , Alessandra Maciel Almeida , Juliana Alvares-Teodoro Alvares-Teodoro, Francisco de Assis Acurcio</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/193327</identifier>
+        <datestamp>2022-07-04T13:51:57Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Cisto folicular luteinizado gigante da gestação</dc:title>
+          <dc:title xml:lang="en-US">Giant luteinized follicular cyst of pregnancy</dc:title>
+          <dc:creator>Lemes, Taíssa Fernandes</dc:creator>
+          <dc:creator>Adad, Sheila Jorge</dc:creator>
+          <dc:creator>Murta, Eddie Fernando Candido</dc:creator>
+          <dc:creator>Nomelini, Rosekeila Simões</dc:creator>
+          <dc:subject xml:lang="en-US">Follicular cyst</dc:subject>
+          <dc:subject xml:lang="en-US">Ovarian cyst</dc:subject>
+          <dc:subject xml:lang="en-US">Pregnancy</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cisto folicular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cisto ovariano</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gravidez</dc:subject>
+          <dc:description xml:lang="pt-BR">Os cistos funcionais geralmente não causam sintomas ou requerem intervenção cirúrgica. Relatamos o caso de uma primigesta de 17 anos, idade gestacional de 10 semanas e 2 dias, e ultrassonografia mostrando cisto anecoico em região parauterina direita sem septos, com maior diâmetro de 13,5cm, volume 632ml e Doppler sem vascularização periférica. A paciente permaneceu oligossintomática durante a gestação. Com 37 semanas e 6 dias, a gestação foi interrompida, quando o cisto apresentava 2.600 ml pela ultrassonografia. A extração fetal foi realizada por cesariana, e um grande cisto anexial visualizado à direita foi removido. A análise histopatológica da peça cirúrgica revelou lesão cística revestida por células luteinizadas com núcleos discretamente hipercromáticos e levemente pleomórficos, com estroma fibroso subjacente com células luteinizadas esparsas, caracterizando cisto folicular luteinizado gigante da gravidez. A prevalência de massas ovarianas na gravidez é rara, geralmente não ultrapassam o diâmetro de 5 cm, e desaparecem espontaneamente no segundo trimestre. A paciente do relato de caso apresentou cisto de 632 ml, aumentando de volume para 2600 ml no momento do parto. O diagnóstico pré-operatório definitivo de massas ovarianas ainda é difícil, e os critérios preditivos de malignidade incluem o uso de marcadores tumorais, ultrassonografia e Doppler. A associação desses testes deve orientar o clínico para definir o melhor momento para a intervenção cirúrgica.</dc:description>
+          <dc:description xml:lang="en-US">Functional cysts usually do not cause symptoms or require surgical intervention. We reported a 17-year-old primigravida, gestational age of 10 weeks and 2 days, and ultrasound showing anechoic cyst in the right parauterine region without septa, with a larger diameter of 13.5cm, 632ml, and Doppler color without peripheral vascularization. The patient was oligosymptomatic during gestation. At 37 weeks and 6 days, gestation was interrupted, when the cyst had 2600 ml by ultrasonography. Fetal extraction was performed by cesarean delivery, and a large adnexal cyst visualized on the right was removed. The histopathological analysis of the surgical specimen revealed a cystic lesion coated by luteinized cells with discrete hyperchromatic and slightly pleomorphic nuclei, with underlying fibrous stroma with sparse luteinized cells, characterizing a giant luteinized follicular cyst of pregnancy. The prevalence of ovarian masses in pregnancy is rare, usually not exceeding 5 cm in diameter, and disappearing spontaneously in the second trimester. The patient in the case report had a cyst of 632 ml, increasing in volume to 2600 ml at the time of delivery. Definitive preoperative diagnosis of ovarian masses is still difficult, and predictive criteria for malignancy include the use of tumor markers, ultrasound, and Doppler. The association of these tests should guide the clinician to define the best time for surgical intervention. The association of these tests should guide the clinician to define the best time for surgical intervention.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/193327</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.193327</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022); e-193327</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022); e-193327</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022); e-193327</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/193327/184001</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Taíssa Fernandes Lemes, Sheila Jorge Adad, Eddie Fernando Candido Murta, Rosekeila Simões Nomelini</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/193697</identifier>
+        <datestamp>2022-07-04T13:51:57Z</datestamp>
+        <setSpec>rmrp:ENS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">The importance of the Brazilian Society of Neurological Investigation (SBIN)</dc:title>
+          <dc:title xml:lang="pt-BR">A importância da Sociedade Brasileira de Investigação Neurológica (SBIN)</dc:title>
+          <dc:creator>Camargo, Carlos Henrique Ferreira</dc:creator>
+          <dc:creator>Bazan, Rodrigo</dc:creator>
+          <dc:creator>Lange, Marcos Christiano</dc:creator>
+          <dc:creator>Zétola, Viviane Flumignan</dc:creator>
+          <dc:creator>Teive, Hélio Afonso Ghizoni</dc:creator>
+          <dc:subject xml:lang="pt-BR">Sociedades científicas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sociedades médicas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neurociências</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neurologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">História da medicina</dc:subject>
+          <dc:subject xml:lang="en-US">Scientific societies</dc:subject>
+          <dc:subject xml:lang="en-US">Medical societies</dc:subject>
+          <dc:subject xml:lang="en-US">Neurosciences</dc:subject>
+          <dc:subject xml:lang="en-US">Neurology</dc:subject>
+          <dc:subject xml:lang="en-US">History of medicine</dc:subject>
+          <dc:description xml:lang="pt-BR">A Sociedade Brasileira de Investigação Neurológica (SBIN) foi fundada em 19 de dezembro de 2000 por um grupo de neurologistas capitaneados pelo Prof. Dr. Lineu César Werneck, com a finalidade de promover o desenvolvimento científico e cultural na neurologia e nas neurociências. Os critérios de admissão de membros sempre foram rígidos, tendo o grupo alcançado 80% de médicos com doutorado. Entretanto, as condições para se tornar membro foram modificadas com a intenção de atrair mais pesquisadores, principalmente os mais jovens, e neurocientistas de outras áreas da saúde e da biologia. Os eventos científicos foram o objetivo maior da SBIN. Foram realizadas 18 edições. A diretoria e os membros da SBIN reconheceram que a Academia Brasileira de Neurologia, e as outras sociedades de incentivo às neurociências, estavam trabalhando para a continuidade do aumento exponencial da produção científica em ciências neurológicas no Brasil, compreendendo que seus propósitos estavam cumpridos. A sociedade se desfez em dezembro de 2020.</dc:description>
+          <dc:description xml:lang="en-US">The Brazilian Society of Neurological Research (SBIN) was founded on December 19, 2000, by a group of neurologists headed by Professor Lineu César Werneck, MD, Ph.D., to promote scientific development and cultural diversity in neurology and neurosciences. The criteria for members’ admission have always been strict, and the group reached 80% of physicians with a Ph.D. degree. However, the conditions to become a member were modified to attract more researchers, especially the younger ones, and neuroscientists from other areas of health and biology. The scientific events were the primary goal of SBIN. Eighteen editions were performed. The board and members of the SBIN recognized that the Brazilian Academy of Neurology, and the other societies that encouraged the neurosciences, were working to continue the exponential increase of scientific production in the neurosciences in Brazil,realizing that their purposes were fulfilled. The society was dissolved in December 2020.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/193697</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.193697</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022); e-193697</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022); e-193697</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022); e-193697</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/193697/183998</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Carlos Henrique Camargo, Rodrigo Bazan, Marcos Christiano Lange, Viviane Flumignan Zétola, Hélio Afonso Ghizoni Teive</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/194706</identifier>
+        <datestamp>2022-07-04T13:51:57Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Severe acute respiratory syndrome by covid-19: epidemiological profile in pregnant and postpartum women in the state of Amazonas</dc:title>
+          <dc:title xml:lang="pt-BR">Síndrome respiratória aguda grave por covid-19: perfil epidemiológico em gestantes e puérperas no Amazonas</dc:title>
+          <dc:creator>Barbosa Filho, Manasseh Castro</dc:creator>
+          <dc:creator>Lopes, Fernanda Nogueira Barbosa</dc:creator>
+          <dc:creator>Viana, José Fernandes de Souza</dc:creator>
+          <dc:creator>Ferreira, Breno de Oliveira</dc:creator>
+          <dc:subject xml:lang="en-US">COVID-19</dc:subject>
+          <dc:subject xml:lang="en-US">Severe acute respiratory syndrome</dc:subject>
+          <dc:subject xml:lang="en-US">Pregnancy</dc:subject>
+          <dc:subject xml:lang="en-US">Postpartum period</dc:subject>
+          <dc:subject xml:lang="pt-BR">COVID-19</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome respiratória aguda grave</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gravidez</dc:subject>
+          <dc:subject xml:lang="pt-BR">Período pós-parto</dc:subject>
+          <dc:description xml:lang="en-US">Objectives: To describe the epidemiological profile of pregnant and postpartum women with severe acute respiratory syndrome (SARS) caused by severe acute respiratory syndrome corona virus (SARS-CoV-2) in Amazonas. Methods: This quantitative, cross-sectional study extracted data from pregnant and postpartum women residing in the state of Amazonas who were notified in the Influenza Epidemiological Surveillance Information System(SIVEP-Gripe) and had a confirmed diagnosis of SARS during corona virus disease (COVID-19) from February 16, 2020, to December 31, 2021. Sociodemographic data and clinical characteristics, such as admission to the intensive care unit, use of ventilatory support, use of antiviral therapy, and outcomes were collected. Data were analyzedand presented with relative frequencies. Results and Discussion: During the study period, Amazonas recorded 828 cases of SARS caused by SARS-CoV-2 in pregnant and postpartum women. Of these, 58 patients remained in progress with no outcomes. Most women were aged between 20 and 34 years, educated to high school level, lived in urban areas, and were in the third trimester of pregnancy at the time of diagnosis. Predominant clinical manifestationwas cough, respiratory distress, fever, and dyspnea. The most frequent comorbidities were asthma, chronic cardiovascular diseases, diabetes mellitus, and obesity. 19.7% of pregnant and postpartum women were admitted to the intensive care unit (ICU). Of these, 70.6% needed invasive mechanical ventilation, 80.2% antiviral therapy, and 79 patients (10.3%) died. Conclusion: This study characterized the epidemiological profile of pregnant and postpartum women with SARS caused by SARS-CoV-2 in Amazonas and showed a high death rate during the study period, especially in the capital.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivos: descrever o perfil epidemiológico de gestantes e puérperas com Síndrome Respiratória Aguda Grave (SRAG) por COVID-19 no Amazonas. Métodos: trata-se de um estudo quantitativo, transversal que extraiu dados de gestantes e puérperas residentes no estado do Amazonas que foram notificadas no Sistema de Informação da Vigilância Epidemiológica da Gripe (SIVEP-Gripe) e tiveram diagnóstico confirmado de SRAG por COVID-19 de 16 de fevereiro de 2020 a 31 de dezembro de 2021. Foram coletados dados sociodemográficos e características clínicas como internação em Unidade de Terapia Intensiva, uso de suporte ventilatório, uso de terapia antiviral e desfechos. Os dados foram analisados e apresentados em frequências absolutas e relativas. Resultados e Discussão: durante o período pesquisado, o Amazonas registrou 828 casos de SRAG por COVID-19 em gestantes e puérperas. Destes, 58 casos permaneciam em andamento, sem desfecho. A maioria das mulheres tinha idade entre 20 e 34 anos, cor parda, ensino médio, residiam em zona urbana e estavam no terceiro trimestre da gestação no momento do diagnóstico. Em relação às manifestações clínicas, houve predominância de tosse, desconforto respiratório, febre e dispneia. As comorbidades mais frequentes foram asma, doença cardiovascular crônica, diabetes mellitus e obesidade. Em relação aos dados clínicos, 19,7% das gestantes e puérperas foram internadas em UTI. Destas, 70,6% utilizaram ventilação mecânica invasiva, 80,2% fizeram uso de terapia antiviral e 79 (10,3%) evoluíram para óbito. Conclusão: o estudo permitiu a caracterização do perfil epidemiológico de gestantes e puérperas com SRAG por COVID-19 no Amazonas e demonstrou taxa elevada de óbito no período estudado, sobretudo na capital. Esse perfil pode ter relação com os determinantes sociais da saúde e as dificuldades de acesso aos serviços de saúde podem ter papel fundamental na assistência. Com isso, o atendimento às gestantes e puérperas com SRAG por COVID-19 deve ser prioridade nos serviços de saúde, principalmente nos casos em que as pacientes possuem comorbidades.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/194706</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.194706</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022); e-194706</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022); e-194706</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022); e-194706</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/194706/184028</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/194706/184027</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Manasseh Castro Barbosa Filho, Fernanda Nogueira Barbosa Lopes, José Fernandes de Souza Viana, Breno de Oliveira Ferreira</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/195900</identifier>
+        <datestamp>2022-07-06T16:51:35Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Editorial</dc:title>
+          <dc:creator>Forster, Aldaísa Cassanho</dc:creator>
+          <dc:creator>Freire Filho, José Rodrigues</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação Interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação em Saúde</dc:subject>
+          <dc:description xml:lang="pt-BR">O Brasil vem empreendendo esforços para garantir a implementação da Educação Interprofissional em Saúde (EIP) em seus processos de reorientação da formação e do trabalho em saúde. Muitos deles são resultados do acúmulo histórico das políticas públicas do país, mas também representam desdobramentos de recentes chamadas realizadas por organismos internacionais de saúde. Sobre isso, a partir do ano de 2017, motivado pela agenda proposta pela Organização Pan-Americana de Saúde / Organização Mundial da Saúde (OPAS/OMS)(1), o Ministério da Saúde do Brasil priorizou a inclusão da pauta da EIP em suas políticas e programas de Educação em Saúde. De forma imediata, promoveuarticulações com o Ministério da Educação, Instituições de Ensino Superior.... &#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/195900</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.195900</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195900</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195900</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195900</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/195900/183915</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Aldaísa Cassanho Forster, José Rodrigues Freire Filho</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/195969</identifier>
+        <datestamp>2022-07-06T16:51:35Z</datestamp>
+        <setSpec>rmrp:Anais</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Aspectos da formação interprofissional no PET-Saúde/Interprofissionalidade</dc:title>
+          <dc:creator>Forster, Aldaísa Cassanho</dc:creator>
+          <dc:creator>Carretta, Regina Yoneko Dakuzaku</dc:creator>
+          <dc:creator>Freire Filho, José Rodrigues</dc:creator>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação Interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde</dc:subject>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/195969</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.195969</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195969</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195969</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195969</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/195969/183938</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Aldaísa Cassanho Forster, Regina Yoneko Dakuzaku Carretta, José Rodrigues Freire Filho, Sandro Scarpelini</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/195970</identifier>
+        <datestamp>2022-07-06T16:51:35Z</datestamp>
+        <setSpec>rmrp:Anais</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Mostra de Experiências: O PET-Saúde/Interprofissionalidade e as mudanças no currículo, no aprendizado e no processo de trabalho em saúde</dc:title>
+          <dc:creator>Forster, Aldaísa Cassanho</dc:creator>
+          <dc:creator>Carretta, Regina Yoneko Dakuzaku</dc:creator>
+          <dc:creator>Freire Filho, José Rodrigues</dc:creator>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">práticas interdisciplinares</dc:subject>
+          <dc:subject xml:lang="pt-BR">relações interprofissionais</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infância</dc:subject>
+          <dc:subject xml:lang="pt-BR">saúde mental</dc:subject>
+          <dc:subject xml:lang="pt-BR">interprofissionalidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atenção primária à saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">educação interprofissional de saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">saúde materno-infantil</dc:subject>
+          <dc:subject xml:lang="pt-BR">Interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Narrativas</dc:subject>
+          <dc:subject xml:lang="pt-BR">aprendizagem</dc:subject>
+          <dc:subject xml:lang="pt-BR">atenção primária à saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Amamentação</dc:subject>
+          <dc:subject xml:lang="pt-BR">maternidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">puerpério</dc:subject>
+          <dc:subject xml:lang="pt-BR">PET-Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">ambulatório transexualizador</dc:subject>
+          <dc:subject xml:lang="pt-BR">população trans e travesti</dc:subject>
+          <dc:subject xml:lang="pt-BR">prática de saúde pública</dc:subject>
+          <dc:subject xml:lang="pt-BR">territorialização em saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">trabalho interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">serviços de saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">COVID-19</dc:subject>
+          <dc:subject xml:lang="pt-BR">práticas colaborativas</dc:subject>
+          <dc:subject xml:lang="pt-BR">acompanhamento remoto</dc:subject>
+          <dc:subject xml:lang="pt-BR">Comunicação interdisciplinar</dc:subject>
+          <dc:subject xml:lang="pt-BR">qualidade de vida</dc:subject>
+          <dc:subject xml:lang="pt-BR">neoplasias de cabeça e pescoço</dc:subject>
+          <dc:subject xml:lang="pt-BR">educação permanente em saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">saúde da mulher</dc:subject>
+          <dc:subject xml:lang="pt-BR">papanicolaou</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aleitamento materno</dc:subject>
+          <dc:subject xml:lang="pt-BR">alimentação complementar</dc:subject>
+          <dc:subject xml:lang="pt-BR">estratégia saúde da família</dc:subject>
+          <dc:subject xml:lang="pt-BR">diabetes mellitus</dc:subject>
+          <dc:subject xml:lang="pt-BR">teleatendimento em saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Telessaúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Aprendizado colaborativa</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cuidado ampliado</dc:subject>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/195970</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.195970</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195970</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195970</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195970</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/195970/183942</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Aldaísa Cassanho Forster, Regina Yoneko Dakuzaku Carretta, José Rodrigues Freire Filho, Sandro Scarpelini</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/195978</identifier>
+        <datestamp>2022-07-06T16:51:35Z</datestamp>
+        <setSpec>rmrp:Anais</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Interprofessional Education in Brazilian higher education institutions: survey of subjects in undergraduate health courses</dc:title>
+          <dc:title xml:lang="pt-BR">A Interprofissionalidade na instituição de ensino superior levantamento sobre disciplinas dos cursos de graduação na saúde e a interprofissionalidade</dc:title>
+          <dc:creator>Navarro, Anderson Marliere</dc:creator>
+          <dc:subject xml:lang="en-US">Interprofessional Education</dc:subject>
+          <dc:subject xml:lang="en-US">Professional Competence</dc:subject>
+          <dc:subject xml:lang="en-US">Interdisciplinary Research</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Competência Profissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pesquisa Interdisciplinar</dc:subject>
+          <dc:description xml:lang="pt-BR">Uma das metas do Programa de Educação pelo Trabalho para a Saúde (PET-Saúde) / Interprofissionalidade foi inserção e a implementação dos elementos da Educação Interprofissional (EIP) nos currículos dos cursos de graduação em saúde. O objetivo deste trabalho é apresentar o levantamento e caracterização da interprofissionalidade e das práticas colaborativas presentes nos conteúdos das disciplinas curriculares dos cursos de graduação da área da saúde das Instituições de Ensino Superior (IES) do estado de São Paulo que participaram do PET – Saúde/Interprofissionalidade. O percurso metodológico adotado se deu a partir da solicitação aos coordenadores de cursos de graduação das IES para preenchimento de um questionário estruturado, com questões sobre iniciativas/conteúdos e disciplinas inseridas nos seus currículos que desenvolviam competências e habilidades relacionadas à EIP e Prática Colaborativa. O estudo produziu evidências sobre o perfil estadual paulista dos projetos aprovados no PET – Saúde/Interprofissionalidade no tocante à existência de conteúdos curriculares com enfoque na EIP. Os resultados mostraram que maior parte dos cursos apresenta disciplinas em conjunto com áreas distintas da saúde, porém sem aplicar, explicitamente, os fundamentos teóricos e metodológicos da EIP. Conclui-se que há intenção na implementação e desenvolvimento das competências e habilidades colaborativas e interprofissionais nos diferentes cursos de graduação em saúde caracterizados, porém constatam-se diversos desafios nessa direção que dificultam o processo. Apesar dos coordenadores de curso demonstrarem domínio do referencial conceitual e metodológico da EIP, existe uma diversidade de entendimento sobre qual o momento mais adequado para a adoção desta estratégia no currículo.</dc:description>
+          <dc:description xml:lang="en-US">One of the goals of the Program for Education through Labor for Health (PET-Health) / Interprofessionality wasthe insertion and implementation Interprofessional Education (IPE) in the curricula of undergraduate health courses. The objective of this work is to present the survey and characterization of interprofessionality andcollaborative practices present in the contents of the curricular subjects of undergraduate courses in the healtharea of ​​Higher Education Institutions (IES) in the state of São Paulo, Brazil, that participated in the PET – Health/Interprofessionality. The methodology adopted was based on the request to the coordinators of undergraduatecourses at IES to fill out a survey with questions about initiatives/contents and subjects included in theircurricula that developed competencies and skills related to IPE and Collaborative Practice. The study producedevidence on the São Paulo state profile of the projects approved in the PET – Health/Interprofessionalityregarding the existence of curricular contents focused on IPE. The results showed that most courses havedisciplines in conjunction with different areas of health, but without explicitly applying the theoretical andmethodological foundations of IPE. It is concluded that there is an intention in the implementation anddevelopment of collaborative and interprofessional competences and skills in the different undergraduatehealth courses characterized, but there are several challenges in this direction that make the process difficult.Although course coordinators demonstrate mastery of the IPE conceptual and methodological framework, thereis a diversity of understanding about the most appropriate moment for the adoption of this strategy in thecurriculum.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/195978</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.195978</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195978</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195978</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195978</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/195978/183941</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Anderson Marliere Navarro</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/195979</identifier>
+        <datestamp>2022-07-06T16:51:35Z</datestamp>
+        <setSpec>rmrp:Anais</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">The experience of Unifesp Baixada Santista in Interprofessional Education</dc:title>
+          <dc:title xml:lang="pt-BR">A experiência da Unifesp Baixada Santista na Educação Interprofissional</dc:title>
+          <dc:creator>Chriguer, Rosângela Soares</dc:creator>
+          <dc:subject xml:lang="pt-BR">Educação Interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Currículo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Docente</dc:subject>
+          <dc:subject xml:lang="en-US">Interprofessional Education</dc:subject>
+          <dc:subject xml:lang="en-US">Curriculum</dc:subject>
+          <dc:subject xml:lang="en-US">Faculty</dc:subject>
+          <dc:description xml:lang="pt-BR">A Universidade Federal de São Paulo (Unifesp) campus da Baixada Santista é uma instituição de ensino brasileira que apresenta experiência relevante no processo de implementação da Educação Interprofissional (EIP). Há aproximadamente 15 anos esta universidade vem investindo em mudanças no seu projeto pedagógico com a intencionalidade de incorporar a EIP na perspectiva da integralidade do cuidado, consoante as diretrizes do Sistema Único de Saúde (SUS). A prática profissional; a interdisciplinaridade; a interprofissionalidade; a postura ativa do estudante na construção de conhecimento; a postura mediadora do docente no processo de ensino- aprendizagem; a integração com a comunidade; a aprendizagem colaborativa; o ensino, pesquisa e extensão; a mobilidade acadêmica; o desenvolvimento docente; a dinamicidade do plano pedagógico constituem-se os marcos orientadores para o êxito da Unifesp Baixada Santista no tema da EIP. Diante disso, este trabalho tem como finalidade apresentar a experiência desta universidade no processo de implementação da EIP em seu projeto pedagógico. Fundamentada em evidências científicas, a Unifesp Baixada Santista avança na implementação da EIP nos desenhos curriculares dos cursos de Educação Física, Fisioterapia, Nutrição, Psicologia, Terapia Ocupacional e Serviço Social, por já ter alcançado efeitos promissores no processo de ensino-aprendizagem dos estudantes, bem como na formação docente e no trabalho em saúde, em direção a uma prática mais colaborativa e interprofissional. Sistematizado em quatro eixos de formação, o currículo dos cursos da saúde desta instituição demonstra claramente a intencionalidade da aplicação da EIP e identifica no PET- Saúde/Interprofissionalidade um importante programa para apoiá-la neste processo. A Unifesp Baixada Santista reconhece que há desafios nesta experiência, como o desenvolvimento docente, a organização do estágio curricular interprofissional e o envolvimento dos gestores, dos municípios e do apoio e da integração institucional.</dc:description>
+          <dc:description xml:lang="en-US">The Federal University of São Paulo (Unifesp) campus in Baixada Santista is a Brazilian educational institutionthat has relevant experience in the process of implementing Interprofessional Education (IPE). Forapproximately 15 years, this university has been investing in changes in its pedagogical project with theintention of incorporating IPE in the perspective of comprehensive care, according to the guidelines of theBrazilan Unified Health System (SUS). Professional practice; interdisciplinarity; interprofessionality; the student&amp;amp;#39;sactive posture in the construction of knowledge; the teacher&amp;amp;#39;s mediating posture in the teaching-learningprocess; integration with the community; collaborative learning; teaching, research and extension; academicmobility; faculty development; the dynamism of the pedagogical plan constitutes the milestones for the successof Unifesp Baixada Santista in the IPE. This work aims to present the experience of this university in the processof implementing IPE in its pedagogical project. Based on scientific evidence, Unifesp Baixada Santista advancesin the implementation of IPE in the curricular designs of Physical Education, Physiotherapy, Nutrition,Psychology, Occupational Therapy and Social Work courses, as it has already achieved promising effects in theteaching-learning process of students, as well as in teacher training and health work, towards a morecollaborative and interprofessional practice. Systematized in four training axes, the curriculum of health coursesat this institution clearly demonstrates the intentionality of the application of IPE and identifies in PET-Health/Interprofessionality an important program to support it in this process. Unifesp Baixada Santistarecognizes that there are challenges in this experience, such as IPE faculty development, the organization of theinterprofessional curricular internship and the involvement of managers, municipalities and institutional supportand integration.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/195979</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.195979</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195979</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195979</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195979</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/195979/183940</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Rosângela Soares Chriguer</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/195982</identifier>
+        <datestamp>2022-07-06T16:51:35Z</datestamp>
+        <setSpec>rmrp:Anais</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Interprofessional education as a strategy to reorient the care and health model in Brazil: contributions from PET-Health</dc:title>
+          <dc:title xml:lang="pt-BR">A educação interprofissional como estratégia de reorientação do modelo de atenção e de saúde no Brasil: contribuições do PET-Saúde</dc:title>
+          <dc:creator>Parreira, Clelia Maria de Sousa Ferreira</dc:creator>
+          <dc:subject xml:lang="en-US">Interprofessional Education</dc:subject>
+          <dc:subject xml:lang="en-US">Delivery of Health Care</dc:subject>
+          <dc:subject xml:lang="en-US">Health Education</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Interprofissional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atenção à Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação em Saúde</dc:subject>
+          <dc:description xml:lang="en-US">In the last 20 years, Brazilian educational institutions have been more intensively invited to participate ininitiatives for changes in the qualification of health professionals, with a view to promoting greater preparationfor work in the Unified Health System (SUS). More recently, in 2018, the Ministry of Health launched the ninth edition of the The Program for Education through Labor for Health (PET-Health) with a focus oninterprofessionality. The PET-Health/Interprofessionality benefited from the influences of the historicalinitiatives of changes in the training model in Brazil. The interprofessional approach gained greater strengthwithin the training institutions and in the health care network from this edition of the program, whichhighlighted the need for investments in other areas, such as faculty development, effective communicationbetween professionals and the greatest stimulus to teaching in a community of practice. This work exposesimportant advances in Brazil on the Interprofessional Education (IPE) as a strategy to reorient its model of careand health. In its turn, it signals that it is necessary to establish profound changes in training and in health care,in order to ensure that PET-Health achieves its purposes, providing an opportunity to reflect that in order tothink about work, according to real health needs, it is necessary to think in training, which is also so necessary.PET-Health/Interprofessionality is a possible way to reorient the training and work model in health in Brazil.</dc:description>
+          <dc:description xml:lang="pt-BR">Nos últimos 20 anos as instituições formadoras brasileiras foram convocadas mais intensamente a participarem de iniciativas para as mudanças na qualificação do profissional de saúde, com vistas a promoverem maior preparo para atuação no Sistema Único de Saúde (SUS). Mais recentemente, no ano de 2018, o Ministério da Saúde lançou a nona edição do Programa de Educação pelo Trabalho para a Saúde (PET-Saúde) com foco na interprofissionalidade. O PET-Saúde/Interprofissionalidade se beneficiou de influências das iniciativas históricas das mudanças no modelo de formação do Brasil. A abordagem interprofissional ganhou maior robustez no âmbito das instituições formadoras e na rede de atenção à saúde a partir desta edição do programa, o que evidenciou a necessidade de investimentos em outras áreas, como a formação de professores, o desenvolvimento da comunicação efetiva entre os profissionais e o maior estímulo ao ensino em comunidade de prática. Este trabalho expõe importantes avanços do Brasil no tema da Educação Interprofissonal (EIP) como estratégia de reorientação de seu modelo de atenção e de saúde. Por outro lado, sinaliza que é preciso estabelecer profundas mudanças na formação e na atenção à saúde, de modo a garantir que o PET-Saúde alcance seus propósitos, oportunizando refletir que para pensar o trabalho, conforme as reais necessidades em saúde, é preciso pensar na formação, igualmente tão necessária. Conclui-se que o PET- Saúde/Interprofissionalidade é um possível caminho para reorientar o modelo de formação e de trabalho em saúde no Brasil.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/195982</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.195982</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195982</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195982</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-195982</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/195982/183939</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Clelia Maria de Sousa Ferreira Parreira</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/196376</identifier>
+        <datestamp>2022-07-06T16:51:35Z</datestamp>
+        <setSpec>rmrp:APR</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Forster, Aldaísa Cassanho</dc:creator>
+          <dc:creator>Carretta, Regina Yoneko Dakuzaku</dc:creator>
+          <dc:subject xml:lang="pt-BR">interprofissionalidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">PET-Saúde</dc:subject>
+          <dc:description xml:lang="pt-BR">1. INTRODUÇÃO: Aspectos da Educação Interprofissional no PET-Saúde/Interprofissionalidade da Universidade de São Paulo e da Secretaria Municipal de Saúde de Ribeirão Preto2. A educação interprofissional como estratégia de reorientação do modelo de atenção e de saúde no Brasil: contribuições do PET-Saúde3. A experiência da Unifesp Baixada Santista na Educação Interprofissional4. A Educação Interprofissional nas instituições de ensino superior: levantamento sobre disciplinas dos cursos de graduação na saúde5. MOSTRA DE EXPERIÊNCIAS: O PET-Saúde/Interprofissionalidade e as mudanças no currículo, no aprendizado e no processo de trabalho em saúde</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2022-07-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/196376</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2022.196376</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 55 No. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-196376</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 55 Núm. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-196376</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 55 n. 2 (2022): Suplemento 1- I Simpósio Estadual Paulista do PET-Saúde/Interprofissionalidade: um marco de integração e de experiência de boas práticas para a Educação Interprofissional no Brasil; e-196376</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/196376/183913</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Aldaísa Cassanho Forster, Regina Yoneko Dakuzaku Carretta</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="1467" cursor="1450" />
+  </ListRecords>
+</OAI-PMH>

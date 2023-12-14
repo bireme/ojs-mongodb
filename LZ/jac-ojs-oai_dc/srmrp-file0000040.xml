@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:34Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114959</identifier>
+        <datestamp>2020-06-25T16:03:27Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Instrumentos específicos para avaliação do conhecimento em asma: revisão sistemática</dc:title>
+          <dc:title xml:lang="en-US">Specific instruments to evaluate their knowledge of asthma: a systematic review</dc:title>
+          <dc:creator>Roncada, Cristian</dc:creator>
+          <dc:creator>Dias, Caroline P.</dc:creator>
+          <dc:creator>Sarria, Edgar E.</dc:creator>
+          <dc:creator>Pitrez, Paulo M.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Questionário. Estudos de Validação. Conhecimento. Asma</dc:subject>
+          <dc:subject xml:lang="en-US">Questionnaires. Validation Studies. Knowledge. Asthma</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: The evaluation of the level of asthma knowledge is one of the major outcomes for studies related to educational programs on asthma. Hence, identifying the particular instrument suitable for this outcome is essential to the success of studies in this field. Objective: To identify specific instruments to assess knowledge of asthma, analyzing the main characteristics and quality criteria for psychometric validation. Methods: A systematic review was performed to identify outcome measures available to assess knowledge of asthma in children, adolescents, guardians and caregivers. We applied the logic of search in Medline, Lilacs, Scopus, DirectScience, PsycINFO, Cochrane and Tripdatabase. Articles were included by description of the development and psychometric testing of the questionnaires on asthma knowledge. Quality criteria for content validity, construct validity, internal consistency and reproducibility were evaluated and assigned as “positive”, “intermediate” or “negative” rating. Results: Twenty-two instruments were included in the study. None of them had a positive review for all four evaluated psychometric properties. Six received positive or intermediate classification, one of these was developed in Portuguese-BR. Conclusion: Currently, there are 22 questionnaires available to assess the level of asthma knowledge, but most of the instruments do not have full psychometric validation</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: a avaliação do nível de conhecimento em asma é um dos principais desfechos para estudos vinculados a programas de educação em asma. Para isso, identificar o instrumento específico adequado para tal desfecho é essencial para o sucesso de pesquisas nessa área. Objetivo: identificar instrumentos específicos para avaliar o conhecimento de asma, analisando as características principais e os crité- rios de qualidade para validação psicométrica. Métodos: uma revisão sistemática foi realizada para identificar medidas de resultados disponíveis para avaliar o conhecimento da asma em crianças, adolescentes, responsáveis legais e profissionais de saúde. Aplicamos a lógica de pesquisa nas bases de dados Medline, Lilacs, Scopus, Science Direct, PsycINFO, Cochrane e Tripdatabase. Os artigos foram incluídos mediante descrição do desenvolvimento e teste psicométrico dos questionários de conhecimento em asma. Para os critérios de qualidade, a validade de conteúdo, validade de construto, consistência interna e reprodutibilidade foram avaliados e atribuída uma classificação “positivo”, “intermediário” ou “negativo”. Resultados: vinte e dois instrumentos foram incluídos. Nenhum deles teve uma avaliação positiva para todas as quatro propriedades psicométricas avaliadas. Seis receberam classificação “positivo” ou “intermediário”. Destes, somente um foi desenvolvido em português-BR. Conclusão: Atualmente, existem 22 questionários disponíveis para avaliar o nível de conhecimento da asma, mas maioria dos instrumentos não possui validação psicométrica completa</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114959</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p619-627</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 619-627</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 619-627</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 619-627</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114959/112675</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114960</identifier>
+        <datestamp>2020-06-25T16:03:26Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Transformação de tumor filóide benigno em maligno</dc:title>
+          <dc:title xml:lang="en-US">Transformation of benign phyllodes to malignant phyllodes tumor</dc:title>
+          <dc:creator>Lucarelli, Adrienne Pratti</dc:creator>
+          <dc:creator>Martins, Maria Marta</dc:creator>
+          <dc:creator>Galvão, Maria Antonieta Longo</dc:creator>
+          <dc:creator>Aldrighi, José Mendes</dc:creator>
+          <dc:subject xml:lang="pt-BR">Tumor Filoide. Expressão Gênica. Progressão da Doença. Transformação Celular Neoplásica</dc:subject>
+          <dc:subject xml:lang="en-US">Phyllodes Tumor. Gene Expression. Disease Progression. Cell Transformation</dc:subject>
+          <dc:subject xml:lang="en-US">Neoplastic</dc:subject>
+          <dc:description xml:lang="en-US">Importance of the problem: Malignant phyllodes tumors are rare fibroepithelial neoplasm in which clinical findings remain insufficient to determine a proper preoperative diagnoses and therefore has an unpredictable clinical outcome for optimal treatment. Few cases have been published involving malignant transformation of benign phyllodes to a malignant phyllodes tumor. These tumors should be suspected in patients with rapid-growing breast nodules to avoid incorrect treatment. Aims: Document a case of a transformation of benign to malignant phyllodes. Methods: A 23-year-old female patient presented a two-month history of palpable mass on the left breast, with accelerated growth in last month. There was no personal or family history of breast Cancer. This patient was submitted to the removal of a nodule in the left breast a year and a half prior. The physical exam presented a protruding and hardened palpable mass with a diameter of 5x6 cm and a histologically diagnosis of benign phyllodes tumor and an areolar incision was made. Results: At that time, the physical exam presented the palpable mass occupying the upper quadrants of the left breast with the dimensions of 4.5x2.0 cm. Signs of skin involvement or axillary lymphadenomegaly were not found. During the diagnostic investigation, the patient was submitted to mammogram and ultrasound. Because of the extension of the lesions, the patient underwent a skinspearing mastectomy with protests without axillary dissection. Surgical margins were free of any signs of the tumor. Macroscopy evidenced a lesion measuring 4,5x3,0 cm, and the anatomopathologic analysis of the surgical specimen confirmed the diagnosis of malignant phyllodes tumor. Comments: In our study, malignant transformation was determined one year after operation. The outcome of cases with history of fibroadenoma or benign phyllodes are significantly better than that of cases without history of benign tumor however, patients with malignant phyllodes tumors who exhibit rapid growth within six months require aggressive treatment</dc:description>
+          <dc:description xml:lang="pt-BR">Importância: tumor filóide da mama é uma neoplasia fibroepitelial rara na qual as características clínicas permanecem insuficientes para determinação de um diagnóstico pré-operatório e com comportamento clínico imprevisível para determinação do tratamento ideal. Há poucos casos publicados envolvendo a transformação maligna de tumor filóide benigno. Esses tumores devem ser suspeitados em pacientes com nódulos de crescimento rápido para evitar uma abordagem inapropriada. Objetivo: Documentar um caso de transformação de tumor filóide benigno em maligno. Metodologia: mulher de 23 anos apresentou há 2 meses história de massa palpável na mama esquerda com rápido crescimento há poucos meses. Não possuía antecedente pessoal ou familiar de câncer de mama. A paciente foi submetida à setorectomia de mama esquerda há um ano e meio, onde o exame físico apresentava massa palpável e regular com 5x6cm e com diagnóstico histopatológico de tumor filóide benigno com realização de setorectomia mamária com incisão periareolar. Resultados: retorna com exame físico apresentando massa palpável bem definida ocupando todo quadrante superior de mama esquerda de 4,5x2,0cm. Sinais de envolvimento cutâneo ou linfonodos palpáveis não foram evidenciados. Durante a investigação diagnóstica, a paciente foi submetida a mamografia e ultrassom. Em virtude da extensão das lesões foi realizada mastectomia preservadora de pele com colocação de prótese e sem dissecção axilar. As margens cirúrgicas estavam livres de tumor. A macroscopia evidenciou lesão de 4,5x 3,0cm e o espécime cirúrgico confirmou o diagnóstico de tumor filóide maligno. Comentários: em nosso estudo, a transformação maligna ocorreu um ano após a cirurgia, resultados de casos com história de fibroadenoma ou tumor filóide benigno são significativamente melhores que aqueles casos sem história prévia de tumor benigno, mas pacientes com tumor filóide maligno que exibem rápido crescimento em 6 meses necessitam de tratamento mais agressivo</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114960</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p628-633</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 628-633</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 628-633</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 628-633</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114960/112676</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114961</identifier>
+        <datestamp>2020-06-25T16:03:25Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Association of falls, fear of falling, handgrip strength and gait speed with frailty levels in the community elderly</dc:title>
+          <dc:creator>Silveira, Tatiana</dc:creator>
+          <dc:creator>Pegorari, Maycon S.</dc:creator>
+          <dc:creator>Castro, Shamyr S. de</dc:creator>
+          <dc:creator>Ruas, Gualberto</dc:creator>
+          <dc:creator>Novais-Shimano, Suraya G.</dc:creator>
+          <dc:creator>Patrizzi, Lislei J.</dc:creator>
+          <dc:subject xml:lang="en-US">Aging. Frail Elderly. Hand Strength. Gait. Falls</dc:subject>
+          <dc:subject xml:lang="en-US">acidental. Muscle Strength</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: The Frailty Syndrome is not synonymous with disability, but may be a precursor of etiological and physiological dysfunction, which affects mobility before causing reduced functional capacity, explaining conditions of weakness, weight loss, and abnormal gait. Study design: This is an analytical, observational, cross-sectional study. Objective: To verify the association of handgrip strength, gait speed, fear of falling, and falls with the level of frailty. Methods: Study consisting of 54 participants, aged 65 and older, enrolled in a health care and monitoring government program in the municipality of Uberaba, Minas Gerais, Brazil. The volunteers were assessed for frailty, – non-frail group (NG), pre-frail group (PG), and frail group (FG) – according to the Fried criteria, and based on the outcomes of handgrip strength, gait speed, fear of falling, and falls. An inferential descriptive statistical analysis followed, with Chi-square and KruskallWallis tests performed by the Stata11.0 software. Results: In the comparative analysis between the groups studied there was statistical significance relative to handgrip strength (FG and NG), gait speed (NG and FG / NG and PG), and fear of falling (NG and FG). There was no significant difference between the levels of frailty and falls. Conclusions: Frailty is associated with reduced muscle strength, decreased gait speed, and greater fear of falling in elderly people of the community</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114961</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p549-556</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 549-556</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 549-556</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 549-556</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114961/112677</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/114962</identifier>
+        <datestamp>2020-06-25T16:03:24Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Autonomic cardiac and cardiorespiratory responses in volleyball athletes compared to recreationally trained individuals</dc:title>
+          <dc:creator>Maior, Alex Souto</dc:creator>
+          <dc:creator>Menezes, Pedro</dc:creator>
+          <dc:creator>Fleck, Steven</dc:creator>
+          <dc:creator>Bunker, Travis</dc:creator>
+          <dc:creator>Rhea, Matthew</dc:creator>
+          <dc:creator>Leite, Richard Diego</dc:creator>
+          <dc:creator>Simão, Roberto</dc:creator>
+          <dc:subject xml:lang="en-US">Autonomic System</dc:subject>
+          <dc:subject xml:lang="en-US">Aerobic Exercise. High Intense Training</dc:subject>
+          <dc:description xml:lang="en-US">Objective: The aim of this study was to investigate the autonomic cardiac modulation between professional volleyball players (VP) and recreational aerobically trained individuals (RAT). Methods: Twentyeight men were divided into two groups, (VP; n = 14) and (RAT; n = 14) and each group was subjected to a sub-maximal progressive ramp treadmill test. Cardiac cycle beat to beat (RR) intervals, was obtained through electrocardiogram recording with the test being stopped when the individual reached 85% of their maximum age-predicted heart rate (HR). The heart rate variables were calculated from ECG using MATLABbased algorithms. Results: At rest, RAT showed lower values of the mean value of RR interval, the root mean square successive difference of all RR intervals (r-MSSD), low frequency (LF) and total power spectral (TP) when compared to VP. No significant difference between groups was noted for high frequency (HF) and index LF/HF. After exercise, no significant differences were measured between groups. Mean values of VO2, VE/VO2, and VE showed no significant difference at rest and post effort. Conclusion: The variables such as frequency, intensity and volume may to interfere the autonomic cardiac modulation and possibly indicating a superior protection against exercise-induced ventricular arrhythmias and lower risk of sudden cardiac deaths</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2015-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/114962</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v48i6p589-597</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 48 No. 6 (2015); 589-597</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 48 Núm. 6 (2015); 589-597</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 48 n. 6 (2015); 589-597</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/114962/112678</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118050</identifier>
+        <datestamp>2020-06-25T16:03:24Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Scientia ter Scientia terminum amovere</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118050</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p1-1</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 1-1</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 1-1</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 1-1</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118050/115670</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118363</identifier>
+        <datestamp>2020-06-25T16:03:23Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Repercussões cardiorrespiratórias agudas no uso correto de inaladores aerossóis de pó seco</dc:title>
+          <dc:title xml:lang="en-US">Acute cardiopulmonary repercussions in the correct use of the dry-powder inhalers</dc:title>
+          <dc:creator>Martinelli, Bruno</dc:creator>
+          <dc:creator>Pinto, Karina S.</dc:creator>
+          <dc:creator>Besse, Carolina R.</dc:creator>
+          <dc:creator>Barrile, Silvia R.</dc:creator>
+          <dc:creator>Rosa, Deborah M. C.</dc:creator>
+          <dc:creator>Pessoa, Bruna V.</dc:creator>
+          <dc:subject xml:lang="en-US">Asthma. Respiratory Therapy. Dry Powder Inhalers</dc:subject>
+          <dc:subject xml:lang="pt-BR">Asma. Terapia respiratória. Inaladores de Pó Seco</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Trata-se de estudo original, transversal, clínico e comparativo. Objetivo do estudo: Avaliar as repercussões cardiorrespiratórias agudas no uso correto de inaladores aerossóis de pó seco (IPS) em pacientes com asma. Metodologia: Foram avaliados, em dois momentos, 17 pacientes adultos asmáticos em uso de IPS (Formoterol e Budesonida). As variáveis avaliadas, pré e pós-uso do IPS, foram: antropométrica, cognitiva, força muscular, sinais vitais, saturação de oxigênio, pressões respiratórias e pico de fluxo. No primeiro momento (M1) foi avaliada e monitorada a execução rotineira antes e imediatamente após uso do IPS e entregue folheto explicativo sobre o uso correto. No segundo momento (M2), 30 dias após M1, houve a mesma avaliação, entretanto, com execução correta do IPS. Resultados: No M2 ocorreram aumentos significativos da pressão inspiratória de 64,2±2,03 para 74,1±31,7 (cmH2O); pressão expiratória de 71,05±33,8 para 80±31,4 (cmH2O); capacidade vital de 3,3±0,9 para 3,9±0,9 (l) e reduções na frequência de pulso de 80,310,7 para 72,2±9,4 (bpm) e do duplo produto de 10001±1693 para 8846±1416 (teste t-Student pareado, p&amp;lt;0,05). Conclusões: O uso correto de IPS traz ao paciente repercussões cardiorrespiratórias positivas, melhorando as condi- ções respiratórias e reduzindo o trabalho cardíaco&amp;gt;&amp;lt;0,05) Conclusões: O uso correto de IPS traz ao paciente repercussões cardiorrespiratórias positivas, melhorando as condições respiratórias e reduzindo o trabalho cardíaco</dc:description>
+          <dc:description xml:lang="en-US">Study model: It is a cross-over, clinical and comparative study. Objective: To evaluate the acute respiratory and cardiac respercussions in correct use of the dry powder inhalers (DPI) in patients with asthma. Methodology: Seventeen adult patients with asthma using DPI (Formoterol and Budesonide) were evaluated in two moments. The mensuared variables, before and after use of DPI, were: anthropometric, cognitive, muscle strength, vital signs, periferic oxygen saturation, respiratory pressures and peak expiratory flow. In the first moment (M1) was evaluated and monitored the usual performance before and immediately after using DPI and delivered an explicative leaflet about the correct use. In the second moment (M2), 30 days after M1, there was the same evaluation, however, with correct use of the DPI. Results: In the M2 there were increases to inspiratory pressure of 64,2±2,03 to 74,1±31,7 (cmH2O); expiratory pressure of 71,05±33,8 to 80±31,4 (cmH2O); vital capacity of 3,3±0,9 to 3,9±0,9 (l) and reductions in the pulse frequence of 80,3±10,7 to 72,2±9,4 (bm) and double product of 10001±1693 to 8846±1416 (paired t test, p&amp;lt;0,05). Conclusions: The correct use of the DPI promoves the positive respiratory and cardiac repercussions, improving respiratory conditions and reducing cardiac work&amp;gt;&amp;lt;0,05). &#160;Conclusions: The correct use of the DPI promoves the positive respiratory and cardiac repercussions, improving respiratory conditions and reducing cardiac work</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118363</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p2-8</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 2-8</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 2-8</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 2-8</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118363/115924</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118364</identifier>
+        <datestamp>2020-06-25T16:03:22Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">A 6-month comparison of quality of life and mood states between physically active and sedentary college students</dc:title>
+          <dc:title xml:lang="pt-BR">Uma comparação durante seis meses da qualidade de vida e estados de humor entre universitários fisicamente ativos e sedentários</dc:title>
+          <dc:creator>Noce, Franco</dc:creator>
+          <dc:creator>Castro, Henrique de Oliveira</dc:creator>
+          <dc:creator>Ferreira, Tadeu Sartini</dc:creator>
+          <dc:creator>Guo, James</dc:creator>
+          <dc:creator>Andrade, André Gustavo Pereira de</dc:creator>
+          <dc:creator>Costa, Varley Teoldo da</dc:creator>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida. Transtornos do Humor. Atividade física. Sedentarismo</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life. Mood Disorders. Physical activity. Sedentary Lifestyle</dc:subject>
+          <dc:description xml:lang="pt-BR">A inatividade física tem sido descrita como um dos principais problemas de saúde pública do século XXI. Neste contexto, a atividade física desempenha um papel importante na redução da prevalência de sedentarismo, melhorando a qualidade de vida e a saúde mental dos indivíduos. Objetivo: Este estudo teve como objetivo analisar a influência de seis meses de atividade física (AF) na qualidade de vida (QV) e estados de humor (EH) de adultos jovens. Métodos: Uma amostra de 32 indivíduos completou uma bateria de questionários para avaliar o seu nível de atividade física, qualidade de vida e estados de humor. Eles foram separados em dois grupos: sedentários (n = 15) e fisicamente ativos (n = 17). O International Physical Activity Questionnaire (IPAQ) foi utilizado para avaliar os níveis de AF, o WHO Quality of Life-BREF (WHOQOL_Bref) para QV e a Escala Brasileira de Humor (BRAMS) para os EH. Foi realizada análise fatorial de variância com medidas repetidas e teste post-hoc de Tukey (p ≤ 0,05) para QV e análise inferencial para os EH. Resultados: Escores de QV foram significantemente maiores para o grupo fisicamente ativo nos domí- nios ambiental e social. Da mesma forma, EH apresentaram maiores escores na dimensão Vigor para o grupo fisicamente ativo depois de seis meses, sem contudo, atingir os níveis de significância estatística. Conclusões: Estes resultados sugerem que AF pode influenciar positivamente aspectos na qualidade de vida do indivíduo. Contudo, os dados não evidenciam uma influência significativa da AF nos estados de humor</dc:description>
+          <dc:description xml:lang="en-US">Physical inactivity has been described as one of the major public health problems of the 21st century. Physical activity plays an important role in reducing the prevalence of sedentarism, improving the quality of life and improving individuals’ mental health. Objective: This study aimed to perform a 6-month comparison of quality of life (QOL) and mood states (MS) between physically active and sedentary college students. Methods: A sample of 32 individuals completed questionnaires to assess their level of physical activity, quality of life and mood states. They were separated into two groups: sedentary (n=15) and physically active (n=17). The International Physical Activity Questionnaire (IPAQ) was used for assessing PA levels, the WHO Quality of Life-BREF for QOL and the Brazilian Mood Scale for MS. We used factorial analysis of variance with repeated measures and post-hoc Tukey test (p ≤ 0.05) for QOL and MS inferential analysis. Results: QOL was significantly higher for the physically active group in Environment and Social Relationships domains. Similarly, MS showed increased scores in Vigor dimension for the physically active group after six months. Conclusions: These results suggest PA can positively influence aspects of an individuals‘ quality of life. However, our data did not show a significant influence of PA on mood states</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118364</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p9-16</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 9-16</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 9-16</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 9-16</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118364/115925</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118365</identifier>
+        <datestamp>2020-06-25T16:03:21Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Cardiovascular risk factors and body fat distribution in brazilians aged 80 years or over</dc:title>
+          <dc:title xml:lang="pt-BR">Fatores de risco cardiovascular e distribuição de gordura corporal em brasileiros com 80 anos ou mais</dc:title>
+          <dc:creator>Gomes, Igor C.</dc:creator>
+          <dc:creator>Santos, Vanessa R. dos</dc:creator>
+          <dc:creator>Christofaro, Diego G.D.</dc:creator>
+          <dc:creator>Fernandes, Rômulo A.</dc:creator>
+          <dc:creator>Bueno, Denise R.</dc:creator>
+          <dc:creator>Freitas Júnior, Ismael F</dc:creator>
+          <dc:subject xml:lang="en-US">Elderly. Epidemiology. Obesity. Cardiovascular Diseases</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso. Epidemiologia. Obesidade. Doenças Cardiovasculares</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo transversal. Objetivo: Analisar a presença de fatores de risco cardiovascular (FRC) de acordo com o padrão de distribuição de gordura corporal em brasileiros com 80 anos ou mais. Materiais e Método: A amostra foi composta de 113 idosos, com média de idade de 83,4 anos, de ambos os sexos. O percentual de gordura corporal total e abdominal, hipertensão e perfil lipídico foram usados para caracterização dos FRC. O teste qui-quadrado foi utilizado para avaliação das proporções de FRC e o teste Mann-Whitney foi utilizado para comparar os resultados de adiposidade. Resultados: Idosos eutróficos apresentaram baixo triglicerídeos (p=0,017) e colesterol total (p=0,001) além de menores prevalências de hipertensão (p=0,003) e hipertrigliceridemia (p=0,007). Idosos com maior adiposidade abdominal apresentaram maior colesterol total (p=0,026) e prevalência de hipertrigliceridemia (p=0,011) e hipercolesterolemia (p=0,026) quando comparados com os de menor adiposidade abdominal. Aqueles com excesso de gordura (total, ou abdominal ou ambos), com exceção da glicemia (p=0,877), apresentaram alta prevalência de FRC. Aqueles com ambos os excessos de gordura apresentam diferenças, com maior nível de prevalência quando comparados aqueles com apenas um ou nenhum dos excessos. Conclusão: A obesidade, sendo abdominal ou total, é associada, da mesma maneira, com FRC em sujeitos com 80 anos ou mais</dc:description>
+          <dc:description xml:lang="en-US">Study design: Cross-sectional study. Objective: To analyze the presence of cardiovascular risk factors (CRFs) according to the pattern of body fat distribution, in Brazilians aged 80 years or over. Methods: The sample consisted of 113 subjects, of 83.4 years, of both sexes. The percentages of total and abdominal body fat, hypertension and lipid profile were used for characterization of CRFs. The chisquare test was used to assess proportions of CRFs and the Mann-Whitney test was used to compare the results of adiposity. Results: Eutrophic subjects presented lower triglycerides (p=0.017), total cholesterol (p=0.001) and prevalence of both hypertension (p=0.003) and hypertriglyceridemia (p=0.007). Subjects with higher abdominal adiposity presented higher total cholesterol (p=0.026) and prevalence of hypertriglyceridemia (p=0.011) and hypercholesterolemia (p=0.026) than those with no excess abdominal adiposity. Those with excess fat (total, abdominal or both), with the exception of glucose (p=0.877), presented a high prevalence of CRFs. Those with both types of excess fat presented differences, with a higher prevalence level when compared to those with only one or neither of the excesses. Conclusion: Obesity, whether abdominal or total, is similarly associated with CRFs in subjects aged 80 years and over</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118365</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p17-25</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 17-25</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 17-25</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 17-25</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118365/115926</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118366</identifier>
+        <datestamp>2020-06-25T16:03:20Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Determinantes da densidade mineral óssea na pós-menopausa</dc:title>
+          <dc:title xml:lang="en-US">Determinants of bone mineral density in post-menopause</dc:title>
+          <dc:creator>Silva, Cristiane F. F.</dc:creator>
+          <dc:creator>Amorim, Paulo R. S.</dc:creator>
+          <dc:creator>Carvalho, Cristiane J.</dc:creator>
+          <dc:creator>Sales, Samuel S.</dc:creator>
+          <dc:creator>Lima, Luciana M.</dc:creator>
+          <dc:subject xml:lang="en-US">Osteopenia. Fractures/Risk. Risk Factors. Bone Loss</dc:subject>
+          <dc:subject xml:lang="pt-BR">Osteopenia. Fraturas /Risco. Fatores de Risco. Perda Óssea</dc:subject>
+          <dc:description xml:lang="pt-BR">Pós-menopausa é período de maior perda óssea e faz-se necessário instituir medidas preventivas que amenizem sua progressão. Objetivo: correlacionar o escore da densidade mineral óssea (DMO) e seus fatores de risco, buscando determinar aqueles que mais a influenciam. Método: estudo transversal, descritivo de 62 mulheres na pós-menopausa, saudáveis, idade média de 56,82 ± 4,02 anos, avaliadas quanto aos fatores de risco para osteoporose e nível de atividade física. Absorção de dupla energia de raios-X (DXA) avaliou coluna lombar e fêmur proximal. Os grupos, DMO normal e diminuída, foram analisados pelos testes T de Student, qui-quadrado e correlações. Resultados: Mulheres com menor índice de massa corporal (IMC), maior idade e maior tempo de menopausa apresentaram menor DMO em fêmur. Raça negra e ausência de história familiar correlacionaram-se com maior DMO. Conclusão: IMC, idade, peso, história familiar de osteoporose, raça e tempo de menopausa foram os principais fatores determinantes da DMO em mulheres na pós-menopausa</dc:description>
+          <dc:description xml:lang="en-US">Post-menopause is the period of greatest bone loss and it is necessary to introduce preventative measures to mitigate its progression. Aim: compare the score of bone mineral density (BMD) and their risk factors and to determine those most influencing. Method: Cross-sectional, descriptive study of 62 postmenopausal women, healthy, average age 56.82 ± 4.02 years, evaluated for risk factors for osteoporosis and physical activity level. Absorption dual energy X-ray absorptiometry (DXA) evaluated lumbar spine and proximal femur. Groups, normal and reduced BMD were analyzed by Student’s t test, chisquare and correlations. Results: Women with lower body mass index (BMI), older age and longer duration of menopause had lower BMD at the femur. Black race and absence of family history correlated with higher BMD. Conclusion: BMI, age, weight, family history of osteoporosis, race, and time since menopause were the main determinants of BMD in postmenopausal women</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118366</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p26-34</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 26-34</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 26-34</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 26-34</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118366/115927</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118367</identifier>
+        <datestamp>2020-06-25T16:03:20Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Dependência química pelo crack: vivências e percepções dos discentes do internato de um curso médico</dc:title>
+          <dc:title xml:lang="en-US">Chemical dependence on crack: experiences and perceptions of internship students of a medical school</dc:title>
+          <dc:creator>Peixoto, Audenis L. A.</dc:creator>
+          <dc:creator>Vieira, Maria de Lourdes F.</dc:creator>
+          <dc:creator>Costa, Antonio C. S.</dc:creator>
+          <dc:creator>Freitas, Daniel A.</dc:creator>
+          <dc:subject xml:lang="en-US">Perception. Students</dc:subject>
+          <dc:subject xml:lang="en-US">Medical. Internship. Substance-Related Disorders. Crack Cocaine</dc:subject>
+          <dc:subject xml:lang="pt-BR">Percepção. Estudantes de Medicina. Internato. Dependência Química. Crack</dc:subject>
+          <dc:description xml:lang="en-US">Study design: Cross-sectional and qualitative study. Objectives: This study investigates experiences and identifies the perceptions of ninth-term intern medical students of a public university on the crack addiction issue. Methods: A qualitative-approach and cross-sectional study which had as the research tool a semi-structured, individual interview allowing broad speech of students. Recording reports were transcribed and content analysis carried out according to Bardin. Results: categories were identified concerning the feeling of experience, the students’ perception on crack addiction and their learning on the subject, physical impairments and additional damages, besides how society should deal with the addiction on crack. The feelings of compassion and preservation are present in their experiences. Students point out economic, professional and family issues as the sources of serious crack addiction consequences. They also take into account the social and existential damages, the self-destruction, violence and weight loss caused on crack users, as well as the codependency. There is a great concern on the part of students related to prevention, education, information, elimination of prejudice, as well as demands of government efforts to combat crack. Conclusion: The intern medical students consider crack addiction both a social problem and a disease; define learning about addiction by crack insufficient throughout the course. Their experiences and perceptions generate positive impacts since they prospect better prepared graduates who shall receive the one addicted and his family in a broader, more effective and humane way</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo de estudo: Estudo transversal e qualitativo. Objetivos: Este trabalho investiga as vivências e identifica as percepções dos discentes do internato do nono período de medicina de uma universidade pública, sobre dependência química pelo crack. Metodologia: Estudo transversal de abordagem qualitativa, cujo instrumento da pesquisa foi uma entrevista individual, utilizando-se um roteiro semiestruturado, que permite amplo discurso dos discentes. As falas das gravações foram transcritas e depois realizada a análise do conteúdo segundo Bardin. Resultados: Foram identificadas categorias referentes ao sentimento da vivência, à percepção do discente sobre a dependência do crack e seu aprendizado sobre o tema, aos comprometimentos físicos, aos outros prejuízos causados e a como a sociedade deve lidar diante da dependência química pelo crack. Os sentimentos de compaixão e de preservação estão presentes em suas vivências. Os discentes relacionam as questões econômicas, profissionais e familiares como fontes das graves consequências do crack. Valorizam os prejuízos sociais e existenciais, a autodestruição, a violência e o emagrecimento que o crack causa aos usuários, além da codependência. É grande a preocupação dos discentes com a prevenção, educação, informação, eliminação do preconceito e cobranças de ações governamentais para combate ao crack. Conclusão: Os discentes do internato consideram a dependência química pelo crack como problema social e doença. Definem como insuficiente o aprendizado sobre a dependência química pelo crack durante o curso. Suas vivências e percepções geram impactos positivos, pois apontam para futuros egressos melhor preparados, que deverão acolher o dependente e sua família de forma mais ampla, humana e eficaz</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118367</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p35-44</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 35-44</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 35-44</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 35-44</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118367/115928</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118369</identifier>
+        <datestamp>2020-06-25T16:03:19Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Alterações eritrocitárias em pacientes com Lupus Eritematoso Sistêmico</dc:title>
+          <dc:title xml:lang="en-US">Erythrocytic changes in patients with Systemic Lupus Erythematosus</dc:title>
+          <dc:creator>Matos, Marilia B. P.</dc:creator>
+          <dc:creator>Dias, Eliane P.</dc:creator>
+          <dc:creator>Arruda, Augusto C.</dc:creator>
+          <dc:creator>Aguiar Junior, Nestor A.</dc:creator>
+          <dc:creator>Galera, Marcial F.</dc:creator>
+          <dc:creator>Leite, Cristhiane A.</dc:creator>
+          <dc:subject xml:lang="en-US">Lupus Erythematosus</dc:subject>
+          <dc:subject xml:lang="en-US">Systemic. Hematology. Anemia. Epidemiologic. Autoimmunity</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lúpus Eritematoso Sistêmico. Hematologia. Anemia. Epidemiologia. Autoimunidade</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Determinar as alterações eritrocitárias em pacientes com Lupus Eritematoso Sistêmico (LES), atendidos no Hospital Geral Universitário (HGU) Cuiabá/MT. Métodos: Amostras de sangue de 40 pacientes, do sexo feminino foram coletadas e processadas (automação ABX Pentra 80 – citometria de fluxo). As análises estatísticas descritivas foram feitas com auxílio do software estatístico IBM SPSS 2.0. Resultados: Dos 40 pacientes analisados, 42,5% apresentaram anemia. As médias dos valores de hematócrito e dosagem de hemoglobina nos pacientes com anemia foram respectivamente de 29,7% e 9,9 g/dL, ao passo que naqueles nos quais não se observou quadro anêmico a média de hematócrito foi de 41,1% e a de dosagem de hemoglobina 13,7g/dL. A anemia normocítica normocrômica foi a mais encontrada (64,7%) sendo observados, nessa situação, índices hematimétricos (VCM, HCM, CHCM e RDW) dentro dos valores de normalidade. As anemias macrocíticas e microcíticas tiveram a mesma representação percentual (17,6%). Entre as anemias macrocíticas, alterações hematimétricas, tais como, RDW aumentado, policromasia e reticulocitose observadas em alguns pacientes sugerem a possibilidade de processos hemolíticos comumente observados nessa patologia. Conclusão: Evidencia-se a necessidade de avaliar cuidadosa e frequentemente os achados do hemograma, pois é uma ferramenta importante na avaliação do paciente e da eficácia do tratamento</dc:description>
+          <dc:description xml:lang="en-US">Objective: We assessed the prevalence of erythrocytic changes in patients with SLE, at Cuiabá University General Hospital (UNIC-HGU). Methods: blood samples from 40 female patients were collected and processed (ABX Pentra 80 automation – flow cytometry). Descriptive statistical analyses were performed using IBM SPSS 2.0 statistical software. Results: 42.5% of the 40 patients showed lowered concentrations of hemoglobin. The hematocrit and hemoglobin dosage averages of the anemic patients were respectively of 29.7% and 9.9 gdL, while those without anemia showed 41.1% of hematocrit average and hemoglobin average dosage of 13,7gdL. Normocytic and normochromic anemia was the most prevalent, founded in 64.7% of the anemic patients, with normal hematimetric indices. In cases of macrocytic anemia, hematimetric changes, such as increased RDW, policromasy and reticulocytosis observed in some patients suggest hemolytic processes, commonly observed in these patients. Conclusion: Anemia was found in 42% of the patients and careful observation of the erythrocytic changes is an important tool in the follow up of LES patients</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118369</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p45-51</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 45-51</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 45-51</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 45-51</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118369/115929</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118370</identifier>
+        <datestamp>2020-06-25T16:03:18Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Associação entre doenças cardiocirculatórias e internações hospitalares entre pacientes atendidos no Sistema Único de Saúde</dc:title>
+          <dc:title xml:lang="en-US">Association between cardiovascular diseases and hospitalization among patients users of the Brazilian National Health System</dc:title>
+          <dc:creator>Queiroz, Dayane C.</dc:creator>
+          <dc:creator>Cantarutti, Débora C.</dc:creator>
+          <dc:creator>Turi, Bruna C.</dc:creator>
+          <dc:creator>Fernandes, Rômulo A.</dc:creator>
+          <dc:creator>Codogno, Jamile S.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doenças Cardiovasculares. Hospitalização. Sistema Único de Saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Cardiovascular Diseases. Hospitalization. Brazilian National Health System</dc:subject>
+          <dc:description xml:lang="en-US">Study Design: Cross-sectional. Objective of the study: To investigate the relationship between cardiovascular disease and hospitalizations among users of the Brazilian Public Healthcare System of Presidente Prudente, SP, Brazil. Methods: The sample was composed by patients from two Basic Healthcare Units of Presidente Prudente / SP. Hospitalizations, presence of disease, habitual physical activity, body mass index and blood pressure measures were the variables analyzed. Spearman correlation indicated relationship between variables and statistical significance was set at p-value &amp;lt; 5%. Results: 514 adults of both sexes were interviewed. The occurrence of hospitalization in the previous year was 14.9%. There was relationship between habitual physical activity, diagnosis of hypertension, arrhythmia and stroke with number of days hospitalized. After adjustment for confounders, patients with two and three/four diagnostic for cardiovascular diseases were more frequent hospitalized compared to patients without diagnoses. Conclusion: It was found relationship between hospitalizations and diagnosis of hypertension, arrhythmia, stroke and lower levels of habitual physical activity among patients users of the public healthcare system in Presidente Prudente, SP, Brazil</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Transversal. Objetivo de estudo: Verificar a associação entre doenças cardiocirculatórias e internações hospitalares em pacientes atendidos pelo Sistema Único de Saúde da cidade de Presidente Prudente, SP, Brasil. Metodologia: A amostra foi composta por pacientes de duas Unidades Básicas de Saúde da cidade de Presidente Prudente/SP. Internações hospitalares, presença de doenças, prática habitual de atividades físicas, índice de massa corporal e medidas pressão arterial foram as variáveis analisadas. Correlação de Spearman indicou relacionamento entre as variáveis e significância estatística foi fixada em p-valor &amp;lt; 5%. Resultados: Foram entrevistados 514 adultos de ambos os sexos. A ocorrência de internação hospitalar no último ano foi de 14,9%. Houve relacionamento entre atividade física habitual, diagnóstico de HA, arritmia e infarto com número de dias internados. Após o ajuste por fatores de confusão, pacientes com dois e três/quatro diagnósticos para doenças cardiocirculatórias apresentaram maior ocorrência de internações hospitalares quando comparados aos sem diagnóstico de doenças. Conclusão: Foi encontrado relacionamento entre internações hospitalares e diagnóstico de hipertensão arterial, arritmia, infarto e menores níveis de prática de atividade física habitual entre pacientes atendidos pelo Sistema Público de Saúde de Presidente Prudente, SP, Brasil</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118370</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p52-59</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 52-59</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 52-59</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 52-59</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118370/115930</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118371</identifier>
+        <datestamp>2020-06-25T16:03:17Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Qualidade de vida dos portadores de hanseníase num município de médio porte</dc:title>
+          <dc:title xml:lang="en-US">The quality of life of Hansen’s disease patients in a medium-sized city</dc:title>
+          <dc:creator>Simões, Siliana</dc:creator>
+          <dc:creator>Castro, Sybelle S.</dc:creator>
+          <dc:creator>Scatena, Lucia M</dc:creator>
+          <dc:creator>Castro, Rafael O.</dc:creator>
+          <dc:creator>Lau, Fernanda A.</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy. Quality of Life . Health Profile.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase. Qualidade de Vida. Perfil de Saúde</dc:subject>
+          <dc:description xml:lang="en-US">Study model: cross-sectional study. Objectives: describe the epidemiological profile of HD patients in Uberaba, Minas Gerais, assess their quality of life and verify the association of quality of life with epidemiological and sociodemographic variables. Methods: In order to evaluate the quality of life, we applied the instrument proposed by the World Health Organization (WHOQOL-bref) and a questionnaire of the epidemiological profile built by the authors. The descriptive statistical analysis and the T-Student and Mann-Whitney tests were used. Participation consisted of 29 HD patients. Results: There was a predominance of married male patients with low education and income. The highest quality of life scores were found in social and psychological relationships; the environmental and physical factors obtained the lowest scores. We observed better quality of life in individuals over the age of 60, in social (p=0.0267) and environmental (p=0.0359) relationships; married, in the physical aspect (p=0.0495); and with low education, in the physical (p=0.03) and psychological (p=0.0084) aspects. Conclusions: The study demonstrated the aspects of vulnerability and support to HD patients, presenting better quality of life in elderly, married individuals with low education</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: estudo do tipo transversal. Objetivos: descrever o perfil epidemiológico dos portadores de hanseníase de Uberaba-MG, avaliar a qualidade de vida e verificar a associação dos domínios da qualidade de vida com variáveis epidemiológicas e sociodemográficas. Métodos: Para a avaliação da qualidade de vida, foram aplicados o instrumento proposto pela Organização Mundial de Saúde (WHOQOL-bref) e um questionário do perfil epidemiológico construído pelos autores. Utilizaram-se a análise estatística descritiva e os testes T-Student e Mann-Whitney. Participaram da pesquisa 29 portadores de hanseníase. Resultados: Houve predomínio do sexo masculino, casados, com baixas escolaridade e renda. Encontraram-se os maiores escores de qualidade de vida nos domínios relações sociais e psicológicas; os fatores ambiental e físico obtiveram os menores escores. Foi observada melhor qualidade de vida em indivíduos com mais de 60 anos, nos domínios relações sociais (p=0,0267) e ambiental (p=0,0359); casados, no domínio físico (p=0,0495); e com baixa escolaridade, nos domínios físico (p=0,03) e psicológico (p=0,0084). Conclusões: O estudo permitiu verificar os aspectos de vulnerabilidade e de suporte dos portadores de hanseníase, apresentando-se melhor qualidade de vida em indivíduos idosos, casados e com baixa escolaridade</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118371</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p60-67</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 60-67</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 60-67</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 60-67</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118371/115931</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118372</identifier>
+        <datestamp>2020-06-25T16:03:16Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Comparison of the effects of continuous and intermittent non invasive mechanical ventilation on cardiorespiratory parameters and autonomic modulation of healthy individuals</dc:title>
+          <dc:title xml:lang="pt-BR">Comparação dos efeitos da ventilação mecânica não invasiva contínua e intermitente sobre parâmetros cardiorrespiratórios e modulação autonômica de indivíduos saudáveis</dc:title>
+          <dc:creator>Pacagnelli, Francis L.</dc:creator>
+          <dc:creator>Freire, Ana Paula C. F.</dc:creator>
+          <dc:creator>Palma, Mariana R.</dc:creator>
+          <dc:creator>Paes, Laio L.</dc:creator>
+          <dc:creator>Cardoso, Murylo V.</dc:creator>
+          <dc:creator>Vanderlei, Luiz Carlos M.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Ventilação Não Invasiva. Sistema Nervoso Autônomo. Frequência Cardíaca. Taxa Respiratória. Ventilação. Voluntários Saudáveis</dc:subject>
+          <dc:subject xml:lang="en-US">Noninvasive Ventilation. Autonomic Nervous System . Heart Rate</dc:subject>
+          <dc:subject xml:lang="en-US">Respiratory Rate</dc:subject>
+          <dc:subject xml:lang="en-US">Ventilation. Healthy Volunteers</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo transversal. Objetivo: Avaliar a influência da Ventilação Mecânica não Invasiva (VMNI) de forma contínua e intermitente sobre a modulação autonômica cardíaca e parâmetros cardiorrespiratórios em mulheres saudáveis. Métodos: Vinte voluntárias realizaram duas modalidades de VMNI: contínua por meio do CPAP e intermitente por meio do Reanimador de Muller. Inicialmente permaneceram em repouso em respiração espontânea por 20 minutos. Em seguida foram submetidas a 20 minutos de aplicação de VMNI com a técnica selecionada e por fim permaneceram 20 minutos em repouso em respiração espontânea. Os parâmetros cardiorrespiratórios e variabilidade da frequência cardíaca (VFC) foram mensurados em todos estes momentos. Resultados: Não houve diferenças significantes quando comparadas as duas técnicas. Observaram-se diferenças nos parâmetros cardiorrespiratórios e VFC quando analisadas individualmente. Menores valores de frequência cardíaca e frequência respiratória foram observados na modalidade contínua quando comparado os valores durante a ventilação com respiração espontânea (p&amp;lt;0,005). Em ambas técnicas observaram-se aumentos significantes de SpO2 durante a ventilação em comparação a respiração espontânea. Observou-se aumento da modulação parassimpática (RMSSD, HF ms2 e SD1) e da variabilidade global (SDNN, RR triangular e SD2) em ambas as técnicas quando comparado ventilação e respiração espontânea (p&amp;lt;0,005). Conclusão: Não houve diferença quando comparadas as duas modalidades de VMNI. Contudo, quando analisadas individualmente observam-se comportamento diferentes dos parâmetros cardiorrespiratórios e na modulação autonômica</dc:description>
+          <dc:description xml:lang="en-US">Study design: Cross-sectional study. Objective: To evaluate the influence of continuous and intermittent noninvasive mechanical ventilation (NIV) on cardiac autonomic modulation and cardiorespiratory parameters in healthy women. Methods: Twenty subjects performed two types of NIV: continuous through CPAP and intermittent through Müller Reanimator. Initially they remained at rest for 20 minutes in spontaneous breathing. Then volunteers were subjected to 20 minutes of NIV application with the selected technique and finally remained at rest for 20 minutes in spontaneous breathing. Cardiorespiratory parameters and heart rate variability (HRV) were measured in all these moments. Results: There were no significant differences when comparing the two techniques. Differences were observed in HRV and cardiorespiratory parameters when analyzed individually. Lower values of heart rate and respiratory rate were observed in continuous ventilation when compared to values during ventilation with spontaneous breathing (p &amp;lt;0.005). In both techniques we observed significant increases in SpO2 during ventilation compared to spontaneous breathing. We observed an increase in parasympathetic modulation (RMSSD, HF ms2 and SD1) and overall variability (SDNN, RR triangular and SD2) in both techniques when compared ventilation to spontaneous breathing (p &amp;lt;0.005). Conclusion: There was no difference comparing the two types of NIV. However, when analyzed individually we observe different behavior of cardiorespiratory parameters and autonomic modulation</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118372</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p68-79</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 68-79</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 68-79</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 68-79</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118372/115932</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118375</identifier>
+        <datestamp>2020-06-25T16:03:16Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O papel da placenta na transmissão vertical do HIV-1</dc:title>
+          <dc:title xml:lang="en-US">The role of the placenta in the vertical transmission of HIV-1</dc:title>
+          <dc:creator>Martinez, Juliana</dc:creator>
+          <dc:creator>Santiago, Mariana R</dc:creator>
+          <dc:creator>Souza, Diego A</dc:creator>
+          <dc:creator>Silva, Gyl E B</dc:creator>
+          <dc:creator>Chahud, Fernando</dc:creator>
+          <dc:creator>Quintana, Silvana M</dc:creator>
+          <dc:creator>Mendes-Junior, Celso T</dc:creator>
+          <dc:creator>Donadi, Eduardo A</dc:creator>
+          <dc:creator>Fernandes, Ana Paula M</dc:creator>
+          <dc:subject xml:lang="en-US">Placenta. Infectious Disease Transmission</dc:subject>
+          <dc:subject xml:lang="en-US">Vertical . HIV-1</dc:subject>
+          <dc:subject xml:lang="pt-BR">Placenta. Transmissão Vertical de Doença Infecciosa. HIV-1</dc:subject>
+          <dc:description xml:lang="pt-BR">A transmissão vertical (TV) consiste na principal forma de infecção pelo HIV-1 em menores de 13 anos e estimativas apontam que em 25% dos casos a transmissão tenha ocorrido intraútero. Nessas circunstâncias, o vírus de alguma forma ultrapassa a membrana placentária e chega ao sangue fetal. Esta revisão tem como objetivo realizar uma breve descrição sobre os mecanismos presentes na placenta humana que são capazes de gerar susceptibilidade ou proteção à TV do HIV-1. As células placentárias produzem um enorme grupo de citocinas, quimiocinas, hormônios e receptores que podem contribuir com o desfecho da transmissão do vírus ao concepto. Além disso, a capacidade do vírus de infectar as células placentárias também pode contribuir com a sua transmissão. Entretanto, o mecanismo pelo qual o vírus é capaz de sobrepujar a membrana placentária e as consequências dessa infecção no tecido placentário não estão totalmente elucidados. Dessa forma, novas pesquisas nessa área poderão contribuir com o desenvolvimento de estratégias profiláticas eficazes para redução da TV do HIV-1</dc:description>
+          <dc:description xml:lang="en-US">Vertical transmission (VT) is the main form of infection by HIV-1 in children under 13 years and estimates show that in 25% of cases intrauterine transmission has occurred. Under these circumstances, the virus somehow overcomes the placental membrane and reaches the fetal blood. This review aims to conduct a brief description of the mechanisms present in human placenta that are capable of generating susceptibility or resistance to VT of HIV-1. Placental cells produces a huge group of cytokines, chemokines, hormones and receptors that may contribute to the outcome of virus transmission to the fetus. Moreover, the ability of the virus to infect placental cells can also contribute to its transmission. However, the mechanism by which the virus is able to overcome the placental tissue is not fully elucidated. Thus, further research in this area may contribute to the development of effective preventive strategies to reduce the VT of HIV-1</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118375</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p80-85</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 80-85</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 80-85</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 80-85</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118375/115934</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118378</identifier>
+        <datestamp>2020-06-25T16:03:15Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Psoas muscle abscess associated with Mycobacterium tuberculosis infection in patient with AIDS</dc:title>
+          <dc:title xml:lang="pt-BR">Abscesso do músculo psoas associado à infecção por Mycobacterium tuberculosis em paciente com Aids</dc:title>
+          <dc:creator>Araújo, Paulo Sérgio R. de</dc:creator>
+          <dc:creator>Barbosa, Marcelia S.</dc:creator>
+          <dc:creator>Melo, Fábio</dc:creator>
+          <dc:creator>Melo, Heloísa Ramos L. de</dc:creator>
+          <dc:creator>Brandão, Eduardo</dc:creator>
+          <dc:subject xml:lang="pt-BR">Abscesso. Músculos Psoas. Mycobacterium tuberculosis. Aids</dc:subject>
+          <dc:subject xml:lang="en-US">Abscess. Psoas Muscles. Mycobacterium tuberculosis. AIDS</dc:subject>
+          <dc:description xml:lang="pt-BR">Abscesso do músculo psoas é uma condição rara de difícil diagnóstico clínico, pois apresenta sinais e sintomas inespecíficos. No presente relato de caso, ilustramos um exemplo de abscesso do músculo psoas associado ao Mycobacterium tuberculosis em paciente do sexo feminino, 48 anos, com diagnóstico de Aids há cinco anos. O exame físico da paciente evidenciou massa palpável em região lombar que foi confirmada pela ultrassonografia e tomografia computadorizada. A baciloscopia do líquido obtido da punção do abscesso demonstrou a presença de bacilos álcool-ácido resistentes. Após iniciado esquema terapêutico combinado, com drogas antituberculosas, a paciente evoluiu com melhora clínica. Apesar de raro, o abscesso de músculo psoas é uma enfermidade que tem sido mais frequentemente observada em pacientes imunocomprometidos, principalmente aqueles que apresentam a co-infecção HIV-tuberculose. Neste caso, a identificação do agente etiológico associado ao abscesso foi fundamental para garantir a conduta terapêutica adequada e consequentemente a boa evolução do quadro clínico</dc:description>
+          <dc:description xml:lang="en-US">Psoas muscle abscess is a rare condition difficult to diagnose clinically, as have non-specific signs and symptoms. In this case report, we illustrate an example of psoas muscle abscess associated with Mycobacterium tuberculosis in female patient, 48 years old, with diagnosis of AIDS five years ago. Physical examination showed the patient’s palpable mass in the lower back which was confirmed by ultrasonography and computed tomography. The smear obtained from the abscess puncture liquid showed the presence of resistant acid-fast bacilli. After combined treatment regimen started with antituberculosis drugs, the patient improved clinically. Although rare, the psoas muscle abscess is a disease that has been most frequently observed in immunocompromised patients, especially those with HIV-tuberculosis co-infection. In this case, the identification of the etiologic agent associated with the abscess was critical to ensure an adequate therapeutic conduct and consequently the good progression of the disease</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118378</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p86-89</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 86-89</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 86-89</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 86-89</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118378/115935</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118379</identifier>
+        <datestamp>2020-06-25T16:03:14Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Pancreatitis in adult with acute lymphoblastic leukemia using L-asparaginase and simvastatin: case report and systematic review</dc:title>
+          <dc:title xml:lang="pt-BR">Pancreatite em adulto com leucemia linfoblástica aguda usando L-asparaginase e sinvastatina: relato de caso e revisão sistemática</dc:title>
+          <dc:creator>Rodrigues, Renne</dc:creator>
+          <dc:creator>Gavarrete, Diogo D.</dc:creator>
+          <dc:creator>Bernardi, Érika A. T.</dc:creator>
+          <dc:creator>Munhoz, Eduardo C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Leucemia-Linfoma Linfoblástico de Células Precursoras. Asparaginase. Pancreatite. Sinvastatina. Toxicidade de Drogas</dc:subject>
+          <dc:subject xml:lang="en-US">Precursor Cell Lymphoblastic Leukemia-Lymphoma. Asparaginase. Pancreatitis. Simvastatin. Drug Interaction</dc:subject>
+          <dc:description xml:lang="en-US">Context: Acute pancreatitis is a inflammatory process of the pancreas. It can be caused by gallstones, metabolic disorders, associated or not with alcohol abuse, or medication. Case Report: A 38-year-old man was admitted to the hospital because of worsening of nausea, abdominal pain, dizziness and white stool. Patient was diagnosed with severe acute pancreatitis. After six days of hospitalization, patient progressed into hypotension and severe bradycardia, and died. The patient used simvastatin chronically, and was in treat with L-asparaginase, both drugs related to the occurence of acute pancreatitis separately. Naranjo´s probability scale of adverse drug reaction established the causality between these medications and acute pancreatitis as probable. However, due to the absence of reports of causality, the acute pancreatitis is associated with to the use of L-asparaginase with possible drug interactions with simvastatin. Conclusion: It is very important to monitor patients treated with L-asparaginase, through careful observation of clinical signs and laboratory follow-up, as well as verification of other medications in use. The AP may have different levels of severity, being indispensable the quick diagnosis and early treatment</dc:description>
+          <dc:description xml:lang="pt-BR">Contexto: Pancreatite aguda é um processo inflamatório do pâncreas. É causada por cálculos biliares, desordens metabólicas, associadas ou não ao uso abusivo de álcool, ou medicamentos. Relato do Caso: Homem de 38 anos foi admitido no hospital em razão do agravamento de náuseas, dor abdominal, tontura e fezes brancas. O paciente foi diagnosticado com pancreatite aguda. Após seis dias de internação, paciente progrediu com hipotensão e bradicardia severa, evoluindo à óbito. O paciente fazia uso crônico de sinvastatina, e estava em tratamento com L-asparaginase, ambos fármacos, de modo separado, são relacionados com a ocorrência de pancreatite aguda severa. O algoritmo de Naranjo para estabelecimento de reação adversa a medicação classificou a causalidade entre as medicações citadas e a pancreatite aguda como provável. Porém, em razão da ausência relatos dessa causalidade, associa-se a pancreatite aguda ao uso de L-asparaginase, com possível interação medicamentosa com sinvastatina. Conclusão: É de suma importância o acompanhamento clínico e laboratorial de pacientes em uso de Lasparaginase para sinais de pancreatite aguda, sendo imprescindível o rápido diagnóstico e tratamento precoce</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-02-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118379</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i1p90-94</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 1 (2016); 90-94</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 1 (2016); 90-94</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 1 (2016); 90-94</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118379/115936</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118390</identifier>
+        <datestamp>2020-06-25T16:03:13Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Fatores associados às doenças cardiovasculares em adultos</dc:title>
+          <dc:title xml:lang="en-US">Factors associated with cardiovascular diseases in adults</dc:title>
+          <dc:creator>Teston, Elen F.</dc:creator>
+          <dc:creator>Cecilio, Hellen P. M.</dc:creator>
+          <dc:creator>Santos, Aliny L.</dc:creator>
+          <dc:creator>Arruda, Guilherme O. de</dc:creator>
+          <dc:creator>Radovanovic, Cremilde A. T.</dc:creator>
+          <dc:creator>Marcon, Sonia S.</dc:creator>
+          <dc:subject xml:lang="en-US">Cardiovascular disease</dc:subject>
+          <dc:subject xml:lang="en-US">Risk Factors. Population Surveys</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença cardiovascular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fatores de Risco. Inquéritos Populacionais</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo de estudo: Estudo transversal, de base populacional, tipo inquérito domiciliar. Objetivo: Identificar os fatores associados às doenças cardiovasculares na população adulta residente na região metropolitana de Maringá. Metodologia: Participaram 1232 indivíduos de ambos os sexos e com idade entre 20 e 59 anos, residentes na região metropolitana de Maringá-Paraná. Para a identificação dos fatores associados foi utilizada a regressão logística múltipla não condicionada após análise de associação univariada. Resultados: A maioria dos indivíduos era do sexo feminino (72,2%), com idade entre 40 e 59 anos (54,1%), da cor branca (72,3%), com companheiro (66,1%) e pertencente à classe econômica C (56%). A prevalência de doenças cardiovasculares foi de 27,9%, sendo as mais prevalentes a Hipertensão Arterial (25,8%) e Angina (5%). Os fatores associados às doenças cardiovasculares, de modo geral, e às doenças cardiovasculares isoladas, foram a circunferência abdominal (p=0,004), Índice de Massa Corporal (p=0,023), dislipidemia (p=0,002) e etilismo (p=0,024). O tabagismo associou-se especificamente ao Infarto Agudo do Miocárdio e à Insuficiência Cardíaca. Conclusão: Os resultados indicam ser imperativas a preocupação e a união dos esforços por parte dos profissionais de saúde quanto à necessidade de estabelecimento de medidas preventivas relacionadas aos fatores de risco responsáveis pela ocorrência das doenças cardiovasculares</dc:description>
+          <dc:description xml:lang="en-US">Study design: cross-sectional study, population-based household survey. Objective: To identify the factors associated with cardiovascular disease in the adult population in the metropolitan region of Maringá Methodology: Participants were 1232 individuals of both sexes and aged between 20 and 59 years living in the metropolitan region of Maringa, Parana. For the identification of associated factors was used multiple logistic regression unconditioned after univariate association analysis. Results: Most subjects were female (72.2%), aged between 40 and 59 years (54.1%), white (72.3%), with a partner (66.1%) and belongs to economy class C (56%). The prevalence of cardiovascular disease was 27.9%, the most prevalent Arterial Hypertension (25.8%) and angina (5%). The factors associated with cardiovascular disease in general, and isolated cardiovascular disease, were waist circumference (p=0.004), body mass index (p=0.023), dyslipidemia (p=0.002) and alcohol consumption (p=0.024). Smoking was associated specifically to Acute Myocardial Infarction and Heart Failure. Conclusion: The results indicate that it is imperative concern and the union of efforts by health professionals on the need for establishment of preventive measures related to the risk factors responsible for the occurrence of cardiovascular diseases</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-04-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118390</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i2p95-102</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 2 (2016); 95-102</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 2 (2016); 95-102</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 2 (2016); 95-102</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118390/115943</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118393</identifier>
+        <datestamp>2020-06-25T16:03:12Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Resposta hematológica de ciclistas após competição</dc:title>
+          <dc:title xml:lang="en-US">Haematological response of cyclists after competition</dc:title>
+          <dc:creator>Ferreira, Brunno E</dc:creator>
+          <dc:creator>Morel, Erika A</dc:creator>
+          <dc:creator>Tsalikis, Jaqueline</dc:creator>
+          <dc:creator>Costa, Cynthia H</dc:creator>
+          <dc:creator>Muller, Paulo T G</dc:creator>
+          <dc:creator>Pontes, Elenir R J C</dc:creator>
+          <dc:subject xml:lang="en-US">Training. Physical Conditioning</dc:subject>
+          <dc:subject xml:lang="en-US">Human. Bicycling</dc:subject>
+          <dc:subject xml:lang="pt-BR">Treinamento. Condicionamento Físico Humano. Ciclismo</dc:subject>
+          <dc:description xml:lang="en-US">The aim of the study was to analyze the hematologic response of cyclists after a nationwide competition level. Participated in 20 athletes (35 ± 7,90 years old, 1,75 ± 0,06m of height, 18,71 ± 4,12% of body fat, VO2max 57,90 ± 6,80 ml/kg/min, 345 ± 50,90W, 202 ± 6,77bpm of maximum heart rate), which underwent two blood samples, monitoring of body weight and water intake. After the competition was observed decrease in body weight (78,20 ± 9,10 to 76,70 ± 9,20 kg, p = 0,0001) with an average consumption of 620 ± 532,20 mL of water, and a significant increase (p = 0,0001) in the concentration of erythrocytes (5,28 ± 0,44 6 ± 0,41 million/mm3), hemoglobin (15,80 ± 1 to 17,70 ± 0,95 g/%), the platelets (211.950 ± 42.488,2 to 285.050 ± 47.097,2 un/mm3) and hematocrit (47 ± 2,97 to 54 ± 2,79%). Strong correlation (r &amp;gt; 0.7) between hematocrit with erythrocytes level and hemoglobin was observed. It was concluded that there is an increase in the number of hematological components of cyclists after competition with weak correlation with the water intake, body weight and the maximum volume of oxygen level</dc:description>
+          <dc:description xml:lang="pt-BR">O objetivo do estudo foi analisar a reposta hematológica de ciclistas após uma competição de nível nacional. Participaram 20 atletas (35 ± 7,90 anos, 1,75 ± 0,06m de estatura, 18,71 ± 4,12% de gordura, VO2máx de 57,90 ± 6,80 ml/kg/min, 345 ± 50,90W, 202 ± 6,77 bpm de frequência cardíaca máxima), que passaram por duas coletas de sangue, monitoramento do peso corporal e da ingesta de água. Após a competição foi verificada queda no peso corporal (78,20 ± 9,10 para 76,70 ± 9,20 kg, p = 0,0001) com consumo médio de 620 ± 532,20 ml de água, e aumento significativo (p = 0,0001) na concentração de eritrócitos (5,28 ± 0,44 para 6 ± 0,41 milhões/mm3), de hemoglobina (15,80 ± 1 para 17,70 ± 0,95 g/%), de plaquetas (211.950 ± 42.488,20 para 285.050 ± 47.097,20 un/mm3) e hematócrito (47 ± 2,97 para 54 ± 2,79%). Foi verificada forte correlação (r &amp;gt; 0,7) entre o hematócrito com o nível de eritrócitos e de hemoglobina. Concluiu-se que existe aumento na quantidade dos componentes hematológicos em ciclistas após competição, com fraca correlação com a ingesta voluntária de água, peso corporal e nível do volume máximo de oxigênio</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-04-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118393</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i2p103-108</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 2 (2016); 103-108</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 2 (2016); 103-108</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 2 (2016); 103-108</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118393/115945</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118394</identifier>
+        <datestamp>2020-06-25T16:03:12Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Factors associated with the mortality of patients with enterobacteriaceae carbapenem-resistant</dc:title>
+          <dc:title xml:lang="pt-BR">Fatores associados à mortalidade de pacientes com enterobactéria resistente aos carbapenêmicos</dc:title>
+          <dc:creator>Souza, Sara C. S.</dc:creator>
+          <dc:creator>Silva, Danilo F. da</dc:creator>
+          <dc:creator>Belei, Renata A.</dc:creator>
+          <dc:creator>Carrilho, Cláudia M. D. de M.</dc:creator>
+          <dc:subject xml:lang="en-US">Enterobacteriaceae. Cross Infection. Risk Management. Drug Resistance</dc:subject>
+          <dc:subject xml:lang="pt-BR">Enterobacteriaceae. Infecção Hospitalar. Controle de Risco. Resistência a Medicamentos</dc:subject>
+          <dc:description xml:lang="pt-BR">As Enterobactérias resistentes aos carbapenêmicos (ERC) tornaram-se uma grave ameaça à saúde pública. Devido à produção de enzimas como a Klebsiella pneumoniae carbapenemase (KPC), essas bactérias desenvolveram uma alta taxa de resistência e elevada mortalidade aos pacientes infectados. Diante disso, o objetivo do presente estudo foi analisar os fatores associados à mortalidade de pacientes com ERC. Foi avaliado o histórico de 591 pacientes que apresentaram cultura positiva para bactérias resistentes aos carbapenêmicos internados no período entre Janeiro de 2012 e Julho de 2013. Os fatores associados à mortalidade dos pacientes com ERC foram: sexo, faixa etária, sítio de isolamento do microrganismo, unidade e tempo de internação, e característica clínica (infectados e colonizados). A normalidade dos dados foi testada pelo teste de Shapiro-Wilk. Os dados foram apresentados em mediana (amplitude interquartílica). As associações foram feitas por meio do teste Qui-quadrado 2x2 e Quiquadrado de tendência. O nível de significância foi pré-estabelecido em P&amp;lt;0,05. O aumento da idade se associou com maior frequência de óbitos. Os sítios de isolamento: secreção traqueal e sangue foram os mais frequentes em pacientes que evoluíram a óbito. A internação em UTI também se associou com óbitos em pacientes com ERC, bem como um maior tempo de internação e a característica clínica de infectado. Por outro lado, sexo não foi um fator associado à mortalidade dos pacientes. Em conclusão, o presente estudo demonstrou haver associação entre faixa etária, sítio de isolamento do microrganismo, unidade e tempo de internação e característica clínica com a mortalidade de pacientes com ERC. Sugere-se que futuros estudos investiguem as mudanças na prevalência de casos de colonização e infecção por ERC em hospitais universitários e possam estabelecer estratégias de prevenção e controle</dc:description>
+          <dc:description xml:lang="en-US">record of 591 patients that presented positive culture for CRE admitted from January 2012 to July 2013. Other factors associated with mortality of patients with CRE were: sex, age, microorganism isolation site, unit and length of stay, and clinical feature (infection and colonization). Data normality was tested by Shapiro-Wilk. Quantitative data was presented as median (interquartile range). The associations were made through 2x2 and tendency Chi-square test. Significance level was set at P&amp;lt;0.05. The increase of age was associated with a high frequency of not survivors. The isolation site: lower respiratory tract and blood were more frequent in not survivor’s patients. ICU inpatients also were associated with CRE not survivors, as well as longer length of stay and the clinical feature of infection. On the other hand, sex was not a factor associated with the mortality of patients. In conclusion, the present study noted an association between age, microorganism isolation site, patient unit, length of stay and clinical feature with the mortality of CRE patients. It is suggested that future studies investigate the rate of prevalence changes of cases of colonization or infection for CRE in university hospitals and establish prevention and control strategies</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-04-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118394</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i2p109-115</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 2 (2016); 109-115</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 2 (2016); 109-115</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 2 (2016); 109-115</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118394/115946</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118395</identifier>
+        <datestamp>2020-06-25T16:03:11Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Prevalência dos tipos de Papilomavírus Humano em mulheres atendidas em um Hospital Universitário no Sul do Brasil</dc:title>
+          <dc:title xml:lang="en-US">Prevalence of Human Papillomavirus types in women attending at University hospital in southern Brazil</dc:title>
+          <dc:creator>Teixeira, Lisiane O</dc:creator>
+          <dc:creator>Vieira, Valdimara C</dc:creator>
+          <dc:creator>Germano, Fabiana N</dc:creator>
+          <dc:creator>Gonçalves, Carla V</dc:creator>
+          <dc:creator>Soares, Marcelo A</dc:creator>
+          <dc:creator>Martinez, Ana M B</dc:creator>
+          <dc:subject xml:lang="en-US">Molecular Biology. Genotyping Techniques / HPV. Papillomavirus Infections. Polymerase Chain Reaction. Women’s Health</dc:subject>
+          <dc:subject xml:lang="pt-BR">Biologia Molecular. Técnicas de Genotipagem / HPV. Infecções por Papillomavirus. Reação em Cadeia da Polimerase. Saúde da Mulher</dc:subject>
+          <dc:description xml:lang="en-US">Study design: cross-sectional. Objective: To determine the HPV prevalence and genotypes in women treated at University Hospital in southern Brazil. Methodology: Cervical cells samples from 200 women were collected. HPV was detected by nested polymerase chain reaction and genotypes were determined by sequencing. Variables were analyzed by the Fisher Exact Test and Chi-squared test of Pearson (X²) with a significance level of ≤ 5%. The strength of association was calculated by the prevalence ratio, with their confidence intervals at 95%. Multivariate analysis was calculated by Binary Logistic Regression for variables with P &amp;lt;0.20 Results: HPV DNA was detected in 55 women (27.5%). HPV prevalence was associate with income (P =0.01), early initiation of sexual life (P &amp;lt;0.001), pregnant (P = 0. 002), HIV- 1 infection (P = 0. 001) and koilocytosis presence in cytological test (P =0.006). Were found an association between serological status for HIV-1 and the genotypes HPV–33 (P =0.001) and HPV–68 (P &amp;lt;0.001). Multivariate analysis showed that HPV prevalence was associated with patients who had early initiation of sexual life (P =0.001), was infected by HIV–1 (P = 0.01), was pregnant (P = 0.02), and women with koilocytosis in cytological test (P =0.01). Genotypes were 90.4% higher-risk oncogenic (18 HPV–18, 14 HPV–16, four HPV–53, three HPV–31, two HPV–58, two HPV–59, two HPV–68, one HPV–33 and one HPV–52) and 9.6% low-risk (two HPV–11, two HPV–16 and one HPV–70). Conclusions: This study had the HPV prevalence similar to prevalence described in this region. The high-risk HPV genotypes were the most prevalent, being HPV–18 the main viral type found.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Transversal. Objetivo do estudo: Determinar a prevalência e os genótipos do HPV em mulheres atendidas em um Hospital Universitário no Sul do Brasil. Metodologia: Foram coletadas amostras de secreções cérvico-vaginal de 200 mulheres. O HPV foi detectado pela Reação em Cadeia da Polimerase aninhada e os genótipos por sequenciamento. As variáveis foram analisadas pelo Teste Exato de Fisher e pelo Chi-quadrado de Pearson com o nível de significância &amp;lt; 5%. A força de associação foi calculada pela razão de prevalência e os seus intervalos de confiança a 95%. A análise Multivariada foi calculada pela Regressão Logística Binária para as variáveis com P &amp;lt;0,20. Resultados: O DNA do HPV foi detectado em 55 mulheres (27,5%). A prevalência do HPV foi associada a baixa renda (P =0,01), o início sexual precoce (P &amp;lt;0,001), a gestação (P = 0, 002), a infecção pelo HIV–1 (P = 0, 001) e a coilocitose no exame citopatológico (P =0,006). Houve associação entre o status sorológico para o HIV–1 e os genótipos HPV–33 (P =0,001) e HPV–68 (P &amp;lt;0,001). Na análise multivariada, a prevalência do HPV foi associada ao início sexual precoce (P =0,001), a infecção pelo HIV–1 (P =0,01), a gestação (P =0,02) e a coilocitose no citopatológico (P =0,01). Sobre os genótipos, 90,4% eram de alto risco oncogênico (18 HPV–18, 14 HPV–16, quatro HPV–53, três HPV–31, dois HPV–58, dois HPV–59, dois HPV–68, um HPV–33 e um HPV–52) e 9,6% de baixo risco (dois HPV–11, dois HPV–16 e um HPV– 70). Conclusões: Esse estudo teve a prevalência do HPV semelhante à prevalência descrita para esta região. Os genótipos do HPV de alto risco foram os mais prevalentes, sendo o HPV–18 o principal tipo viral encontrado</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-04-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118395</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i2p116-123</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 2 (2016); 116-123</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 2 (2016); 116-123</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 2 (2016); 116-123</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118395/115949</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118397</identifier>
+        <datestamp>2020-06-25T16:03:10Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Altas taxas de sedentarismo e fatores de risco cardiovascular em pacientes com hipertensão arterial resistente</dc:title>
+          <dc:title xml:lang="en-US">High rates of physical inactivity and cardiovascular risk factors in patients with resistant hypertension</dc:title>
+          <dc:creator>Carvalho, Cristiane J. de</dc:creator>
+          <dc:creator>Marins, João C. B.</dc:creator>
+          <dc:creator>Amorim, Paulo R. S.</dc:creator>
+          <dc:creator>Fernandes, Márcio F.</dc:creator>
+          <dc:creator>Reis, Hamilton H. T.</dc:creator>
+          <dc:creator>Sales, Samuel S.</dc:creator>
+          <dc:creator>Miranda, Marciano R. de</dc:creator>
+          <dc:creator>Lima, Luciana M.</dc:creator>
+          <dc:subject xml:lang="en-US">Hypertension. Obesity. Dyslipidemias. Cardiovascular Diseases. Target Organs/Damage</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipertensão. Obesidade. Dislipidemias. Doenças Cardiovasculares. Órgãos-Alvo/Lesões</dc:subject>
+          <dc:description xml:lang="en-US">Background: Hypertension.is a multifactorial disease of high prevalence in Brazil and the world’s population and is the major treatable risk factor for cardiovascular disease. Objectives: To investigate the prevalence, according to sex, of risk behaviors and comorbidities associated with Hypertension.in the treated patients in Hiperdia Center Viçosa, MG. Methods: Cross-sectional study that evaluated 172 medical records of hypertensive patients greater than 18 years, nondiabetic, referred to the center of Viçosa Hiperdia. Among the data evaluated from analysis of medical records are the factors and behaviors of cardiovascular risk as overweight / obesity, dyslipidemia, smoking, drinking and physical inactivity, as well as medical conditions or comorbidities associated with hypertension. For data analysis were used the Kolmogorov-Smirnov test, Mann-Whitney test and the Pearson correlation test. The level of significance was 5%. Results: There was a higher prevalence of men among the patients and rates of alcoholism and smoking were significantly higher in this group. Women had a higher rate of obesity. Physical inactivity and dyslipidemia were present in 77% and 44% of patients, respectively, with no difference between sexes. Resistant Hypertension.was found in 71% of patients. Lower education was also very present among the hypertensive. Among the clinical conditions related to hypertension, there was a predominance of left ventricular hypertrophy, followed by kidney disease and cerebrovascular disease. Conclusions: The study showed that 71% of patients were classified as resistant Hypertension.and that, beyond this serious condition, they still showed a combination of behaviors and risk factors that confer a high risk of cardiovascular complications</dc:description>
+          <dc:description xml:lang="pt-BR">Fundamento: A hipertensão arterial sistêmica é uma doença multifatorial, de alta prevalência na população brasileira e mundial e constitui o principal fator de risco tratável para as doenças cardiovasculares. Objetivos: Verificar a prevalência, de acordo com o sexo, dos comportamentos de risco e das comorbidades associadas à hipertensão nos pacientes atendidos no Centro Hiperdia de Viçosa, MG Métodos: Estudo transversal que avaliou 172 prontuários de hipertensos maiores de 18 anos, não diabéticos, encaminhados ao Centro Hiperdia de Viçosa. Entre os dados avaliados a partir de análise de prontuários estão os fatores e comportamentos de risco cardiovascular como sobrepeso/obesidade, dislipidemia, tabagismo, etilismo e sedentarismo, bem como condições clínicas ou comorbidades associadas à HAS. Para análise dos dados foram empregados os testes de Kolmogorov-Smirnov, o teste de Mann-Whitney e o teste de correlação de Pearson. O nível de significância adotado foi de 5%. Resultados: Observou-se uma prevalência maior de homens entre os hipertensos analisados e as taxas de etilismo e tabagismo foram significativamente maiores neste grupo. As mulheres apresentaram uma taxa maior de obesidade. O sedentarismo e a dislipidemia estiveram presentes em 77% e 44% dos pacientes, respectivamente, sem diferença entre os sexos. Hipertensão arterial resistente foi encontrada em 71% dos pacientes. Dentre as condições clínicas relacionadas à hipertensão, houve um predomínio da hipertrofia do ventrículo esquerdo, seguida pela doença renal e pela doença cerebrovascular. Conclusões: O estudo mostrou que 71 % dos pacientes eram classificados como hipertensos resistentes e que, além desta séria condição, os mesmos ainda apresentavam uma combinação de comportamentos e fatores de risco que conferem um alto risco de complicações cardiovasculares</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-04-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118397</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i2p124-133</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 2 (2016); 124-133</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 2 (2016); 124-133</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 2 (2016); 124-133</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118397/115950</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118398</identifier>
+        <datestamp>2020-06-25T16:03:09Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação de estrutura e processo na atenção em Diabetes mellitus</dc:title>
+          <dc:title xml:lang="en-US">Evaluation of structure and process in care in Diabetes mellitus</dc:title>
+          <dc:creator>Zacharias, Fabiana C. M.</dc:creator>
+          <dc:creator>Pinto, Ione C.</dc:creator>
+          <dc:creator>Bulgarelli, Alexandre F.</dc:creator>
+          <dc:creator>Arcênio, Ricardo A.</dc:creator>
+          <dc:creator>Ferro, Denise</dc:creator>
+          <dc:creator>Gomide, Mariana F. S.</dc:creator>
+          <dc:creator>Figueira, Brisa P. G.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Enfermagem em Saúde Pública. Enfermagem. Avaliação de Serviços de Saúde. Processos de Enfermagem. Diabetes Mellitus</dc:subject>
+          <dc:subject xml:lang="en-US">Public Health Nursing. Nursing. Health Services Evaluation. Nursing Process. Diabetes Mellitus</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar a atenção à saúde aos pacientes com Diabetes mellitus tipo 2 a partir dos recursos humanos, registros de profissionais e de atividades técnicas em um Centro de Saúde Escola. Metodologia: Estudo avaliativo quantitativo, descritivo por meio de observação e análise de 150 pacientes com DM em um Centro de Saúde Escola no interior paulista. Resultados: A estrutura física segue a maioria das exigências da Agência Nacional de Vigilância Sanitária, os recursos materiais atendem as necessidades em relação às quantidades e qualidade. Em 145 (96.6%) prontuários haviam registros médicos o que aponta a organização do trabalho centrada no modelo biomédico. O registro das medidas antropométricas foi considerado baixo, sendo que em apenas 4 (2.6%) havia a medida da circunferência abdominal. Apenas 5 (3.3%) dos pacientes tiveram consulta com o enfermeiro. Essas consultas foram pontuais enfatizando orientações sobre uso dos medicamentos e aparentemente não se constitui em rotina no serviço. Conclusão: Considerou-se a estrutura do serviço como apropriada, no entanto o processo é um fator a ser revisto pela equipe de saúde</dc:description>
+          <dc:description xml:lang="en-US">Objective: Evaluate health care to patients with Diabetes mellitus type 2 by means of human resources, records of professional and technical activities in a School Health Center. Methodology: A quantitative, descriptive evaluative study through observation and analysis of 150 patients with DM at a School Health Center in São Paulo. Results: The physical structure follows most of the requirements of the National Health Surveillance Agency; the material resources cater the needs in the quantities and quality. The medical records 145 (96.6%) indicates that work organization was focused on the biomedical model. The registration of anthropometric measures was considered low, and in only 4 (2.6%) had the measure of waist circumference. Only 5 (3.3%) patients had consultation with the nurse. These consultations were punctual and highlighting specific guidelines on use of medications and there seems to be not in the service routine. Conclusion: We considered the structure of the service as appropriate but the process is a factor to be reviewed by the health team</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-04-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118398</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i2p134-142</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 2 (2016); 134-142</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 2 (2016); 134-142</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 2 (2016); 134-142</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118398/115951</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118408</identifier>
+        <datestamp>2020-06-25T16:03:08Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Patients with psychoactive substance use disorders treated in a psychiatric emergency unit</dc:title>
+          <dc:title xml:lang="pt-BR">Pacientes com transtornos relacionados ao uso de substâncias psicoativas atendidos em uma unidade de emergência psiquiátrica</dc:title>
+          <dc:creator>Padilha, Vitoria M.</dc:creator>
+          <dc:creator>Santos-Júnior, Amilton dos</dc:creator>
+          <dc:creator>Schettini, Carolina S. S.</dc:creator>
+          <dc:creator>Azevedo, Renata C. S.</dc:creator>
+          <dc:subject xml:lang="en-US">Emergency Medical Services. Emergency Services</dc:subject>
+          <dc:subject xml:lang="en-US">Psychiatric. Alcohol-Related Disorders. Substance-Related Disorders. Street Drugs</dc:subject>
+          <dc:subject xml:lang="pt-BR">Serviços Médicos de Emergência. Serviços de Emergência Psiquiátrica. Transtornos Relacionados ao Uso de Álcool. Transtornos Relacionados ao Uso de Substâncias. Drogas Ilícitas</dc:subject>
+          <dc:description xml:lang="en-US">Study type: Prevalence study. Objective: To describe the socio demographic and clinical profile of patients with mental and behavioral disorders due to psychoactive substance (PAS) use, evaluated by the Psychiatric team of the Referenced Emergency Unit (REU) at the State University Clinical Hospital of Campinas (UNICAMP-HC). Methods and casuistic: This is a descriptive and quantitative study, which analyzed patients with mental and behavioral disorders due to PAS use, evaluated by the Psychiatric team of the REU-HC-UNICAMP during a period of 12 months, starting on May 2010. Results: There were evaluated 350 patients with PAS related disorders, representing 23.8% of those who sought psychiatric care. Most were males and younger than other patients of the emergency unit. The main reason for seeking help was psychiatric complaint other than PAS related disorders (23.1%), followed by desire to be treated oneself/being admitted to inpatient psychiatric treatment (20.8%) and intoxication (12.5%); 38.5% had a diagnosis of multiple PAS dependence and 34.8% were diagnosed with isolated alcohol dependence; 36% had psychiatric comorbidities and, when compared to other patients, they received more medications during attendance and were less directed to primary care units. Conclusion: There is a high rate of consultations of patients with PAS related problems in the psychiatric emergency unit. Data on the profile of the evaluated these patients can contribute to the improvement of care to this population</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: Estudo de prevalência. Objetivo: Descrever o perfil sócio demográfico e clínico de pacientes com transtornos relacionados ao uso de substâncias psicoativas (SPA) atendidos pela Psiquiatria da Unidade de Emergência Referenciada (UER) do Hospital de Clínicas (HC) da UNICAMP. Métodos e casuística: Estudo descritivo e quantitativo, que avaliou os pacientes com transtornos relacionados ao uso de SPA atendidos pela Psiquiatria da UER do HC-UNICAMP no período de 12 meses a partir de maio de 2010. Resultados: Foram avaliados 350 pacientes com transtornos por uso de SPA, representando 23.8% do total dos que procuraram atendimento psiquiátrico. Maioria do sexo masculino e mais jovens do que os demais pacientes. O principal motivo de atendimento foi queixa psiquiátrica outra que não o uso de SPA (23,1%), seguido do desejo de se tratar/internar (20,8%) e intoxicação (12,5%). 38,5% tinham diagnóstico de dependência de múltiplas SPA e 34,8% dependência exclusiva de álcool; 36% apresentavam comorbidade psiquiátrica. Quando comparados com os demais pacientes avaliados pela Psiquiatria, receberam mais medicações no atendimento e foram menos encaminhados à atenção primária. Conclusão: Há elevada taxa de atendimento de pessoas com problemas relacionados ao uso de SPA na emergência psiquiátrica. Dados sobre o perfil dos atendidos podem contribuir para a melhoria da assistência a esta população</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-04-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118408</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i2p143-151</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 2 (2016); 143-151</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 2 (2016); 143-151</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 2 (2016); 143-151</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118408/115954</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/118409</identifier>
+        <datestamp>2020-06-25T16:03:07Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Capacidade funcional e qualidade de vida entre sujeitos saudáveis e pacientes com apneia obstrutiva do sono</dc:title>
+          <dc:title xml:lang="en-US">Functional capacity and quality of life between healthy subjects and patients with obstructive sleep apnea</dc:title>
+          <dc:creator>Tassinari, Cadi C. R.</dc:creator>
+          <dc:creator>Piccin, Chaiane F.</dc:creator>
+          <dc:creator>Beck, Marco C.</dc:creator>
+          <dc:creator>Scapini, Fabrício</dc:creator>
+          <dc:creator>Oliveira, Luiz C. A.</dc:creator>
+          <dc:creator>Signor, Luis U.</dc:creator>
+          <dc:creator>Silva, Antônio M. V.</dc:creator>
+          <dc:subject xml:lang="en-US">Sleep Apnea</dc:subject>
+          <dc:subject xml:lang="en-US">Obstructive. Physical Fitness. Quality of Life</dc:subject>
+          <dc:subject xml:lang="pt-BR">Apneia do Sono Tipo Obstrutiva. Aptidão Física. Qualidade de Vida</dc:subject>
+          <dc:description xml:lang="en-US">Study Model: Case – control. Study Objectives: To compare the functional capacity, respiratory parameters and quality of life between healthy subjects and patients with obstructive sleep apnea. Methodology: 19 patients with obstructive sleep apnea and 19 healthy subjects were evaluated regarding their quality of life (The Medical Study 36-Item Short-Form Health Survey), their functional capacity (six-minute walk test), pulmonary function (spirometry) and their strength respiratory muscle (manovacuometer). Results: Patients showed a decline in the quality of life concerning functional capacity domains, general state of health and mental health. The distance walked in the six-minute walk test was shorter for patients with obstructive sleep apnea. Respiratory parameters did not differ between groups. Conclusion: Patients with obstructive sleep apnea present impairment regarding their quality of life and functional capacity</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Caso-controle. Objetivos do estudo: Comparar a capacidade funcional, parâmetros respiratórios e qualidade de vida entre sujeitos saudáveis e pacientes com apneia obstrutiva do sono. Metodologia: Em 19 pacientes com apneia obstrutiva do sono e 19 sujeitos saudáveis foram avaliadas a qualidade de vida (The Medical Study 36-item Short-Form Health Survey), capacidade funcional (teste de caminhada de seis minutos), função pulmonar (espirometria) e força muscular respiratória (manovacuometria). Resultados: Os pacientes apresentaram declínio na qualidade de vida pelos domínios capacidade funcional, estado geral de saúde e saúde mental. A distância percorrida no teste de caminhada de seis minutos foi menor nos pacientes com apneia obstrutiva do sono. Os parâ- metros respiratórios não diferiram entre os grupos. Conclusão: Pacientes com apneia obstrutiva do sono apresentam comprometimento da qualidade de vida e da capacidade funcional</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2016-04-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/118409</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v49i2p152-159</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 49 No. 2 (2016); 152-159</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 49 Núm. 2 (2016); 152-159</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 49 n. 2 (2016); 152-159</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/118409/115955</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:34Z" completeListSize="1467" cursor="1000">f1a5e72bfad95d891d6d8deb56b5b9da</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

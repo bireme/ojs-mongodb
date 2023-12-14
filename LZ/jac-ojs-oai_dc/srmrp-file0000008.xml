@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:03Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/372</identifier>
+        <datestamp>2020-06-25T16:11:22Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THE NORMAL SLEEP</dc:title>
+          <dc:title xml:lang="pt-BR">O SONO NORMAL</dc:title>
+          <dc:creator>Fernandes, Regina Maria França</dc:creator>
+          <dc:subject xml:lang="pt-BR">Sono</dc:subject>
+          <dc:subject xml:lang="pt-BR">fisiologia. Fases do Sono. Sono REM. Ritmo Circadiano. Movimentos Oculares.</dc:subject>
+          <dc:subject xml:lang="en-US">Sleep</dc:subject>
+          <dc:subject xml:lang="en-US">physiology. Sleep Stages. Sleep</dc:subject>
+          <dc:subject xml:lang="en-US">REM. Circadian Rhythm. Eye Movements.</dc:subject>
+          <dc:description xml:lang="en-US">Sleep is a cyclic state characterized in the human being by 5 fundamental stages, based on the electroencephalogram (EEG) pattern and the presence or absence of rapid eye movements (REM), as well as changes in other physiologic variables, like muscle tonus and cardio-respiratory pattern. The EEG shows progressive slowing with the deepening of the sleep without rapid eye movements (Non-REM) which evolves into REM sleep each 90 minutes during night sleep, comprising a predictable nocturnal sleep architecture, with definite proportions of each sleep stage. A neurochemical bio-rhythm follows sleep-wake cycle, with changes in body temperature and variations in the secretion pattern of neurotransmitters and hormones, related to different stages of sleep and wakefulness. The knowledge about physiological features and pathological variations of this complex cycle has enabled the development of Sleep Medicine and has given basis to the study of sleep disorders.</dc:description>
+          <dc:description xml:lang="pt-BR">O sono é um estado fisiológico cíclico, caracterizado no ser humano por 5 estágios fundamentais, que se diferenciam de acordo com o padrão do eletrencefalograma (EEG) e a presença ou ausência de movimentos oculares rápidos (rapid eye movements : REM), além de mudanças em diversas outras variáveis fisiológicas, como o tono muscular e o padrão cardiorespiratório. O EEG mostra alentecimento progressivo com o aprofundamento do sono sem movimentos oculares rápidos (Não-REM) e atividade rápida dominante de baixa voltagem, semelhante à da vigília, durante o sono REM. Um ciclo noturno previsível de 90 minutos marca a variação entre os 4 estágios do sono Não-REM para o sono REM, descrevendo uma arquitetura característica, com proporções definidas de cada estágio, que variam segundo a faixa etária. Um bio-ritmo neuroquímico acompanha as variações circadianas do chamado ciclo vigília-sono, com mudanças específicas da temperatura corporal e da secreção de diversos hormônios e neurotransmissores, relacionados aos diferentes estágios do sono e da vigília. O conhecimento dos aspectos fisiológicos e das variações patológicas deste ciclo complexo deu margem ao desenvolvimento da Medicina do Sono e compõe as bases do estudo dos distúrbios do sono na prática clínica.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/372</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p157-168</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 157-168</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 157-168</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 157-168</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/372/373</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/373</identifier>
+        <datestamp>2020-06-25T16:11:21Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">GENERAL ASPECTS OF POLYSOMNOGRAPHIC MONITORING</dc:title>
+          <dc:title xml:lang="pt-BR">MONITORIZAÇÃO POLISSONOGRÁFICA – ASPECTOS GERAIS</dc:title>
+          <dc:creator>Bustamante, Guilherme Oliveira</dc:creator>
+          <dc:subject xml:lang="pt-BR">Polissonografia. Monitorização do Sono. Técnicas do Sono.</dc:subject>
+          <dc:subject xml:lang="en-US">Polysomnography. Sleep Monitoring. Sleep Techniques.</dc:subject>
+          <dc:description xml:lang="en-US">Polysomnography is a method to evaluate sleep that involves measurement of several physiological parameters related to time, when a patient is put to sleep at night or day.These parameters should be chosen concerning the clinical symptoms of the patient.&#160; The tests are generally performed in&#160;sleep laboratories assisted by a trained technician. The technician or a sleep medicine specialist will review the data to perform sleep staging and events identification. The findings will be analyzed with the help of a sleep analysis software and interpreted by the sleep specialist in the light of the patient’s symptoms. Not all sleep problems demands a polysomnography to be performed. The American Academy of Sleep Medicine (AASM) is an organization with many professionals and societies that are involved in basic and clinical assessment of sleep and sleep disorders. It has an official website (www.aasmnet.org) where many practice standards and reviews of polysomnography and related techniques indications can be obtained, as well as information about sleep disorders. Polysomnography is a constantly evolving technique as long as new concepts and new technologies are developed and incorporated.</dc:description>
+          <dc:description xml:lang="pt-BR">A polissonografia é uma técnica que faz o registro gráfico de múltiplas variáveis fisiológicas ao longo do tempo de sono, e este registro pode ser feito tanto no período noturno quanto diurno. As variáveis a serem registradas pelo exame devem ser escolhidas conforme a suspeita clínica relacionada aos sintomas do paciente. Os exames polissonográficos geralmente são feitos em laboratórios especializados, já que os exames são acompanhados durante todo o tempo por um técnico treinado. Um especialista ou técnico treinado em polissonografia irá analisar visualmente todos os dados e marcar os eventos pertinentes para que estes sejam colocados em tabelas e/ou gráficos pelo software de análise. Os achados do exame serão então interpretados pelo especialista em sono à luz dos dados clínicos do paciente. Nem todo tipo de distúrbio do sono necessita ser investigado com a polissonografia. A Academia Americana de Medicina do Sono (AASM) é uma organização que engloba inúmeros profissionais de várias especialidades médicas que lidam com distúrbios do sono (neurologistas, pneumologistas, psiquiatras, otorrinolaringologistas e outros) e publica em seu site oficial (www.aasmnet.org) diretrizes para as indicações do exame além de uma série de outras normatizações, revisões e informações sobre doenças do sono. O exame é uma técnica em evolução e vem sendo aprimorada a cada dia à medida que novos conceitos e novas tecnologias são incorporados e desenvolvidos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/373</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p169-184</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 169-184</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 169-184</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 169-184</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/373/374</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/374</identifier>
+        <datestamp>2020-06-25T16:11:20Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">OBSTRUCTIVE SLEEP APNEA/HYPOPNEA SYNDROME</dc:title>
+          <dc:title xml:lang="pt-BR">SÍNDROME DAS APNÉIAS / HIPOPNÉIAS OBSTRUTIVAS DO SONO (SAHOS)</dc:title>
+          <dc:creator>Silva, Geruza A.</dc:creator>
+          <dc:creator>Giacon, Leonardo A T</dc:creator>
+          <dc:subject xml:lang="pt-BR">Apnéia. Sono. Ronco. Distúrbios do Sono por Sonolência Excessiva. Síndromes da Apnéia do Sono. Apnéia do Sono Tipo Obstrutiva</dc:subject>
+          <dc:subject xml:lang="en-US">Apnea. Sleep. Snoring. Disorders of Excessive Somnolonce. Sleep Apnea Syndromes. Sleep Apnea</dc:subject>
+          <dc:subject xml:lang="en-US">Obstrutive.</dc:subject>
+          <dc:description xml:lang="en-US">Respiratory sleep disorders are a relatively new topic in Medicine, its management being multidisciplinary. Its importance is raising since the early 1980 when the diagnostic and therapeutic tools started to become largely available. That made it possible to convincingly show the role of sleep and sleep disorders in raising morbidity and mortality. The prevalence has also raise since the first epidemiologic studies in adults mostly because of risk factors like obesity and age rise. The sleep apnea/hypopnea syndrome is the most important and common respiratory sleep disorder, being about 80% of those cases that look for care at Clinics of Sleep Study.</dc:description>
+          <dc:description xml:lang="pt-BR">Os distúrbios respiratórios do sono constituem um tópico relativamente novo do conhecimento científico, cujo manejo envolve a participação de diversas Disciplinas da área Médica. Sua importância tem crescido desde a disponibilização em escala “democrática” dos recursos diagnósticos e terapêuticos que se iniciou no começo dos anos de 1980. Isso permitiu constatações sucessivas do papel do sono e dos seus distúrbios no aumento da morbidade e da mortalidade. A prevalência também tem aumentado desde os primeiros levantamentos epidemiológicos em adultos, em parte devido ao aumento dos fatores de risco, principalmente a obesidade e idade, mas também ao melhor reconhecimento de anormalidades devido ao aumento na sensibilidade dos métodos diagnósticos utilizados. As apnéias/hipopnéias do sono têm se revelado ser o mais importante e freqüente distúrbio respiratório do sono, constituindo cerca de 80% dos casos que procuram as Clínicas dedicadas a estudar as anormalidades do sono.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/374</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p185-194</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 185-194</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 185-194</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 185-194</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/374/375</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/375</identifier>
+        <datestamp>2020-06-25T16:11:19Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">OBESITY HYPOVENTILATION SYNDROME</dc:title>
+          <dc:title xml:lang="pt-BR">SÍNDROME OBESIDADE-HIPOVENTILAÇÃO ALVEOLAR</dc:title>
+          <dc:creator>Silva, Geruza A.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hipoventilação Alveolar. Obesidade. Síndromes da Apnéia do Sono. Distúrbios do Sono por Sonolência Excessiva.</dc:subject>
+          <dc:subject xml:lang="en-US">Hypoventilation</dc:subject>
+          <dc:subject xml:lang="en-US">Alveolar. Obesity. Sleep Apnea Syndromes. Disorders of Excessive Somnolence.</dc:subject>
+          <dc:description xml:lang="en-US">Alveolar hypoventilation is the main harm caused by obesity to the respiratory function. That means an inability of the respiratory aparatus to eliminating carbon dioxide as soon as it reaches the lung. So, it occurs hypercapnia (PaCO2&amp;gt; 45 mmHg)&#160; together with equivalent&#160; degree of hipoxemia (low PaO2). Obesity-hypoventilation syndrome means chronic alveolar hipoventilation in an obese patient (body mass index &amp;gt; 30 Kg/m2), without any other respiratory causes for gas exchange disturbance. This syndrome adds risk to the health condition and quality of life of the obese people, although it attacks a low percentage of them. One must exclude chronic obstructive lung disease and sleep apnea syndrome. Palliative treatment looks for the control of hypoxemia and hypercapnia, while ultimate treatment seeks eliminating obesity.&#160;&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">A hipoventilação alveolar é o principal prejuízo causado à função respiratória pela obesidade. O conceito de hipoventilação alveolar reflete a incompetência do aparelho respiratório para eliminar gás carbônico (CO2) na mesma proporção em que o gás chega ao pulmões. Subentende, portanto, a presença de hipercapnia (PaCO2&amp;gt;45 mmHg) acompanhada de equivalente grau de hipoxemia (baixa PaO2). Síndrome obesidade-hipoventilação alveolar é definida como hipoventilação alveolar crônica, em paciente obeso (índice de massa corpórea &amp;gt; 30 Kg/m2), sem qualquer outra doença respiratória que justifique o distúrbio de trocas gasosas. A síndrome reveste-se de grande importância pelo risco que acrescenta às condições de doença e de má qualidade de vida do obeso, mas ocorre numa baixa percentagem deles. O diagnóstico diferencial é feito principalmente com doença pulmonar obstrutiva crônica e com síndrome das apnéias do sono. O tratamento paliativo consiste no controle da hipoventilação e da hipoxemia crônica e o tratamento resolutivo consiste em combater a obesidade.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/375</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p195-204</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 195-204</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 195-204</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 195-204</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/375/376</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/376</identifier>
+        <datestamp>2020-06-25T16:11:18Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">SLEEP DISORDERS ASSOCIATED WITH SLEEP APNEA SYNDROME</dc:title>
+          <dc:title xml:lang="pt-BR">OUTROS DISTÚRBIOS DO SONO NA SÍNDROME DA APNÉIA DO SONO</dc:title>
+          <dc:creator>Sander, Heidi H.</dc:creator>
+          <dc:creator>Pachito, Daniela V.</dc:creator>
+          <dc:creator>Vianna, Letícia S.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Insônia. Bruxismo do Sono. Sonambulismo. Síndromes da Apnéia do Sono.</dc:subject>
+          <dc:subject xml:lang="en-US">Insomnia. Sleep Bruxism. Somnambulism. Sleep Apnea.</dc:subject>
+          <dc:description xml:lang="en-US">Many sleep disorders may coexist with apnea/hypopnea syndrome, especially those who are caused by sleep fragmentation. In this review we will focus some of them as insomnia, sleep bruxism and somnambulism. Insomnia can be referred by patients with apnea. As both disorders can cause severe health problems as car accidents and cardiovascular morbidity and some of the pharmacological treatment of insomnia aggravate apnea, the identification of sleep disordered breathing in patients with insomnia is very important for the correct treatment of both syndromes. Sleep bruxism can be present in as many as 14% of patients with apnea. Its severity may be aggravated by apnea and the therapeutic approach must include its treatment. Somnambulism is one of the most common parasomnias in both children and adults. Patients who frequently snore and presents parasomnias should be evaluated carefully as sleep fragmentation caused by sleep disordered breathing can cause or maintain such sleep problem. In conclusion, identification of other sleep disorders that occur as epiphenomenona or as consequence of sleep apnea is of extreme importance as both treatment of such disorders can aggravate apnea as its misdiagnosis can interfere with clinic improve those patients.</dc:description>
+          <dc:description xml:lang="pt-BR">Vários distúrbios do sono podem acompanhar a Síndrome da Apnéia do Sono pela concomitância das síndromes ou pela existência de mecanismos fisiopatológicos comuns. Destacamos a insônia, o bruxismo do sono e o sonambulismo. A insônia pode ser uma das queixas dos pacientes portadores de distúrbios respiratórios do sono, pela fragmentação do sono decorrente. Além disso, ambos podem trazer sérias repercussões na saúde como o aumento da morbidade cardiovascular e maior risco de acidentes automobilísticos e laborativos, como tem sido demonstrado nas duas ultimas décadas. O correto diagnóstico de insônia em pacientes com apnéia do sono, bem como de apnéia em pacientes com insônia define a metodologia propedêutica empregada e também o tratamento, como por exemplo, a abordagem farmacológica quando necessária e o tratamento do distúrbio respiratório concomitantemente. O bruxismo do sono pode estar presente em 3,5-14% dos pacientes com apnéia do sono. Na sua investigação clínica devemos sempre avaliar a possível presença da apnéia do sono já que para o seu tratamento muitas vezes é necessária a sua abordagem em primeiro lugar para então utilizarmos tratamentos farmacológicos e dispositivos que diminuam os danos às estruturas orofaciais.Dentre as parassonias que frequentemente acompanham a apnéia do sono temos o sonambulismo.Ele representa a presença de atividade motora típica da vigília durante estado do sono.Esse fenômeno torna-se mais freqüente quando ocorre fragmentação do sono, provocando dissociação das variáveis fisiológicas, como ocorre em indivíduos com distúrbios respiratórios do sono. Concluindo, é de suma importância o conhecimento e a identificação de outros distúrbios do sono que podem ocorrer como epifenômenos ou como conseqüência da apnéia obstrutiva do sono, pois tanto o tratamento dos mesmos pode, em alguns casos agravar a apnéia do sono, quanto o subdiagnóstico pode interferir na melhora clínica do paciente.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/376</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p205-211</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 205-211</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 205-211</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 205-211</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/376/377</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/377</identifier>
+        <datestamp>2020-06-25T16:11:17Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THERAPEUTIC APPROACH OF RESPIRATORY SLEEP DISORDERS TREATMENT WITH NON-INVASIVE VENTILATION (CPAP, BiPAP AND AUTO-CPAP)</dc:title>
+          <dc:title xml:lang="pt-BR">ABORDAGEM TERAPÊUTICA DOS DISTÚRBIOS RESPIRATÓRIOS DO SONO TRATAMENTO COM VENTILAÇÃO NÃO-INVASIVA (CPAP, BiPAP E AUTO-CPAP)</dc:title>
+          <dc:creator>Silva, Geruza A.</dc:creator>
+          <dc:creator>Pachito, Daniela V.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Pressão Positiva Contínua nas Vias Aéreas. Síndromes da Apnéia do Sono. Ronco.</dc:subject>
+          <dc:subject xml:lang="en-US">Continuous Positive Airway Pressure. Sleep Apnea Syndromes. Snoring.</dc:subject>
+          <dc:description xml:lang="pt-BR">A abordagem dos distúrbios respiratórios do sono com uso de pressão positiva contínua nas vias aéreas é considerada a forma mais eficiente de tratamento. É feita por meio de aparelho apropriado, chamado CPAP que se adapta a um tubo flexível através do qual o ar liberado pelo aparelho é conduzido até uma máscara firmemente adaptada ao nariz do paciente.Os portadores de distúrbios graves bem como os moderados sintomáticos, aderem facilmente a essa forma de tratamento. A adesão ao tratamento pode ser melhorada com medidas simples em alguns casos. As complicações são previsíveis e raras. Outras modalidades de dispositivos de pressão positiva ocasionalmente são mais bem toleradas e mais eficazes para o tratamento de hipoventilação alveolar e apnéias centrais.</dc:description>
+          <dc:description xml:lang="en-US">Continuous positive airway pressure has proved to be the most efficient way of treatment for respiratory sleep disorders. The device called CPAP is connected to a patient by means of a flexible tube conducting the delivered air up to a mask tightly attached to the nose of the patient. The patients with severe or symptomatic moderate sleep respiratory disturbance easily adhere to this form of treatment. This adhesion can be improved with simple attitudes in some cases. The complications are predictable and uncommon. Some other kinds of positive pressure can be better tolerate and more efficient in the treatment of primary or secondary alveolar hypoventilation and central apneas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/377</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p212-217</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 212-217</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 212-217</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 212-217</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/377/378</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/378</identifier>
+        <datestamp>2020-06-25T16:11:15Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">SURGERY FOR THE TREATMENT OF OSAHS</dc:title>
+          <dc:title xml:lang="pt-BR">TRATAMENTO CIRÚRGICO DA SAHOS</dc:title>
+          <dc:creator>Küpper, Daniel S.</dc:creator>
+          <dc:creator>Leite, Marcelo G J</dc:creator>
+          <dc:creator>Nogueira, Rodrigo L.</dc:creator>
+          <dc:creator>Valera, Fabiana C P</dc:creator>
+          <dc:creator>Oliveira, José A A</dc:creator>
+          <dc:subject xml:lang="pt-BR">Síndromes da Apnéia do Sono. Ronco. LAUP. UPFP. Radiofreqüência.</dc:subject>
+          <dc:subject xml:lang="en-US">Sleep Apnea Syndromes. Snoring. LAUP. UPPP. Radiofrequency.</dc:subject>
+          <dc:description xml:lang="en-US">Nowadays, snoring is not only a social problem, but it became a disease, especially when associated to obstructive sleep apnea and hypopnea syndrome (OSAHS). It is associated to many other illnesses, such as systemic arterial hypertension, stroke, myocardial infarction and erectile dysfunction. The treatment for snoring and OSAHS remains a challenge for medicine. Although the gold standard treatment is CPAP, many surgeries have been proposed as alternatives to its resolution. In this chapter, the authors will discuss the surgical procedures most commonly performed for snoring and OSAHS control.</dc:description>
+          <dc:description xml:lang="pt-BR">O ronco deixou de ser apenas um incômodo social e junto com a Síndrome da Apnéia/Hipopnéia Obstrutiva do Sono (SAHOS) passou a ser considerado um problema de saúde. Segundo constatações atuais, o ronco e as apnéias estão associados a outras patologias, como: hipertensão arterial, acidente vascular cerebral, infarto do miocárdio e disfunção eréctil. O tratamento ainda é um desafio para a medicina. O tratamento atualmente considerado ideal é o uso de pressão positiva contínua nas vias aéreas (CPAP), porém diversas cirurgias vêm sendo propostas nos últimos anos como alternativas à resolução do problema. Neste capítulo iremos discutir as cirurgias comumente utilizadas para o controle do ronco e das apnéias</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/378</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p218-226</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 218-226</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 218-226</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 218-226</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/378/379</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/379</identifier>
+        <datestamp>2020-06-25T16:11:14Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">CIRURGIA DE AVANÇO MAXILOMANDIBULAR PARA TRATAMENTO DA SÍNDROME DAS APNÉIAS/ HIPOPNÉIAS OBSTRUTIVAS DO SONO (SAHOS)</dc:title>
+          <dc:title xml:lang="en-US">MAXILLOMANDIBULAR ADVANCEMENT SURGERY FOR THE TREATMENT OF OBSTRUCTIVE SLEEP APNEA/HYPOPNEA SYNDROME (OSAHS)</dc:title>
+          <dc:creator>Mello-Filho, Francisco Veríssimo</dc:creator>
+          <dc:creator>Faria, Ana Célia</dc:creator>
+          <dc:creator>Ribeiro, Hélcio Tadeu</dc:creator>
+          <dc:creator>Silva Junior, Sávio Nogueira</dc:creator>
+          <dc:creator>Garcia, Luís Vicente</dc:creator>
+          <dc:creator>Santos, Antonio Carlos</dc:creator>
+          <dc:subject xml:lang="pt-BR">Cirurgia Facial. Avanço Mandibular. Apnéia do Sono Tipo Obstrutiva.</dc:subject>
+          <dc:subject xml:lang="en-US">Facial Surgery. Mandibular Advancement. Sleep Apnea</dc:subject>
+          <dc:subject xml:lang="en-US">Obstructive.</dc:subject>
+          <dc:description xml:lang="en-US">Treatment of upper airway occlusion (UAO) during sleep has been re-evaluated because of the observation of the failure of some therapeutic techniques. The different interpretations of the pattern of obstruction in UAO seem to determine the success or failure of surgical treatment. Surgery for maxillomandibular advancement has proved to be the most efficient surgical treatment of OSAHS (excluding tracheostomy), with a high success rate. In order to better understand the procedure of maxillomandibular advancement and to discuss the numerous difficulties pointed out, we present the diagnostic methodology, surgical description, results, complications, and advantages of this procedure. After surgery for maxillomandibular advancement, patients with OSAHS show the absence or a marked reduction of symptoms and improvement of polysonographic indices, with a consequent improvement of quality of life. Thus, this surgery represents an important tool to be used in the treatment of OSAHS.</dc:description>
+          <dc:description xml:lang="pt-BR">O tratamento da oclusão das vias aéreas superiores (VAS) durante o sono tem merecido reavaliação pela constatação de insucessos de algumas técnicas terapêuticas. As diferentes interpretações dos padrões de obstrução nas VAS parecem determinar o sucesso ou falha do tratamento cirúrgico. A cirurgia de avanço maxilomandibular tem se apresentado como o tratamento cirúrgico mais eficiente para SAHOS (excluindo a traqueostomia), com elevados índices de sucesso. Com o objetivo de melhor compreendermos o procedimento de avanço maxilomandibular, bem como desmistificar as inúmeras dificuldades apontadas, apresentamos a metodologia diagnóstica, descrição cirúrgica, resultados, complicações e vantagens deste procedimento. Os pacientes portadores de SAHOS, depois da cirurgia de avanço maxilomandibular, apresentam ausência ou redução acentuada dos sintomas e melhora dos índices polissonográficos e conseqüente melhora em sua qualidade de vida. Portanto, essa cirurgia apresenta-se como uma importante ferramenta para ser utilizada no tratamento da SAHOS.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/379</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p227-235</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 227-235</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 227-235</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 227-235</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/379/380</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/380</identifier>
+        <datestamp>2020-06-25T16:11:13Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">BARIATRIC SURGERY AND SLEEP APNEA</dc:title>
+          <dc:title xml:lang="pt-BR">CIRURGIA BARIÁTRICA E APNÉIA DO SONO</dc:title>
+          <dc:creator>Ceneviva, Reginaldo</dc:creator>
+          <dc:creator>Silva, Geruza A.</dc:creator>
+          <dc:creator>Viegas, Melina M.</dc:creator>
+          <dc:creator>Sankarankutty, Ajith Kumar</dc:creator>
+          <dc:creator>Chueire, Fernando Bahdur</dc:creator>
+          <dc:subject xml:lang="pt-BR">Obesidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">cirurgia. Cirurgia Bariátrica. Síndromes da Apnéia do Sono.</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity</dc:subject>
+          <dc:subject xml:lang="en-US">surgery. Bariatric Surgery. Sleep Apnea Syndromes.</dc:subject>
+          <dc:description xml:lang="en-US">Obesity is an important medical and social problem due to its severity and its already high and increasing prevalence. It has epidemic proportions and can cause or worsen arterial hypertension, type 2 diabetes mellitus, degenerative arthropathies, sleep apnea, as well as respiratory and cardiovascular dysfunctions. The impairment of the quality of life, reduction of life expectancy and the high failure rates of medical treatment are factors which reinforce the indication of surgical treatment for morbid obesity. The surgical indication is based on the analysis of multiple clinical aspects, including conservative treatment failure and psychological evaluation. Body mass&#160;index higher than 40 kg/m2 or over 35 kg/m2 with the presence of illness associated with obesity are important parameters to define the surgical indication. Surgical techniques involve modalities that are restrictives, malabsortives or a combination of both. As is the case for other comorbidities, an adequate pre and postoperative preparation of obese patients with severe obstructive sleep apnea is important. Besides special care concerning ventilation, it is recommended that the patient looses 10 to 15% of his original weight before the surgical operation. The preferencial surgical technique for morbid obesity in Brazil is the vertical gastroplasty with bandage and Roux-en-Y gastric bypass (Fobi-Capella operation) as it obtains a long-term weight loss of 40% of the original body weight, without significant nutritional and metabolic alterations. Bariatric surgery cures or improves most of the obese patients suffering from sleep apnea.&#160;&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">A obesidade constitui um problema médico-social importante por sua prevalência alta e crescente e sua gravidade. Tem características epidêmicas e pode favorecer ou agravar hipertensão arterial, diabetes mellitus, artropatias degenerativas, apnéia do sono, e disfunções respiratórias e cardiovasculares. A piora da qualidade de vida, a redução da expectativa de vida e a alta taxa de fracasso dos tratamentos conservadores são fatores que reforçam a indicação de tratamento cirúrgico da obesidade mórbida. A indicação cirúrgica baseia-se na análise conjunta de múltiplos aspectos clínicos, incluindo a falha do tratamento conservador e a avaliação psicológica. São parâmetros importantes o índice de massa corpórea acima de 40 kg/m2 ou acima de 35 kg/m2 na presença de doença agravada ou causada pela obesidade. As modalidades cirúrgicas, de acordo com seu objetivo fundamental, são: restritivas, disabsortivas e mistas. Como para outras co-morbidades, é importante o preparo pré-e pós operatório adequado dos obesos com apnéia obstrutiva do sono (AOS) grave. Além de cuidados especiais relativos à ventilação é recomendado que o paciente perca de 10 a 15% de seu peso antes da intervenção cirúrgica. Redução de 10% do peso original corresponde geralmente à diminuição de cerca de 25% no índice de apnéia e hipopnéia. Os efeitos sobre a AOS são tanto melhores quanto maiores forem a redução do peso e a manutenção dessa perda. Resultados de meta-análise demonstram que a perda efetiva de peso após cirurgia bariátrica resolve as co-morbidades na maioria dos pacientes , com cura ou melhora da AOS em 86,3% dos pacientes. No Brasil dá-se preferência à gastroplastia vertical com bandagem e derivação gástrica em Y de Roux (técnica de Fobi-Capella) por conseguir perda de 40% do peso inicial, mantida a longo prazo e por não produzir alterações nutricionais e metabólicas importantes.&#160;&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/380</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p236-245</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 236-245</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 236-245</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 236-245</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/380/381</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/381</identifier>
+        <datestamp>2020-06-25T16:11:12Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">CLINICAL TREATMENT OF OBESITY</dc:title>
+          <dc:title xml:lang="pt-BR">TRATAMENTO CLÍNICO DA OBESIDADE</dc:title>
+          <dc:creator>Nonino-Borges, Carla B.</dc:creator>
+          <dc:creator>Borges, Ricardo M.</dc:creator>
+          <dc:creator>Santos, José Ernesto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Obesidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">tratamento. Dietoterapia.</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity</dc:subject>
+          <dc:subject xml:lang="en-US">treatment. Diet Therapy.</dc:subject>
+          <dc:description xml:lang="en-US">Obesity prevalence has increased gradually and its treatment is essential, because it is associated with diverse chronic illnesses. Amongst the options to treat obesity, clinical treatment is fundamental, being part also of the surgical treatment and has as objective to change the life style of the obese, improving its eating habits and also stimulating the practical of physical activity. For this it is essential to identify the errors in the alimentary behavior of the patient and other errors in its life style.There are no evidences that indicate which diet composition is the most adequate to promote a higher weight loss, however a balanced diet seems to promote health more than diets that are highly restrictive in some type of nutrient and are equally efficient in promoting weight loss. Despite obesity being one of the older human metabolic diseases, the drugs available for treatment of obesity are limited and have diverse collateral effects. Moreover, the changes in life style and diet habits promote more lasting results than the drug treatment. Drugs must assist the patient to change its alimentary habit and not simply to reduce the sensation of hunger and the food ingestion.</dc:description>
+          <dc:description xml:lang="pt-BR">A prevalência da obesidade tem aumentado progressivamente e seu tratamento é imprescindível, pois ela está associada ao aparecimento de diversas doenças crônicas. Dentre as opções terapêuticas para a obesidade, o tratamento clínico é fundamental, sendo parte integrante inclusive do tratamento cirúrgico e tem como objetivo mudar o estilo de vida do indivíduo obeso, melhorando seu padrão alimentar e também estimulando a prática de atividade física. Para isso é preciso identificar as falhas tanto no comportamento alimentar do paciente, quanto outros erros nos seus hábitos de vida. Não existem evidências que indique qual a composição mais adequada da dieta para se promover uma maior perda de peso, porém uma alimentação equilibrada parece promover mais saúde e bem estar do que dietas altamente restritivas em algum tipo de nutriente e ser igualmente eficaz em promover perda de peso. Apesar de ser uma das enfermidades metabólicas mais antigas da humanidade, as opções farmacológicas para tratamento da obesidade são limitadas e apresentam diversos efeitos colaterais. Além disso, as mudanças de estilo de vida e do hábito alimentar promovem resultado mais duradouro quando comparados ao tratamento farmacológico isolado. O tratamento farmacológico deve auxiliar o paciente a mudar seu hábito alimentar e não simplesmente reduzir a&#160;sensação de fome e a ingestão alimentar.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/381</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p246-252</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 246-252</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 246-252</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 246-252</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/381/382</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/382</identifier>
+        <datestamp>2020-06-25T16:11:11Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">LOW VISION AND REHABILITATION: KNOWLEDGE OF OPHTHALMOLOGY RESIDENTES</dc:title>
+          <dc:title xml:lang="pt-BR">BAIXA VISÃO E REABILITAÇÃO: CONHECIMENTOS DE RESIDENTES DE OFTALMOLOGIA</dc:title>
+          <dc:creator>Nobre, Maria Inês Rubo de Souza</dc:creator>
+          <dc:creator>Temporini, Edméa Rita</dc:creator>
+          <dc:creator>Montilha, Rita de Cássia Ietto</dc:creator>
+          <dc:creator>Gasparetto, Maria Elisabete Rodrigues Freire</dc:creator>
+          <dc:creator>Kara-José, Newton</dc:creator>
+          <dc:subject xml:lang="en-US">Residents. Ophthalmology. Low Vision. Rehabilitation. Ocular Health.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Residentes. Oftalmologia. Baixa Visão. Reabilitação. Saúde Ocular.</dc:subject>
+          <dc:description xml:lang="en-US">Design of the study: Observational/exploratory. Objective: To check the knowledge of ophthalmology residents on low vision and rehabilitation practices in a university hospital. Methods: An exploratory study was conducted, applying a questionnaire on visual impairment (low vision and blindness), and on rehabilitation services for visually impaired patients to a nonprobabilistic sample formed by ophthalmology residents. Results: The sample was formed by 20 residents who were studying at the 1st year (45,0%), 2nd year (30,0%) and 3rd year (25,0%), having all of them already participated in a theoretical course on low vision. A greater number of them revealed knowledge on ocular affections that can cause visual impairment such as: cataract, retinopathies and neuropathies (100,0%), glaucoma, toxoplasmosis and pigmentary retinosis (95,0%). As to rehabilitation practices, 100,0% declared having received information in their medical internship. Most of the sample refered, yet having knowledge about rehabilitation activities, bling daily living skills (100,0%), locomotion (90,0%) the most mentioned. Conclusion: Although the residents stated having knowledge of visual impairment and a theoretical preparedness, they informed they had insufficient knowledge about some of these activities&#160;&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Verificar conhecimentos de residentes de oftalmologia sobre baixa visão e reabilitação em um hospital universitário. Métodos:&#160;Realizou-se estudo exploratório, aplicando-se questionário sobre deficiência visual (baixa visão e cegueira), e serviços de reabilitação de deficientes visuais à amostra não probabilística formada por residentes de Oftalmologia. Resultados: A amostra foi composta por 20 residentes que cursavam 1o ano (45,0%), 2o ano (30,0%) e 3o ano (25,0%); todos já haviam participado de curso teórico sobre baixa visão. A maioria revelou conhecimentos a respeito de afecções oculares que podem causar deficiência visual como: catarata, retinopatias e neuropatias (100,0%), glaucoma, toxoplasmose e retinose pigmentar (95,0%). Em relação à reabilitação, 100,0% declararam ter recebido informações na residência médica. A maioria da amostra referiu conhecimento, à respeito das atividades de reabilitação sendo as mais citadas atividades de vida diária (100,0%), locomoção (90,0%). Conclusão: Embora os residentes tenham declarado ter conhecimento sobre a deficiência visual e preparo teórico sobre a reabilitação, informaram deter conhecimento insuficiente em relação a algumas dessas atividades.&#160;&#160;&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/382</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p253-259</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 253-259</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 253-259</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 253-259</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/382/383</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/383</identifier>
+        <datestamp>2020-06-25T16:11:10Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">QUALITY OF LIFE OF VISUALLY IMPAIRED PEOPLE</dc:title>
+          <dc:title xml:lang="pt-BR">QUALIDADE DE VIDA DE DEFICIENTES VISUAIS</dc:title>
+          <dc:creator>Bittencourt, Zélia Z L C</dc:creator>
+          <dc:creator>Hoehne, Eduardo Luiz</dc:creator>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida. Questionário. Baixa Visão. Cegueira. Reabilitação.</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life. Questionnaire. Low Vision. Blindness. Rehabilitation.</dc:subject>
+          <dc:description xml:lang="en-US">Design of the study: Analytic/Exploratory survey.Purpose: To assess the quality of life of visually impaired people who attend the rehabilitation program at a universitary service.Methods&#160;: This study was conducted in October and November 2004. Were interviewed sixteen visually impaired teenagers and adults who attended the rehabilitation program: blind (n=10) and low vision (n=6). In order to assess their quality of life, we used the Portuguese version of the World Health Organization Quality of Life (WHOQOL – Bref). SPSS was used and the scores were transformed from 4 to 20. The medians of the scores in each domain were compared and considered significant when p= 0,05 (5%). The Research Ethics Committee approved this investigation.&#160;Results : The population of this research consisted of 50% men, aged from 18 to 61 years, with an average of 38 years of age. The evaluation of the different items&#160;of the WHOQOL –Bref did not indicate a statistically significant difference between low vision and blind patients. The study pointed out a better quality of life in the psychological and physical aspects (15,66 and 15,14, respectively). In the general questions the global score was 14,00. Conclusion: The results reported a good quality of life perception in the physical and psychological domains and a less perception in the social relationship and environment.</dc:description>
+          <dc:description xml:lang="pt-BR">Estudo exploratório analítico.&#160;Objetivo:&#160;Avaliar a qualidade de vida de deficientes visuais em Programa de Reabilitação de um serviço universitário.&#160;Métodos: O estudo foi realizado nos meses de outubro e novembro de 2004, com 16 deficientes visuais adolescentes e adultos acompanhados em programa de reabilitação, dos quais 10 tinham baixa visão e 6 eram cegos. Para a avaliação da qualidade de vida foi utilizada a versão em português do World Health Organization Quality of Life (WHOQOL– Bref). Na análise estatística utilizou-se o programa SPSS com escores transformados de quatro a 20. As medianas dos escores de cada domínio foram comparadas e consideradas significativas se “p” fosse menor ou igual a 5%. O estudo foi aprovado pelo Comitê de Ética em Pesquisa. Resultados&#160;: Dos 16 deficientes estudados 50% eram do sexo masculino, idade variando de 18 a 61 anos, média de 38 anos. A avaliação dos diferentes itens do WHOQOL-Bref não mostrou diferença estatisticamente significante entre os pacientes com baixa visão e os cegos. O estudo revelou melhor qualidade de vida nos domínios psicológico (15,66), e físico (15,14). Nas questões gerais o escore global foi 14,00.&#160;Conclusão: Os resultados apontam para uma boa percepção de qualidade de vida nos aspectos físicos e psicológicos e menor percepção nos domínios das relações sociais e do meio ambiente, provavelmente decorrentes da situação sócio-estruturais e culturais dos pacientes.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/383</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p260-264</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 260-264</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 260-264</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 260-264</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/383/384</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/384</identifier>
+        <datestamp>2020-06-25T16:11:09Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">AREA: A NEW INTERDISCIPLINARY CONCEPT</dc:title>
+          <dc:title xml:lang="pt-BR">ÁREA: CONCEITO E PRÁXIS</dc:title>
+          <dc:creator>Amorim, Dalmo Souza</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/384</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p265-268</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 265-268</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 265-268</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 265-268</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/384/385</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/385</identifier>
+        <datestamp>2020-06-25T16:11:08Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">RESUMOS DE DISSERTAÇÕES DE MESTRADO E TESES DE DOUTORADO APRESENTADAS NA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO - USP DE JANEIRO A MARÇO DE 2006</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/385</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i2p269-322</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 2 (2006); 269-322</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 2 (2006); 269-322</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 2 (2006); 269-322</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/385/386</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/386</identifier>
+        <datestamp>2020-06-25T16:11:07Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">GRATA: NOSSA HISTÓRIA, TRABALHO E DESAFIOS</dc:title>
+          <dc:title xml:lang="en-US">GRATA: OUR HISTORY, WORK AND CHALLENGES</dc:title>
+          <dc:creator>Santos, José Ernesto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Anorexia Nervosa. Bulimia nervosa. Equipe Multidisciplinar.</dc:subject>
+          <dc:subject xml:lang="en-US">Anorexia Nervosa. Bulimia Nervosa. Multidisciplinary Team.</dc:subject>
+          <dc:description xml:lang="en-US">In this paper the author describes the rational and the way how a Clinical Nutrition group (Nutrology) begins in 1980 outpatient and inpatient care of patients with eating disorders. Historical and political aspects are describing resulting in the present group (GRATA). Physicians, psychologists, psychiatrics and occupational therapists are involved in the nutritional care and attention to other problems of the anorexic and bulimic patient including the family. It is discussed same challenges that the group is involved and future projects.</dc:description>
+          <dc:description xml:lang="pt-BR">Nesta apresentação do Simpósio sobre Transtornos Alimentares são descritas as razões e a forma como o grupo de Nutrição Clínica (Nutrologia) iniciou suas atividades ambulatoriais e de enfermaria no atendimento de pacientes com transtornos alimentares. São apresentadas as situações históricas que resultaram em um grupo formado por médicos, psicólogos, psiquiatras, terapeutas ocupacionais envolvidos não só na solução do problema da desnutrição que acompanha os pacientes com anorexia e bulimia nervosas, mas também entender sua fisiopatologia e a interação dos pacientes com suas famílias. São discutidos alguns dos desafios enfrentados pelo grupo e seus projetos futuros.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/386</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p323-326</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 323-326</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 323-326</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 323-326</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/386/387</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/387</identifier>
+        <datestamp>2020-06-25T16:11:06Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">CONDUTA ALIMENTAR E SOCIEDADE</dc:title>
+          <dc:title xml:lang="en-US">FOOD BEHAVIOR AND SOCIETY</dc:title>
+          <dc:creator>Alessi, Neiry Primo</dc:creator>
+          <dc:subject xml:lang="pt-BR">Consumo de Alimentos. Hábitos Alimentares.</dc:subject>
+          <dc:subject xml:lang="en-US">Food Consumption. Food Habits.</dc:subject>
+          <dc:description xml:lang="en-US">This paper begins with the concept that behaviors or food patterns are historically determined. Contextualize the main characteristics of several phases of the development of the Brazilian society and identify the values and the social norms responsible for predominant food patterns in each of the different phases of the Brazilian development. In the second part emphasizes as the main changes in the labor market and in the mass media communication, the so called “third industrial revolution”, have contributed to the construction of non-healthy food patterns notconducive to the contemporary search for quality of life.</dc:description>
+          <dc:description xml:lang="pt-BR">O artigo parte da concepção que condutas ou padrões alimentares são historicamente determinados.Contextualiza as principais características das fases de desenvolvimento da sociedade brasileira e identifica os valores e normas sociais responsáveis pela conformação de condutas alimentares predominantes em cada uma das respectivas fases.Destaca como as principais mudanças no mercado de trabalho e nos meios de comunicação de massa, a partir da denominada “terceira revolução industrial”, tem contribuído para a formação de hábitos alimentares não condizentes com a atual busca de qualidade de vida.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/387</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p327-332</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 327-332</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 327-332</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 327-332</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/387/388</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/388</identifier>
+        <datestamp>2020-06-25T16:11:05Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THE MEANING OF ALIMENTATION IN FAMILY: AN ANTHROPOLOGICAL VIEW</dc:title>
+          <dc:title xml:lang="pt-BR">O SIGNIFICADO DA ALIMENTAÇÃO NA FAMÍLIA: UMA VISÃO ANTROPOLÓGICA</dc:title>
+          <dc:creator>Romanelli, Geraldo</dc:creator>
+          <dc:subject xml:lang="pt-BR">Alimentação. Dietética</dc:subject>
+          <dc:subject xml:lang="pt-BR">regras. Família de Baixa Renda.</dc:subject>
+          <dc:subject xml:lang="en-US">Feed. Dietetic</dc:subject>
+          <dc:subject xml:lang="en-US">rules. Family</dc:subject>
+          <dc:subject xml:lang="en-US">low-income.</dc:subject>
+          <dc:description xml:lang="en-US">Hunger is a natural need that must be satisfied through the ingestion of food in order to ensure the production and reproduction of human existence. However, if appeasing hunger is a natural and universal action, alimentation practices are also universal. They are not natural, but are situated in the scope of culture, that is to say, in the field of symbolic systems. Around commensality, each society designs a complex system of dietetic rules based on common sense, religious precepts and medical knowledge, which creates interdictions to exclude foods that are symbolically classified as harmful or dangerous to health from its menu. Anthropological studies have shown the diversity of alimentary practices, which do not constitute a solitary act, but are social activities including the production, processing and consumption of food and how societies construct their own representations, thus defining their identity in relation to other societies through their eating habits. This study examines how the low-income population articulates symbolic elements from various sources in order to organize dietetic rules that eventually become cultural indicators through which food is categorized as appropriate or harmful for consumption. Food is a category that establishes boundaries between the identity of the poor population, who faces difficulty to promote alimentation, and the identity of those whose culinary is rich and varied and that of the very poor, who starve.</dc:description>
+          <dc:description xml:lang="pt-BR">Fome é uma necessidade natural que deve ser satisfeita através da ingestão de alimentos para assegurar a produção e reprodução da existência humana. No entanto, se o ato de saciar a fome é natural e universal, as práticas alimentares, também universais, não são naturais, mas situam-se na esfera da cultura, vale dizer, no campo dos sistemas simbólicos. Em torno da comensalidade, cada sociedade elabora um complexo sistema de regras dietéticas fundadas no senso comum, em preceitos religiosos e no conhecimento médico, que criam interdições para excluir do cardápio alimentos simbolicamente classificados como nocivos e perigosos para a saúde. Trabalhos antropológicos têm mostrado a diversidade das formas de produção, processamento e consumo de alimentos, que não são atos solitários, mas constituem atividades sociais, e o modo como as sociedades constroem representações sobre si próprias, definindo sua identidade em relação a outras sociedades, através de seus hábitos culinários. Este trabalho examina o modo como a população de baixa renda articula elementos simbólicos provenientes de várias fontes para organizar regras dietéticas que passam a constituir indicadores culturais através dos quais os alimentos são categorizados em apropriados ou nocivos para o consumo. A comida é uma categoria que estabelece fronteiras entre a identidade da população pobre, que enfrenta dificuldades para prover a alimentação, e a identidade daqueles cuja cozinha é rica e variada, e a dos muito pobres, que passam fome.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/388</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p333-339</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 333-339</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 333-339</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 333-339</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/388/389</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/389</identifier>
+        <datestamp>2020-06-25T16:11:04Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">EATING DISORDERS – CLINICAL PICTURE</dc:title>
+          <dc:title xml:lang="pt-BR">TRANSTORNOS ALIMENTARES - QUADRO CLÍNICO</dc:title>
+          <dc:creator>Borges, Nádia Juliana Beraldo Goulart</dc:creator>
+          <dc:creator>Sicchieri, Juliana Maria Faccioli</dc:creator>
+          <dc:creator>Ribeiro, Rosane Pilot Pilot Pessa</dc:creator>
+          <dc:creator>Marchini, Júlio Sérgio</dc:creator>
+          <dc:creator>Santos, José Ernesto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Transtornos da Alimentação. Anorexia Nervosa. Bulimia Nervosa.</dc:subject>
+          <dc:subject xml:lang="en-US">Eating Disorders. Anorexia Nervosa. Bulimia Nervosa.</dc:subject>
+          <dc:description xml:lang="en-US">Anorexia and bulimia nervosa are eating disorders characterized by voluntary abstention and compulsive ingestion of food, followed by purgative methods, respectively. Both pathologies are related, once they present symptoms in common: a prevalent idea involving excessive preoccupation about weight, a distortion of body image, and a pathological fear of gaining weight. Generally, the profile of patients with eating disorders is: white female adolescents who have a high social, cultural and economic status. However, increasingly, such conditions have been involving other classes, including male Afro adolescents; pre-teens and patients who have lower social, cultural and economic status. As for the etiopathogeny of anorexia nervosa, there is not only one etiology behind it. A multifactor model is believed to exist, including family, social, cultural, psychological, economic, genetic, and biological factors. In this study we show how such conditions start, criteria for diagnoses, clinical differences between bulimia and anorexia, underling clinical complications, diagnoses differentials, related psychiatric comorbidities, progress, and follow up of such disorders. Considering the high prevalence and morbidity of such syndromes a better understanding of their manifestations and related complications is mandatory to reach early diagnoses. This way, patients will not seek treatment only when they already exhibit severe conditions.</dc:description>
+          <dc:description xml:lang="pt-BR">A anorexia e bulimia nervosas são distúrbios da conduta alimentar caracterizados por abstenção voluntária de alimentos e pela ingestão compulsiva, seguida de métodos purgativos, respectivamente. Essas duas patologias estão intimamente relacionadas por apresentarem sintomas em comum: uma idéia prevalente envolvendo a preocupação excessiva com o peso, distorção da imagem corporal e um medo patológico de engordar. Geralmente, o perfil dos pacientes portadores de transtornos alimentares é: adolescentes do sexo feminino, raça branca, e alto nível sócio econômico cultural. Porém, o que se tem observado, é que esse grupo é cada vez mais heterogêneo, sendo realizado diagnóstico em adolescentes do sexo masculino, raça negra, pré adolescentes e pacientes com nível sócio econômico cultural baixo. Quanto à etiopatogenia, não há uma única etiologia responsável pela anorexia nervosa. Acredita-se no modelo multifatorial, com contribuição de fatores biológicos, genéticos, psicológicos, socioculturais e familiares. Neste trabalho apresentamos como se inicia o quadro de transtorno alimentar, critérios diagnósticos, diferenças clínicas entre anorexia e bulimia, complicações clínicas inerentes, diagnóstico diferencial, comorbidades psiquiátricas associadas e acompanhamento e evolução desses transtornos. Considerando a elevada prevalência dessas síndromes associada à alta morbidade, preconiza-se o melhor conhecimento de suas manifestações clínicas, bem como complicações associadas para que o diagnóstico possa ser realizado mais precocemente evitando assim que essas pacientes cheguem para o tratamento apenas quando seu estado já esteja grave.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/389</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p340-348</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 340-348</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 340-348</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 340-348</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/389/390</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/390</identifier>
+        <datestamp>2020-06-25T16:11:03Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">PSYCHIATRIST´S HEARKEN: SIGNS AND SYMPTOMS OF ANOREXIA NERVOSA AND BULIMIA NERVOSA</dc:title>
+          <dc:title xml:lang="pt-BR">ESCUTA DO PSIQUIATRA: SINAIS E SINTOMAS DE ANOREXIA NERVOSA E BULIMIA NERVOSA</dc:title>
+          <dc:creator>Paccola, Ana Teresa F.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Anorexia Nervosa. Bulimia Nervosa. Diagnóstico.</dc:subject>
+          <dc:subject xml:lang="en-US">Anorexia Nervosa. Bulimia Nervosa. Diagnosis.</dc:subject>
+          <dc:description xml:lang="en-US">This work reviews the current psychiatric concepts and the pertinents clinical aspects for the diagnosis of anorexia nervosa and bulimia Nervosa. This review was mainly based on the diagnostics criteria of DSM-IV-TR and ICD-10.</dc:description>
+          <dc:description xml:lang="pt-BR">O trabalho que se segue é uma revisão de conceitos psiquiátricos e aspectos clínicos pertinentes para o diagnóstico de anorexia nervosa e bulimia nervosa. Esta revisão foi baseada nos critérios diagnósticos do DSM-IV-TR e do CID-10.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/390</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p349-352</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 349-352</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 349-352</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 349-352</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/390/391</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/391</identifier>
+        <datestamp>2020-06-25T16:11:02Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">PSYCHOLOGICAL PROFILE OF PATIENTS WHO SUFFER FROM ANOREXIA NERVOSA AND BULIMIA NERVOSA: PSYCHOLOGICAL ASSESSMENT POINT OF VIEW</dc:title>
+          <dc:title xml:lang="pt-BR">PERFIL PSICOLÓGICO DE PACIENTES COM ANOREXIA E BULIMIA NERVOSAS: A ÓTICA DO PSICODIAGNÓSTICO</dc:title>
+          <dc:creator>Oliveira, Érika Arantes</dc:creator>
+          <dc:creator>Santos, Manoel Antônio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Anorexia Nervosa. Bulimia Nervosa. Avaliação Psicológica. Transtornos da Alimentação.</dc:subject>
+          <dc:subject xml:lang="en-US">Anorexia Nervosa. Bulimia Nervosa. Psychological Assessment. Eating Disorders.</dc:subject>
+          <dc:description xml:lang="pt-BR">O presente trabalho tem por objetivo apresentar o perfil psicológico dos pacientes portadores de anorexia e bulimia nervosas, visando fornecer subsídios para o planejamento de intervenções a serem implementadas por equipe interdisciplinar. Foram realizadas 29 avaliações psicodiagnósticas, compreendendo 24 mulheres e cinco homens. Os instrumentos utilizados foram: técnicas projetivas, teste de nível intelectual e escalas padronizadas, complementados por entrevista clínica. Como resultados pôde-se constatar, mediante as entrevistas, a negação do adoecimento e, conseqüentemente, o não reconhecimento da necessidade de tratamento. Quanto aos resultados fornecidos pelos demais instrumentos observou-se que, de um modo geral, os recursos intelectuais encontram-se dentro da média esperada, porém evidencia-se marcado comprometimento emocional dos pacientes portadores de transtornos alimentares, embora esteja preservada a possibilidade de vinculação afetiva, o que atesta a necessidade de suporte psicoterapêutico.</dc:description>
+          <dc:description xml:lang="en-US">The aim of this work is to present the psychological profile of patients who suffer from anorexia nervosa and bulimia nervosa in order to provide information for intervention planning by the interdisciplinary team. 29 psychodiagnostic assessments were carried out with 24 women and 5 men. The used tools were projective techniques, intellectual level test, standardized scales and clinical interview. The outcomes of this research were: denial of the illness and consequently of the necessity of treatment stood out in the interviews. As to the outcome provided by the others tools it was seen, by and large, that the intellectual resources are within the expected average but some emotional disturbs of patients who suffer from eating disorders showed up, despite the bond possibility, which proves the need of psychotherapeutically support.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/391</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p353-360</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 353-360</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 353-360</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 353-360</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/391/392</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/392</identifier>
+        <datestamp>2020-06-25T16:11:00Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">HUMAN FIGURE DRAWING CONTRIBUTIONS FOR BODY IMAGE ASSESSMENT IN ANOREXIA NERVOSA</dc:title>
+          <dc:title xml:lang="pt-BR">CONTRIBUIÇÕES DO DESENHO DA FIGURA HUMANA PARA A AVALIAÇÃO DA IMAGEM CORPORAL NA ANOREXIA NERVOSA</dc:title>
+          <dc:creator>Peres, Rodrigo Sanches</dc:creator>
+          <dc:creator>Santos, Manoel Antônio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Anorexia Nervosa. Imagem Corporal. Avaliação Psicológica.</dc:subject>
+          <dc:subject xml:lang="en-US">Anorexia Nervosa. Body Image. Psychological Assessment.</dc:subject>
+          <dc:description xml:lang="en-US">The present study was developed to evaluate the body image of anorexia nervosa patients. The Human Figure Drawing (HFD) was used as instrument, because is a graphic projective technique that makes possible the investigation of the deep psychological processes and the mental representation of himself. A number of 10 anorexic women treated at Grupo de Assistência em Transtornos Alimentares (GRATA) from HC-FMRP-USP were assessed. The collected material was evaluated in accordance with the procedures described at the scientific literature. The results indicate that part of the appraised women presents a negative body image, permeated clearly by inferiority, inadequacy, and insecurity feelings. However, some participants projected in the drawings an idealized body image, influenced directly by compensatory mechanisms of defense. Such results indicate that HFD can be considered a useful technique for body image evaluation in anorexia nervosa and a valuable alternative to the psychometrics instruments usually employed with this purpose.</dc:description>
+          <dc:description xml:lang="pt-BR">O presente estudo foi desenvolvido com o intuito de avaliar a imagem corporal de portadoras de anorexia nervosa. Optou-se por utilizar como instrumento o Desenho da Figura Humana (DFH) por se tratar de uma técnica projetiva gráfica que possibilita a investigação dos processos psicológicos profundos e, conseqüentemente, remete à representação mental que o sujeito possui de si mesmo. Foram avaliadas 10 mulheres anoréxicas vinculadas ao Grupo de Assistência em Transtornos Alimentares (GRATA) do HC-FMRP-USP. O material coligido foi avaliado em conformidade com os procedimentos descritos pela literatura científica especializada. Os resultados obtidos indicam que parte das mulheres avaliadas apresenta uma imagem corporal negativa, permeada claramente por sentimentos de inferioridade, inadequação e insegurança. Em contrapartida, algumas das participantes do presente estudo projetaram nos desenhos uma imagem corporal idealizada, influenciada diretamente por mecanismos de defesa compensatórios.Tais resultados indicam que o DFH pode ser considerado uma técnica profícua para a avaliação da imagem corporal na anorexia nervosa, de modo que se destaca como uma valiosa alternativa aos instrumentos psicométricos usualmente empregados com essa finalidade.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/392</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p361-370</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 361-370</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 361-370</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 361-370</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/392/393</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/393</identifier>
+        <datestamp>2020-06-25T16:10:59Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THE NUTRITIONAL THERAPY IN EATING DISORDERS</dc:title>
+          <dc:title xml:lang="pt-BR">MANEJO NUTRICIONAL NOS TRANSTORNOS ALIMENTARES</dc:title>
+          <dc:creator>Sicchieri, Juliana Maria Faccioli</dc:creator>
+          <dc:creator>Bighetti, Felícia</dc:creator>
+          <dc:creator>Borges, Nadia Juliana Beraldo Goulart</dc:creator>
+          <dc:creator>Santos, José Ernesto</dc:creator>
+          <dc:creator>Ribeiro, Rosane Pilot Pessa</dc:creator>
+          <dc:subject xml:lang="pt-BR">Transtornos da Alimentação. Bulimia nervosa. Anorexia Nervosa.</dc:subject>
+          <dc:subject xml:lang="en-US">Eating Disorders. Bulimia Nervosa. Anorexia Nervosa.</dc:subject>
+          <dc:description xml:lang="en-US">Patients with eating disorders present severe and challenging conditions and always require a lot of nutritional care. The objective of this study aims to explore ways to handle patients with eating disorders, enhancing the difficulties in rehabilitating such patients in order for them to adopt balanced eating habits. The methodology used was a description procedure and approaches when assisting these patients. In conclusion there is still a lot to be done in terms of approaches in cases involving patients with eating disorders, so the only alternative to address such cases is a team work involving several health professionals so as to support these patients and their families.</dc:description>
+          <dc:description xml:lang="pt-BR">Os portadores de transtornos alimentares caracterizam-se por apresentarem quadros graves, desafiadores e sempre exigem muita dedicação do profissional de saúde. O objetivo desse relato foi explorar o manejo de portadores de distúrbios da conduta alimentar, salientando as dificuldades em se reabilitar esse paciente para se alimentar de forma equilibrada. Há muito que se progredir nas abordagens de doenças psiquiátricas como essas que envolvem complicações nutricionais de ampla complexidade, porém o trabalho interdisciplinar desenvolvido por equipe é a melhor alternativa para se tratar esses doentes e suas famílias, que demandam tantos cuidados da equipe.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/393</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p371-374</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 371-374</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 371-374</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 371-374</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/393/394</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/394</identifier>
+        <datestamp>2020-06-25T16:10:58Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">A ASSISTÊNCIA DO TERAPEUTA OCUPACIONAL PARA PESSOAS COM ANOREXIA NERVOSA: RELATO DE EXPERIÊNCIA</dc:title>
+          <dc:title xml:lang="en-US">ASSISTANCE PROVIDED BY THE OCCUPATIONAL THERAPIST TO PERSONS WITH ANOREXIA NERVOSA: REPORTS OF EXPERIENCE</dc:title>
+          <dc:creator>Morais, Luciene V.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Terapia Ocupacional. Transtornos da Alimentação. Anorexia Nervosa.</dc:subject>
+          <dc:subject xml:lang="en-US">OcupationalTherapy. Eating Disorders. Anorexia Nervosa.</dc:subject>
+          <dc:description xml:lang="en-US">Eating disorders are a subject of interest for health professionals because of their significant degrees of morbidity, mortality, and personal and social impairment.Since 1999, the occupational therapist of the Mental Health Inter-Consultation Service of the University Hospital, Faculty of Medicine of Ribeirão Preto-USP, has been providing assistance to patient with eating disorders admitted to the hospital. In most cases, this assistance is extended to the relatives and to the hospital team in order to perform joint and complementary actions in the various conflict situations. The clientele predominantly consists of adolescent and young women with signs and symptoms of anorexia nervosa, most of them having difficulty in organizing and performing daily living activities due to clinical, emotional and social impairment. These patients frequently present a restricted daily life, with absence from work, difficulty with interpersonal relationships and with daily activities and, in serious cases, with full detachment from their social and professional roles. On the basis of its field of knowledge and of its assistance, occupational therapy for persons with anorexia nervosa provides a space for experience and discussion regarding the conflicts related to a distorted body image, helps with the recovery of capacities and skills that have been lost or have not been developed along life, and motivates a participant, creative and more independent attitude mainly focused on the development of social participation and on the organization of daily activities.</dc:description>
+          <dc:description xml:lang="pt-BR">Os transtornos alimentares têm sido foco da atenção dos profissionais da área da saúde por apresentarem significativos graus de morbidade, mortalidade, prejuízo pessoal e social. Desde o ano de 1999, a terapeuta ocupacional do Serviço de Interconsulta em Saúde Mental do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto-USP realiza assistência aos pacientes com transtornos alimentares que se encontram em regime de internação hospitalar. Na maioria das vezes, esta assistência é ampliada para familiares e equipe, objetivando ações conjuntas e complementares nas diversas situações conflitivas. A clientela predominante é constituída por mulheres adolescentes e jovens, apresentando quadro de anorexia nervosa e em sua maioria, com dificuldade na organização e no desempenho das atividades da vida cotidiana, seja pelos comprometimentos clínicos ou pelos prejuízos emocionais e sociais. Não é raro apresentarem um cotidiano restrito, com afastamentos do trabalho, dificuldades nos relacionamentos interpessoais, na realização de atividades do dia-a-dia e em casos graves, a desvinculação dos papéis sociais e profissionais.Tendo em vista seu campo de conhecimento e de assistência, a terapia ocupacional para pessoas com anorexia nervosa proporciona um espaço de vivência e discussão para os conflitos relacionados à imagem corporal distorcida, ajuda no resgate das capacidades e habilidades perdidas ou não desenvolvidas ao longo da vida, motiva uma postura participativa, criativa e mais independente, tendo como foco principal o desenvolvimento da participação social e da organização das atividades cotidianas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/394</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p381-385</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 381-385</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 381-385</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 381-385</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/394/395</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/395</identifier>
+        <datestamp>2020-06-25T16:10:57Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">MISERY AND HOPE: SUPPORT GROUP FOR PATIENTS WITH EATING DISORDERS</dc:title>
+          <dc:title xml:lang="pt-BR">SOFRIMENTO E ESPERANÇA: GRUPO DE PACIENTES COM ANOREXIA E BULIMIA NERVOSAS</dc:title>
+          <dc:creator>Santos, Manoel Antônio</dc:creator>
+          <dc:subject xml:lang="en-US">Anorexia Nervosa. Bulimia Nervosa. Psychotherapy</dc:subject>
+          <dc:subject xml:lang="en-US">Group - Support.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anorexia Nervosa. Bulimia Nervosa. Psicoterapia de Grupo - Apoio.</dc:subject>
+          <dc:description xml:lang="en-US">The author presents his experience as a psychotherapist of a group of patients who were diagnosed as having eating disorders in special anorexia and bulimia. This therapeutic support group is part of a multi-professional approach carried out in the ambulatory of eating disorders which has been assisting people since 1982 in the Clinical Hospital of the Medical School of Ribeirão Preto, University of São Paulo. The participation in the group is open to both sexes, although the majority of participants are young single women, with diverse socio-economic backgrounds. The conceptual framework of the intervention follows psycho-dynamic formulations. The non recognition of the psycho-pathological condition, the psychiatric co-morbidities and the feelings of not trusting the relationships are the therapeutic challenges to be overcome in order to establish the needed therapeutic alliance between the patient and the health professional. The psychological intervention aims to sensitize these patients for their need of treatment, stimulating self awareness about their problem and a responsible attitude regarding health care. The support offered has an educational intention besides its socio-emotional care. The therapeutic group process seems to facilitate the construction of favorable conditions for changes supporting an experience exchange space and an attitude of mutual help. This attitude has increased the sense of union and the group cohesion. Indeed, the cumulative experience over the last years have shown that peer groups promote re-signification of beliefs, values and feelings regarding to one’s own body and the process of self-care reflecting in the positive reduction of symptoms of the eating disorders. Concluding we argued that the conduction of the psychotherapy should prioritize the re-establishment of the prime attachment to life.</dc:description>
+          <dc:description xml:lang="pt-BR">O autor apresenta sua experiência como psicoterapeuta de um grupo de pacientes diagnosticados com anorexia e bulimia nervosas. Esse grupo se insere em um serviço especializado de assistência de caráter interdisciplinar existente desde 1982 no HC-FMRP-USP. O grupo é aberto a pacientes com transtornos alimentares de ambos os sexos, predominando mulheres jovens, solteiras, de procedência socioeconômica diversificada. As formulações psicodinâmicas são empregadas na fundamentação teórico-clínica da intervenção. O não reconhecimento da condição psicopatológica, as comorbidades psiquiátricas e o sentimento de desconfiança nos relacionamentos humanos constituem os desafios terapêuticos a serem vencidos com vistas à formação de uma aliança terapêutica entre pacientes e profissionais de saúde. Nesse sentido, a intervenção psicológica almeja sensibilizar esses pacientes quanto à necessidade de se tratarem, buscando desenvolver a consciência sobre o problema e uma atitude responsável em relação ao atendimento. O apoio oferecido, além de sua dimensão socioemocional, tem uma faceta educativa. O processo terapêutico em grupo parece facilitar a construção de condições favoráveis à mudança, sustentando um espaço de troca de experiências e de atitudes de mútua ajuda que aumentam o senso de união e coesão grupal. Nesse sentido, a experiência acumulada nos últimos anos tem demonstrado que o grupo de pares promove a ressignificação de crenças, valores e sentimentos relacionados ao próprio corpo e ao processo de auto-cuidado, com reflexos positivos na redução dos sintomas que comprometem a esfera oroalimentar. Concluindo, sustenta-se que a condução da psicoterapia nesse contexto deve priorizar o restabelecimento do vínculo primordial com a vida.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/395</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p386-402</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 386-402</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 386-402</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 386-402</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/395/396</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/396</identifier>
+        <datestamp>2020-06-25T16:10:56Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THE FAMILY AND THE EATING DISORDERS</dc:title>
+          <dc:title xml:lang="pt-BR">A FAMÍLIA E OS TRANSTORNOS ALIMENTARES</dc:title>
+          <dc:creator>Souza, Laura Vilela</dc:creator>
+          <dc:creator>Santos, Manoel Antônio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Transtornos da Alimentação. Bulimia Nervosa. Anorexia Nervosa. Família.</dc:subject>
+          <dc:subject xml:lang="en-US">Eating Disorders. Bulimia Nervosa. Anorexia Nervosa. Family.</dc:subject>
+          <dc:description xml:lang="en-US">Study model: Review of literature study. Purpose of the study: To investigate the constructions about the family dynamics of people with eating disorders in the specialized literature.&#160;Method: Qualitative approach based on the “daily sense production”, a theoretical and methodological proposal, well-founded in the social constructionism epistemological perspective in Social Psychology. A bibliographical search was made using the data basis PsycINFO, in the period of 1972 to 2005 with the search room: “words anywhere”, with the descriptors: “family and bulimia or eating disorders”, “family and anorexia or eating disorders”, “family and anorexia and group”, “family and “group therapy” and anorexia”.&#160;Results: It was found 366 references. Several studies aim to find correlations between the familiar functioning and the appearance of the disorder, with controversial between the founded results, and methodological and epistemological criticism.&#160;Conclusion:&#160;The importance of an critical analysis of the conceptions and theories about the familiar dynamics in the&#160;scientific context, and its implications in the offered specialized care. The necessity of more studies with the focus in the familiar perspective about the disease and the treatment.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Revisão da literatura. Objetivos: Investigar as construções sobre a dinâmica familiar de pessoas com transtornos alimentares presentes na literatura especializada. Metodologia: Estudo de abordagem qualitativa com o uso da proposta teóricometodológica de produção de sentidos no cotidiano e com fundamento epistemológico na perspectiva do Construcionismo Social dentro da Psicologia Social. Foi realizada uma revisão bibliográfica utilizando a base de dados PsycINFO no período de 1972 a 2005 com o campo de busca words anywhere com os descritores family and bulimia or eating disorders, family and anorexia or eating disorders, family and anorexia and group, family and “group therapy” and anorexia.&#160;Resultados:&#160;Foram encontradas 366 referências. Diversos estudos buscam correlações entre o funcionamento familiar e o aparecimento do transtorno, com controvérsias entre os resultados encontrados e críticas metodológicas e epistemológicas.&#160;Conclusão: Importância de uma análise crítica sobre as concepções e teorias presentes no meio científico sobre a dinâmica familiar e suas implicações nas práticas assistenciais oferecidas. Necessidade de estudos com o foco na perspectiva dos familiares sobre a doença e o tratamento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/396</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i3p403-409</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 3 (2006); 403-409</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 3 (2006); 403-409</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 3 (2006); 403-409</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/396/397</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:03Z" completeListSize="1467" cursor="200">f66f43255012cc94149708ecb1bc6f8b</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

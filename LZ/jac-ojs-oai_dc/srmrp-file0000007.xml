@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:02Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/344</identifier>
+        <datestamp>2020-06-25T16:09:44Z</datestamp>
+        <setSpec>rmrp:APR</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Cirurgia Geral Avançada, Cirurgia de Urgência ou Cirurgia de Trauma, eis a questão?</dc:title>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/344</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p491-492</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 491-492</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 491-492</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 491-492</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/344/345</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/345</identifier>
+        <datestamp>2020-06-25T16:09:43Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">FOURNIER’S GANGRENE</dc:title>
+          <dc:title xml:lang="pt-BR">GANGRENA DE FOURNIER</dc:title>
+          <dc:creator>Cardoso, João B.</dc:creator>
+          <dc:creator>Féres, Omar</dc:creator>
+          <dc:subject xml:lang="pt-BR">Gangrena de Fournier. Infecção. Fasciite Necrosante. Sepse.</dc:subject>
+          <dc:subject xml:lang="en-US">Fournier Gangrene. Infection</dc:subject>
+          <dc:subject xml:lang="en-US">Fasciitis</dc:subject>
+          <dc:subject xml:lang="en-US">Necrotizing. Sepsis.</dc:subject>
+          <dc:description xml:lang="pt-BR">A Gangrena de Fournier é uma grave infecção polimicrobiana que evolui com fasciite necrotizante, comprometendo principalmente as regiões genital, perineal e perianal. Caracteriza-se por rápida evolução e pode complicar com sepse, falência de múltiplos órgãos e óbito. A base do tratamento&#160;é o diagnóstico precoce e o desbridamento agressivo. Antibioticoterapia de amplo espectro, oxigenoterapia hiperbárica e cuidados locais são medidas complementares.</dc:description>
+          <dc:description xml:lang="en-US">Fournier´s gangrene is a serious infectious disease caused by multiple microorganisms leading to a necrotizing fasciitis of the genitals and perineum. With a rapid and progressive evolution can complicate with sepsis, multiple organ failure and death. Treatment is mainly based in early diagnosis and aggressive and extensive debridment, broadspectrum antibiotics, hyperbaric oxygen therapy, and local wound care are coadjuvants.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/345</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p493-499</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 493-499</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 493-499</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 493-499</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/345/346</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/346</identifier>
+        <datestamp>2020-06-25T16:09:41Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">INTRA-HOSPITAL TRANSPORT OF CRITICAL PATIENTS</dc:title>
+          <dc:title xml:lang="pt-BR">TRANSPORTE INTRA-HOSPITALAR DO PACIENTE CRÍTICO</dc:title>
+          <dc:creator>Pereira Júnior, Gerson A.</dc:creator>
+          <dc:creator>Carvalho, Júlia Batista</dc:creator>
+          <dc:creator>Ponte Filho, Arnóbio D.</dc:creator>
+          <dc:creator>Malzone, Daniela A.</dc:creator>
+          <dc:creator>Pedersoli, César E.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Transportation of Patient. Transporte de Pacientes. Cuidados Intensivos. Monitoramento. Transferência de Pacientes.</dc:subject>
+          <dc:subject xml:lang="en-US">Transportation of Patient. Intensive Care. Monitoring. Patient Transfer.</dc:subject>
+          <dc:description xml:lang="en-US">The medicine knowledge and development of new technologies for diagnoses and treatment of patients had permitted the longevity of healthy people and of those with acute or chronic illness. These technological advances are not well distributed, but there are clearly improvements on the management of patients in medical field leading to a lower mortality and a better quality of life. With these improvements, hospitals needed to increase the area of critical care settings. Patients have being beneficiated by these diagnose technologies, most of them including image, but to access them, they need to be transported out of a intensive care unit, needing to maintain the same level of monitorization. That is the great importance on transportation of a critical patient, and it has being neglected by most health professionals. The objective of this article is to make a reflection of the various moments, phases and care involving the intra-hospital transport, discussing its various aspects.</dc:description>
+          <dc:description xml:lang="pt-BR">O avanço do conhecimento médico e o desenvolvimento da tecnologia para diagnóstico e tratamento das doenças que afligem os seres humanos têm permitido um aumento da longevidade das pessoas hígidas e daquelas que possuem agravos agudos ou crônicos. Embora estes avanços estejam heterogeneamente distribuídos, há uma nítida melhora das condições de atendimento médico em nosso meio e isto tem feito com que pacientes que anteriormente evoluíssem para o óbito, tenham condições de se manterem vivos em diferentes condições de qualidade de vida. Isto tem feito com que os hospitais tenham que aumentar as áreas de atendimento e cuidados de pacientes críticos. Estes pacientes têm sido beneficiados pela tecnologia de diagnóstico, principalmente, de imagem existente e, quase sempre, para ter acesso a estes benefícios, estes pacientes precisam ser transportados para fora da área de cuidados intensivos e manter o mesmo nível de monitorização para que não haja problemas. É aí que está a grande importância do transporte do paciente crítico que, no geral, vem sendo muito negligenciada pelos profissionais de saúde. O objetivo deste artigo é fazer uma reflexão dos vários momentos, fases e cuidados envolvidos no transporte intra-hospitalar, discutindo as suas diversas modalidades.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/346</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p500-508</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 500-508</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 500-508</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 500-508</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/346/347</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/347</identifier>
+        <datestamp>2020-06-25T16:09:40Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">COAGULOPATHY IN TRAUMA</dc:title>
+          <dc:title xml:lang="pt-BR">COAGULOPATIA NO TRAUMA</dc:title>
+          <dc:creator>Nascimento Júnior, Bartolomeu</dc:creator>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:creator>Rizoli, Sandro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Trauma. Sangramento Maciço. Coagulopatia. Transfusão Sangüínea.</dc:subject>
+          <dc:description xml:lang="en-US">Trauma is one of the most important causes of deaths worldwide. Massive bleeding is the leading cause of trauma deaths in the first 24 hours following an injury. Major trauma patients frequently develop coagulopathy, which is related to huge bleedings, fluid therapy with crystalloids and red blood cells, acidosis and hypothermia. The control of this situation is a challenge to surgeons and intensivists. In addition, trauma victims are one of the most important consumers of blood components. Recently, the adequacy of this massive transfusion has been put into question, particularly due to the lack of well-developed and clinically-proved guidelines. The objective of this article is to provide an overview of the pathophysiology of the trauma coagulopathy, discussing current strategies available for its management and new developments in the field.</dc:description>
+          <dc:description xml:lang="pt-BR">Trauma é uma das principais causas de mortalidade no mundo. A principal causa de óbitos das vítimas de trauma, nas primeiras 24 horas após a lesão, é o sangramento maciço. Os pacientes politraumatizados podem desenvolver graves distúrbios de coagulação relacionados à perda de grandes volumes de sangue e fatores de coagulação, à reposição volêmica com cristalóides e com concentrados de hemácias, à acidose e à hipotermia. O controle deste tipo de situação tem sido um grande desafio para cirurgiões e intensivistas. Além disto, as vítimas de trauma formam um dos maiores grupos de consumidores de sangue e seus derivados. Recentemente, a adequação destes grandes volumes de transfusão tem sido questionada, principalmente em decorrência da ausência de protocolos bem definidos e testados clinicamente. O objetivo deste artigo foi rever a literatura atual conceituando coagulopatia do trauma e descrevendo as mais recentes orientações para a hemoterapia direcionada às vitimas de trauma.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/347</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p509-517</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 509-517</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 509-517</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 509-517</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/347/348</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/348</identifier>
+        <datestamp>2020-06-25T16:09:39Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">MANAGEMENT OF THE ABDOMINAL TRAUMA</dc:title>
+          <dc:title xml:lang="pt-BR">ABORDAGEM GERAL TRAUMA ABDOMINAL</dc:title>
+          <dc:creator>Pereira Júnior, Gerson Alves</dc:creator>
+          <dc:creator>Lovato, Wilson José</dc:creator>
+          <dc:creator>Carvalho, Júlia Batista</dc:creator>
+          <dc:creator>Horta, Marcos Fúlvio Vieira</dc:creator>
+          <dc:subject xml:lang="pt-BR">Traumatismos Abdominais. Ferimentos Penetrantes. Ferimentos não Penetrantes. Avaliação. Tratamento.</dc:subject>
+          <dc:subject xml:lang="en-US">Evaluation. Abdominal Injuries. Wounds</dc:subject>
+          <dc:subject xml:lang="en-US">Penetrating. Wounds</dc:subject>
+          <dc:subject xml:lang="en-US">Nonpenetrating.Treatment.</dc:subject>
+          <dc:description xml:lang="en-US">Abdominal trauma is regularly encountered in the emergency department. The lack of historical data and the presence of distracting injuries or altered mental status, from head injury or intoxication, can make these injuries difficult to diagnose and manage. Victims of trauma often have both&#160;abdominal and extraabdominal injuries, further complicating care. This topic review will discuss a basic approach to the management of patients with blunt and penetrating abdominal trauma, including diagnostic tests and initial treatment considerations.</dc:description>
+          <dc:description xml:lang="pt-BR">O trauma abdominal é freqüentemente encontrado em situações de emergência. A falta de história adequada do mecanismo de trauma e a presença de lesões que podem ter dor irradiada para o abdome ou a alteração do estado mental, devido a trauma cranioencefálico ou intoxicação por drogas depressoras do sistema nervoso central, podem dificultar o diagnóstico e o tratamento do trauma abdominal. Os pacientes que são vítimas de trauma, freqüentemente, têm lesões intra e extra-abdominais associadas. Este artigo de revisão irá discutir a abordagem geral do atendimento dos pacientes com traumas abdominais contusos e penetrantes, incluindo as opções de testes diagnósticos e as considerações acerca do tratamento inicial.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/348</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p518-530</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 518-530</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 518-530</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 518-530</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/348/349</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/349</identifier>
+        <datestamp>2020-06-25T16:09:37Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">INJURIES TO THE HOLLOW VISCERA</dc:title>
+          <dc:title xml:lang="pt-BR">LESÕES TRAUMÁTICAS DE VÍSCERAS OCAS</dc:title>
+          <dc:creator>Motta, Dino Cesar</dc:creator>
+          <dc:creator>Scarpelini, Sandro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Traumatismos Abdominais. Vísceras</dc:subject>
+          <dc:subject xml:lang="pt-BR">lesões. Estômago</dc:subject>
+          <dc:subject xml:lang="pt-BR">lesões. Duodeno</dc:subject>
+          <dc:subject xml:lang="pt-BR">lesões. Intestino Delgado</dc:subject>
+          <dc:subject xml:lang="pt-BR">lesões. Cólon</dc:subject>
+          <dc:subject xml:lang="pt-BR">lesões.</dc:subject>
+          <dc:subject xml:lang="en-US">Abdominal Injuries. Viscera</dc:subject>
+          <dc:subject xml:lang="en-US">injuries. Stomach</dc:subject>
+          <dc:subject xml:lang="en-US">injuries. Intestine</dc:subject>
+          <dc:subject xml:lang="en-US">Small</dc:subject>
+          <dc:subject xml:lang="en-US">injuries. Colon</dc:subject>
+          <dc:subject xml:lang="en-US">injuries.</dc:subject>
+          <dc:description xml:lang="en-US">In abdominal blunt or penetrating trauma patients, despite of the initial assessment and stabilization, careful diagnosis of associated injuries and immediate treatment in obvious cases, we must be concerned about missing injuries of hollow viscera that can disclose itself later, delaying definitive treatment, with consequent worse prognosis. Based in high suspicion related to the mechanism of trauma and associated injuries in the initial evaluation, diagnostic peritoneal lavage and radiological exams must be indicated in the effort to confirm the existence of hollow visceral injuries. Currently, there is no method with such specificity and sensitivity to define diagnosis by itself. Among the organs injured in abdominal trauma, the small bowel is the most frequent in penetrating wounds, followed by colon, stomach and duodenum. The hollow viscera injuries are less common in blunt trauma, however usually associated to higher severity and other injuries. The treatment is surgical, usually with primary repair, guided by the anatomical injury severity and patient general conditions.</dc:description>
+          <dc:description xml:lang="pt-BR">Nos pacientes vítimas de traumatismo abdominal, contuso ou penetrante, além dos cuidados iniciais de estabilização, diagnóstico cuidadoso de lesões associadas e tratamento cirúrgico imediato em situações óbvias, devemos estar atentos para possíveis lesões de vísceras ocas que podem se manifestar tardiamente, postergando o tratamento definitivo, com conseqüente piora do prognóstico. Baseado na forte suspeita, analisando o mecanismo do trauma e lesões encontradas na avaliação inicial, o lavado peritoneal diagnóstico e exames de imagem devem ser empregados em conjunto, para confirmar ou afastar a existência de lesão de vísceras ocas. Atualmente, não dispomos de exames com especificidade e sensibilidade suficientes para, isoladamente, definir o diagnóstico. Dentre os órgãos intra cavitários não sólidos envolvidos nos traumatismos abdominais, destaca-se o intestino delgado como o mais acometido nas lesões penetrantes, seguido pelo cólon, estômago e duodeno. As lesões de vísceras ocas são menos freqüentes em traumatismos contusos, porém, geralmente, apresentam-se com maior gravidade e associadas a outras lesões. O tratamento é cirúrgico, em geral com o reparo primário da víscera, sendo a tática operatória guiada pela gravidade das lesões e condições gerais do paciente.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/349</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p531-537</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 531-537</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 531-537</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 531-537</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/349/350</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/350</identifier>
+        <datestamp>2020-06-25T16:09:36Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">NONOPERATIVE TREATMENT OF THE SOLID ABDOMINAL ORGAN INJURIES</dc:title>
+          <dc:title xml:lang="pt-BR">TRATAMENTO NÃO OPERATÓRIO DO TRAUMA DE VÍSCERAS ABDOMINAIS PARENQUIMATOSAS</dc:title>
+          <dc:creator>Pereira Júnior, Gerson A.</dc:creator>
+          <dc:creator>Carvalho, Júlia Batista</dc:creator>
+          <dc:creator>Prado Neto, Geraldo S.</dc:creator>
+          <dc:creator>Guedes, Juliana R.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Traumatismos Abdominais. Tratamento não Operatório. Fígado</dc:subject>
+          <dc:subject xml:lang="pt-BR">lesões. Baço</dc:subject>
+          <dc:subject xml:lang="pt-BR">lesões. Rim</dc:subject>
+          <dc:subject xml:lang="pt-BR">lesões.</dc:subject>
+          <dc:subject xml:lang="en-US">Abdominal Injuries. Nonoperative Management. Liver</dc:subject>
+          <dc:subject xml:lang="en-US">injuries. Spleen</dc:subject>
+          <dc:subject xml:lang="en-US">injuries</dc:subject>
+          <dc:subject xml:lang="en-US">Kidney</dc:subject>
+          <dc:subject xml:lang="en-US">injuries.</dc:subject>
+          <dc:description xml:lang="en-US">Nonoperative management of the solid organ injuries (liver, spleen and kidneys) in hemodynamically patients has become the standard of care in the last decade. Computed tomography scan is invaluable in determining appropriate patient selection and to exclude other injuries that may necessitate laparotomy. Nonoperative management strategies primarily consist of careful observation with or without the use of adjunctive angiography. The widespread use of angiographic embolization has increased the number and type of patients that can be safety managed without operative intervention. The increasing use of nonoperative management is based on the low failure rates reported in most studies. Success rates of nonoperative treatment have increase to &amp;gt; 90% for these injuries. Practitioners must remain vigilant, however, because failures of nonoperative management may need immediate intervention. This review will discuss current concepts in nonoperative management, including diagnosis, patient selection, nonoperative treatment strategies, benefits, risks, and complications.</dc:description>
+          <dc:description xml:lang="pt-BR">O tratamento não operatório das lesões de órgãos parenquimatosos abdominais (fígado, baço e rins) em pacientes com estabilidade hemodinâmica tem se tornado o método de escolha na última década. A TC é indispensável para a adequada seleção do paciente e para excluir outras lesões que podem necessitar de laparotomia. As estratégias de tratamento não operatório consistem da observação clínica e monitorização cuidadosa com ou sem o uso adjunto da angiografia. A utilização disseminada de embolização angiográfica tem aumentado o número e o tipo de pacientes que podem ser tratados sem cirurgia. O aumento desta modalidade de tratamento não operatório é baseado nas baixas taxas de falha terapêutica relatado na maioria dos estudos. As taxas de sucesso do tratamento não operatório é maior de 90% para estas lesões. Este artigo de revisão discutirá os conceitos atuais no manuseio não operatório, incluindo o diagnóstico, a seleção dos pacientes, as estratégias utilizadas no tratamento não operatório, os benefícios, os riscos e as complicações.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/350</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p538-550</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 538-550</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 538-550</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 538-550</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/350/351</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/351</identifier>
+        <datestamp>2020-06-25T16:09:35Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">GAMETOGENESIS: FUNDAMENTAL STAGE THE DEVELOPMENT FOR HUMAN REPRODUCTION</dc:title>
+          <dc:title xml:lang="pt-BR">GAMETOGÊNESE: ESTÁGIO FUNDAMENTAL DO DESENVOLVIMENTO PARA REPRODUÇÃO HUMANA</dc:title>
+          <dc:creator>Araújo, Carlos Henrique Medeiros</dc:creator>
+          <dc:creator>Araújo, Maria Cristina Picinato Medeiros</dc:creator>
+          <dc:creator>Martins, Wellington Paula</dc:creator>
+          <dc:creator>Ferriani, Rui Alberto</dc:creator>
+          <dc:creator>Reis, Rosana Maria</dc:creator>
+          <dc:subject xml:lang="pt-BR">Gametogênese. Meiose. Técnicas Reprodutivas Assistidas.</dc:subject>
+          <dc:subject xml:lang="en-US">Gametogenesis. Meiosis. Reproductive Techniques</dc:subject>
+          <dc:subject xml:lang="en-US">Assisted.</dc:subject>
+          <dc:description xml:lang="pt-BR">A reprodução é o mecanismo essencial para perpetuação e diversidade das espécies assim como para a continuidade da vida. Os gametas são os veículos de transferência dos genes para as próximas gerações. A gametogênese pode ser caracterizada por três etapas distintas denominadas multiplicação (mitose), crescimento e maturação (meiose), que se diferenciam em vários aspectos na espermatogênese e na oogênese. A oogênese diferencia-se da espermatogênese na ocorrência do processo ao longo da vida do indivíduo, no número de gametas formados, nas etapas de multiplicação, crescimento e maturação, assim como nas diferenciações e maturações citoplasmáticas e nucleares dos gametas masculinos e femininos.O processo da oogênese em relação à maturação oocitária ainda merece mais estudos, pois os aspectos bioquímicos e genéticos deste processo precisam ser mais bem esclarecidos. Por meio da gametogênese masculina e feminina a natureza proporcionou a fertilidade e a capacidade de gerar filhos a casais de diferentes espécies que se reproduzem sexuadamente incluindo a espécie humana. Quando existem falhas neste mecanismo por diferentes motivos como oligospermia, teratozoospermia, astenoospermia, azoospermia, ou distúrbios da ovulação, endometriose, fatores tubários, esterilidade sem causa aparente, casais podem recorrer às tecnologias de Reprodução Assistida como inseminação intra-uterina, fertilização in vitro, injeção intra-citoplasmática de espermatozóides, e de maturação oocitária in vitro para chegarem à plenitude da reprodução.</dc:description>
+          <dc:description xml:lang="en-US">The reproduction is the essential mechanism for perpetuation and diversity of the species, as well as for the continuity of the life. The gametes are the vehicles of transfer of the genes for the next generations. The gametogenesis can be characterized by three stages denominated different multiplication (mitosis), growth and maturation (meiosis), which differ in several aspects in the spermatogenesis and in the oogenesis. The oogenesis differs of the spermatogenesis in several aspects as in the occurrence of the process along the individual’s life such as in the number of formed gametes, in the multiplication stages, growth and maturation, as well as in the differentiations and cytoplasmtic and nuclear maturations of the masculine and feminine gametes. The process of the oogenesis in relation to the oocyte maturation still deserve many studies, because the biochemical and genetic aspects of this process need to be better explained. Through the masculine and feminine gametogenesis the nature provided the fertility and the capacity of generating children to you marry of different species that sexually reproduce including the human species. When flaws exist in this mechanism for different reasons as oligospermy, teratozoospermy, astenoospermy, azoospermy or ovulation disturbs, endometriosis, tubal factors, or unexplained infertility couples can fall back upon the technologies of Assisted Reproduction as in vitro fertilization, intracytoplasmic sperm injections, artificial insemination, in vitro maturation of oocytes to reach the fullness of the reproduction.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/351</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p551-558</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 551-558</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 551-558</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 551-558</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/351/352</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/352</identifier>
+        <datestamp>2020-06-25T16:09:34Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">INFANT MORTALITY IN BRAZIL: HISTORICAL SERIES FROM 1994 TO 2004 AND ASSOCIATION WITH SOCIOECONOMIC INDICATORS IN MEDIUM AND LARGE MUNICIPALITIES</dc:title>
+          <dc:title xml:lang="pt-BR">A MORTALIDADE INFANTIL NO BRASIL: SÉRIE HISTÓRICA ENTRE 1994-2004 E ASSOCIAÇÃO COM INDICADORES SOCIOECONÔMICOS EM MUNICÍPIOS DE MÉDIO E GRANDE PORTE</dc:title>
+          <dc:creator>Fischer, Tatiana Konrad</dc:creator>
+          <dc:creator>Lima, Daniel</dc:creator>
+          <dc:creator>Rosa, Rosiléia</dc:creator>
+          <dc:creator>Osório, Denise</dc:creator>
+          <dc:creator>Boing, Antonio Fernando</dc:creator>
+          <dc:subject xml:lang="pt-BR">Mortalidade Infantil. Mortalidade Neonatal Precoce. Mortalidade Pós-neonatal. Mortalidade Infantil Tardia. Fatores Socioeconômicos.</dc:subject>
+          <dc:subject xml:lang="en-US">Infant Mortality. Early Neonatal Mortality. Postneonatal Mortality. Late Infant Mortality. Socioeconomic Factors.</dc:subject>
+          <dc:description xml:lang="en-US">Study design: descriptive study.&#160;Objective: to describe the historical series of infant mortality in Brazil according to age of death and main groups of causes, from 1994 to 2004. Association of socioeconomic indicators and infant mortality in 297 Brazilian municipalities with population equal or above 80.000 was also tested.&#160;Methods: the municipalities were divided into quartiles and the ANOVA and Kruskall-Wallis tests were applied to identify possible differences between the groups. Spearman’s coefficient of correlation between the dependent and independent variables was also described. Data was obtained from the Mortality Information System (SIM) and the Live Birth Information System (SINASC), from the Brazilian Ministry of Health/Datasus. Between 1994 and 2004, there was a decline in infant mortality rates and changes in main causes of death among infants.&#160;Results: &#160;when observed only medium and large Brazilian municipalities, a high variation of infant mortality rates was detected. The study also revealed that all socioeconomic variables investigated presented a statistically significant correlation with infant mortality rates.&#160;Conclusion: specific policies on birth-care, maternal health, family planning and other actions to prevent illness and promote health should be directed with a higher priority to municipalities that present the worst socioeconomic indicators.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: trata-se de um estudo descritivo. Objetivo: descrever a série histórica da mortalidade infantil no Brasil segundo a idade do óbito e os principais grupos de causas no período de 1994 a 2004. Também foi testada a associação da mortalidade infantil com indicadores socioeconômicos nos 297 municípios brasileiros com população superior a 80 mil habitantes.&#160;Métodos: os municípios foram divididos em quartis segundo as taxas de mortalidade infantil e aplicaram-se testes ANOVA e Kruskall-Wallis para identificar possíveis diferenças entre os grupos. Também foram descritos os coeficientes de correlação de Spearman entre a variável dependente e as independentes. Os dados foram oriundos do Sistema de Informações sobre Mortalidade (SIM) e do Sistema de Informações sobre Nascidos Vivos (SINASC).&#160;Resultados: entre 1994 e 2004 houve declínio nas taxas de mortalidade infantil e alteração nos grupos de principais causas de óbitos infantis. Quando analisados apenas os municípios brasileiros de médio e grande porte, identificou-se que as taxas de mortalidade infantil apresentaram acentuada variação. Identificou-se, ainda, que todas as variáveis sócioeconômicas investigadas apresentaram correlação estatisticamente significante com a mortalidade infantil. Conclusão: políticas de atenção ao parto, à saúde materna, planejamento familiar e que agreguem ações de prevenção de doenças e promoção da saúde, devem ser dirigidas prioritariamente aos municípios que apresentem piores indicadores socioeconômicos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/352</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p559-566</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 559-566</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 559-566</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 559-566</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/352/353</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/353</identifier>
+        <datestamp>2020-06-25T16:09:32Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">RADIOGRAPHIC SIGN OF FECAL LOADING IN THE CECUM FOR DIFFERENTIAL DIAGNOSIS OF ACUTE APPENDICITIS IN COMPARISION WITH OTHER ABDOMINAL INFLAMMATORY DISEASES</dc:title>
+          <dc:title xml:lang="pt-BR">SINAL RADIOGRÁFICO DE ACÚMULO FECAL NO CECO PARA DIAGNÓSTICO DFERENCIAL DE APENDICITE AGUDA EM RELAÇÃO A OUTRAS DOENÇAS INFLAMATÓRIAS ABDOMINAIS</dc:title>
+          <dc:creator>Petroianu, Andy</dc:creator>
+          <dc:creator>Alberti, Luiz Ronaldo</dc:creator>
+          <dc:creator>Zac, Renata Indelicato</dc:creator>
+          <dc:subject xml:lang="pt-BR">Apendicite. Abdome Agudo. Radiografia. Apendicite Aguda. Ceco. Diagnóstico.</dc:subject>
+          <dc:subject xml:lang="en-US">Appendicitis. Abdomen</dc:subject>
+          <dc:subject xml:lang="en-US">Acute. Radiography. Appendicitis</dc:subject>
+          <dc:subject xml:lang="en-US">Acute. Cecum. Diagnosis.</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: O objetivo do presente trabalho foi verificar um sinal radiográfico caracterizado pela imagem de acúmulo fecal no ceco, em radiografias simples de abdome em doentes com apendicite aguda, bem como avaliar a sensibilidade e especificidade desse sinal nessa afecção, em comparação com outras doenças inflamatórias agudas da parte direita do abdome.&#160;Método:Foram estudados prospectivamente 470 pacientes consecutivos, de ambos os sexos, internados com abdome agudo e dor localizada no flanco direito, distribuídos em quatro grupos: Grupo 1 (n=170) - pacientes portadores de apendicite aguda, Grupo 2 (n = 100) - pacientes portadores de cálculo na via urinária direita, Grupo 3 (n = 100) - pacientes portadoras de afecções ginecológicas agudas à direita e Grupo 4 (n = 100) - pacientes operados por colecistite aguda. Radiografias simples de abdome foram realizadas em todos os casos dos quatro grupos durante a crise inflamatória aguda que precederam o tratamento.&#160;Resultados:&#160;A presença do sinal radiográfico de enchimento fecal esteve presente em 165 pacientes do Grupo 1, em 19 pacientes com cálculos nas via&#160; urinárias, em 12 pacientes com afecções ginecológicas e em 13 pacientes com afecções das vias biliares. A sensibilidade do sinal radiográfico para apendicite aguda foi de 97,05 % e sua especificidade foi de 85,33 %. O valor preditivo positivo do sinal radiográfico para apendicite aguda foi de 78,94% entretanto, seu valor preditivo negativo foi de 98,08%.&#160;Conclusão: A imagem de acúmulo fecal no ceco em radiografia simples de abdome na incidência ântero-posterior associa-se a apendicite aguda. Esse sinal é incomum na presença de outras doenças inflamatórias abdominais agudas do lado direito do abdome. A ausência desse sinal radiográfico em paciente com suspeita de apendicite aguda deve alertar para a grande possibilidade de o diagnóstico ser diferente do pressuposto.&#160;&#160;</dc:description>
+          <dc:description xml:lang="en-US">Objective: The value of plain abdominal radiography in acute appendicitis has not been completely studied. Therefore, the purpose of this investigation was to verify a new radiographic sign: the presence of fecal loading in the cecum.&#160;Methods:&#160;470 consecutive patients of both sexes admitted to the hospital due to acute abdominal pain localized in the right flank were prospectively studied. The patients were divided into four groups: Group 1 (n=170) –acute appendicitis – patients submitted to an abdominal radiographic study a few hours before surgical treatment; Group 2 (n=100) – right nephrolithiasis submitted to an abdominal radiography during the episode of pain caused by the lithiasis; Group 3 (n=100) – right acute inflammatory pelvic disease that underwent an abdominal radiographic study during the pain incident; Group 4 (n=100) – acute cholecystitis submitted to abdominal radiography during the pain episode that preceded the surgical procedure. All of the radiographs were plain with an anteroposterior view of the abdomen. Results:&#160;The sign of fecal loading in the cecum was present in 165 patients of Group 1,in 19 patients of Group 2, in 12 patients of Group 3 and in 13 patients of Group 4. The sensitivity of the radiographic sign for acute appendicitis was 97,05 % and its specificity was 85,33%. The positive predictive value for acute appendicitis was 78,94 % and its negative predictive value was 98,08%. Conclusions:&#160;The radiographic image of fecal loading in the cecum is associated with acute appendicitis. This sign is uncommon in other acute inflammatory diseases of the right side of the abdomen. The absence of this sign makes the diagnosis of acute appendicitis improbable.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/353</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p567-575</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 567-575</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 567-575</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 567-575</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/353/354</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/354</identifier>
+        <datestamp>2020-06-25T16:09:31Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">SIGNIFICATIONS IMPUTED BY MONOCULAR VISION CAREERS TO VISUAL LOSS AND CATARACT SURGERY</dc:title>
+          <dc:title xml:lang="pt-BR">SIGNIFICAÇÕES ATRIBUÍDAS POR PORTADORES DE VISÃO MONOCULAR À PERDA VISUAL E CIRURGIA DE CATARATA</dc:title>
+          <dc:creator>Marback, Roberta Ferrari</dc:creator>
+          <dc:creator>Temporini, Edméa R.</dc:creator>
+          <dc:creator>Maia Júnior, Otacílio O.</dc:creator>
+          <dc:creator>Kara-Júnior, Newton</dc:creator>
+          <dc:subject xml:lang="pt-BR">Visão Monocular. Catarata. Acuidade Visual. Percepção Visual. Pesquisa Qualitativa.</dc:subject>
+          <dc:subject xml:lang="en-US">Vision</dc:subject>
+          <dc:subject xml:lang="en-US">Monocular. Cataract. Visual Acuity. Visual Perception. Qualitative Research.</dc:subject>
+          <dc:description xml:lang="en-US">Purpose:&#160;To identify perceptions and significations relating to the visual loss and the cataract surgery among monocular vision patients who present surgical indication by means of a impairment.&#160;Methods: A qualitative study through open interviews with 8 individuals identified by the Cataract Project, was conducted in Hospital das Clínicas, São Paulo University Medical School (HC-FMUSP), during November, 2004.&#160;Results:&#160;The study included 4 women and 4 men, ages from 38 to 86 years old. They reported professional activities as liable for the visual loss, pointed out difficulties to get medical care and revealed popular beliefs and insufficient knowledge about their own ocular problem.&#160;Conclusions:&#160;Meanings, perceptions, feelings, reactions and experiences were identified related to cataract and visual loss, in general attributed to their professional activity. The occurence of cataract in a single eye signified to them anguish and conflictive situation related to loss of independence. Expectancy of seeing again through surgical procedure became attached to the sense of having a normal and useful life and by the fact of returning to the labour market.&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Identificar percepções e significados referentes à perda visual de pacientes que apresentavam visão monocular e diagnóstico de catarata, com indicação cirúrgica, por comprometimento visual significativo.&#160;Métodos: Desenvolveu-se estudo qualitativo, por meio de entrevistas abertas, com 8 sujeitos identificados por Campanha da Catarata, realizada no Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (HC-FMUSP), em novembro de 2004.Resultados: Dos entrevistados, 4 eram do sexo feminino e 4 do sexo masculino, tendo a idade variado de 38 a 86 anos. Referiram atividades profissionais como responsáveis pela perda visual, apontaram dificuldades para conseguir o atendimento médico, manifestaram desconhecimento e crenças populares em relação ao próprio problema ocular e dificuldades encontradas no cotidiano em decorrência da doença.&#160;Conclusões: Foram identificados significados, percepções, sentimentos, reações e experiências relacionados à catarata e à perda visual. A ocorrência da catarata no único olho significou angústia e situação conflituosa relacionadas à perda da independência. A expectativa de voltar a enxergar mediante intervenção cirúrgica prendeu-se ao sentimento de ter uma vida “normal”, de sentir-se útil e do retorno ao mercado de trabalho.&#160;&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/354</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p576-581</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 576-581</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 576-581</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 576-581</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/354/355</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/355</identifier>
+        <datestamp>2020-06-25T16:09:30Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">CATHETERS FOR HEMODIALYSIS: A REALITY REPORT</dc:title>
+          <dc:title xml:lang="pt-BR">CATETER PARA HEMODIÁLISE: RETRATO DE UMA REALIDADE</dc:title>
+          <dc:creator>Ferreira, Viviane</dc:creator>
+          <dc:creator>Andrade, Denise</dc:creator>
+          <dc:subject xml:lang="en-US">Chronic Kidney Failure. Renal Dialysis. Catheters Indwelling. Infection. Ambulatory Care Facilities.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Insuficiência Renal Crônica. Diálise Renal. Cateteres de Demora. Infecção. Instituições de Assistência Ambulatorial.</dc:subject>
+          <dc:description xml:lang="en-US">Objective: evaluate and describe the complications local and systemic most frequent referring to the use the catheter double lumen temporary chronic kidney failure patients under hemodialysis treatment. Methods:segment research carried out through interviews. Results: thirty-eight (59.4%) of the 64 patients evaluated were men, 20 (31.2%) suffered from hypertensive nephrosclerosis and 35 (54.7%) inserted the catheter due to the need for immediate hemodialysis treatment. One hundred forty-five catheters were inserted, 98 (67.6%) of which in the right jugular vein. Average catheter remain time was 30 days. The most frequent local complication was inadequate functioning in 41 (64%) cases, followed by infection of the catheter insertion site in 27 (42.2%) cases. Blood cultures were carried out for 34 (53.1%) patients, 30 of which (47%) had positive results, while Staphylococcus aureus was isolated in 10 (33.4%) cases.&#160;Conclusions: descriptive studies like this make it possible to identify problem situations and, hence, adapt professional actions accordingly.&#160;&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: avaliar e descrever as complicações locais e sistêmicas mais freqüentes referentes ao uso do cateter temporário duplo lúmen em pacientes portadores de insuficiência renal crônica em tratamento hemodialítico.&#160;Métodos:&#160;estudo de segmento realizado por meio de entrevista, inspeção no sítio de inserção do cateter e avaliação de prontuário. Resultados:&#160;dos 64 pacientes avaliados 38 (59,4%) eram masculinos, 20 (31,2%) tinham nefroesclerose hipertensiva, 35 (54,7%) implantaram o cateter devido à necessidade hemodialítica imediata, dos 145 cateteres implantados 98 (67,6%) foram implantados na veia jugular direita. A média de permanência dos cateteres foi de 30 dias, as complicações mais freqüentes em 41 (64%) foi o funcionamento inadequado do cateter, seguida de 27 (42,2%) casos de infecção no sítio de inserção. Realizou-se hemocultura em 34 (53,1%) dos pacientes, em que 30 (47%) apresentaram cultura positiva e em 10 (33,4%) isolou-se o Staphylococcus aureus.Conclusão:&#160;estudos dessa natureza permitem identificar as situações-problema, e, conseqüentemente proporcionar adequação das ações profissionais.&#160;&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/355</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p582-588</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 582-588</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 582-588</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 582-588</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/355/356</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/356</identifier>
+        <datestamp>2020-06-25T16:09:29Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">RESUMOS DE DISSERTAÇÕES DE MESTRADO E TESES DE DOUTORADO APRESENTADAS NA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO - USP DE JULHO A SETEMBRO DE 2007</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/356</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p589-630</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 589-630</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 589-630</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 589-630</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/356/357</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/357</identifier>
+        <datestamp>2020-06-25T16:09:28Z</datestamp>
+        <setSpec>rmrp:AGR</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">AGRADECIMENTOS</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2007-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/357</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v40i4p631-631</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 40 No. 4 (2007); 631-631</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 40 Núm. 4 (2007); 631-631</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 40 n. 4 (2007); 631-631</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/357/358</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/359</identifier>
+        <datestamp>2020-06-25T16:11:36Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">b-ADRENOCEPTORS FUNCTION IN THE CARDIOVASCULAR SYSTEM</dc:title>
+          <dc:title xml:lang="pt-BR">RECEPTORES b-ADRENÉRGICOS NO SISTEMA CARDIOVASCULAR</dc:title>
+          <dc:creator>A. Neto, Mário</dc:creator>
+          <dc:creator>Rascado, Ricardo R .</dc:creator>
+          <dc:creator>Bendhack, Lusiane M.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Receptores b Adrenérgicos. AMPc. GMPc Vasodilatação. Endotélio Vascular.&#160;</dc:subject>
+          <dc:subject xml:lang="en-US">b -Adrenoreceptors. cAMP. cGMP. Vasodilation. Endothelium</dc:subject>
+          <dc:subject xml:lang="en-US">Vascular.</dc:subject>
+          <dc:description xml:lang="en-US">b-adrenoceptors (b-AR) are classified as classic b-AR (b1, b2) and atypical b-AR (b3,b4). b-AR are coupled to G protein and enzymes such as adenylyl-cyclase and protein kinase-A(PKA) that is activated by 3´-5´adenosine-monophosphate (cAMP). This b-AR-enzymes complex can directly bind to ionic channels in the membrane, but the main mechanism of action induced by cAMP is the phosphorylation of several proteins via the action of PKA. The activation of b-AR in the endothelial cells increases the Ca+2 cytosolic levels that facilitate Ca+2 binding to calmodulin activating endothelial nitric oxide synthase and the production of nitric oxide. The main mechanism of cAMP in inducing vascular smooth muscle relaxation is due to the phosphorylation via PKA that decreases the cytosolic Ca+2 concentration by several mechanisms that lowers its affinity for calmodulin. Major b-AR agonists are classified as nonselective b-AR (isoprenaline), selective b1-AR (xamoterol) and b2-AR (terbutaline, salbutamol). Several b-AR agonists have been used in clinical situations but they play their main role in the treatment of the patients with asthma or as cardiac stimulant. The development of novel compounds b3-AR agonists as BRL-37344, CGP-12177 and CL-316243 open new pespectives for the treatment of hypertension. Considerable interest has focused on the development of b-AR antagonists due to their efficacy on the treatment of hypertension, cardiac arrhytmias and angina. Efforts for more selective b-AR antagonists have resulted in the synthesis of several compounds as atenolol, bisoprolol, betaxolol, practolol and CFP20712A (b1-AR), ICI 118551 (b2-AR), SR59230A (b3-AR), bupranolol and CGP20712A (b4-AR).</dc:description>
+          <dc:description xml:lang="pt-BR">Os receptores b-adrenérgicos (b-AR) integram um sistema proteico ternário: b-AR, proteína G de acoplamento e enzimas como a adenilato-ciclase (AC) que produz o 3´-5´monofosfato de adenosina (AMPc). O principal mecanismo de ação do AMPc é a ativação da proteína quinase A (PKA), capaz de fosforilar inúmeros substratos. Em células endoteliais, a ativação dos b-AR promove o aumento dos níveis citoplasmáticos de Ca+2 favorecendo a ligação do Ca+2 com a calmodulina e deste complexo com a enzima óxido nítrico sintase endotelial (eNOS), resultando na produção de NO. A ativaçãob -AR no músculo liso vascular e conseqüente ativação da PKA reduz a concentração citoplasmática de Ca+2&#160;e a sua afinidade pela calmodulina, resultando no relaxamento vascular. Os receptores b-AR podem ser agrupados em b-AR clássicos (b1 e b2) e b-AR atípicos (b3 e b4). Os agonistas b-AR são classificados em não seletivos isoprenalina), seletivos b1 (xamoterol) e seletivos b2 (terbutalina, salbutamol) e podem ser usados em várias situações clínicas, como broncodilatadores ou como estimulantes cardíacos. O desenvolvimento de agonistas b3-AR como BRL-37344, CGP 12177 e CL 316243, bem como de antagonistas b -AR têm merecido especial atenção devido à sua eficácia no tratamento da hipertensão arterial, certas arritmias cardíacas e isquemia cardíaca. A busca por antagonistas seletivos resultou na síntese de vários compostos como: atenolol, bisoprolol, betaxolol, practolol e CFP20712A (antagonistas b1-AR seletivos), ICI 118551 (antagonista b2-AR seletivo), SR59230A (antagonista b3-AR seletivo), bupranolol e CGP20712A (antagonistas b4-AR seletivos).&#160;&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/359</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p3-12</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 3-12</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 3-12</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 3-12</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/359/360</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/360</identifier>
+        <datestamp>2020-06-25T16:11:35Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">THE DORSOMEDIAL HYPOTHALAMUS AND THE ORGANIZATION OF THE CARDIOVASCULAR RESPONSE TO EMOTIONAL STRESS: A FUNCTIONAL PERSPECTIVE</dc:title>
+          <dc:title xml:lang="pt-BR">O HIPOTÁLAMO DORSOMEDIAL E A ORGANIZAÇÃO DA RESPOSTA CARDIOVASCULAR AO ESTRESSE EMOCIONAL: UMA PERSPECTIVA FUNCIONAL</dc:title>
+          <dc:creator>Fontes, Marco AP</dc:creator>
+          <dc:creator>Menezes, Rodrigo CA</dc:creator>
+          <dc:creator>Villela, Daniel C.</dc:creator>
+          <dc:creator>Silva Junior, Luiz G.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hipotálamo Dorsomedial. Estresse Emocional. Sistema Cardiovascular. Vias Centrais Descendentes.</dc:subject>
+          <dc:subject xml:lang="en-US">Dorsomedial Hypothalamus. Emotional Stress. Cardiovascular System. Descending Pathways.</dc:subject>
+          <dc:description xml:lang="en-US">Emotional stress results in activation of specific pathways into central nervous system, which produces autonomic, behavioral and endocrine responses. It is known that repetitive or continuous exposition to stress situations may result in various pathologic states, for example, arterial hypertension. Classically, the hypothalamus plays an essential role in the integration of physiological responses to emotional stress. Recent studies demonstrate that a specific nucleus from hypothalamus, the dorsomedial hypothalamus (DMH), is an essential component of central pathways that mediate the cardiovascular response to emotional stress. Inhibition of neurons in this area reduces the increases in heart rate and blood pressure in rats submitted to emotional stress paradigms. Conversely, pharmacological activation of DMH neurons evokes increases on heart rate, blood pressure, adrenocorticotrophic hormone, locomotor activity and sympathetic activity. The similarity of this response with that produced during emotional stress suggests that this area is crucial in the integration of the physiological responses to emotional stress. The present review will discuss the central pathways used by DMH in the organization of the cardiovascular response to emotional stress.</dc:description>
+          <dc:description xml:lang="pt-BR">O estresse emocional resulta em ativação de vias específicas do sistema nervoso central, que produzem respostas autonômicas, comportamentais e endócrinas. Sabe-se que situações de estresse recorrentes ou prolongadas podem resultar em vários estados patológicos, como por exemplo, a hipertensão arterial. O Hipotálamo tem papel fundamental na integração das respostas fisiológicas ao estresse emocional. Particularmente, estudos têm mostrado que um núcleo específico do hipotálamo, o hipotálamo dorsomedial (DMH), é um componente fundamental das vias centrais mediadoras das respostas cardiovasculares ao estresse emocional. A inibição dos neurônios dessa área reduz os aumentos de freqüência cardíaca e de pressão arterial em ratos quando submetidos à situações de estresse emocional. Ao contrário, a ativação farmacológica dos neurônios do DMH produz aumento na frequência cardíaca, pressão arterial, hormônio adrenocorticotrópico (ACTH), atividade locomotora e na atividade simpática para diversos leitos vasculares. A similaridade dessa resposta com aquela produzida durante a situação real de estresse emocional sugere que esta área é fundamental na integração da resposta fisiológica ao estresse. A presente revisão tem como objetivo mostrar, através de resultados de estudos recentes, as vias centrais utilizadas pelo DMH na organização da resposta cardiovascular ao estresse emocional.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/360</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p13-20</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 13-20</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 13-20</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 13-20</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/360/361</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/361</identifier>
+        <datestamp>2020-06-25T16:11:34Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">IMPORTANCE OF THE ANTEROVENTRAL THIRD VENTRICLE (AV3V) REGION IN CARDIOVASCULAR CONTROL AND HYDROMINERAL BALANCE</dc:title>
+          <dc:title xml:lang="pt-BR">IMPORTÂNCIA DA REGIÃO ANTEROVENTRAL DO TERCEIRO VENTRÍCULO (AV3V) NO CONTROLE CARDIOVASCULAR E DO EQUILÍBRIO HIDROELETROLÍTICO</dc:title>
+          <dc:creator>Vieira, Alexandre A.</dc:creator>
+          <dc:creator>Paula, Patrícia M.</dc:creator>
+          <dc:creator>Luca Junior, Laurival A.</dc:creator>
+          <dc:creator>Colombari, Débora S.A.</dc:creator>
+          <dc:creator>Colombari, Eduardo</dc:creator>
+          <dc:creator>Menani, José V.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Sistema Nervoso Simpático. Angiotensina. Hipertensão. Hipotálamo. Glutamato.</dc:subject>
+          <dc:subject xml:lang="en-US">Sympathetic Nervous System. Angiotensin. Hypertension. Hypothalamus. Glutamate.</dc:subject>
+          <dc:description xml:lang="pt-BR">A manutenção da pressão arterial em níveis normais é importante para a homeostasia do meio interno. O sistema nervoso central regulando a atividade dos eferentes autonômicos simpático e parassimpático ajusta a pressão arterial possibilitando ao animal ou ao ser humano um melhor desempenho frente a diferentes situações do cotidiano. Diferentes áreas centrais são responsáveis pelo controle das descargas autonômicas sobre o sistema cardiovascular e muitas delas também participam do controle do equilíbrio hidroeletrolítico. Uma dessas áreas é o tecido periventricular ao redor da porção anteroventral do terceiro ventrículo (região AV3V) localizado no prosencéfalo e que é uma das principais áreas centrais onde se localizam receptores da angiotensina II e osmorreceptores. A lesão da região AV3V impede o desenvolvimento de diversas formas de hipertensão experimental em ratos e dificulta o aparecimento de respostas pressoras produzidas por diversos estímulos. A lesão da região AV3V também reduz respostas dipsogênicas induzidas pela angiotensina II, estimulação colinérgica central, privação hídrica e aumento de osmolaridade plasmática, a secreção do peptídeo natriurético atrial produzida pela expansão de volume e a excreção renal de sódio produzida pela estimulação colinérgica central. Evidências mais recentes também sugerem uma participação da região AV3V nas respostas pressoras produzidas pela ativação de mecanismos bulbares.</dc:description>
+          <dc:description xml:lang="en-US">The maintenance of the arterial pressure in normal levels is important for the homeostasis of body fluids. The central nervous system regulating sympathetic and parasympathetic autonomic efferent can adjust arterial pressure which allows animals or human to face different daily activities with the best performance. Different central areas are responsible for the control of autonomic discharges to cardiovascular system and many of them are also involved in the control of fluid electrolyte balance. One of these areas is the tissue surrounding the anteroventral third ventricle (AV3V region) localized in the forebrain and a main central site for angiotensin II receptors and osmoreceptors. The AV3V lesions impair the development of many models of experimental hypertension in rats and the pressor responses to different stimuli. Lesions of the AV3V region also reduce dipsogenic responses to angiotensin II, central cholinergic activation, water deprivation and increase in plasma osmolarity, atrial natriuretic peptide secretion produced by body fluid expansion and the increase in renal excretion to central cholinergic activation. Recent evidence also suggests the participation of AV3V region in pressor responses produced by the&#160; activation of medullary mechanisms.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/361</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p21-27</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 21-27</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 21-27</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 21-27</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/361/702</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/362</identifier>
+        <datestamp>2020-06-25T16:11:33Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">DIABETES AS AN AUTONOMIC NEUROPATHY MODEL</dc:title>
+          <dc:title xml:lang="pt-BR">DIABETE COMO MODELO DE NEUROPATIA AUTONÔMICA</dc:title>
+          <dc:creator>Sato, Karina L.</dc:creator>
+          <dc:creator>Migliaccio, Vanessa</dc:creator>
+          <dc:creator>Carmo, Jussara M.</dc:creator>
+          <dc:creator>Oliveti, Maria Carolina DBB</dc:creator>
+          <dc:creator>Ferreira, Renata S.</dc:creator>
+          <dc:creator>Fazan, Valéria PS</dc:creator>
+          <dc:subject xml:lang="pt-BR">Diabetes Experimental. Neuropatias Diabéticas. Neuropatias Autonômicas. Nervo Depressor Aórtico. Nervo Vago. Nervo Renal.</dc:subject>
+          <dc:subject xml:lang="en-US">Diabetes</dc:subject>
+          <dc:subject xml:lang="en-US">Experimental. Diabetic Neuropathies. Neuropathies</dc:subject>
+          <dc:subject xml:lang="en-US">Autonomic. Aortic Depressor Nerve. Vagus Nerve. Renal Nerve.</dc:subject>
+          <dc:description xml:lang="en-US">Type of the study:The present study is a literature review about the diabetic neuropathy, specially the autonomic diabetic neuropathy, with emphasis on recent reports dealing with experimental models of autonomic neuropathies.Importance of the topic:Injury to the autonomic nervous system occurs in a variety of diseases, being the diabetes mellitus the most common. Alterations of the peripheral nervous system in genetically diabetic animals or in induced diabetic animals have been widely investigated, in an attempt to reproduce some of the characteristics of the human diabetic neuropathy. Several chemical agents are toxic to the beta-cells of the pancreas and Aloxane and Streptozotocin (STZ) are widely used to induce experimental diabetes. In general, STZ is more effective than Aloxane in inducing experimental diabetes. Although morphologic studies have been performed in somatic nerves, such as sural, fibular and tibial, in diabetic rats, information on autonomic nerves are scanty.&#160;Comments:&#160;Recently, we studied the morphology and morphometry of the aortic depressor nerve (ADN) in acute experimental diabetes in rats (15 days after STZ injection) and our results have demonstrated signs of axonal atrophy in 5 out of 10 nerves. A light microscopy study of the cervical vagus nerve of chronic (12 weeks after STZ injection) diabetic rats showed a discrete loss of the small myelinated fibers. Another study conducted in our laboratory showed a loss of the small myelinated fibers of the renal nerves in chronic diabetic rats, more evident than the observed on the vagus nerve. Nevertheless, the alterations of the &#160;ADN (axonal atrophy) were similar to the observations for other somatic nerves, and different from the autonomic nerves. These results confirm the diabetic characteristics of a highly variable injury of peripheral nerves.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: O presente estudo é uma revisão de literatura sobre a neuropatia diabética, especialmente a neuropatia autonômica diabética, enfatizando as recentes descobertas sobre o assunto, com modelos experimentais da doença.&#160;Importância do problema:&#160;Comprometimento do sistema nervoso autônomo ocorre em uma variedade de doenças sistêmicas, das quais o diabetes mellitus é a mais comum. Alterações no sistema nervoso periférico em animais geneticamente diabéticos ou com diabete induzida experimentalmente têm sido amplamente investigadas, na esperança de que as alterações encontradas em modelos animais possam reproduzir algumas das alterações da neuropatia diabética humana precoce, levando ao melhor entendimento sobre o mecanismo da doença. Vários agentes químicos são citotóxicos para as células beta do pâncreas porém, apenas o aloxane e a estreptozotocina (STZ) tem sido sistematicamente investigados e são amplamente empregados para induzir diabete nos animais. Em geral, STZ é mais eficaz e mais específica para as células beta do pâncreas que o aloxane. Embora estudos morfológicos tenham sido realizados em vários nervos periféricos de ratos diabéticos induzidos com STZ, tais como sural, fibular e tibial, informações sobre alterações patológicas em nervos autonômicos são limitadas.&#160;Comentários:&#160;Recentemente, estudamos as alterações do nervo depressor aórtico (NDA) em ratos diabéticos agudos (15 dias após injeção de STZ). Nossos resultados mostraram características de atrofia axonal em 5 dos 10 nervos estudados. Um estudo de microscopia de luz, conduzido em nosso laboratório, o nervo vago cervical de ratos diabéticos crônicos (12 semanas após injeção de STZ), mostrou resultados discretos, a favor da perda de fibras mielínicas finas. Outro estudo recente do nosso laboratório mostrou uma redução do número de fibras mielínicas pequenas dos nervos renais, nos ratos diabéticos crônicos, resultado mais evidente que o observado no nervo vago. Por outro lado, as alterações do NDA (atrofia axonal) se assemelham mais aos resultados obtidos com outros nervos somáticos, confirmando o caráter altamente variável do diabete, no acometimento dos nervos periféricos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/362</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p28-38</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 28-38</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 28-38</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 28-38</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/362/363</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/363</identifier>
+        <datestamp>2020-06-25T16:11:31Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">SPONTANEOUSLY HYPERTENSIVE RATS AND PERIPHERAL NEUROPATHIES</dc:title>
+          <dc:title xml:lang="pt-BR">RATOS ESPONTANEAMENTE HIPERTENSOS E NEUROPATIAS PERIFÉRICAS</dc:title>
+          <dc:creator>Fazan, Valéria P. S.</dc:creator>
+          <dc:creator>Kalil, Andréa L. R.</dc:creator>
+          <dc:creator>Alcântara, Adriana C. L.</dc:creator>
+          <dc:creator>Genari, Adriana B.</dc:creator>
+          <dc:creator>Tavares, Marcelo R.</dc:creator>
+          <dc:creator>Rodrigues, Anaceres R.</dc:creator>
+          <dc:creator>Salgado, Helio C.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hipertensão Experimental. Neuropatias Hipertensivas. Neuropatias Autonômicas. Nervo Depressor Aórtico. Nervo Sural. Nervo Vago.</dc:subject>
+          <dc:subject xml:lang="en-US">Hypertension</dc:subject>
+          <dc:subject xml:lang="en-US">Experimental. Hypertension Neuropathies. Neuropathies</dc:subject>
+          <dc:subject xml:lang="en-US">Autonomic. Aortic Depressor Nerve. Sural Nerve. Vagus Nerve.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: O presente estudo é uma revisão de literatura sobre o modelo de hipertensão espontânea e as conseqüências da hipertensão para o sistema nervoso periférico, somático e autonômico.&#160;Importância do problema: Hipertensão é o principal fator de risco para acidente vascular cerebral e demência vascular, por causar importantes mudanças cerebrovasculares, tornando o cérebro propenso a infartos, microaneurismas e isquemias. As principais mudanças causadas no sistema nervoso central (SNC) pela hipertensão, incluem: diminuição do volume cerebral, aumento no volume dos ventrículos e perda neuronal. Além das alterações no cérebro, a hipertens ão causa outros danos que culminam em uma série de alterações patológicas renais e outras doenças, as quais sustentam a elevação da pressão arterial, aumento da freqüência cardíaca, e aumento da resistência vascular periférica. O rato espontaneamente hipertenso (SHR) é reconhecido como um excelente modelo de hipertensão experimental e pode servir como modelo de estudos clínicos da hipertensão essencial humana. Embora esse modelo tenha sido bastante explorado em termos fisiológicos, estudos morfológicos, quando presentes, se limitam aos vasos. Mesmo quando nervos periféricos foram estudados morfologicamente nesses animais, os vasos epineurais, perineurais e endoneurais foram o alvo do estudo. Raros são os estudos que envolvem as fibras nervosas nesse modelo de hipertensão.&#160;Comentários: Recentemente, estudamos as alterações do nervo depressor aórtico (NDA) em SHR. Nossos resultados mostraram redução do tamanho das fibras mielínicas e redução do tamanho e número das fibras amielínicas, comparados aos controles normotensos da linhagem Wistar-Kyoto. Outro estudo recente do nosso laboratório mostrou que, embora os níveis pressóricos dos SHR machos, bem como a freqüência cardíaca, sejam muito superiores aos das fêmeas, não há diferença morfológica nos nervos vagos cervicais entre SHR machos e fêmeas. Ainda, fazemos uma descrição morfológica e morfométrica do nervo sural de SHR, fornecendo parâmetros morfológicos para posteriores estudos funcionais.&#160;&#160;&#160;&#160;</dc:description>
+          <dc:description xml:lang="en-US">Type of the study: The present study is a literature review about the spontaneous hypertension animal model, and the consequences of the hypertension to the peripheral nervous system, somatic and autonomic.&#160;Importance of the topic: Hypertension is the main risk factor to stroke and vascular dementia, due to important cerebrovascular changes that may lead to cerebral microaneurysms, infarction and acute ischemia. The main central nervous system changes due to hypertension are the reduction of the cerebral volume, increase of the ventricles volume and loss of neurons. Moreover, hypertension causes renal alterations and other pathologies that might sustain the high blood pressure, the tachycardia and the elevation of the peripheral vascular resistance. The spontaneously hypertensive rat (SHR) is recognized as an excellent model of the human essential hypertension. Nevertheless, despite that this animal model has been widely explored in terms ofphysiological studies, morphological studies, when available, are limited to the vessels. Even when periphera&#160; nerves are being explored, the epineural, perineural and endoneural vessels are the subject of the studies. Information on the alterations of the myelinated and unmyelinated fibers in this model of hypertension is scanty.&#160;Comments: Recently, we studied the morphology and morphometry of the aortic depressor nerve (ADN) in SHR and our results have demonstrated a reduction of the myelinated fibers size and a reduction of the number and size of the unmyelinated fibers, compared to the normotensive controls Wistar-Kyoto. Another recent study from our laboratory showed that, despite the significantly higher blood pressure and heart rate on male SHR, compared to female SHR, there are no morphological differences on the vagus nerves between males and females. Also, we have described the morphological and morphometric characteristics of the sural nerve in SHR, thus providing morphological background for further functional studies.&#160;&#160;&#160;&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/363</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p39-50</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 39-50</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 39-50</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 39-50</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/363/364</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/364</identifier>
+        <datestamp>2020-06-25T16:11:30Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">NITRIC OXIDE (NO) IN THE NEURAL CONTROL OF BLOOD PRESSURE: MODULATION OF GLUTAMATERGIC TRANSMISSION WITHIN THE NTS</dc:title>
+          <dc:title xml:lang="pt-BR">O ÓXIDO NÍTRICO (NO) NO CONTROLE NEURAL DA PRESSÃO ARTERIAL: MODULAÇÃO DA TRANSMISSÃO GLUTAMATÉRGICA NO NTS</dc:title>
+          <dc:creator>Dias, Ana Carolina R.</dc:creator>
+          <dc:creator>Silva, Liana G.</dc:creator>
+          <dc:creator>Colombari, Eduardo</dc:creator>
+          <dc:subject xml:lang="pt-BR">AMPA. NMDA. Óxido Nítrico. Fluxo Sanguíneo Regional. Pressão Arterial. NTS.</dc:subject>
+          <dc:subject xml:lang="en-US">AMPA. NMDA. Nitric Oxide. Regional Blood Flow. Blood Pressure. NTS.</dc:subject>
+          <dc:description xml:lang="en-US">The neuromodulatory effect of nitric oxide (NO) on glutamatergic transmission within the NTS related to cardiovascular regulation has been widely investigated. Activation of glutamatergic receptors in the NTS stimulates the production and release of NO and other nitrosyl substances with neurotransmitter/neuromodulator properties. The presence of NOS, including the protein nNOS and its mRNA in vagal afferent terminals in the NTS and nodose ganglion cells suggest that NO can act on glutamatergic transmission. We previously reported that iontophoresis of L-NAME on NTS neurons receiving vagal afferent inputs significantly decreased the number of action potentials evoked by iontophoretic application of AMPA. In addition, iontophoresis of the NO donor papaNONOate enhanced spontaneous discharge and the number of action potentials elicited by AMPA, suggesting that NO could be facilitating AMPA-mediated neuronal transmission within the NTS. Furthermore, the changes in renal sympathetic discharge during activation of baroreceptors and cardiopulmonary receptors involve activation of AMPA and NMDA receptors in the NTS and these responses are attenuated by microinjection of L-NAME in the NTS of conscious and anesthetized rats. Cardiovascular responses elicited by application of NO in the NTS are closely similar to those obtained after activation of vagal afferent inputs, and L-glutamate is the main neurotransmitter of vagal afferent fibers. In this review we discuss the possible neuromodulatory mechanisms of central produced/released NO on glutamatergic transmission within the NTS.</dc:description>
+          <dc:description xml:lang="pt-BR">O efeito neuromodulatório do óxido nítrico (NO) sobre a transmissão glutamatérgica no NTS relacionado ao controle cardiovascular tem sido bastante investigado. A ativação de receptores glutamatérgicos no NTS estimula a produção e liberação de NO e outras substâncias nitrosotióis de propriedades neurotransmissoras/neuromoduladoras. A presença da enzima NOS, incluindo a proteína NOS neuronal (nNOS) e seu mRNA nos terminais das aferências vagais no NTS, além de células do gânglio nodoso sugerem que o NO possa atuar na transmissão glutamatérgica. Nossos estudos mostraram que a aplicação iontoforética do inibidor da NOS (LNAME) em neurônios do NTS que respondem à estimulação das aferências vagais diminuiu significantemente o número de potenciais de ação causados pela aplicação iontoforética de AMPA. Em contrapartida, a iontoforese do doador de NO (papaNONOate) aumentou significantemente os disparos espontâneos e o número de potenciais de ação causados pela aplicação iontoforética de AMPA, sugerindo uma facilitação pelo NO da transmissão neuronal mediada pelos receptores AMPA no NTS. As alterações da atividade nervosa simpática renal causadas pela ativação dos barorreceptores e dos receptores cardiopulmonares envolvem a estimulação dos receptores AMPA e NMDA no NTS, e estas respostas são atenuadas pela microinjeção de L-NAME no NTS de ratos anestesiados e não anestesiados. As respostas cardiovasculares obtidas com a aplicação de NO no NTS são muito similares àquelas obtidas após a estimulação das aferências vagais, e o L-glutamato é o principal neurotransmissor dessas aferências. Nesta revisão nós buscamos discutir os possíveis mecanismos neuromodulatórios do NO formado e liberado centralmente sobre a tranmissão glutamatérgica no NTS.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/364</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p51-64</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 51-64</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 51-64</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 51-64</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/364/365</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/365</identifier>
+        <datestamp>2020-06-25T16:11:29Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">PHYSIOLOGICAL AND PATHOPHYSIOLOGICAL MECHANISMS DETERMINIG THE SYMPATHETIC VASOMOTOR TONE</dc:title>
+          <dc:title xml:lang="pt-BR">MECANISMOS FISIOLÓGICOS E FISIOPATOLÓGICOS DETERMINANTES DA ATIVIDADE VASOMOTORA SIMPÁTICA</dc:title>
+          <dc:creator>Beutel, Abram</dc:creator>
+          <dc:creator>Silva, Adilson M.</dc:creator>
+          <dc:creator>Dugaich, Adriana PC</dc:creator>
+          <dc:creator>Galvão, Ana Paula RL</dc:creator>
+          <dc:creator>Carillo, Bruno A.</dc:creator>
+          <dc:creator>Barreto, Carolina R.</dc:creator>
+          <dc:creator>Oliveira-Sales, Elizabeth B.</dc:creator>
+          <dc:creator>Abreu, Nayda P.</dc:creator>
+          <dc:creator>Fontes, Pâmela BM</dc:creator>
+          <dc:creator>Carvalho, Rafael S.</dc:creator>
+          <dc:creator>Freitas, Raphael R. de A.</dc:creator>
+          <dc:creator>Dolnikoff, Miriam S.</dc:creator>
+          <dc:creator>Bergamaschi, Cássia T.</dc:creator>
+          <dc:creator>Campos Junior, Ruy R.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Bulbo Ventrolateral. Óxido Nítrico. Pressão Arterial. Hipertensão. Insuficiência Cardíaca. Insuficiência Renal. Sistema Nervoso Simpático.</dc:subject>
+          <dc:subject xml:lang="en-US">Ventrolateral Medulla. Nitric Oxide. Blood Pressure. Hypertension. Heart Failure. Renal Failure. Sympathetic Nervous System.</dc:subject>
+          <dc:description xml:lang="en-US">The sympathetic vasomotor activity is one of determinants of blood pressure (BP). Understanding the mechanisms involved in the control of the cardiovascular system is important in physiological and pathophysiological condition. The principal sympathetic premotor brain nuclei are confined in the paraventricular nucleus of hypothalamus (PVN) and in the rostralventrolateral medulla (RVLM). In different patophysiological condition, there is an increase in the sympathetic vasomotor tone, in part due to an increase in the activity of the PVN and RVLM neurons. In this brief review, we discussed the major mechanisms of sympathetic activation in different experimental models: 1) renovascular hypertension, 2) renoprival hypertension, 3) cardiac failure, 4) hypertension induced by nitric oxide blockade, 5) obesity and 6) gender differences. The actions of different mediators in the PVN and in the RVLM acting in long term, can change the level of sympathetic nerve activity and blood pressure and therefore, contributing for the progression of cardiovascular disease.</dc:description>
+          <dc:description xml:lang="pt-BR">A atividade vasomotora simpática é um dos determinantes da pressão arterial (PA). Estabelecer quais são os mecanismos geradores dessa atividade é importante para o entendimento de como o sistema cardiovascular opera, tanto em situações fisiológicas como fisiopatológicas. Os principais grupos pré-motores do simpático estão confinados no núcleo paraventricular do hipotálamo (PVN) e região rostoventrolateral bulbar (RVLM). Em diversas situações fisiopatológicas há aumento na atividade vasomotora simpática, em parte conseqüente a maior atividade dos neurônios do PVN e RVLM. Nesta breve revisão, foram discutidos os principais mecanismos de ativação simpática em diferentes modelos experimentais: 1) hipertensão renovascular, 2) hipertensão por baixa massa renal, 3) insuficiência cardíaca, 4) hipertensão por bloqueio do óxido nítrico, 5) obesidade e 6) dimorfismo sexual. As ações de diferentes mediadores sobre o PVN e RVLM podem em longo prazo determinar novos patamares de atividade simpática, modificando os níveis tensionais e dessa forma, contribuir para a progressão da doença cardiovascular.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/365</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p65-76</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 65-76</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 65-76</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 65-76</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/365/366</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/366</identifier>
+        <datestamp>2020-06-25T16:11:28Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">REACTIVE OXYGEN SPECIES IN THE AUTONOMIC CONTROL OF THE BLOOD PRESSURE</dc:title>
+          <dc:title xml:lang="pt-BR">ESPÉCIES REATIVAS DE OXIGÊNIO NO CONTROLE NEUROVEGETATIVO DA PRESSÃO ARTERIAL</dc:title>
+          <dc:creator>Cardoso, Leonardo M.</dc:creator>
+          <dc:creator>Colombari, Débora S A</dc:creator>
+          <dc:creator>Menani, José V.</dc:creator>
+          <dc:creator>Paula, Patrícia M.</dc:creator>
+          <dc:creator>Chianca-Junior, Deoclécio A.</dc:creator>
+          <dc:creator>Colombari, Eduardo</dc:creator>
+          <dc:subject xml:lang="pt-BR">Espécies Reativas de Oxigênio. Glutamato. Regulação Cardiovascular. Peróxido de Hidrogênio.</dc:subject>
+          <dc:subject xml:lang="en-US">Reactive Oxygen Species. Glutamate. Cardiovascular Regulation. Hydrogen Peroxide.</dc:subject>
+          <dc:description xml:lang="en-US">The control of the blood pressure depends on the activity of select groups of neurons present in the central nervous system. Evidence has demonstrated that the redox state (a balance between oxidizing and reducing species) is involved in the control of neuronal activity, which suggests that the redox state can influence the neuronal transmission within the central nervous system acting on the neuronal modulation of biological functions. For instance, the glutamatergic transmission may be widely affected by reactive oxygen species, oxidizing agents that have been extensively investigated due to their involvement in physiological and pathological processes. In the present article, we discuss the main experimental finds that support the hypothesis that reactive oxygen species have important role in physiological (and pathological) modulation of the cardiovascular function through alterations in the sympathetic and parasympathetic system. Therefore, reactive oxygen species can actively participate in the development of cardiovascular diseases like hypertension when the balance in the redox state is disrupted.</dc:description>
+          <dc:description xml:lang="pt-BR">Existem evidências de que a atividade neuronal pode ser modulada pelo estado redox (balanço entre espécies químicas oxidantes e redutoras) das células, influenciando, assim, as diferentes funções biológicas que são controladas pelo sistema nervoso. Essa modulação pode ocorrer por meio de diferentes mecanismos e um deles é a modulação da transmissão sináptica no sistema nervoso central (SNC). As descargas autonômicas que são controladas por mecanismos localizados em diferentes áreas do SNC são fundamentais para o controle da pressão arterial. Um importante neurotransmissor que participa dos mecanismos centrais de controle cardiovascular é o glutamato e a transmissão glutamatérgica pode ser extensamente afetada por espécies reativas de oxigênio, oxidantes que parecem ter um importante papel em processos fisiológicos e patológicos. No presente artigo são apresentados os principais achados experimentais que suportam a hipótese de que as espécies reativas de oxigênio podem modular as funções cardiovasculares por produzir alterações nos mecanismos centrais de controle dos sistemas simpático e parassimpático. Logo, desequilíbrios na sinalização mediada por espécies reativas de oxigênios podem contribuir para o desenvolvimento de doenças cardiovasculares como a hipertensão.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/366</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p77-88</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 77-88</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 77-88</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 77-88</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/366/367</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/367</identifier>
+        <datestamp>2020-06-25T16:11:27Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">VENTROLATERAL MEDULLA AND THE CARDIOVASCULAR CONTROL: NEW EVIDENCE NEW DOUBTS</dc:title>
+          <dc:title xml:lang="pt-BR">OS NÚCLEOS VASOMOTORES DO BULBO E A REGULAÇÃO CARDIOVASCULAR: NOVAS EVIDÊNCIAS E NOVAS QUESTÕES</dc:title>
+          <dc:creator>Cravo, Sergio L.</dc:creator>
+          <dc:creator>Rosa, Daniel A.</dc:creator>
+          <dc:creator>Kalassa, Fernanda</dc:creator>
+          <dc:creator>Korim, Willian S.</dc:creator>
+          <dc:creator>Hinrichs, Julia M.</dc:creator>
+          <dc:creator>Ferreira-Neto, Marcos L.</dc:creator>
+          <dc:creator>Di Mônaco, Luciana R.</dc:creator>
+          <dc:creator>Pedrino, Gustavo R.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Pressão Arterial. NTS. RVL. CVL.</dc:subject>
+          <dc:subject xml:lang="en-US">Bood Pressure. NTS. RVL. CVL.</dc:subject>
+          <dc:description xml:lang="en-US">More than 30 years ago a model was proposed trying to explain how the central nervous system controls the cardiovascular adjustments. According to this model the medullary vasomotor nuclei are the main structures involved in the cardiovascular reflex control. It also shows the nucleus tractus solitarius (NTS) as being the first integrative center for the baroceptors afferents and the descending pathways from supramedullary nuclei of hypothalamus, which contribute at defense and alert reactions. The NTS exhibits excitatory projections to the caudal ventral lateral medulla (CVL) which inhibits the rostral ventral lateral medulla (RVL). The RVL is the main source of excitatory inputs to the sympathetic preganglionic neurons, being responsible for the sympathetic tonus to heart and blood vessels. Important projections from CVL to diencephalon structures (Median preoptic nucleus, Hypothalamic paraventricular nucleus, Supraoptic nucleus) also play an important role in the control of the extracellular compartment composition and volume. The gigantocellular depressor area (GiDA) is likely to be another vasomotor center involved in blood flow adjustments through direct projections to Preganglionic Sympathetic Neurons (SPN). How GiDA mediates its vasodepressor effects is unknown. In the last 10 years we have been studying the pathways and neural mechanisms related to muscle and visceral blood flow regulation. Obtained data are not compatible with the proposed model.</dc:description>
+          <dc:description xml:lang="pt-BR">Há mais de 30 anos foi proposto um modelo para explicar como o sistema nervoso central promove a regulação do sistema cardiovascular, onde os núcleos vasomotores do bulbo seriam as principais estruturas envolvidas no controle do reflexo cardiovascular. Segundo este modelo, o núcleo do trato solitário (NTS) é o primeiro núcleo a integrar as informações cardiovasculares vindas dos baroceptores e também parece integrar vias descendentes provenientes de núcleos superiores como o hipotálamo, importantes para as reações de alerta e defesa. Do NTS saem projeções excitatórias para a região caudoventrolateral (CVL) do bulbo, a qual inibe a região rostroventrolateral (RVL). Esta última região constitui a principal fonte de eferências excitatórias para os neurônios simpáticos pré-ganglionares (SPN), sendo responsável pelo tonus simpático para o coração e vasos. Projeções importantes do CVL para estruturas diencefálicas (núcleo preóptico mediano, núcleo paraventricular do hipotálamo e núcleo supraóptico) também estão envolvidas&#160;no controle da composição e/ou volume do compartimento extracelular. A área depressora gigantocelular (GiDA) constitui outro&#160; possível centro vasomotor envolvido nos ajustes de fluxo sangüíneo por meio de projeções diretas para o SPN. No entanto, o meio pelo qual a GiDA exerce seu efeito vasodepressor ainda é desconhecido. Nos últimos 10 anos, nosso laboratório tem se dedicado a deslindar as vias e mecanismos neurais associados à regulação do fluxo sangüíneo visceral e muscular. Resultados obtidos ao longo destes estudos resultaram em evidências que são incompatíveis com o modelo proposto.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/367</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p89-100</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 89-100</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 89-100</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 89-100</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/367/368</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/368</identifier>
+        <datestamp>2020-06-25T16:11:26Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">DIFFERENT EXPERIMENTAL APPROACHES TO STUDY THE SYMPATHETIC MODULATION IN THE CENTRAL NERVOUS SYSTEM OF RATS</dc:title>
+          <dc:title xml:lang="pt-BR">DIFERENTES ABORDAGENS EXPERIMENTAIS NO ESTUDO DA MODULAÇÃO DA ATIVIDADE SIMPÁTICA NO SISTEMA NERVOSO CENTRAL DE RATOS</dc:title>
+          <dc:creator>Machado, Benedito H.</dc:creator>
+          <dc:creator>Cruz, Josiane C.</dc:creator>
+          <dc:creator>Pajolla, Gisela P.</dc:creator>
+          <dc:creator>Zoccal, Daniel B.</dc:creator>
+          <dc:creator>Braga, Valdir A</dc:creator>
+          <dc:creator>Accorsi-Mendonça, Daniela</dc:creator>
+          <dc:subject xml:lang="pt-BR">Quimiorreflexo. NTS. Hipóxia. Sistema Nervoso Autônomo. L-glutamato. ATP.Pressão Arterial.</dc:subject>
+          <dc:subject xml:lang="en-US">Chemoreflex. NTS. Hypoxia. Autonomic Nervous System. L-glutamate. ATP. Pressure Blood.</dc:subject>
+          <dc:description xml:lang="en-US">The main purpose of the present review is to present the experience of our laboratory on the last few years on studies related to the neurotransmission of the sympatho- xcitatory component of the chemoreflex in the nucleus tractus solitary (NTS) of rats. The experimental approach of the chemoreflex activation has been used as a model for the understanding of the neurochemical mechanisms involved in the generation and modulation of the sympathetic activity, which have influence on the cardiovascular system on physiological and pathophysiological circumstances such as arterial hypertension. The specific focus of this review is the neurotransmission of the sympatho-excitatory component of the chemoreflex in the NTS but also we present several methods and experimental approaches used currently in our laboratory in order to understand this complex neurotransmission system. Using this combination of methods from the NTS neurons to the awake rat, we wish to discuss the use of several contemporary techniques, which are allowing us to expand the frontiers of this important scientific area.</dc:description>
+          <dc:description xml:lang="pt-BR">Essa revisão tem como objetivo apresentar a experiência do nosso laboratório, acumulada ao longo dos últimos anos no estudo da neurotransmissão do componente simpatoexcitatório do quimiorreflexo no núcleo do trato solitário (NTS) de ratos. Essa abordagem experimental tem sido utilizada como um modelo para o melhor entendimento dos mecanismos neuroquímicos envolvidos na geração e modulação da atividade simpática, a qual tem importantes repercussões para o sistema cardiovascular tanto em condições fisiológicas quanto em condições fisiopatológicas como a hipertensão arterial. O foco específico dessa revisão está centrado na neurotransmissão do componente simpato-excitatório do quimiorreflexo no núcleo do trato solitário (NTS) e apresentamos vários métodos e abordagens experimentais que estão sendo utilizados com vistas ao melhor entendimento desse complexo sistema de neurotransmissão. Com essa combinação de métodos, que vão desde um neurônio do NTS até o rato acordado e com livre movimentação, queremos ilustrar as múltiplas possibilidades de abordagens experimentais contemporâneas, as quais estão nos proporcionando as condições materiais para estender os horizontes dessa importante área do conhecimento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/368</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p101-109</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 101-109</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 101-109</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 101-109</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/368/369</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/369</identifier>
+        <datestamp>2020-06-25T16:11:25Z</datestamp>
+        <setSpec>rmrp:CAP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O EMPREGO DE CAMUNDONGO GENETICAMENTE MODIFICADO COMO MODELO DE ESTUDO PARA DOENÇAS CARDIOVASCULARES</dc:title>
+          <dc:title xml:lang="en-US">THE USE OF GENETIC MODIFIED MICE AS A MODEL TO STUDY CARDIOVASCULAR DISEASES</dc:title>
+          <dc:creator>Carvalho, Tais H F</dc:creator>
+          <dc:creator>Lopes, Oswaldo U.</dc:creator>
+          <dc:subject xml:lang="pt-BR">Camundongos. Técnicas Cirúrgicas. Barorreflexo. Região Rostroventrolateral do Bulbo.</dc:subject>
+          <dc:subject xml:lang="en-US">Mice. Surgical Techniques. Baroreflex. Rostral Ventrolateral Medulla.</dc:subject>
+          <dc:description xml:lang="en-US">This review describes some strategies for the employment of mice in the study of cardiovascular physiology and physiopathology. Among the major advantages of using the mice, we should consider fast reproduction and low maintenance costs. Moreover, the unnumbered possibilities of genetically modification in these animals allow the development of targeted gene mutation, like transgenic mice, characterized by a introduction of a foreign DNA into its genome (knockin), or, more common, the development of knockout mice. These are animals in which a specific gene was disrupted, causing particular characteristics, such as the deficiency of a 2A receptor or the absence of the nNOS enzyme. Methodologies and techniques for cardiovascular research on mice are summarized and discussed and some results, about the use of mice in the cardiovascular study, are also showed in this review.</dc:description>
+          <dc:description xml:lang="pt-BR">Na presente revisão apresentamos dados e elementos sobre o emprego de camundongos no estudo da fisiologia e fisiopatologia cardiovascular. São apontadas as vantagens de seu emprego, como por exemplo, a facilidade de criação e reprodução. Deve se destacar que a possibilidade desses animais serem manipulados por meio da engenharia genética, nos permite obter animais transgênicos, que se caracterizam por manipulação genética visando a introdução de genes de outras espécies, ou, o que é mais comum, a produção de animais knockout. Animais que apresentam deficiência especifica em um gene, não expressando, portanto, determinadas características, como a deficiência do receptor 2A&#160;ou a ausência da enzima nNOS. As metodologias e técnicas necessárias para o estudo cardiovascular desses animais são apresentadas e discutidas. São também demonstrados alguns resultados dentre os já obtidos, com o emprego destes animais e uma breve discussão dos mesmos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2006-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/369</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v39i1p110-116</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 39 No. 1 (2006); 110-116</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 39 Núm. 1 (2006); 110-116</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 39 n. 1 (2006); 110-116</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/369/370</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:02Z" completeListSize="1467" cursor="175">f5572079b6a3f58b7ad4d4eecc393a45</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

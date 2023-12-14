@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2023-08-07T14:49:40Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/174183</identifier>
+        <datestamp>2021-07-23T18:11:16Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Botulinum toxin A and repercussions on the ability to walk in individuals after a stroke: systematic review</dc:title>
+          <dc:title xml:lang="pt-BR">Toxina botulínica A e repercussões na capacidade para andar de indivíduos pós acidente vascular cerebral: revisão sistemática</dc:title>
+          <dc:creator>Alves, Layane Mendes</dc:creator>
+          <dc:creator>Galaverna, Lucas dos Santos</dc:creator>
+          <dc:creator>Dornelas, Lilian de Fátima</dc:creator>
+          <dc:subject xml:lang="pt-BR">Acidente Vascular Cerebral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Espasticidade Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Marcha</dc:subject>
+          <dc:subject xml:lang="pt-BR">Toxinas Botulínicas Tipo A</dc:subject>
+          <dc:subject xml:lang="en-US">Stroke</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Spasticity</dc:subject>
+          <dc:subject xml:lang="en-US">Gait</dc:subject>
+          <dc:subject xml:lang="en-US">Botulinum Toxins, Type A</dc:subject>
+          <dc:description xml:lang="pt-BR">A indicação da toxina botulínica do tipo A (TBA) para indivíduos com história de acidente vascular cerebral (AVC) é uma prática clínica comum para redução da espasticidade. Objetivo: Investigar se a ação da TBA sem associação com outras intervenções impacta na capacidade da atividade de andar nos indivíduos pós-AVC. Método: Revisão sistemática com estudos provenientes da Cochrane Central Register of Controlled Trials, MEDLINE, SciELO, PEDro e LILACS, em inglês e português, entre 2010 a 2020. Foram incluídos ensaios clínicos controlados, com participantes pós AVC submetidos a aplicação de TBA em idades entre 18 a 50 anos de ambos os sexos. A seleção dos artigos foi realizada por dois avaliadores, com extração dos dados e avaliação de qualidade da evidência pela PEDro, segundo critérios de inclusão e exclusão pré-estabelecidos. Resultados: Dos 183 artigos, quatro permaneceram para análise final. A aplicação da TBA em indivíduos pós AVC ocorreu em sua maioria em flexores plantares e os achados relacionados com a atividade andar foram o aumento da passada, da velocidade da marcha, de distâncias percorridas ao caminhar e redução do tempo de execução de ações, como subir e descer degraus. Conclusão: A TBA proporciona melhora da capacidade para andar em indivíduos pós AVC e o conhecimento dos seus benefícios pós aplicação é essencial para informar aos pacientes da importância de aproveitar este momento, para modificar comportamentos que acentuam os padrões de compensação, que tanto corroboram para o retorno de limitações de atividades e não devido ao término da ação da TBA.</dc:description>
+          <dc:description xml:lang="en-US">The indication of botulinum toxin type A (BoNTA) for individuals with a history of stroke is a common clinical practice for reducing spasticity. Objective: To investigate whether the action of TBA without association with other interventions impacts on the ability of walking activity in post-stroke individuals. Method: A systematic review with studies from the Cochrane Central Register of Controlled Trials, MEDLINE, SciELO, PEDro, and LILACS databases, in English and Portuguese, between 2010 and 2020. Controlled clinical trials were included, with post-stroke participants aged between 18 and 50, of both sexes, submitted themselves to the application of BoNTA. The selection of the articles was carried out by two evaluators, with data extraction and quality evaluation of the evidence by PEDro, according to pre-established inclusion and exclusion criteria. Results: Of the 183 articles, four remained for final analysis. The application of TBA in post-stroke individuals occurred mostly in plantar flexors and the findings related to walking activity were increased stride, gait speed, distances covered when walking and reduced time to perform actions, such as climbing and go down steps. Conclusion: TBA improves the ability to walk in post-stroke individuals and knowledge of its benefits after application is essential to inform patients of the importance of taking advantage of this moment, to modify behaviors that accentuate the compensation patterns, which so much corroborate for the return of activity limitations and not due to the termination of the TBA action.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2021-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/174183</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v28i1a174183</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 28 n. 1 (2021); 66-72</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/174183/171800</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/174188</identifier>
+        <datestamp>2021-03-25T14:48:20Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Impact of a muscle strengthening program for lower members on the balance and functional performance of institutionalized elderly: a controlled and randomized study</dc:title>
+          <dc:title xml:lang="pt-BR">Impacto de um programa de fortalecimento muscular dos membros inferiores no equilíbrio e na performance funcional de idosos institucionalizados: um estudo controlado e randomizado</dc:title>
+          <dc:creator>Leopoldino, Amanda Aparecida Oliveira</dc:creator>
+          <dc:creator>Araújo, Izabella Thalita</dc:creator>
+          <dc:creator>Pires, Juliana Catarina</dc:creator>
+          <dc:creator>Brito, Taís Reis de</dc:creator>
+          <dc:creator>Polese, Janaine Cunha</dc:creator>
+          <dc:creator>Bastone, Alessandra Carvalho</dc:creator>
+          <dc:creator>Lima, Onésia Cristina de Oliveira</dc:creator>
+          <dc:creator>Schetino, Luana Pereira Leite</dc:creator>
+          <dc:subject xml:lang="en-US">Aged</dc:subject>
+          <dc:subject xml:lang="en-US">Postural Balance</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="en-US">Exercise</dc:subject>
+          <dc:subject xml:lang="en-US">Homes for the Aged</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:subject xml:lang="pt-BR">Equilíbrio Postural</dc:subject>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício Físico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Instituição de Longa Permanência para Idosos</dc:subject>
+          <dc:description xml:lang="en-US">Functional performance is maximized through muscle strengthening programs in the elderly. However, few interventions have been implemented in institutionalized elderly to assess the effects of muscle strengthening exercise programs in outcomes such as balance, functional performance and muscle strength. Objective: Assess the impact of a lower limb muscle strengthening program at the balance, functional performance and muscle strength of institutionalized elderly. Methods: Controlled, randomized clinical trial. Balance, functional performance and muscle strength were assessed using the Berg Balance Scale (BSE), Tandem Gait (MT), Short Physical Performance Battery (SPPB) and Sphygmomanometer Test (TE) respectively. The experimental group (GE, n = 11) participated in the group exercise program, three times a week, for eight weeks, while the control group (CG, n = 8) continued their usual routine.The intervals of 95% confidence for the differences between the experimental and control groups (experimental - control) and between the two moments of observation (post - pre). Intent to treat analysis was performed. Results: EG showed a significant gain in relation to CG for BSE (DM = 3.7 IC95% 1.0 to 6.5), MT DM = 3.5 IC95% 0.7 to 6.2), FMEJ (DM = 33.2 95% CI 4.9 to 61.5) and FMD (DM = 37.5 95% CI 9.6 to 65.3). Conclusion: The muscle strengthening program was able to improve balance, functional performance and muscle strength in institutionalized elderly.</dc:description>
+          <dc:description xml:lang="pt-BR">A performance funcional é maximizada através de programas de fortalecimento muscular em idosos. Contudo, poucas intervenções foram implementadas em idosos institucionalizados para avaliar os efeitos de programas de exercícios de fortalecimento muscular em desfechos como o equilíbrio, performance funcional e força muscular. Objetivo: Avaliar o impacto de um programa de fortalecimento muscular de membros inferiores no equilíbrio, performance funcional e força muscular de idosos institucionalizados. Métodos: Ensaio clínico controlado e randomizado. O equilíbrio, a performance funcional e a força muscular foram avaliados através da Escala de Equilíbrio de Berg (EEB), Marcha Tandem (MT), Short Physical Performance Battery (SPPB) e Teste do Esfigmomanômetro (TE), respectivamente. O grupo experimental (GE, n=11) participou do programa de exercícios em grupo, três vezes semanais, durante oito semanas, enquanto o grupo controle (GC, n=8) continuou sua rotina habitual. Foram calculados os intervalos de 95% de confiança para as diferenças entre os grupos experimental e controle (experimental – controle) e entre os dois momentos de observação (pós – pré). Foi realizada análise de intenção de tratar. Resultados: O GE apresentou um ganho significativo em relação ao GC para a EEB (DM=3,7 IC95% 1,0 a 6,5), MT DM=3,5 IC95% 0,7 a 6,2), FMEJ (DM=33,2 IC95% 4,9 a 61,5) e FMD (DM=37,5 IC95% 9,6 a 65,3). Conclusão: O programa de fortalecimento muscular foi capaz de melhorar o equilíbrio, a performance funcional e a força muscular em idosos institucionalizados.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/174188</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i3a174188</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 3 (2020); 174-181</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/174188/167984</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/174519</identifier>
+        <datestamp>2022-04-01T15:27:54Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Quedas em idosos comunitários atendidos por uma estratégia de saúde da família do município de São Leopoldo: prevalência e fatores associados</dc:title>
+          <dc:title xml:lang="en-US">Falls in community dwelling elderly assisted by a family health strategy in the municipality of São Leopoldo: prevalence and associated factors</dc:title>
+          <dc:creator>Carvalho, Murilo Santos de</dc:creator>
+          <dc:creator>Martins, Patricia</dc:creator>
+          <dc:creator>Santos, Franciele Souza</dc:creator>
+          <dc:creator>Queiroz, Débora Taís Seifert</dc:creator>
+          <dc:subject xml:lang="pt-BR">Acidentes por Quedas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fatores de Risco</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atenção Primária à Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde do Idoso</dc:subject>
+          <dc:subject xml:lang="en-US">Accidental Falls</dc:subject>
+          <dc:subject xml:lang="en-US">Risk Factors</dc:subject>
+          <dc:subject xml:lang="en-US">Primary Health Care</dc:subject>
+          <dc:subject xml:lang="en-US">Health of the Elderly</dc:subject>
+          <dc:description xml:lang="en-US">Elderly are a significant portion of our society, causing a change in expenses in many fields. One of the factors that collaborate the most for health expenses is the accidental/recurrent fall, responsible event for high mortality rate and the development of morbidity in the third age. Objective: Identify the prevalence of falls in elderly and make an epidemiologic tracing of the risk factors present in that age group. Method: This is an observational and cross-sectional descriptive study carried with elderly people of ESF of São Leopoldo/RS, in the period between February and March of 2020. The data collection was held by five instruments: questionnaire about falls history; Timed Up &amp;amp; Go (TUG); Functional Reach Teste (FRT); Handgrip Dinamometry (HGD); and Mini-Mental State Examination (MMSE). For the data analysis, the Qui-Square test, adjusted residual and Odds Ratio was used. Results: The sample consisted of 125 community elderly, 66,4% of the female sex and at the average age of 70,39±6,56 years old. More than half of them have felt in the last year, being the ones of recurrent kind the most prevalent (61,6%) and 53,4% had broken a bone because of it. The history of falls demonstrated positive association (p&amp;lt;0,05) to the female sex, higher group age, widowhood, living alone, polypharmacy, fear of falling, to the FRT and HGD. Conclusion: Community elderly present a high prevalence rate of falls and various causes of it. It is important to recognize the importance of a multidimensional assessment to trace the risks and to identify the more susceptible seniors to falling.</dc:description>
+          <dc:description xml:lang="pt-BR">Idosos ocupam espaço significativo em nossa sociedade gerando uma modificação na estrutura de gastos em diversas áreas. Um dos fatores que mais colaboram para gastos em saúde é a queda acidental/recorrente, evento responsável por altas taxas de mortalidade e desenvolvimento de morbidades na terceira idade. Objetivo: Identificar a prevalência de quedas em idosos e realizar um rastreio epidemiológico dos fatores de risco encontrados nesta faixa etária. Método: Trata-se de estudo observacional do tipo descritivo transversal realizado com idosos pertencentes a uma Estratégia de Saúde da Família de São Leopoldo/RS, entre fevereiro e março de 2020. A coleta de dados se deu através de cinco instrumentos: questionário de histórico de quedas; Timed Up &amp;amp; Go (TUG); Teste de Alcance Funcional (TAF); Dinamometria de Preensão Palmar (DPP); e Mini Exame do Estado Mental (MEEM). Para análise de dados, utilizou-se teste Qui-Quadrado de Pearson, resíduos ajustados e Odds Ratio. Resultados: Amostra foi composta por 125 idosos comunitários, 66,4% do sexo feminino e com média de idade de 70,39±6,56 anos. Mais da metade sofreu queda no último ano, sendo as de tipo recorrentes as mais prevalentes (61,6%) e 53,4% destes fraturaram algum osso como resultado da queda. O histórico de quedas demonstrou associação positiva (p&amp;lt;0,05) ao sexo feminino, faixa etária mais elevada, viuvez, viver sozinho, polimedicação, medo de cair, ao TAF e à DPP. Conclusão: Idosos comunitários apresentam alta prevalência de quedas e diversos fatores causais associados. Reconhece-se a importância de uma avaliação multidimensional para rastrear os riscos e identificar idosos mais suscetíveis.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2021-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/174519</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v28i4a174519</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 28 n. 4 (2021); 259-267</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/174519/179802</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/174634</identifier>
+        <datestamp>2021-03-25T14:48:20Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Avaliação da sarcopenia em idosos em extrema longevidade utilizando diferentes métodos e sua relação com o desempenho cognitivo</dc:title>
+          <dc:title xml:lang="en-US">Evaluation of sarcopenia in older adults in extreme longevity using different methods and its relationship to cognitive performance</dc:title>
+          <dc:creator>Andrade, Nathália de Oliveira</dc:creator>
+          <dc:creator>Montalvão, Gustavo Henrique Martins Rodrigues</dc:creator>
+          <dc:creator>Gama, Isadora Cecília Salgado</dc:creator>
+          <dc:creator>Santana, Mariana de Paula</dc:creator>
+          <dc:creator>Luchesi, Bruna Moretti</dc:creator>
+          <dc:creator>Kwiatkoski, Marcelo</dc:creator>
+          <dc:subject xml:lang="en-US">Sarcopenia</dc:subject>
+          <dc:subject xml:lang="en-US">Anthropometry</dc:subject>
+          <dc:subject xml:lang="en-US">Body Mass Index</dc:subject>
+          <dc:subject xml:lang="en-US">Cognition</dc:subject>
+          <dc:subject xml:lang="en-US">Aged, 80 and over</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sarcopenia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Antropometria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Índice de Massa Corporal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cognição</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso de 80 Anos ou mais</dc:subject>
+          <dc:description xml:lang="en-US">Sarcopenia is highly prevalent in older adults, and generates several individual and social challenges for public health, which makes screening it fundamental. Objective: To evaluate the relationship between skeletal muscle mass (SMM) and calf circumference (CC), body mass index (BMI) and cognitive performance of older adults in extreme longevity. Method: A cross-sectional and quantitative research was carried out with n = 69 elderly people aged 90 years or older, treated at the Unified Health System. Sociodemographic and anthropometric data were collected. The muscle mass index (MMI) was calculated based on the SMM, which was estimated by the formula of Lee and collaborators. The definition of sarcopenia used was proposed by Janssen and collaborators. CC was measured, BMI was calculated, and cognitive performance was assessed by the Verbal Fluency (VF) test. The relationship between the variables was analyzed using Spearman's correlation test. Results: All older adults evaluated were considered to have severe sarcopenia according to the MMI. According to the CC, 39.4% of men and 52.8% of women had indicative values ​​for sarcopenia; and by BMI, 33.3% of men and 36.1% of women have low body weight. The only variables that showed a significant and direct relationship were BMI and CC, for men and women. Conclusion: No correlation was found between SMM and CC, BMI and cognitive performance. The evaluation of sarcopenia in long-lived elderly should be carried out using methods that are more reliable. The high prevalence of sarcopenia highlights the urgency of looking at the group of extreme longevity.</dc:description>
+          <dc:description xml:lang="pt-BR">A sarcopenia é altamente prevalente nos idosos, gerando desafios individuais e sociais para a saúde pública, o que torna o rastreio da mesma fundamental. Objetivo: Avaliar a relação entre massa muscular esquelética (MME) e circunferência da panturrilha (CP), índice de massa corporal (IMC) e desempenho cognitivo de idosos em extrema longevidade. Método: Pesquisa transversal e quantitativa com n=69 idosos com idade igual ou maior que 90 anos, atendidos no Sistema Único de Saúde. Coletaram-se dados sociodemográficos e antropométricos. O índice de massa muscular (IMM) foi calculado com base na MME, a qual foi estimada pela fórmula de Lee e colaboradores. A definição de sarcopenia utilizada foi a proposta por Janssen e colaboradores. Foi feita a medida da CP, calculado o IMC, e o desempenho cognitivo foi avaliado pelo teste de Fluência Verbal (FV). A relação entre as variáveis foi analisada pelo teste de correlação de Spearman. Resultados: Todos os idosos foram considerados com sarcopenia severa de acordo com o IMM. Pela CP, 39,4% dos homens e 52,8% das mulheres apresentaram valores indicativos de sarcopenia; e pelo IMC, 33,3% dos homens e 36,1% das mulheres possuem baixo peso corporal. As únicas variáveis que apresentaram relação significativa e direta foram IMC e CP, para homens e mulheres. Conclusão: Não foi identificada correlação entre MME e CP, IMC e desempenho cognitivo. Sugere-se que a avaliação da sarcopenia em idosos longevos seja realizada utilizando métodos mais fidedignos. A elevada prevalência da sarcopenia realça a urgência de um olhar direcionado ao grupo de idosos longevos.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/174634</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i3a174634</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 3 (2020); 139-145</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/174634/167879</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/174718</identifier>
+        <datestamp>2021-04-26T13:11:28Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Follow-up of people affected by cerebrovascular disease in a regional amazonic hospital: a WHO STEP Stroke methodology</dc:title>
+          <dc:title xml:lang="pt-BR">Seguimento de pessoas acometidas por doenças cerebrovasculares em um hospital regional amazônico: uma metodologia WHO STEP Stroke</dc:title>
+          <dc:creator>Fernandes, Tiotrefis Gomes</dc:creator>
+          <dc:creator>Baptista, Pedro Porto Alegre</dc:creator>
+          <dc:creator>Costa, Jonathas Gonçalves da</dc:creator>
+          <dc:creator>Lotufo, Paulo Andrade</dc:creator>
+          <dc:creator>Campos, Tania Fernandes</dc:creator>
+          <dc:subject xml:lang="pt-BR">Acidente Vascular Cerebral</dc:subject>
+          <dc:subject xml:lang="pt-BR">Desempenho Físico Funcional</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Brasil</dc:subject>
+          <dc:subject xml:lang="en-US">Stroke</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Functional Performance</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="en-US">Brazil</dc:subject>
+          <dc:description xml:lang="en-US">The WHO STEP Stroke is a tool developed to monitor cases of cerebrovascular and allow comparison of its incidence throughout the world. Objective: To describe the sociodemographic profile and functionality of stroke inpatients admitted in Coari´s Regional Hospital and followed up one month after admittance. Method: This is a prospective, descriptive observational and follow-up study of cases between October 2010 and October 2011. In this study, we used the first step (Step 1) of the WHO STEP Stroke to assess stroke hospitalization in Coari-AM Twenty-three patients were monitored with a standard questionnaire up to two days after hospitalization, 10 days, and 28 after hospitalization. Results: The studied population had average age of 72.8 (SD= 12.4) years, mostly men (65.7%), brown (65.2%), and hypertensive (95.7%), with a hospital incidence of 30 cases for 100.000 people, and&#160; mortality in 10 days of 30.4% and 28 days of 34.8%. The neurological impairment at hospitalization had a median of 28 (IIQ= 15-38) points, with 73.9% classified as severe. There was an impairment in functionality among the survivors. Conclusion: This study showed the profile of hospital admittance for cerebrovascular disease in this city to be mainly composed by older men, brown, with no formal study, low income, and history of systemic arterial hypertension and diabetes. The hospital incidence for stroke was 30 (per 100.000) in Coari-AM, with severe neurological impairment at admission, with high mortality rates, and functional deficits 28 days after the event when compared to other regions in Brazil and in the world.</dc:description>
+          <dc:description xml:lang="pt-BR">O WHO STEP Stroke foi desenvolvida para monitorar casos de doenças cerebrovasculares e possibilitar comparações de incidências. Objetivo: Descrever o perfil sociodemográfico e funcionalidade de pacientes acometidos por AVC admitidos no Hospital Regional de Coari durante um ano, e acompanha-los ao longo de um mês após admissão. Método: Estudo descritivo observacional, prospectivo e de seguimento dos casos entre outubro de 2010 e outubro de 2011. Utilizou-se a primeira etapa (Step 1) do WHO STEP Stroke para avaliar as hospitalizações por AVC em Coari-AM. Foram acompanhados 23 pacientes através de questionário padrão em até dois dias na internação, 10 e 28 dias após a internação. Resultados: A população estudada tinha média de idade de 72,8 (DP= 12,4) anos, em sua maioria homens (65,7%), pardos (65,2%) e hipertensos (95,7%), com incidência hospitalar de 30 casos em 100.000 habitantes e taxa de letalidade em 10 dias de 30,4% e 28 dias de 34,8%. O comprometimento neurológico na internação teve mediana de 28 (IIQ= 15-38) pontos, sendo 73,9% classificados como grave. Houve comprometimento funcional entre os sobreviventes. Conclusão: Estudo revelou uma predominância de homens, com idade elevada, pardos, sem estudo formal, baixa renda e com histórico de hipertensão arterial e diabetes, como perfil de internação hospitalar por doenças cerebrovasculares no município. A incidência de casos hospitalares de AVC foi em 30 (por 100.000) em Coari-AM, com graves comprometimentos neurológicos na admissão, e altas taxas de letalidade e prejuízo funcional após 28 dias do evento, quando comparadas a outras localidades no Brasil e no mundo.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/174718</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i4a174718</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 4 (2020); 206-212</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/174718/170077</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/174902</identifier>
+        <datestamp>2021-03-25T14:48:20Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Correlação entre domínios de funcionalidade de trabalhadoras com doenças musculoesqueléticas relacionadas ao trabalho</dc:title>
+          <dc:title xml:lang="en-US">Relationships between domains of functioning of workers with work-related disorders</dc:title>
+          <dc:creator>Damasceno, Ana Clarissa Lopes Silva</dc:creator>
+          <dc:creator>Porto, Lauro Antonio</dc:creator>
+          <dc:creator>Viola, Denise Nunes</dc:creator>
+          <dc:creator>Bernardes, Kionna</dc:creator>
+          <dc:creator>Neves, Robson da Fonseca</dc:creator>
+          <dc:creator>Lima , Monica Angelim Gomes de</dc:creator>
+          <dc:subject xml:lang="en-US">Musculoskeletal Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Occupational Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Cumulative Trauma Disorders</dc:subject>
+          <dc:subject xml:lang="en-US">International Classification of Functioning, Disability and Health</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Musculosqueléticas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças do Trabalho</dc:subject>
+          <dc:subject xml:lang="pt-BR">Transtornos Traumáticos Cumulativos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Classificação Internacional de Funcionalidade, Incapacidade e Saúde</dc:subject>
+          <dc:description xml:lang="pt-BR">Trabalhadoras com doenças musculoesqueléticas (DME) relacionadas ao trabalho possuem deficiências relacionadas às funções e estruturas do corpo, bem como têm dificuldades para executar atividades do cotidiano no âmbito individual e social. Somado a isso, os fatores do ambiente podem atuar como barreiras ou facilitadores, agravando ou melhorando o estado de saúde das pessoas. Objetivou-se verificar a correlação entre alguns domínios da saúde, que pertencem aos componentes das funções do corpo, atividades e participação e fatores ambientais de trabalhadoras estatutárias e não estatutárias com DME. Houve maior correlação negativa entre as funções mentais e sensoriais e de dor com as atividades e participação e fatores ambientais de trabalhadoras não estatutárias. As correlações indicaram que a funcionalidade das trabalhadoras não estatutárias esteve mais prejudicada, bem como as correlações positivas sinalizaram que maiores deficiências repercutiram em mais dificuldades na atividade e participação social. Quanto aos fatores ambientais como temperatura, vibração e atitudes foram obstáculos às funções mental e sensorial e de dor.</dc:description>
+          <dc:description xml:lang="en-US">Workers with work-related musculoskeletal disorders (WMDs) have impairments in the body functions and structures, and have difficulty performing daily activities and developing social participation. Environmental factors can act negatively or positively as barriers or facilitators, worsening or improving the health status of people. This study assessed the relationship between health domains, based on components of body functions, activities and participation and environmental factors of non-statutory and statutory workers with WMDS. The negative relationships were stronger between mental and sensory functions and pain and activities/participation and environmental factors of non-statutory workers. The relationships signaled that the more impairments, the more difficulties. Environmental factors such as temperature, vibration and attitudes hindered mental and sensory functions and pain.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/174902</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i3a174902</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 3 (2020); 152-159</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/174902/167971</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/176043</identifier>
+        <datestamp>2021-07-23T18:11:16Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Impact of cognition, function and strength of individuals with Alzheimer's disease on the caregiver's quality of life</dc:title>
+          <dc:title xml:lang="pt-BR">Impacto da cognição, funcionalidade e força de indivíduos com doença de Alzheimer sobre a qualidade de vida do cuidador</dc:title>
+          <dc:creator>Gaideski, Fernanda</dc:creator>
+          <dc:creator>Socha, Sandra Regina</dc:creator>
+          <dc:creator>Tsingos Ramos, Ana Angélica</dc:creator>
+          <dc:creator>Takeda , Sibele Yoko Mattozo</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doença de Alzheimer</dc:subject>
+          <dc:subject xml:lang="pt-BR">Qualidade de Vida</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cuidadores</dc:subject>
+          <dc:subject xml:lang="en-US">Alzheimer Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Quality of Life</dc:subject>
+          <dc:subject xml:lang="en-US">Caregivers</dc:subject>
+          <dc:description xml:lang="en-US">The Alzheimer's disease demands can influence the caregiver's daily life. Objective: The objective of this study was to assess the impact of cognitive, functional, and motor impairment of patients with Alzheimer's disease on the caregiver's quality of life. Method: This study included 27 participants with Alzheimer and their caregivers in a cross-sectional design. The Quality of Life-AD questionnaire assessed the caregiver's quality of life. The patient's cognition was rated by the Clinical Dementia Rating, the functionality by the Functional Independence Measure, mobility by the Timed Up and Go, and the muscle strength by the handgrip strength. The variables were analyzed in association by Kruskal-Wallis and Fisher's exact tests or by the Pearson or Spearman correlation tests, and the results were considered significant if p≤0.05. Result: An association was found between the cognition of the patient with Alzheimer and the caregiver's quality of life (p= 0.026) and a correlation was observed between the patient's functionality and the caregiver's quality of life (p= 0.031). Conclusion: The aspects of quality of life affected by cognition, function, and mobility are willingness, ability to do leisure activities and life in general. We conclude that developing strategies that provide the caregivers with professional support for proper training and care performance is essential.</dc:description>
+          <dc:description xml:lang="pt-BR">As demandas de cuidados na Doença de Alzheimer podem influenciar no cotidiano do cuidador.&#160; Objetivo: Avaliar se o comprometimento cognitivo, funcional e motor do indivíduo com a doença influenciam na qualidade de vida do cuidador. Método: Estudo transversal, do qual participaram 27 indivíduos com Doença de Alzheimer e seus cuidadores. A qualidade de vida do cuidador foi avaliada pelo questionário Quality of Life-AD, a cognição do paciente foi verificada pela Clinical Dementia Rating, a funcionalidade pela Medida de Independência Funcional, mobilidade pelo Timed Up and Go e a força muscular pela força de preensão manual. A associação entre as variáveis foi realizada pelos testes Kruskal-Wallis e exato de Fisher ou pelos testes de correlação de Pearson ou Spearman, considerando p≤0,05. Resultado: Observou-se associação entre a cognição do indivíduo com Doença de Alzheimer e qualidade de vida do cuidador (p= 0,026) e correlação entre a funcionalidade do paciente e qualidade de vida do cuidador (p= 0,031). Conclusão: Os aspectos de qualidade de vida afetados pela cognição, função e mobilidade, são: disposição, capacidade para fazer atividades de lazer e a vida em geral. Percebe-se a necessidade de se pensar em estratégias que representem suporte profissional para a capacitação e desempenho de cuidados.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2021-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/176043</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v28i1a176043</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 28 n. 1 (2021); 22-29</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176043/172036</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176043/173457</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/176151</identifier>
+        <datestamp>2023-04-17T17:41:07Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Congenital muscular dystrophy merosin negative: a case report</dc:title>
+          <dc:title xml:lang="pt-BR">Distrofia muscular congênita merosina negativa: um relato de caso</dc:title>
+          <dc:creator>Heinz, Maria Caroline</dc:creator>
+          <dc:creator>Santos, Cristina Maria</dc:creator>
+          <dc:creator>Silveira, Karoline</dc:creator>
+          <dc:creator>Santos Schivinski, Camila Isabel</dc:creator>
+          <dc:subject xml:lang="en-US">Muscular Dystrophies</dc:subject>
+          <dc:subject xml:lang="en-US">Laminin</dc:subject>
+          <dc:subject xml:lang="en-US">Physical Therapy Modalities</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Distrofias Musculares</dc:subject>
+          <dc:subject xml:lang="pt-BR">Laminina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Modalidades de Fisioterapia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:description xml:lang="en-US">Laminin subunit alpha 2 muscular dystrophy (DMLAMA2) is characterized by a deficiency of the α2 laminin chain protein, presenting dystrophic symptoms that progress in childhood. Objective: To present data from the physical therapy evaluation of a child with DMLAMA2 in outpatient follow-up. Methods: Medical records were searched for data referring to the physiotherapeutic evaluations of a 12-year-old child diagnosed with DMLAMA2 treated at a specialized outpatient clinic. The evaluation was characterized by pulmonary auscultation, spirometry, verification of cardiorespiratory parameters, analysis of peak cough flow (PFT), respiratory muscle strength (FMR) and motor evaluation using the MFM-32 scale. Results: Three evaluations were carried out during 9 months. The patient has restrictive disease, in the first evaluation she had FEV1= 29% in spirometry, compared to the third evaluation, she had an increase of 1%, there was also an increase of 2% in the FEV1/FVC ratio, 5% in the PEF and 11% in the FEF25-75%. In the FMR, values of MIP=17.9% and MEP= 7.13% were obtained in the first assessment, with an increase of 16.85% and 5.34%, respectively, between the first and third assessments. The PFT remained at 0L/min in all evaluations. In the first motor evaluation, it scored 25% in the total score of the MFM-32 scale, increasing 3.12% in the third evaluation. During the follow-up, the use of nocturnal NIV started and AS technique was introduced, seeking correction of hypoxemia, night apneas, increased PFT and FMR. Conclusion: Patient presented maintenance of spirometric parameters, increased FMR variables and motor function, without worsening the condition. Possible results from the multidisciplinary and specialized monitoring.</dc:description>
+          <dc:description xml:lang="pt-BR">A Distrofia muscular laminin subunit alpha 2 (DM LAMA2) é caracterizada pela deficiência da proteína da cadeia laminina α2, apresentando sintomas distróficos que progridem na infância. Objetivo: Apresentar dados da avaliação fisioterapêutica de uma criança com DM LAMA2 em acompanhamento ambulatorial. Métodos: Pesquisou-se em prontuário dados referentes às avaliações fisioterapêuticas de uma criança de 12 anos com diagnóstico de DM LAMA2 atendida em ambulatório especializado. A avaliação caracterizou-se por ausculta pulmonar, espirometria, verificação de parâmetros cardiorrespiratórios, análise do pico de fluxo de tosse (PFT), força muscular respiratória (FMR) e avaliação motora através da escala MFM-32. Resultados: Realizou-se três avaliações durante 9 meses. A paciente possui doença pulmonar restritiva, na primeira avaliação apresentou VEF1= 29% na espirometria e, comparando com a terceira avaliação obteve aumento de 1%, também houve aumento de 2% na relação VEF1/CVF, 5% no PEF e 11% no FEF25-75%. Na FMR, obteve-se valores de PImáx= 17,9% e PEmáx= 7,13% na primeira avaliação com aumento de 16,85% e 5,34% respectivamente, entre primeira e terceira avaliação. O PFT manteve-se em 0L/min em todas avaliações. Na primeira avaliação motora pontuou 25% no escore total da escala MFM-32, aumentando 3,12% na terceira avaliação. Ao longo do acompanhamento iniciou-se o uso da VNI noturna e introduzida a técnica de AS, buscando correção da hipoxemia, apneias noturnas, aumento do PFT e FMR. Conclusão: Paciente apresentou manutenção de parâmetros espirométricos, aumento de variáveis de FMR e função motora, sem piora do quadro. Possíveis resultados decorridos do acompanhamento multiprofissional e especializado.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2022-12-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/176151</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v29i4a176151</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 29 n. 4 (2022); 302-307</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176151/190500</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/176172</identifier>
+        <datestamp>2023-04-17T17:41:07Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Monitoring of respiratory and motor functions on children with spinal muscular atrophy and Duchenne muscular dystrophy: a longitudinal study</dc:title>
+          <dc:title xml:lang="pt-BR">Acompanhamento das funções respiratória e motora de crianças com atrofia muscular espinhal e distrofia muscular de Duchenne: um estudo longitudinal</dc:title>
+          <dc:creator>Santos, Cristina Maria</dc:creator>
+          <dc:creator>Wamosy, Renata Maba Gonçalves</dc:creator>
+          <dc:creator>Sanada, Luciana Sayuri</dc:creator>
+          <dc:creator>Schivinski, Camila Isabel Santos</dc:creator>
+          <dc:subject xml:lang="en-US">Neuromuscular Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Muscular Dystrophies</dc:subject>
+          <dc:subject xml:lang="en-US">Muscular Atrophy, Spinal</dc:subject>
+          <dc:subject xml:lang="en-US">Muscular Dystrophy, Duchenne</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Neuromusculares</dc:subject>
+          <dc:subject xml:lang="pt-BR">Distrofias Musculares</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atrofia Muscular Espinal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Distrofia Muscular de Duchenne</dc:subject>
+          <dc:description xml:lang="en-US">Objective: The aim of this study was to monitor children and adolescents with Spinal Muscular Atrophy(SMA) and Duchenne Muscular Dystrophy (DMD) at a referral center, through assessments of respiratory and motor parameters. Methods: 3 evaluations were conducted over a period of 24 months, in patients up to 15 years old, with DMD and SMA. Respiratory assessments included: cardiorespiratory parameters, respiratory muscle strength, peak cough flow and spirometry. Motor function was analyzed using specific scales: 1) Children’s Hospital of Philadelphia Infant Test of Neuromuscular Disorders (CHOP INTEND) for children up to 2 years old; 2) Measurement of Motor Function (MFM-32) over 6 years; 3) reduced version (MFM-20) for 2 to 6 years. The statistical analysis included the Shapiro-Wilk test and ANOVA with Bonferroni or Friedman's Post Hoc was used, and the Spearman or Pearson coefficients were applied. Results: 16 patients with a median age of 6.5 years, 12 with SMA and 4 DMD participated. There was a difference between anthropometric data, the frequency of children who did not undergo physical therapy decreased (12.5%X6.3%) and there was an increase in adherence to the air stacking technique (37.5%X43.8%). Use of non-invasive ventilation remained the same, as did respiratory parameters and motor scales. There was a strong correlation between the predicted value of forced vital capacity and scores MFM-20 and MFM-32. Conclusion: Outpatient follow-up of children with SMA and DMD showed a relative maintenance of respiratory and motor function parameters, which can be attributed to the improvement in adherence to therapeutic routines and care in a reference center.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Realizar o acompanhamento de crianças e adolescentes com Atrofia Muscular Espinhal (AME) e Distrofia Muscular de Duchenne (DMD) em um centro de referência, por meio de avaliações de parâmetros respiratórios e motores. Métodos: Conduziu-se 3 avaliações em um período de 24 meses, em pacientes até 15 anos, com DMD e AME. Avaliações respiratórias incluíram: parâmetros cardiorrespiratórios, força muscular respiratória, pico de fluxo de tosse e espirometria. Analisou-se a função motora por meio de escalas especificas: 1) Children’s Hospital of Philadelphia Infant Test of Neuromuscular Disorders (CHOP INTEND) para crianças até 2 anos; 2) Medida da Função Motora (MFM-32) acima de 6 anos; 3) versão reduzida (MFM-20) para 2 a 6 anos. A análise estatística incluiu o teste de Shapiro-Wilk e utilizou-se ANOVA com Post Hoc de Bonferroni ou Friedman, e aplicou-se os coeficientes de Spearman ou Pearson. Resultados: Participaram 16 pacientes com mediana de idade de 6,5 anos, 12 com AME e 4 DMD. Houve diferença entre dados antropométricos, a frequência de crianças que não realizava fisioterapia reduziu (12,5%X6,3%) e houve aumento na adesão para técnica de empilhamento de ar (37,5%X43,8%). Uso de ventilação não invasiva se manteve igual, assim como parâmetros respiratórios e escalas motoras. Verificou-se forte correlação entre valor predito da capacidade vital forçada e escores MFM-20 e MFM-32. Conclusão: O acompanhamento ambulatorial de crianças com AME e DMD evidenciou relativa manutenção em parâmetros respiratórios e de função motora, o que pode ser atribuído a melhora na adesão de rotinas terapêuticas e aos cuidados em um centro de referência.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2022-12-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/176172</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v29i4a176172</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 29 n. 4 (2022); 260-267</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176172/190495</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/176351</identifier>
+        <datestamp>2021-04-26T13:11:28Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Ligação de um instrumento de avaliação clínica de exposição ao vírus Zika com a Classificação Internacional de Funcionalidade, Incapacidade e Saúde</dc:title>
+          <dc:title xml:lang="en-US">Linking a clinical assessment instrument for Zika virus exposure with the International Classification of Functioning, Disability and Health</dc:title>
+          <dc:creator>Souza, Nathália Cristina Oliveira de</dc:creator>
+          <dc:creator>Cabral, Lara Carolina Januário</dc:creator>
+          <dc:creator>Souza, Laura Cristina Machado Ribeiro de</dc:creator>
+          <dc:creator>Pone, Marcos Vinicius da Silva</dc:creator>
+          <dc:creator>Ribeiro, Luciana Castaneda</dc:creator>
+          <dc:creator>Ribeiro, Carla Trevisan Martins</dc:creator>
+          <dc:subject xml:lang="pt-BR">Cuidado da Criança</dc:subject>
+          <dc:subject xml:lang="pt-BR">Avaliação em Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Zika Virus</dc:subject>
+          <dc:subject xml:lang="pt-BR">Classificação Internacional de Funcionalidade, Incapacidade e Saúde</dc:subject>
+          <dc:subject xml:lang="en-US">Child Care</dc:subject>
+          <dc:subject xml:lang="en-US">Health Evaluation</dc:subject>
+          <dc:subject xml:lang="en-US">Zika Virus</dc:subject>
+          <dc:subject xml:lang="en-US">International Classification of Functioning, Disability and Health</dc:subject>
+          <dc:description xml:lang="en-US">The Zika epidemic and the emergence of a new health condition in Brazil, imposed a rapid organization on services to meet the current demand for care. Clinical assessment instruments were created, based on previous care experiences for other complex chronic conditions in order to plan and systematize actions. However, it is important that these instruments have external validation and include the current concept of health, biopsychosocial. An interlocution with the International Classification of Functioning, Disability and Health (CIF) could provide theoretical support and validation to the instruments created. Objective: To identify the common content among the clinical evaluation instrument applied to the population exposed to the Zika virus in a pediatric infectious disease outpatient clinic in a reference hospital in the State of Rio de Janeiro with the ICF. Methods: The link with the ICF was carried out by two independent reviewers, according to Cieza's proposal and the Kappa coefficient was used for interobserver analysis. Results: It was identified that the instrument is mainly composed of items of body structure (39; 46.4%). There were few categories related to contextual factors (11; 13.1%). And there were no items related to the categories of activity and participation. Conclusion: The assessment tool presents mainly domains of function and structure of the body, turning to a biomedical look. The lack of categories of activity and participation can compromise the perception of health status. A line of care in the light of the biopsychosocial model provides advantages for health services planning and actions.</dc:description>
+          <dc:description xml:lang="pt-BR">Instrumentos de avaliação clínica foram criados a partir de experiências prévias de cuidados para outras condições crônicas complexas da infância, de modo a planejar e sistematizar ações. Contudo, é importante que tais instrumentos tenham validação externa e contemplem o atual conceito de saúde biopsicossocial. Uma interlocução com a Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) poderia dar subsídio teórico e validação aos instrumentos criados. Objetivo: Identificar o conteúdo comum da CIF com o instrumento de avaliação clínica aplicado em &#160;população exposta ao vírus Zika em um ambulatório de doenças infecciosas em pediatria de um hospital de referência no Estado do Rio de Janeiro. Métodos: A Ligação com a CIF foi realizada por dois revisores independentes, segundo a proposta de Cieza e colaboradores. O coeficiente Kappa foi utilizado para análise da concordância interobservadores. Resultados: O instrumento de avaliação clínica utilizado no ambulatório de referência é composto principalmente por categorias da CIF de estruturas do corpo (46,4%). Observou-se poucas categorias relacionadas aos fatores contextuais (13,1%). E, não foram encontrados itens relacionados às categorias de atividade e participação. Conclusão: A ferramenta de avaliação apresenta principalmente informações sobre as funções e estruturas do corpo, voltando-se a um olhar puramente restrito as funções fisiológicas e as estruturas anatômicas. A inexistência de categorias de atividade e participação pode comprometer a percepção das experiencias vividas pelas crianças que foram expostas ao vírus Zika.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/176351</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i4a176351</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 4 (2020); 193-198</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176351/170071</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/176447</identifier>
+        <datestamp>2021-03-25T14:48:20Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Association between physical-functional aspects, behavioral and health with fear of falling in community-dwelling older adults</dc:title>
+          <dc:title xml:lang="pt-BR">Associação entre aspectos físicos-funcionais, comportamentais e de saúde com o medo de cair em idosos comunitários</dc:title>
+          <dc:creator>Canever, Jaquelini Betta</dc:creator>
+          <dc:creator>Danielewicz, Ana Lúcia</dc:creator>
+          <dc:creator>Avelar, Núbia Carelli Pereira de</dc:creator>
+          <dc:subject xml:lang="en-US">Accidental Falls</dc:subject>
+          <dc:subject xml:lang="en-US">Risk Factors</dc:subject>
+          <dc:subject xml:lang="en-US">Aging</dc:subject>
+          <dc:subject xml:lang="pt-BR">Acidentes por Quedas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fatores de Risco</dc:subject>
+          <dc:subject xml:lang="pt-BR">Envelhecimento</dc:subject>
+          <dc:description xml:lang="en-US">Fear of falling is defined as an exacerbated concern in carrying out daily activities. Knowledge of factors associated with fear of falling may contribute to the development of multidimensional strategies that aim to reduce future falls in the elderly. Objective: To verify the association of physical-functional, health and behavioral aspects with the fear of falling of community-dwelling older adults. Methods: This was a cross-sectional study with a probabilistic random sample composed of 308 community-dwelling older men and women. The outcome variable was fear of falling and the predictor variables were behavioral aspects assessed by self-report (history of falls and self-perceived health) and health aspect (depressive symptoms). The physical-functional aspects included probable sarcopenia and mobility. Results: Higher chances of being afraid of falling were observed in the elderly who had a history of falls (OR: 1.87; 95% CI: 1.10; 3.19), negative self-perceived health (OR: 3.35; 95% CI : 1.87; 6.00), depressive symptoms (OR: 3.24; 95% CI: 1.88; 5.57), sarcopenia (OR: 4.22; 95% CI: 2.51; 7.09) and low mobility (OR: 4.19; 95% CI: 2.19; 7.99) when compared to those who did not have the same conditions. Conclusion: History of falls, poor self-perception of health, depressive symptoms, sarcopenia and low mobility were associated with fear of falling in elderly community members.</dc:description>
+          <dc:description xml:lang="pt-BR">O medo em cair é definido como uma preocupação exacerbada em cair na realização das atividades cotidianas. O conhecimento dos fatores associados ao medo de cair pode contribuir na elaboração de estratégias multidimensionais que visem reduzir futuras quedas nos idosos. Objetivo: Verificar a associação dos aspectos físicos-funcionais, comportamentais e de saúde com o medo de cair em idosos comunitários. Método: Tratou-se de um estudo transversal, com amostra aleatória probabilística, incluindo 308 idosos comunitários de ambos os sexos. A variável desfecho foi o medo em cair e as variáveis preditoras foram os aspectos comportamentais avaliados pelo autorrelato (histórico de quedas e autopercepção em saúde) e aspecto em saúde (sintomas depressivos). Já os aspectos físicos-funcionais incluíram a sarcopenia provável e a mobilidade. Resultados: Maiores chances de apresentar medo em cair foram observados em idosos que tiveram histórico de quedas (OR: 1,87; IC95%: 1,10; 3,19), autopercepção negativa de saúde (OR: 3,35; IC95%: 1,87; 6,00), sintomas depressivos (OR: 3,24; IC95%: 1,88; 5,57), sarcopenia (OR: 4,22; IC95%: 2,51; 7,09) e baixa mobilidade (OR: 4,19; IC95%: 2,19; 7,99) quando comparados aos que não tinham as mesmas condições. Conclusão: Histórico de quedas, autopercepção ruim de saúde, sintomas depressivos, sarcopenia e baixa mobilidade foram associados ao medo de cair em idosos comunitários.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/176447</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i3a176447</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 3 (2020); 160-166</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176447/167973</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/176784</identifier>
+        <datestamp>2021-03-25T14:48:20Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Construct validity of the Functional Impairment Test-Hand and Neck/Shoulder and Arm (FIT-HANSA) for workers with upper limb complaints of a tertiary hospital</dc:title>
+          <dc:title xml:lang="pt-BR">Validade de construto do Functional Impairment Test-Hand and Neck/Shoulder and Arm (FIT-HANSA) para trabalhadores com queixas no membro superior de um hospital terciário</dc:title>
+          <dc:creator>Silva, Natalia Claro</dc:creator>
+          <dc:creator>Pinola, Lívia  Nahas</dc:creator>
+          <dc:creator>Ricci, Flávia Pessoni Faleiros Macêdo</dc:creator>
+          <dc:creator>Fifolato, Thais Marques </dc:creator>
+          <dc:creator>Lopes, Ester Rodrigues do Carmo</dc:creator>
+          <dc:creator>Suzuki, Karen Ayumi Kawano</dc:creator>
+          <dc:creator>Fonseca, Marisa de Cássia Registro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Transtornos Traumáticos Cumulativos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fadiga Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Extremidade Superior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudo de Validação</dc:subject>
+          <dc:subject xml:lang="en-US">Cumulative Trauma Disorders</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Fatigue</dc:subject>
+          <dc:subject xml:lang="en-US">Upper Extremity</dc:subject>
+          <dc:subject xml:lang="en-US">Validation Study</dc:subject>
+          <dc:description xml:lang="en-US">The Functional Impairment Test-Hand and Neck/Shoulder/Arm (FIT-HaNSA) is an instrument that assesses fatigue resistance and upper limb performance through thick motor functions commonly used in everyday life. Objective: To analyze the construct validity of the FIT-HaNSA in workers with symptoms in the upper limb, through the correlation between the fatigue resistance of the segment with the muscle strength scores of the shoulder, elbow and hand, with the ability to work (ICT) and with upper limb dysfunction (QUICK DASH-Br). Methods: Thirty-nine workers from a tertiary hospital with an average age of 42.9 years (SD13.29) were recruited. The Biodex System 4 Pro ™ isokinetic measurement instruments, JAMAR® handgrip dynamometer, QuickDASH-Br and ICT were applied and correlated with FIT-HaNSA. Pearson's correlation coefficient (r) was used to quantify the association between the instruments. Results: FIT-HaNSA showed a weak to moderate correlation between the muscular strength of the shoulder, elbow and hand (r= 0.18 - 0.58), but significant for the shoulder and hand. The association between FIT-HaNSA with QuickDASH-Br and ICT was weak (r= -0.38 and 0.21). Conclusion: Our study provided preliminary evidence regarding the expected relationships and validity of FIT-HaNSA as a measurement tool for the assessment of fatigue and discomfort in workers with complaints in the upper limb.</dc:description>
+          <dc:description xml:lang="pt-BR">O Functional Impairment Test-Hand and Neck/Shoulder/Arm (FIT-HaNSA) é um instrumento que avalia a resistência à fadiga e o desempenho do membro superior por meio de funções motoras grossas comumente utilizadas no dia a dia. Objetivo: Analisar a validade de construto do FIT-HaNSA em trabalhadores com sintomas no membro superior, por meio da correlação entre a resistência à fadiga do segmento com os escores de força muscular do ombro, cotovelo e mão, com a capacidade para o trabalho (ICT) e com a disfunção do membro superior (QUICK DASH-Br). Métodos: Trinta e nove trabalhadores de um hospital terciário com idade média de 42,9 anos (DP13,29) foram recrutados. Os instrumentos de medida Isocinético Biodex System 4 Pro™, dinamômetro de preensão palmar JAMAR®, QuickDASH-Br e ICT foram aplicados e correlacionados com o FIT-HaNSA. O Coeficiente de Correlação de Pearson (r) foi utilizado para quantificar a associação entre os instrumentos. Resultados: O FIT-HaNSA apresentou de fraca a moderada correlação entre a força muscular do ombro, cotovelo e mão (r= 0,18 – 0,58), porém significativas para ombro e mão. A associação entre o FIT-HaNSA com o QuickDASH-Br e ICT se mostraram fracas (r= -0,38 e 0,21). Conclusão: Nosso estudo forneceu evidências preliminares com relação às relações esperadas e validade do FIT-HaNSA como instrumento de medida para a avaliação da fadiga e desconforto em trabalhadores com queixas no membro superior.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/176784</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i3a176784</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 3 (2020); 182-189</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176784/167987</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/176992</identifier>
+        <datestamp>2021-04-26T13:11:28Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Functional dependence and associated factors of the elderly population in a health macro-region</dc:title>
+          <dc:title xml:lang="pt-BR">Dependência funcional e fatores associados em idosos de uma macrorregião de saúde</dc:title>
+          <dc:creator>Araújo, Ingrid Vitória de Sousa</dc:creator>
+          <dc:creator>Oliveira, Nayara Gomes Nunes</dc:creator>
+          <dc:creator>Marchiori, Gianna Fiori</dc:creator>
+          <dc:creator>Tavares, Darlene Mara dos Santos</dc:creator>
+          <dc:subject xml:lang="pt-BR">Atividades Cotidianas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde do Idoso</dc:subject>
+          <dc:subject xml:lang="pt-BR">Enfermagem Geriátrica</dc:subject>
+          <dc:subject xml:lang="en-US">Activities of Daily Living</dc:subject>
+          <dc:subject xml:lang="en-US">Health of the Elderly</dc:subject>
+          <dc:subject xml:lang="en-US">Geriatric Nursing</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To verify the functional dependence to perform basic, instrumental and advanced activities of daily living among the older people, and associated factors. Method: Cross-sectional an analytical study, developed with 1.611 older people from the community of a Health Macro-region of the State of Minas Gerais. In data collection, the following were applied: Mini-Mental State Examination; Structured questionnaire prepared by the Collective Health Research Group; Brazilian version of the Short Physical Performance Battery; Katz index; Lawton &amp;amp; Brody and Advanced Activities of Daily Living scales and the frailty phenotype. Results: 6.5% of the older people were dependent for basic activities; 70.7% partial/total dependent for instrumental activities and 25.1% had less participation in advanced activities. Dependence on basic and instrumental activities of daily living associated with the age group of 80 years or more (p= 0.001; p&amp;lt;0.001); presence of 5 or more morbidities (p= 0.023; p= 0.017); disability/poor physical performance (p&amp;lt;0.001; p&amp;lt;0.001) and pre-frailty/frailty (p= 0.015; p&amp;lt;0.001), respectively. Dependence on instrumental activities was also associated with no schooling (p&amp;lt;0.001). The lower participation in advanced activities was associated with no schooling (p&amp;lt;0.001); individual monthly income ≤ 1 minimum wage (p&amp;lt;0.001); disability/poor physical performance (p&amp;lt;0.001) and pre-frailty/frailty (p&amp;lt;0.001). Conclusion: The older adults showed a higher percentage of dependence to perform instrumental activities. Physical health is related to the functional dependence of the elderly, regardless of the complexity of daily activities; and should be considered when planning nursing interventions aimed at preventing and / or rehabilitating functional decline in this age group.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Verificar a dependência funcional para a realização das atividades básicas, instrumentais e avançadas da vida diária entre idosos e seus fatores associados. Método: Estudo transversal e analítico, com 1.611 idosos da comunidade de uma Macrorregião de Minas Gerais. Na coleta dos dados utilizaram-se: Miniexame do Estado Mental; Questionário estruturado elaborado pelo Grupo de Pesquisa em Saúde Coletiva; versão brasileira Short Physical Performance Battery; Índice de Katz; Escalas de Lawton &amp;amp; Brody e Atividades Avançadas da Vida Diária e fenótipo de fragilidade. Procederam-se as análises descritiva e regressão logística múltipla (p&amp;lt;0,05). Resultados: 6,5% dos idosos eram dependentes para as atividades básicas; 70,7% dependentes parcial/total para as atividades instrumentais e 25,1% tinham menor participação nas atividades avançadas. A dependência para as atividades básicas e instrumentais da vida diária associou-se à faixa etária de 80 anos ou mais (p= 0,001; p&amp;lt;0,001); presença de 5 ou mais morbidades (p= 0,023; p= 0,017); incapacidade/baixo desempenho físico (p&amp;lt;0,001; p&amp;lt;0,001) e pré-fragilidade/fragilidade (p= 0,015; p&amp;lt;0,001), respectivamente. A dependência para as atividades instrumentais também foi associada à ausência de escolaridade (p&amp;lt;0,001). Já a menor participação nas atividades avançadas associou-se à ausência de escolaridade (p&amp;lt;0,001); renda individual mensal ≤ 1 salário-mínimo (p&amp;lt;0,001); incapacidade/baixo desempenho físico (p&amp;lt;0,001) e pré- fragilidade/fragilidade (p&amp;lt;0,001). Conclusão: Os idosos apresentaram maior percentual de dependência para realização das atividades instrumentais. A saúde física está relacionada à dependência funcional do idoso, independente da complexidade das atividades cotidianas; e deve ser considerada no planejamento de intervenções direcionadas à prevenção e/ou reabilitação do declínio funcional nesse grupo etário.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/176992</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i4a176992</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 4 (2020); 233-241</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176992/170286</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/176992/170085</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/177134</identifier>
+        <datestamp>2021-04-26T13:11:28Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Satisfação e o sentido da vida para pessoas com lesão medular traumática</dc:title>
+          <dc:title xml:lang="en-US">Satisfaction and meaning in life for persons with traumatic spinal cord injury</dc:title>
+          <dc:creator>Castro, Fabiana Faleiros Santana</dc:creator>
+          <dc:creator>Bimbatti, Karina de Fátima</dc:creator>
+          <dc:creator>Carvalho, Adriane Aparecida Gonçalves de</dc:creator>
+          <dc:creator>Gonçalves, Mariele Lenhari</dc:creator>
+          <dc:creator>Lopes, Filipe Gustavo</dc:creator>
+          <dc:creator>Schutt, William</dc:creator>
+          <dc:subject xml:lang="pt-BR">Traumatismos da Medula Espinal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Satisfação Pessoal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Brasil</dc:subject>
+          <dc:subject xml:lang="en-US">Spinal Cord Injuries</dc:subject>
+          <dc:subject xml:lang="en-US">Personal Satisfaction</dc:subject>
+          <dc:subject xml:lang="en-US">Brazil</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To analyze meaning in life, satisfaction with life, and the influence of sociodemographic variables in Brazilians with Spinal Cord Injury (SCI). This was a quantitative, cross-sectional, and descriptive study. Participants: Adults with traumatic SCI. Methods: The data were collected through the Survey Monkey platform using the Meaning in Life Questionnaire and the Satisfaction With Life Scale; the sample was composed of adults 18 years old or older with Traumatic SCI. Results: Most of the participants were male (75.5%), with a mean age of 36.22. The average score on the Satisfaction With Life Scale was 21.26, which corresponds to the Slightly satisfied category. The mean scores, respectively, for search and presence of meaning in life were 22.61 and 25.32, indicating that most participants find life meaningful even though they don’t explicitly search for meaning. There were significant associations between satisfaction with life and the meaning in life. Conclusion: In the rehabilitation process for people with Traumatic SCI, the assessment of satisfaction and the meaning of life must be managed together along with other psychological variables. Considering the complex life context of people suffering from a Traumatic SCI, there is a need for both holistic and individualized understanding during the rehabilitation process.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Analisar o sentido da vida, a satisfação com a vida e a influência de variáveis sociodemográficas em brasileiros com Lesão Medular Traumática. Trata-se de um estudo quantitativo, transversal e descritivo com participantes adultos com LM traumática. Método: Os dados foram coletados por meio da plataforma Survey Monkey, utilizando o Questionário de Sentido da Vida e a Escala de Satisfação com a Vida; a amostra foi composta por adultos de 18 anos ou mais com LM traumática. Resultados: A maioria dos participantes era do sexo masculino (75,5%), com média de idade de 36,22 anos. A pontuação média na Escala de Satisfação com a Vida foi de 21,26, o que corresponde à categoria pouco satisfeito. As pontuações médias, respectivamente, para busca e presença de sentido na vida foram 22,61 e 25,32, indicando que a maioria dos participantes acha a vida com sentido, embora não busque esse sentido explicitamente. Houve associações significativas entre satisfação com a vida e o sentido da vida. Conclusão: O processo de reabilitação de pessoas com LM traumática deve conter a avaliação da satisfação e do sentido de vida em conjunto com outras variáveis psicológicas. O contexto de vida das pessoas que sofrem de uma LM traumática é complexo e há uma necessidade de compreensão holística e individualizada durante o processo de reabilitação.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/177134</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i4a177134</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 4 (2020); 213-219</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/177134/170078</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/178186</identifier>
+        <datestamp>2021-04-26T13:11:28Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Psychometric validation of Social Physique Anxiety Scale for Brazilian people with limb amputee</dc:title>
+          <dc:title xml:lang="pt-BR">Validação psicométrica da Social Physique Anxiety Scale para brasileiros com amputação de membros</dc:title>
+          <dc:creator>Ferreira Filho, Roberto Gomes</dc:creator>
+          <dc:creator>Neves, Angela Nogueira</dc:creator>
+          <dc:subject xml:lang="en-US">Body Image</dc:subject>
+          <dc:subject xml:lang="en-US">Anxiety</dc:subject>
+          <dc:subject xml:lang="en-US">Psychometrics</dc:subject>
+          <dc:subject xml:lang="en-US">Validation Study</dc:subject>
+          <dc:subject xml:lang="pt-BR">Imagem Corporal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ansiedade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Psicometria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudo de Validação</dc:subject>
+          <dc:description xml:lang="en-US">Physical-social anxiety is about the sensation of discomfort experienced when there is a real or imagined situation, in which part or the whole body is exposed to the judgment of another person. To verify the factorial structure of the Brazilian version of the Social Physique Anxiety Scale in a reference sample of amputees. Confirmatory factor analysis was performed with data obtained from a sample of 100 participants, 99% of whom were men, with an average age of 48.26 (± 18.26; max= 82; min= 15) years, and time average amputation of 76.36 (± 95.36; max= 504; min= 1) months, to determine the best fit between the one-dimensional and two-dimensional models. Construct reliability values and Conbrach's alpha test were calculated to determine evidence of reliability. For construct validity, evidence of convergent and discriminant validity was generated. Evidence of convergent validity was generated by the average extracted variance (AVE) and by the analysis of the correlation with a similar construct measure. For the discriminant validity, it was verified if there was a theoretically expected difference between two groups. The model with the best fit was the one-dimensional model after the elimination of four items (RMSEA= 0.074, χ2/df= 1.54, CFI= 1, NFI= 0.98, NNFI= 1, AGFI= 0.98, GFI= 0.99, AIC= 62.84). Evidence of internal and discriminant reliability was satisfactorily generated for the measurement model, with a caveat to convergent validity, with a low value of the extracted average variance.&#160; The scale can be used in Brazil to assess physical and social anxiety in amputees.</dc:description>
+          <dc:description xml:lang="pt-BR">A ansiedade físico-social versa sobre a sensação de desconforto vivenciado quando há uma situação real ou imaginária, na qual parte ou todo o corpo é exposto ao julgamento de outra pessoa. Objetivo: Verificar a estrutura fatorial da versão brasileira da Social Physique Anxiety Scale em uma amostra de referência de pessoas amputadas. Métodos: Foi realizada análise fatorial confirmatória com os dados obtidos de uma amostra de 100 participantes, dos quais 99% eram homens, com idade média de 48,26 (± 18,26; máx= 82; mín= 15) anos e tempo médio de amputação de 76,36 (±95,36; máx= 504; mín= 1) meses, para averiguação do melhor ajuste entre os modelos unidimensional e bidimensional. Calculados valores da confiabilidade de constructo e do teste de alpha de Conbrach para determinar evidências de confiabilidade. Para a validade de constructo, geradas evidências de validade convergente e discriminante. Evidências de validade convergente foram geradas pela variância média extraída (AVE) e pela análise da correlação com medida de constructo semelhante. Para a validade discriminante, foi verificado se havia a diferença teoricamente esperada entre dois grupos. Resultados: O modelo com melhor ajuste foi o unidimensional após a eliminação de quatro itens (RMSEA= 0,074, χ2/gl= 1,54, CFI= 1, NFI= 0,98, NNFI= 1, AGFI= 0,98, GFI= 0,99, AIC= 62,84). As evidências de confiabilidade interna e discriminante foram satisfatoriamente geradas para o modelo de medida, havendo uma ressalva à validade convergente, com baixo valor de variância média extraída. Conclusão: A escala pode ser usada no Brasil para avaliar a ansiedade físico-social em pessoas amputadas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/178186</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i4a178186</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 4 (2020); 199-205</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/178186/170076</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/178238</identifier>
+        <datestamp>2023-08-01T18:35:06Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Use of algometry and infrared thermography as tools for pain evaluation: a systematic review</dc:title>
+          <dc:title xml:lang="pt-BR">Utilização da algometria e termografia infravermelha como instrumentos de avaliação da dor: uma revisão sistemática</dc:title>
+          <dc:creator>Vitorino, Cristiano Franco</dc:creator>
+          <dc:creator>Silva, Natália Cristina de Oliveira Vargas e</dc:creator>
+          <dc:creator>Alfieri, Fabio Marcon</dc:creator>
+          <dc:subject xml:lang="en-US">Pain</dc:subject>
+          <dc:subject xml:lang="en-US">Pain Threshold</dc:subject>
+          <dc:subject xml:lang="en-US">Pain Measurement</dc:subject>
+          <dc:subject xml:lang="en-US">Thermography</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dor</dc:subject>
+          <dc:subject xml:lang="pt-BR">Limiar da Dor</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medição da Dor</dc:subject>
+          <dc:subject xml:lang="pt-BR">Termografia</dc:subject>
+          <dc:description xml:lang="pt-BR">A termografia infravermelha é uma técnica utilizada para diagnóstico complementar da dor, através da apresentação de imagens térmicas com uma câmera infravermelha que mensura a temperatura da superfície do corpo. A algometria de pressão é um método objetivo que busca quantificar a dor em pontos determinados. Ambas as técnicas vem sido empregadas para finalidades diagnósticas. Objetivo: Revisar a literatura acerca das publicações que abordaram a utilização da termografia e algometria em conjunto como instrumentos de avaliação da dor. Método: Trata-se de uma revisão sistemática nas bases de dados Pubmed, Bireme e Scielo utilizando os seguintes descritores: “thermography” AND “pain threshold”, e “termografia” AND “tolerância à dor”, sem limitação por data de publicação, em inglês e português, no mês de setembro de 2022. Os critérios de elegibilidade para os estudos foram: utilização da termografia em conjunto com a algometria na busca do desfecho variação da temperatura em processos dolorosos crônicos em seres humanos. Resultados: A busca resultou em trinta e dois estudos, e após a análise dos resumos, vinte e dois foram excluídos por não preencherem os critérios de inclusão, restando dez que foram lidos na íntegra e que compuseram a presente revisão. Conclusão: &#160;Apesar da algometria e termografia se apresentarem como técnicas pragmaticamente válidas no estudo da dor, esta revisão mostrou que poucos estudos incluíram em seu desenho a combinação destas técnicas como instrumentos de avaliação.</dc:description>
+          <dc:description xml:lang="en-US">Infrared thermography is a technique used for complementary diagnosis of pain, through the presentation of thermal images with an infrared sensor that assesses body surface temperature. Pressure algometry is an objective method that seeks to quantify pain at specific points. Both techniques have been employed for diagnostic purposes. Objective: To review the literature on publications that addressed the use of thermography and algometry in combination as an assessment tool in studies of evaluation of pain. Method: This was a systematic review conducted on Pubmed, Bireme and Scielo databases, using the following descriptors: “thermography” AND “pain threshold”, and “thermography” AND “pain tolerance”, without limitation of publication date, in English and Portuguese, in September 2020. Eligibility criteria for the studies were: use of thermography in combination with algometry in aimed at the outcome of temperature variation in chronic painful processes in humans. Results: The search resulted in thirty-two studies, and after abstract analysis, twenty-two were excluded for not meeting inclusion criteria. The remaining ten were read in full and made up the present review. Conclusion: Although few studies have employed both techniques in the same diagnostic assessment method, the use of algometry and thermography in combination may provide objective measures of subjective symptoms, which can bring a great contribution to the diagnostic accuracy and clinical monitoring of patients affected by painful processes.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2023-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/178238</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v30i2a178238</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 30 n. 2 (2023); 129-135</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/178238/196933</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2023 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/178254</identifier>
+        <datestamp>2022-11-30T19:50:56Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Efeito da farmacoterapia na fibromialgia: uma overview de revisões sistemáticas</dc:title>
+          <dc:title xml:lang="en-US">Effect of pharmacotherapy on fibromyalgia: an overview of systematic reviews</dc:title>
+          <dc:creator>Costa, Alana Teles</dc:creator>
+          <dc:creator>Figueiredo, Renata Ferraz</dc:creator>
+          <dc:creator>Silva, Rafaella de Oliveira Santos</dc:creator>
+          <dc:creator>Silva, Tatiana Damasceno da</dc:creator>
+          <dc:creator>Alcantara, Thaciana dos Santos</dc:creator>
+          <dc:creator>Serafini, Mairim Russo</dc:creator>
+          <dc:creator>Lyra Júnior, Divaldo Pereira de</dc:creator>
+          <dc:creator>Walker, Cristiani Isabel Banderó</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doenças Reumáticas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Fibromialgia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Dor</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tratamento Farmacológico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Resultado do Tratamento</dc:subject>
+          <dc:subject xml:lang="en-US">Rheumatic Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Fibromyalgia</dc:subject>
+          <dc:subject xml:lang="en-US">Pain</dc:subject>
+          <dc:subject xml:lang="en-US">Drug Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Treatment Outcome</dc:subject>
+          <dc:description xml:lang="pt-BR">Fibromialgia é um distúrbio de processamento da dor debilitante e crônico, em que a proporção de pacientes que obtêm bons resultados com a farmacoterapia é pequena. No entanto, escolher a melhor evidência disponível sobre a farmacoterapia pode otimizar os resultados clínicos do paciente. Objetivo: Esta overview teve como objetivo identificar em revisões sistemáticas os efeitos da farmacoterapia na fibromialgia, considerando a qualidade das revisões e a eficácia dos resultados. Métodos: Esta busca foi realizada em sete bases de dados: PubMed, Web of Science, COCHRANE, Lilacs, Embase, Scopus e IPA. A qualidade metodológica foi avaliada usando A MeaSurement Tool to Assess Systematic Reviews 2. O protocolo foi registrado no PROSPERO (CRD42018095943). Resultados: Um total de 63 revisões sistemáticas foram selecionadas após a leitura de textos completos, mas apenas 8 delas eram de qualidade moderada a alta e foram incluídas nesta overview. Todas as revisões incluídas foram publicadas em inglês, entre 2012 e 2018, realizaram meta-análises, utilizaram os critérios de diagnósticos do American College of Rheumatology (1990) para fibromialgia e avaliaram conjuntamente a melhora da dor, reações adversas e retiradas. A maioria das revisões incluiu apenas ensaios clínicos randomizados. Dos quatorze medicamentos abordados nas revisões sistemáticas avaliadas, duloxetina, milnaciprano e pregabalina mostraram evidências de melhora da dor (moderada: ≤30%) e de outros sintomas da fibromialgia como depressão e fadiga. No entanto, esses medicamentos apresentaram retiradas significativas devido a reações adversas (principalmente náusea, cefaleia, tontura e constipação). A taxa de abandono ao tratamento chegou a 36%. Conclusão: Poucos estudos apresentam evidências suficientes e de alta qualidade sobre o efeito dos medicamentos na fibromialgia, resultando na falta de apoio para os prescritores escolherem medicamentos que atendam aos critérios de necessidade, eficácia, segurança e adesão.</dc:description>
+          <dc:description xml:lang="en-US">Fibromyalgia is a debilitating and chronic pain processing disorder, in which the proportion of patients who achieve good results with pharmacotherapy is small. However, choosing the best available evidence on pharmacotherapy can optimize patient clinical outcomes. Objective: This overview aimed to identify in systematic reviews the effects of pharmacotherapy on fibromyalgia, considering the quality of the reviews and the efficacy of the outcomes. Methods: This search was performed in seven databases: PubMed, Web of Science, COCHRANE, Lilacs, Embase, Scopus and IPA. The methodological quality was evaluated using A MeaSurement Tool to Assess Systematic Reviews 2. The protocol was registered in the PROSPERO database (CRD42018095943). Results: A total of 63 systematic reviews were selected after reading full texts, but only 8 of them were of moderate to high quality and were included in this overview. All included reviews were published in English, between 2012 and 2018, performed meta-analysis, used the American College of Rheumatology (1990) diagnostic criteria for fibromyalgia, and jointly assessed pain improvement, adverse reactions, and withdrawal. Most reviews included only randomized controlled trials. Of the fourteen drugs addressed in systematic reviews evaluated, duloxetine, milnacipran, and pregabalin showed evidence of improvement in pain (Moderate:≤30%) and other fibromyalgia symptoms, as depression and fatigue. However, these medications presented significant withdrawals due to adverse reactions (mainly nausea, headache, dizziness and constipation). The rate of treatment withdrawal reached 36%. Conclusion: Few studies have high quality and sufficient evidence on the effect of medicines on fibromyalgia, resulting in a lack of support for prescribers to choose drugs that meet criteria for need, effectiveness, safety and compliance.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2022-09-27</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/178254</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v29i3a178254</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 29 n. 3 (2022); 232-244</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/178254/186964</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/178441</identifier>
+        <datestamp>2021-10-15T17:11:18Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Validity and reliability of the brazilian version of Trinity Amputation and Prosthesis Experience Scales – Revised (TAPES-R)</dc:title>
+          <dc:title xml:lang="pt-BR">Validade e confiabilidade da versão brasileira da Trinity Amputation and Prosthesis Experience Scales - Revised (TAPES-R)</dc:title>
+          <dc:creator>Gutierres Filho, Paulo José Barbosa</dc:creator>
+          <dc:creator>Silva, Diego Rodrigues Pimentel da</dc:creator>
+          <dc:creator>Pires, Greicy Kelly Wosniak</dc:creator>
+          <dc:creator>Luza, Lisiane Piazza</dc:creator>
+          <dc:creator>Ferreira, Elizandra Gonçalves</dc:creator>
+          <dc:creator>da Silva, Franciele Cascaes</dc:creator>
+          <dc:creator>Fernandes, Jorge Manuel Gomes de Azevedo</dc:creator>
+          <dc:creator>da Silva, Rudney</dc:creator>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Membros Artificiais</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ajuste de Prótese</dc:subject>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:subject xml:lang="en-US">Artificial Limbs</dc:subject>
+          <dc:subject xml:lang="en-US">Prosthesis Fitting</dc:subject>
+          <dc:description xml:lang="en-US">Objective: Evaluate the validity and reliability of the Brazilian version of TAPES-R in people with lower limb amputation. Method: 102 people with lower limb amputation who used a prosthesis participated in this cross-sectional study. The psychometric properties (concurrent validity, degree of agreement (Kappa Index) and intra and interobserver reliability (ICC), in addition to the internal consistency of the items by Cronbach's alpha) of the Brazilian version of TAPES-R were evaluated. To assess concurrent validity, the Prosthesis Evaluation Questionnaire (PEQ) was used. Results: TAPES-R was correlated with PEQ, except for the subscales of social and generaladjustment. The inter-observer ICC ranged from 0.38 to 0.88 in part 1 and from 0.27 to 0.88 in part 2, whereas the intra-observer ICC ranged from 0.63 to 0.83 in part 1 and 0.27 to 0.79 in part 2. The Kappa index varied from 0.18 to 0.66 in the inter-observer analysis and from 0.25 to 0.69 in the intra-observer analysis. Cronbach's alpha ranged from 0.75 to 0.89. Conclusion: The evaluation of psychometric properties allows us to verify that a TAPES-R is valid, reliable and has a good internal consistency to be applied to Brazilian adults with lower limb amputations.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Avaliar a validade e confiabilidade da versão brasileira da TAPES-R em uma população com amputação de membro inferior. Método: Participaram deste estudo transversal 102 pessoas com amputação de membro inferior, usuárias de prótese. Foram avaliadas as propriedades psicométricas (validade concorrente, grau de concordância(Índice de Kappa) e confiabilidade (ICC) intra e interobservador, além da consistência interna dos itens pelo alfa de Cronbach) da versão brasileira da TAPES-R. Para avaliação da validade concorrente foi utilizado o Prosthesis Evaluation Questionnaire (PEQ). Resultados: A TAPES-R se correlacionou com o PEQ, com exceção das subescalas de ajuste social e geral. O ICC interobservador variou de 0,38 a 0,88 na parte 1 e de 0,27 a 0,88 na parte 2, já o ICC intraobservador variou de 0,63 a 0,83 na parte 1 e de 0,27 a 0,79 na parte 2. O índice de Kappa variou de 0,18 a 0,66 na análise interobservador e de 0,25 a 0,69 na análise intraobservador. O Alfa de Cronbach variou de 0,75 a 0,89. Conclusão: A avaliação das propriedades psicométricas permite concluir que a TAPES-R é válida, confiável e apresenta uma boa consistência interna para ser aplicada em adultos brasileiros amputados de membro inferior.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2021-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/178441</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v28i2a178441</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 28 n. 2 (2021); 116-120</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/178441/174327</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/178441/176459</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/180093</identifier>
+        <datestamp>2022-06-28T17:50:22Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Validação de um modelo preditivo do VO2pico em jovens brasileiros com espinha bífida</dc:title>
+          <dc:title xml:lang="en-US">Validity of the VO2peak prediction model to Brazilian youth with spina bifida</dc:title>
+          <dc:creator>Leonardi-Figueiredo, Marisa Maia</dc:creator>
+          <dc:creator>Davoli, Gabriela Barroso de Queiroz</dc:creator>
+          <dc:creator>Mattiello-Sverzut, Ana Claudia</dc:creator>
+          <dc:subject xml:lang="pt-BR">Teste de Esforço</dc:subject>
+          <dc:subject xml:lang="pt-BR">Nível de Oxigênio</dc:subject>
+          <dc:subject xml:lang="pt-BR">Disrafismo Espinal</dc:subject>
+          <dc:subject xml:lang="en-US">Exercise Test</dc:subject>
+          <dc:subject xml:lang="en-US">Oxygen Level</dc:subject>
+          <dc:subject xml:lang="en-US">Spinal Dysraphism</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To validate a peak oxygen uptake (VO2peak) prediction model in Brazilian youth with spina bifida. Methods: Twenty participants with spina bifida performed a graded arm crank test to measure VO2peak. The VO2peak values predicted by the equation “VO2peak (mL/min) = 194 + 18 × peak workload – 110 × sex” were compared to the VO2peak values measured. Results: The predicted VO2peak was not different from the measured VO2peak. A high correlation was found between both VO2peak values, and the Bland-Altman analysis did not show a significant difference, demonstrating agreement between the values. Conclusions: The VO2peak prediction model in Brazilian youth with spina bifida was validated, being an advantageous alternative to assess and follow physical fitness and prescribe exercise training intensity.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Validar uma equação preditiva do consumo pico de oxigênio (VO2pico) em jovens brasileiros com espinha bífida. Métodos: Vinte participantes com espinha bífida realizaram um teste ergoespirométrico de membros superiores para medir o VO2pico. Os valores de VO2pico preditos pela equação “VO2pico (mL/min)= 194 + 18 × carga pico – 110 × sexo” foram comparados com o VO2pico medido. Resultados: O VO2pico predito pela equação não foi diferente do VO2pico medido. Foi encontrada alta correlação entre os valores de VO2pico e, a análise Bland Altman não mostrou diferença significativa, demonstrando concordância entre os valores. Conclusão: A equação preditiva do VO2pico&#160;é válida para jovens brasileiros com espinha bífida e é uma alternativa vantajosa para obter e acompanhar o condicionamento físico e prescrever a intensidade de treinamento nesses indivíduos. &#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2022-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/180093</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v29i1a180093</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 29 n. 1 (2022); 14-17</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/180093/180937</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/180347</identifier>
+        <datestamp>2021-04-26T13:11:28Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Confiabilidade do dispositivo PhysioPlay™ para avaliar o tempo de reação de pacientes com câncer</dc:title>
+          <dc:title xml:lang="en-US">Reliability of the PhysioPlay™ device for assessing the reaction time of cancer patients</dc:title>
+          <dc:creator>Anciães, Júlia da Costa</dc:creator>
+          <dc:creator>Alves, Ricardo da Silva</dc:creator>
+          <dc:creator>Silva Pereira, Paola de Paula</dc:creator>
+          <dc:creator>Nascimento, Eduarda Suellen Figueiredo Silva do</dc:creator>
+          <dc:creator>Iunes, Denise Hollanda</dc:creator>
+          <dc:creator>Bressan, Paulo Alexandre</dc:creator>
+          <dc:creator>Carvalho, Leonardo César</dc:creator>
+          <dc:subject xml:lang="en-US">Neoplasms/Rehabilitation</dc:subject>
+          <dc:subject xml:lang="en-US">Video Games</dc:subject>
+          <dc:subject xml:lang="en-US">Virtual Reality</dc:subject>
+          <dc:subject xml:lang="en-US">Reaction Time</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neoplasias/Reabilitação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Jogos de Vídeo</dc:subject>
+          <dc:subject xml:lang="pt-BR">Realidade Virtual</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tempo de Reação</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To determine the intra-evaluator and inter-evaluator reliability of the Physioplay-Kinect interaction and Trigno device for assessing the reaction time (RT) of cancer volunteers undergoing treatment. Methods: 46 cancer volunteers who underwent treatment modalities participated and were allocated into three groups: Chemotherapy Group (CG), Radiotherapy Group (RG), and Chemotherapy-Radiotherapy Group (CRG). The RT for all volunteers was assessed using the PhysioPlay™ and Trigno device. Results: In the intra-evaluator analysis, excellent levels of reliability (Physioplay: ICC&amp;gt; 0.99; Trigno 8: ICC&amp;gt;0.92) were observed in all groups. In the inter-evaluator analysis, excellent levels of reliability were observed in the CG (Physioplay: ICC= 0.98; Trigno 8: ICC= 0.98); excellent (Physioplay: ICC= 0.98) and good (Trigno 8: ICC= 0.44) levels in the RG; good (Physioplay: ICC= 0.49) and reasonable (Trigno 8: ICC= 0.29) levels in the CRG. Conclusion: The PhysioPlay™ and Trigno device proved to be reliable for assessing the RT of cancer volunteers undergoing treatment.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Determinar a confiabilidade intra-avaliador e inter-avaliador da interação Physioplay-Kinect e do dispositivo Trigno para avaliar o tempo de reação (TR) de voluntários com câncer em tratamento. Métodos: 46 voluntários com câncer em tratamento participaram do estudo e foram distribuídos em três grupos: Grupo de Quimioterapia (GQ), Grupo de Radioterapia (GR), e Grupo de Quimioterapia-Radioterapia (GQR). O TR para todos os voluntários foi avaliado utilizando o dispositivo PhysioPlay™ e Trigno. Resultados: Na análise intra-avaliador, foram observados excelentes níveis de confiabilidade (Physioplay: ICC&amp;gt; 0,99; Trigno 8: ICC&amp;gt;0,92) em todos os grupos. Na análise inter-avaliador, foram observados excelentes níveis de confiabilidade no GQ (Physioplay: ICC= 0,98; Trigno 8: ICC= 0,98); excelente (Physioplay: ICC= 0,98) e bom (Trigno 8: ICC= 0,44) níveis no GR; bons (Physioplay: ICC= 0,49) e razoáveis (Trigno 8: ICC= 0,29) níveis no GQR. Conclusão: Os dispositivos PhysioPlay™ e Trigno provaram ser confiáveis para avaliar o TR de voluntários com câncer em tratamento.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2020-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/180347</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v27i4a180347</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 27 n. 4 (2020); 242-247</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/180347/170087</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/180627</identifier>
+        <datestamp>2022-04-01T15:27:54Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Efeitos das estratégias de prática mental associadas à fisioterapia sobre a marcha e risco de quedas na doença de Parkinson: estudo experimental</dc:title>
+          <dc:title xml:lang="en-US">Effects of mental practice strategies associated with physical therapy on gait and risk of falls in Parkinson disease: experimental study</dc:title>
+          <dc:creator>Silva, Liliane Pereira da</dc:creator>
+          <dc:creator>Silva, Taís Arcanjo Maropo da</dc:creator>
+          <dc:creator>Silva, Kássia Maria Clemente da</dc:creator>
+          <dc:creator>Santos, Suzana Pereira dos</dc:creator>
+          <dc:creator>Silva, Douglas Monteiro da</dc:creator>
+          <dc:creator>Lins, Carla Cabral dos Santos Accioly</dc:creator>
+          <dc:creator>Coriolano, Maria das Graças Wanderley de Sales</dc:creator>
+          <dc:creator>Lins, Otávio Gomes</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doença de Parkinson</dc:subject>
+          <dc:subject xml:lang="pt-BR">Acidentes por Quedas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Marcha</dc:subject>
+          <dc:subject xml:lang="pt-BR">Imaginação</dc:subject>
+          <dc:subject xml:lang="en-US">Parkinson Disease</dc:subject>
+          <dc:subject xml:lang="en-US">Accidental Falls</dc:subject>
+          <dc:subject xml:lang="en-US">Gait</dc:subject>
+          <dc:subject xml:lang="en-US">Imagination</dc:subject>
+          <dc:description xml:lang="en-US">Objective: To compare the effects of mental practice (MP) strategies associated with physical therapy on gait and risk of falls in people with Parkinson's disease (PD). Method: We included 35 people of both sexes with mild to moderate idiopathic PD allocated into four groups; 1- Control group (CG), 2- Image-guided mental practice group (IGMP), 3- Audio-guided mental practice group (AGMP) and 4- Unguided mental practice group (UMP). The subjects in the experimental groups underwent 15 sessions of motor physical therapy and mental practice, while the CG received only physical therapy. The sessions were held twice a week, 40 minutes for motor physical therapy and 1 minutes for the corresponding Mental Practice protocol. To evaluate the spatiotemporal parameters of the gait, the 10-meter Walking Test was used and the risk of falls using the Timed Up and Go (TUG). Results: The IGPM group presented significant results for the time (p= 0.027) and gait speed (p= 0.025) when compared to the results of the CG. Cadence and risk of falls had no major effect for the group. The UMP and AGMP groups did not present statistically significant results for TC10m and TUG when compared with CG. Conclusion: The results of this study suggest that image-guided mental practice training associated with motor physical therapy is more effective in increasing gait speed than other MP strategies.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Comparar os efeitos das estratégias de prática mental (PM) associadas à fisioterapia sobre a marcha e o risco de quedas em pessoas com doença de Parkinson (DP). Método: Incluímos 35 pessoas de ambos os sexos com DP idiopática leve a moderada alocadas em quatro grupos; 1- Grupo controle (GC), 2- Grupo de prática mental guiada por imagem (GPMI), 3- Grupo de prática mental guiada por áudio (GPMA) e 4- Grupo de prática mental sem guia (GPMSG). Os sujeitos dos grupos experimentais realizaram 15 sessões de fisioterapia motora e prática mental, enquanto o GC recebeu apenas fisioterapia. As sessões eram realizadas duas vezes por semana, sendo 40 minutos para fisioterapia motora e 1 minutos para o protocol de &#160;Prática Mental correspondente. Para avaliar os parâmetros espaço-temporais da marcha, foi utilizado o Teste de Caminhada de 10 metros e para avaliar o risco de quedas foi utilizado o Timed Up and Go (TUG). Resultados: O grupo GMPI apresentou resultados significativos para o tempo (p= 0,027) e velocidade da marcha (p= 0,025) quando comparados aos resultados do GC. A cadência e o risco de quedas não apresentaram resultados signifcaticos. Os grupos GPMSG e GPMA não apresentaram resultados estatisticamente significantes para TC10m e TUG quando comparados ao GC. Conclusão: Os resultados deste estudo sugerem que o treinamento da prática mental orientada por imagem associado à fisioterapia motora é mais eficaz para aumentar a velocidade da marcha do que outras estratégias de PM.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2021-12-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/180627</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v28i4a180627</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 28 n. 4 (2021); 268-273</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/180627/179825</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/181212</identifier>
+        <datestamp>2022-02-01T13:27:52Z</datestamp>
+        <setSpec>actafisiatrica:Rel.+Caso</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Neuroimagem e desenvolvimento motor de gêmeas com microcefalia congênita por Zika virus: estudo de caso</dc:title>
+          <dc:title xml:lang="en-US">Neuroimaging and motor development of twins with congenital microcephaly associated with Zika virus: a case report</dc:title>
+          <dc:creator>Klinger, Tainã Ribeiro</dc:creator>
+          <dc:creator>Sanada, Luciana Sayuri</dc:creator>
+          <dc:creator>Menegol, Natalia Alves</dc:creator>
+          <dc:creator>Lima, Viviane de Rezende Santos Passos</dc:creator>
+          <dc:creator>Melo, Gabriela Amorim</dc:creator>
+          <dc:creator>Guedes, Ellen Soares</dc:creator>
+          <dc:creator>Sato, Karina Laurenti</dc:creator>
+          <dc:subject xml:lang="en-US">Microcephaly</dc:subject>
+          <dc:subject xml:lang="en-US">Motor Skills Disorders</dc:subject>
+          <dc:subject xml:lang="en-US">Zika Virus</dc:subject>
+          <dc:subject xml:lang="en-US">Neuroimaging</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:subject xml:lang="pt-BR">Microcefalia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Transtornos das Habilidades Motoras</dc:subject>
+          <dc:subject xml:lang="pt-BR">Zika Virus</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neuroimagem</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:description xml:lang="en-US">Objective: We aimed to describe a case of congenital microcephaly caused by Zika virus infection in a monozygotic twin pregnancy. Methods: Transfontanelle ultrasonography and cranial computed tomography revealed different lesion patterns for both twins with congenital microcephaly caused by Zika virus infection. Motor development assessments were performed using the Alberta Infant Motor Scale and the Gross and Motor Function Measure before, during, and after physiotherapy. Results: The evaluations showed differences in motor acquisition between the twins. The values in the first case were much lower than those in the second case, which showed more motor delay. Conclussion: The present study showed that despite the twins being monozygotic, the effects of neurological lesions as revealed by neuroimaging were worse in the first case, and even with two weekly rehabilitation sessions, motor development over time was considerably worse in the twin in case 1 than in the other twin. &#160;</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Descrever um caso de microcefalia congênita causada pela infecção do Zika vírus em uma gestação gemelar monozigótica. Métodos: A ultrassonografia transfontanelar e a tomografia computadorizada de crânio revelaram diferentes padrões de lesão para ambos gêmeos com microcefalia congênita causada pela infecção do Zika vírus. As avaliações do desenvolvimento motor foram realizadas por meio da Escala Motora Infantil de Alberta (EMIA) e da Medida de Função Motora Grossa antes, durante e após o tratamento fisioterapêutico. Resultados: As avaliações mostraram diferenças na aquisição motora entre os gêmeos. Os valores nas avaliações do primeiro caso foram bem menores do que os do segundo caso, que apresentou maior atraso motor. Conclusão: O presente estudo mostrou que apesar dos gêmeos serem monozigóticos, os efeitos das lesões neurológicas reveladas por exames de neuroimagem foram piores no primeiro caso, e mesmo com duas sessões semanais de reabilitação, o desenvolvimento motor ao longo do tempo foi consideravelmente pior no gêmeo do caso 1 quando comparado ao caso 2.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2021-09-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/181212</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v28i3a181212</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 28 n. 3 (2021); 195-200</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/181212/176472</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/181617</identifier>
+        <datestamp>2022-09-27T14:54:06Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Rev.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Methods of estimating energy expenditure in lower limb amputees: a systematic review</dc:title>
+          <dc:title xml:lang="pt-BR">Métodos de estimativa do gasto energético em amputados de membro inferior: uma revisão sistemática</dc:title>
+          <dc:creator>Lima, David Braga de</dc:creator>
+          <dc:creator>Piovezana, Poliana</dc:creator>
+          <dc:creator>Silva, Franciele Cascaes da</dc:creator>
+          <dc:creator>Silva, Beatriz Azevedo da</dc:creator>
+          <dc:creator>Silva, Guilherme Boese da</dc:creator>
+          <dc:creator>Silva, Diego Rodrigues Pimentel da</dc:creator>
+          <dc:creator>Gutierres Filho, Paulo José Barbosa</dc:creator>
+          <dc:creator>Silva, Rudney da</dc:creator>
+          <dc:subject xml:lang="pt-BR">Amputação</dc:subject>
+          <dc:subject xml:lang="pt-BR">Extremidade Inferior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Metabolismo Energético</dc:subject>
+          <dc:subject xml:lang="pt-BR">Equivalente Metabólico</dc:subject>
+          <dc:subject xml:lang="en-US">Amputation</dc:subject>
+          <dc:subject xml:lang="en-US">Lower Extremity</dc:subject>
+          <dc:subject xml:lang="en-US">Energy Metabolism</dc:subject>
+          <dc:subject xml:lang="en-US">Metabolic Equivalent</dc:subject>
+          <dc:description xml:lang="en-US">Objective: The objective of the present study was to identify the methods used to determine energy consumption of people with lower limb amputation. Methods: Systematic review, MedLine (Medical Literature Analysis and Retrieval System online) databases were selected via Pubmed, Web of Science, Scopus (Elsevier), PsycINFO - APA Psycnet (American Psychological Association) and SPORTDiscus . Eligibility criteria: Original, observational, experimental studies, which addressed the topic of energy consumption in lower limb amputees, available in full, in English, Portuguese and Spanish. Results: The studies used mainly the assessment of oxygen consumption (VO2) using the Ergospirometry test and the Physiological Cost Index through Heart Rate. However, some researches used the Subjective Scale of Perception of Effort, the Scale of self-reported fitness and a questionnaire related to the perception of the ability to walk. Conclusion: VO2 is the most reliable variable for assessing energy consumption, however, tests with direct measures can be more difficult to apply, due to recurrent changes to amputation, which may compromise the result, thus the use of variables that estimate energy consumption. through indirect measures it becomes a valid alternative, but it is necessary to pay attention to the use of heart rate in populations that use some type of medication that may alter or compromise the result.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Identificar os métodos utilizados para determinar o gasto energético de pessoas com amputação de membro inferior. Método: Revisão sistemática, foram selecionadas as bases de dados MedLine (Medical Literature Analysis and Retrieval System on-line) via Pubmed, Web of Science, Scopus (Elsevier), PsycINFO - APA Psycnet (American Psychological Association) e SPORTDiscus. Foram incluídos estudos originais, observacionais, experimentais, que abordaram a temática do gasto energético em amputados de membro inferior, disponíveis na íntegra, nos idiomas inglês, português e espanhol. Resultados: Os estudos utilizaram principalmente a avaliação do consumo de oxigênio (VO2) por meio do teste de Ergoespirometria e o Índice de Custo Fisiológico através da Frequência Cardíaca. No entanto, algumas pesquisas utilizaram a Escala Subjetiva de Percepção de Esforço, a Escala de aptidão autorreferida e um questionário relacionado a percepção da capacidade de andar. Conclusão: O VO2 é a variável mais fidedigna para avaliação do consumo energético, contudo, testes com medidas diretas podem ser mais difíceis de aplicar, pelas alterações recorrentes à amputação, podendo comprometer o resultado, assim, o uso de variáveis que estimem o consumo energético por meio de medidas indiretas se torna uma alternativa válida, mas é necessário atentar-se no uso da Frequência Cardíaca em populações que utilizem algum tipo de medicamento que possa alterar ou comprometer o resultado.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2022-06-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/181617</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v29i2a181617</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 29 n. 2 (2022); 129-139</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/181617/183537</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/181686</identifier>
+        <datestamp>2022-09-27T14:54:06Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Relationship between hematological, endocrine and immunological markers and sarcopenia in the elderly</dc:title>
+          <dc:title xml:lang="pt-BR">Relação entre marcadores hematológicos, endócrinos e imunológicos e a sarcopenia em idosos</dc:title>
+          <dc:creator>Pillatt, Ana Paula</dc:creator>
+          <dc:creator>Franz, Ligia Beatriz Bento</dc:creator>
+          <dc:creator>Berlezi, Evelise Moraes</dc:creator>
+          <dc:creator>Schneider, Rodolfo Herberto</dc:creator>
+          <dc:subject xml:lang="en-US">Sarcopenia</dc:subject>
+          <dc:subject xml:lang="en-US">Muscle Strength</dc:subject>
+          <dc:subject xml:lang="en-US">Walking Speed</dc:subject>
+          <dc:subject xml:lang="en-US">Biomarkers</dc:subject>
+          <dc:subject xml:lang="en-US">Elderly</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sarcopenia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Força Muscular</dc:subject>
+          <dc:subject xml:lang="pt-BR">Velocidade de Marcha</dc:subject>
+          <dc:subject xml:lang="pt-BR">Biomarcadores</dc:subject>
+          <dc:subject xml:lang="pt-BR">Idoso</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Relacionar os marcadores hematológicos, endócrinos e imunológicos com os critérios de classificação da sarcopenia em idosos residentes na comunidade. Métodos: Estudo transversal, vinculado à pesquisa institucional “Atenção Integral à Saúde do Idoso”. A população foi composta por indivíduos com idade igual ou superior a 60 anos, ambos os sexos, usuários da atenção primária à saúde. O protocolo de pesquisa contemplou entrevista, avaliação da sarcopenia e exames laboratoriais para avaliação do hemograma, da 25-hidroxivitamina D, paratormônio, fator de crescimento semelhante à insulina-1, interleucina-6 e proteína C reativa. Para análise estatística utilizou-se Teste de Mann-Whitney, Teste de qui-quadrado de Pearson, Exato de Fisher e Odds Ratio. Resultados: Verificou-se relação de interleucina-6 (p= 0,004), eritrócitos (p= 0,038), hemoglobina (p&amp;lt;0,001) e hematócrito (p= 0,002) com sarcopenia. Também observou-se que os idosos com força muscular alterada apresentaram valores mais baixos de hematócrito (p= 0,037) e mais altos de interleucina-6 (p= 0,002); e com desempenho físico alterado apresentaram valores mais baixos de leucócitos (p=0,024), hemoglobina (p&amp;lt;0,001), hematócrito (p= 0,007) e 25-hidroxivitamina D (p= 0,034) e mais altos de paratormônio (p= 0,018) e interleucina-6 (p= 0,002). Conclusão: Sugere-se a avaliação e acompanhamento dos níveis de interleucina-6, paratormônio, 25-hidroxivitamina D e da série vermelha do hemograma durante a prática assistencial.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To relate hematological, endocrine and immunological markers to the criteria for classifying sarcopenia in older people residents in the community. Method: Cross-sectional study, linked to the institutional research “Integrated Health Care for Older People”. The study population consisted of males and females aged 60 years or more and assisted in primary health care. The research protocol included an interview and physical examination to evaluate the sarcopenia criteria. Analysis of the following were done: complete blood count, 25-hydroxyvitamin D, parathyroid hormone, insulin-like growth factor-1, interleukin-6 and C-reactive protein. Statistical analysis included the Mann-Whitney test, Pearson's chi-square test, Fisher's exact test and Odds Ratio. Results: There was a relationship between interleukin-6 (p= 0,004), erythrocytes (p= 0,038), hemoglobin (p&amp;lt;0,001) and hematocrit (p= 0,002) with sarcopenia. It was also observed that the older people with altered muscular strength had lower values of hematocrit (p= 0,037) and higher of interleukin-6 (p= 0,002); and with altered physical performance had lower values of leukocytes (p= 0,024), hemoglobin (p&amp;lt;0,001), hematocrit (p= 0,007) and 25-hydroxyvitamin D (p= 0,034) and higher levels of parathyroid hormone (p= 0,018) and interleukin-6 (p= 0,002). Conclusion: It is suggested to evaluate and monitor the levels of interleukin-6, parathyroid hormone, 25-hydroxyvitamin D and the red blood count series during care practice.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2022-06-28</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/181686</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v29i2a181686</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 29 n. 2 (2022); 67-74</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/181686/183511</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2022 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/181737</identifier>
+        <datestamp>2021-07-23T18:11:16Z</datestamp>
+        <setSpec>actafisiatrica:Art.+Orig.</setSpec>
+        <setSpec>driver</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Estudo de validação de um programa de computador para avaliação proprioceptiva</dc:title>
+          <dc:title xml:lang="en-US">Validation study of a software for proprioceptive evaluation</dc:title>
+          <dc:creator>Ferreira, Henrique Franco</dc:creator>
+          <dc:creator>Carvalho, Leonardo César</dc:creator>
+          <dc:creator>Bressan, Paulo Alexandre</dc:creator>
+          <dc:creator>Souza, Renato Aparecido de</dc:creator>
+          <dc:creator>Simão, Adriano Prado</dc:creator>
+          <dc:creator>Iunes, Denise Hollanda</dc:creator>
+          <dc:subject xml:lang="pt-BR">Articulação do Ombro</dc:subject>
+          <dc:subject xml:lang="pt-BR">Propriocepção</dc:subject>
+          <dc:subject xml:lang="pt-BR">Software</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reabilitação</dc:subject>
+          <dc:subject xml:lang="en-US">Shoulder Joint</dc:subject>
+          <dc:subject xml:lang="en-US">Proprioception</dc:subject>
+          <dc:subject xml:lang="en-US">Software</dc:subject>
+          <dc:subject xml:lang="en-US">Rehabilitation</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Validar do software PhisioPlay para avaliação proprioceptiva da articulação do ombro realizando movimento de abdução a 45º e 90º utilizando os dados obtidos por um equipamento de dinamometria isocinética. Métodos: Trinta e um indivíduos compuseram um único grupo de avaliação da propriocepção pelo senso de posição articular (SPA) do ombro. O protocolo de teste no PhisioPlay consistiu no movimento de abdução do ombro para o ângulo alvo de 45° e 90° e sua manutenção por 30 segundos. No dinamômetro isocinético o teste foi realizado utilizando seu protocolo de avaliação proprioceptiva para o mesmo movimento, ângulos alvo e tempo de manutenção no ângulo alvo estabelecidos para o teste anterior. Resultados: Para as variáveis de 90° foi observada concordância moderada para o membro dominante em relação à angulação média e à diferença absoluta, e para o membro não dominante em relação à diferença absoluta. O teste de Wilcoxon ao comparar os valores dos erros absolutos em relação ao ângulo alvo obtidos pelo PhisioPlay corroboram com a literatura sobre o comportamento do SPA observando amplitude articular, lateralidade e maior ou menor torque incidindo sobre a articulação. Medidas de confiabilidade e sensibilidade também reforçaram este comportamento. Conclusão: Os resultados apontam para validade de construto do software PhisioPlay para a avaliação do SPA da articulação do ombro a 45° e 90° e sugerem que o SPA é mais influenciado pela angulação da articulação durante a tarefa motora do que pela dominância lateral.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To validate the PhisioPlay software for proprioceptive evaluation of the shoulder joint based on the data obtained by isokinetic dynamometry equipment. Methods: Thirty-one individuals constituted a single group for proprioceptive evaluation of both shoulder joints by means of joint position sense (JPS). The testing protocol of PhisioPlay consisted of the abduction movement of the shoulder to the target angles of 45° and 90° and the maintenance of these positions for 30 seconds. In the isokinetic dynamometer, the test was performed using its proprioceptive evaluation protocol for the same movement, target angles, and maintenance time established for the previous test. Results: For the 90° variables, statistical analysis pointed to agreement for the dominant limb in relation to the mean angulation and the absolute difference and for the non-dominant limb in relation to the absolute difference. The results of mean comparisons of the absolute differences via the Wilcoxon Test corroborate the literature regarding the behavior of the JPS considering joint amplitude, lateral dominance, and greater or lesser torque affecting the joint. Reliability and sensitivity measures also strengthen the conclusions. Conclusion: The results point to the construct validity of the PhisioPlay software for evaluating the JPS of the shoulder joint at 45° and 90° and suggest that the JPS is more influenced by the angle of the joint during the motor task than by the lateral dominance.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Faculdade de Medicina, Universidade de São Paulo</dc:publisher>
+          <dc:date>2021-03-31</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/actafisiatrica/article/view/181737</dc:identifier>
+          <dc:identifier>10.11606/issn.2317-0190.v28i1a181737</dc:identifier>
+          <dc:source xml:lang="pt-BR">Acta Fisiátrica; v. 28 n. 1 (2021); 15-21</dc:source>
+          <dc:source>2317-0190</dc:source>
+          <dc:source>0104-7795</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/actafisiatrica/article/view/181737/171809</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Acta Fisiátrica</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2023-08-08T14:49:40Z" completeListSize="935" cursor="775">0483dd4d598193bdccbdbd403ebc8e8c</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

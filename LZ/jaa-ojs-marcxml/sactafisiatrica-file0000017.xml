@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:50:12Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103687</identifier>
+<datestamp>2019-11-26T14:46:04Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Acidente vascular encefálico agudo: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Naki, Igor Kaoru</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rodrigues, Thais Amanda</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Andrade, Tatiana Simões de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Esotico, Ana Paula de Carvalho Andrade</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Heyn, Daniella</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Este estudo revisou artigos nas bases de dados do MEDLINE (Pub-Med) e demais fontes de pesquisa, sem limite de tempo. Para tanto, adotou-se a estratégia de busca baseada em perguntas estruturadas na forma (P.I.C.O.) das iniciais: &quot;Paciente&quot;; &quot;Intervençao&quot;; &quot;Controle&quot; e &quot;Outcome&quot;. Como descritores utilizaram-se: (cerebrovascular disorders OR Stroke) AND acute AND (movement OR physical therapy modalities OR exercise movement techniques); (cerebrovascular disorders OR stroke) AND (Postural Balance OR Musculoskeletal Physiological Phenomena) AND Rehabilitation AND trunk; (cerebrovascular disorders OR Stroke)AND (virtual reality OR user-computer interface OR video games); cerebrovascular disorders AND (home care services, hospital-based); cerebrovascular disorders AND (contractures OR splint OR orthotic devices); cerebrovascular disorders AND acute AND (rehabilitation OR physical therapy disorders or task performance); cerebrovascular disorders AND (physical therapy modalities OR rehabilitation OR exercise therapy) AND (Home Care Services OR self care); (cerebrovascular disorders OR stroke) AND (electric stimulation OR electric stimulation therapy) AND (muscle tonus OR muscle hypotonia OR muscle hypertonia); cerebrovascular disorders AND (restraint physical OR constraint induced movement therapy OR constraint); (cerebrovascular disordersOR stroke) AND (body weight support OR supported treadmill training OR partial weight bearing); (cerebrovascular disorders OR stroke) AND transcranial magnetic stimulation; (cerebrovascular disorders OR stroke) AND bandages. Com esses descritores efetivaram-se cruzamentos de acordo com o tema proposto em cada tópico das perguntas (P.I.C.O.). Analisado esse material, foram selecionados os artigos relativos às perguntas e, por meio do estudo dos mesmos, estabeleceram-se as evidências que fundamentaram às diretrizes do presente documento. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103687</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103688</identifier>
+<datestamp>2019-10-11T19:43:16Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Câncer de mama: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brito, Christina May Moran</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lourenção, Maria Inês Paes</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Saul, Maíra</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bazan, Mellik</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Otsubo, Priscilla Pereira Santos</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This study revised articles from the MEDLINE (PubMed) databases and other research sources, with no time limit. To do so, the search strategy adopted was based on (P.I.C.O.) structured questions (from the initials &quot;Patient&quot;; &quot;Intervention&quot;; &quot;Control&quot; and &quot;Outcome&quot;. As keywords were used: Breast Neoplasm, Mastectomy, Mastectomy, Radical; Lymph Node Excision, Surgery, Lymphedema, Breast Cancer-related Lymphedema (BCRL); Arm/pathology, Postoperative Complications, Shouder Joint, Range of Motion, Articular*; Shoulder Joint/Radiation Effects, Drainage, Manual Lymphatic Drainage, Decongestive (MLD), Lymphatic Therapy (DLT), Massage, Compression Bandages, Bandages, Alginates*, Physical Therapy Modalities, Exercise, Exercise/Physiology*, Exercise Therapy, Exercise Training, Exercise Movement Techniques, Exercise Tolerance, Weight Lifting*, Kinesiotherapy, Musculoskeletal Manipulation, Prevention and Control, Primary Prevention, Postoperative Care, Rehabilitation, Early Intervention, Recovery of Function, Disability Evaluation, Complications*, Survivor*, Neoplasm Recurrence; Immune System, Stress, Psychological; Quality of Life, Value of life, Sickness Impact Profile, Life Style, Risk, Risk Factors, Overweight, Diet, Food, Diet Therapy, Diet Reducing, Dietetics, Malnutrition, Nutrition Policy, Nutritional Sciences, Pressure*, Intermittent Pneumatic Compression, Intermittent Pneumatic Compression Devices, Hydrotherapy, Complementary Therapies, Cognitive Therapy, Mind-body Therapies, Mindfulness, Meditation, Psychotherapy, Psychophysics, Holistic Health, Adaptation, Psychological; Self-help Groups, Psychotherapy, Group*; Occupational Therapy, Social Support. With the above keywords crossings were performed according to the proposed theme in each topic of the (P.I.C.O.) questions. After analyzing this material, articles regarding the questions were selected and, by studying those, the evidences that fundamented the directives of this document were established. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103688</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103689</identifier>
+<datestamp>2019-10-11T19:44:14Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Cervicalgia: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Delfino, Paula Domingues</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rampim, Danielle Bianchini</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fabio Marcon</subfield>
+<subfield code="0">https://orcid.org/0000-0002-5242-3246</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tomikawa, Luis Carlos Onoda</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fadel, Gustavo</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Stump, Patrick Raymond Nicolas Andre Ghislain</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Satiko Tomikawa</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> We started the preparation of this directive with the capacitation of the authors by means of the metodology employed by the Oxford Centre for Evidence Based Medicine, for the preparation of clinical directives by the Directives Program of the Brazilian Medical Association (Associaçao Médica Brasileira - AMB). Next, we had five directive preparation meetings with the AMB Program&#039;s coordinators. Articles from the MEDLINE (PubMed) databases, the Cochrane Database of Systematic Reviews, by means of the Health Virtual Library, with no time limitation. The search strategy adopted was based on (P.I.C.O.) structured questions (from the initials &quot;Patient&quot;; &quot;Intervention&quot;; &quot;Control&quot; and &quot;Outcome&quot;.  </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103689</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103690</identifier>
+<datestamp>2019-10-11T19:39:50Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Exercício em pacientes oncológicos: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Almeida, Elisangela Marinho Pinto</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Andrade, Rodrigo Guimarães</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cecatto, Rebeca Boltes</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5675-6665</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brito, Christina May Moran</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Camargo, Fernanda Pereira de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pinto, Cesar Antonio</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Yamaguti, Wellington Pereira dos Santos</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This study revised articles from the MEDLINE (PubMed) databases and other research sources, with no time limit. To do so, the search strategy adopted was based on (P.I.C.O.) structured questions (from the initials &quot;Patient&quot;; &quot;Intervention&quot;; &quot;Control&quot; and &quot;Outcome&quot;. As keywords were used: (Neoplasms OR Carcinogens OR Tumors OR Cancer) AND (Fatigue OR Asthenia OR Lassitude OR Muscle Fatigue OR Fatigue OR Muscles OR specific muscle OR Mental Fatigue OR Fatigue, Mental OR Cancer-related fatigue) AND (Exercise OR Physical Fitness OR Exertion OR Exercise Therapy OR Sports OR Exercise Movement Techniques OR Physical Fitness OR Physical Conditioning OR Physical Endurance); (Neoplasms OR Carcinogens OR Tumors OR Cancer) AND (Fatigue OR Asthenia OR Lassitude OR Muscle Fatigue OR Fatigue OR Muscles OR Specific Muscle OR Mental Fatigue OR Fatigue, Mental OR Cancer-related Fatigue) AND (Chemotherapy, Adjuvant OR Combined Modality Therapy OR Drug Therapy,combination OR Antineoplastic Combined Chemotherapy Protocols) AND (Exercise Tolerance OR Oxigen Consumption* OR Exercise OR Physical Fitness OR Exertion OR Exercise Therapy OR Sports OR Physical Fitness OR Physical Conditioning OR Physical Endurance); (Neoplasms OR Carcinogens OR Tumors OR Cancer) AND (Fatigue OR Asthenia OR Lassitude OR Muscle Fatigue OR Fatigue OR Muscles OR specific muscle OR Mental Fatigue OR Fatigue, Mental OR cancer-related fatigue) AND (Exercise OR Physical Fitness OR Exertion OR Exercise Therapy OR Sports OR Exercise Movement Techniques OR Physical Fitness OR Physical Conditioning OR Physical Endurance OR Intensity exercise); (Neoplasms OR Carcinogens OR Tumors OR Cancer) AND (Fatigue OR Asthenia OR Lassitude OR Muscle Fatigue OR Cancer-related fatigue) AND (Exercise OR Physical Fitness OR Exertion OR Exercise Therapy OR Sports OR Sports OR Exercise Movement Techniques OR Physical Fitness OR Physical Conditioning OR Physical Endurance); Neoplasm AND (Exercise OR Physical Fitness OR Exertion OR Exercise Therapy OR Sports OR Exercise Movement Techniques OR Physical Fitness OR Physical Conditioning OR Physical Endurance) AND Quality of Life ; (Bone Neoplasms OR Neoplasms Metastasis) AND (Exercise OR Physical Fitness OR Exertion OR Exercise Therapy OR Sports OR Exercise Movement Techniques OR Physical Fitness OR Physical Conditioning OR Physical Endurance) AND (Fracture Bone OR Fractures, Bone) AND (Exercise OR Physical Therapy) AND Fracture AND Neoplasm; (Bone Neoplasms OR Neoplasms Metastasis) AND (Exercise OR Physical Fitness OR Exertion OR Exercise Therapy OR Sports OR Exercise Movement Techniques OR Physical Fitness OR Physical Conditioning OR Physical Endurance) AND (Fracture Bone OR Fractures, Bone) AND (Exercise OR Physical Therapy) AND Fracture AND Neoplasm; (Neoplasms OR Carcinogens OR Tumor OR Cancer) AND (Signs and Symptoms Respiratory OR Dyspnea) AND (Breathing Exercise OR Exercise Therapy); (Neoplasms OR Carcinogens OR Tumor OR Cancer) AND (Oxygen Inhalation Therapy OR Positive Pressure Respiration OR PEEP) ; Neoplasms OR Cancer OR Tumor OR Carcinogens AND Terminally ill OR Terminal Care OR Palliative Care AND Oxygen Inhalation Therapy; Neoplasm AND (Muscle OR Muscle Strength OR Muscle Weakness OR Cachexia) AND (Androgens OR Anabolic Agents OR Nandrolone OR Oxandrolone) AND (Exercise OR Physical Therapy OR Rehabilitation); (Anthracyclines OR Trastuzumab OR Ciclofosfamide) AND (Physical Activity OR Exercise) AND (Cardiotoxicity); Neoplasm AND Thrombocytopenia AND (Exercise OR Rehabilitation OR Physical Therapy). With the above keywords crossings were performed according to the proposed theme in each topic of the (P.I.C.O.) questions. After analyzing this material, articles regarding the questions were selected and, by studying those, the evidences that fundamented the directives of this document were established. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103690</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103691</identifier>
+<datestamp>2019-10-14T17:29:24Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Lesão medular: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Takami, Marina da Paz</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Figliolia, Carmem Silvia</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tsukimoto, Gracinda Rodrigues</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moreira, Maria Cecilia dos Santos</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferraz, Simone</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barbosa, Sofia Bonna Boschetti</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Tuacek, Tatiana Amadeo</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ramos, Thiago de Oliveira</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Wagner Lopes da</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Daniel Rubio de</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0207-9800</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This study revised articles from the MEDLINE (PubMed) databases and other research sources, with no time limit. To do so, the search strategy adopted was based on (P.I.C.O.) structured questions (from the initials &quot;Patient&quot;; &quot;Intervention&quot;; &quot;Control&quot; and &quot;Outcome&quot;.  With the above keywords crossings were performed according to the proposed theme in each topic of the (P.I.C.O.) questions. After analyzing this material, therapy narrow articles regarding the questions were selected and, by studying those, the evidences that fundamented the directives of this document were established. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103691</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103692</identifier>
+<datestamp>2019-10-14T17:50:02Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Lombalgia inespecífica crônica: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rached, Roberto Del Valhe Abi</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Chennyfer Dobbins Paes da</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alfieri, Fabio Marcon</subfield>
+<subfield code="0">https://orcid.org/0000-0002-5242-3246</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Amaro, Silvia Maria Camillo</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nogueira, Bruno</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dotta, Luciana</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This study revised articles from the MEDLINE (PubMed) databases and other research sources, with no time limit. To do so, the search strategy adopted was based on (P.I.C.O.) structured questions (from the initials &quot;Patient&quot;; &quot;Intervention&quot;; &quot;Control&quot; and &quot;Outcome&quot;.  With the above keywords crossings were performed according to the proposed theme in each topic of the (P.I.C.O.) questions. After analyzing this material, therapy narrow articles regarding the questions were selected and, by studying those, the evidences that fundamented the directives of this document were established. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103692</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103693</identifier>
+<datestamp>2019-10-14T18:09:59Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Paralisia cerebral - membros inferiores: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Capucho, Patrícia Yuri</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carnier, Sarah Almeida Del Cid</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Priscila de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castro, Débora Ciotek de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Finocchio, Ana Paula</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Danieli Morais de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This study revised articles from the MEDLINE (PubMed) databases and other research sources, with no time limit. To do so, the search strategy adopted was based on (P.I.C.O.) structured questions (from the initials &quot;Patient&quot;; &quot;Intervention&quot;; &quot;Control&quot; and &quot;Outcome&quot;. With the above keywords crossings were performed according to the proposed theme in each topic of the (P.I.C.O.) questions. After analyzing this material, therapy narrow articles regarding the questions were selected and, by studying those, the evidences that fundamented the directives of this document were established. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103693</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103694</identifier>
+<datestamp>2019-10-14T18:21:48Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Paralisia cerebral - membros superiores: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Arakaki, Vanessa Cristina</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cardoso, Maiara Celina de Carvalho</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Thinen, Natalia Cristina</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This study revised articles from the MEDLINE (PubMed) databases and other research sources, with no time limit. To do so, the search strategy adopted was based on (P.I.C.O.) structured questions (from the initials &quot;Patient&quot;; &quot;Intervention&quot;; &quot;Control&quot; and &quot;Outcome&quot;.  With the above keywords crossings were performed according to the proposed theme in each topic of the (P.I.C.O.) questions. After analyzing this material, therapy narrow articles regarding the questions were selected and, by studying those, the evidences that fundamented the directives of this document were established. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103694</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103695</identifier>
+<datestamp>2019-10-14T19:17:19Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120609 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Traumatismo cranioencefálico: reabilitação</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Almeida, Tatiane Lopes Teixeira</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Falkenburg, Lilian</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nascimento, Roberta Zanardi Ruiz</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Reis, Cristina Arruda</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sales, Viviane Carolina</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Pedroso, Tatiana Domingues</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ceccato, Rebeca Boltes</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Imamura, Marta</subfield>
+<subfield code="0">https://orcid.org/0000-0003-0355-9697</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This study revised articles from the MEDLINE (PubMed) databases and other research sources, with no time limit. To do so, the search strategy adopted was based on (P.I.C.O.) structured questions (from the initials &quot;Patient&quot;; &quot;Intervention&quot;; &quot;Control&quot; and &quot;Outcome&quot;. With the above keywords crossings were performed according to the proposed theme in each topic of the (P.I.C.O.) questions. After analyzing this material, articles regarding the questions were selected and, by studying those, the evidences that fundamented the directives of this document were established. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-06-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103695</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 2 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103705</identifier>
+<datestamp>2019-09-26T15:13:39Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Novos tempos, novas práticas: os desafios na formação dos profissionais de terapia ocupacional</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Coutinho, Isa de Jesus</subfield>
+<subfield code="u">Escola Bahiana de Medicina e Saúde Pública</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Karla Ribeiro dos</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Passos, Ana Joaquina das Mercês Mariani</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Problem-based Learning PBL is a method of teaching and learning that is based on real or simulated problems focusing on knowledge, skills, actions, and values. Although several universities around the world have experimented with this methodology only a few studies present results on its use. Objective: This research seeks to describe the experience of PBL in the course of Occupational Therapy of the School of Medicine and Public Health of Bahia (EBMSP) in Salvador, state of Bahia. Method: This is a qualitative approach, involving seventeen students from the sixth semester of Occupational Therapy. A standard instrument was developed prior to the survey with seven questions. Results: Indicated the use of the Methodology was helpful in the training of occupational therapists, as well as challenging for the beginning student, but revealed the need for improved training of the teachers involved in this methodology. Conclusion: The uncertainty of the participants in managing their own knowledge, that is, the quality and need for what was learned - the “learning to learn, the learning to be, and the learning to do” - was also demonstrated. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103705</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103706</identifier>
+<datestamp>2019-09-26T17:05:58Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Conceito Halliwick inclusão e participação através das atividades aquáticas funcionais</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Garcia, Mauricio Koprowski</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Joares, Edenilson Cordeiro</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Marcelo Alves</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bissolotti, Renato Rocha</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Suzana</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Este trabalho apresenta os resultados qualitativos e quantitativos de um grupo 674 usuários que por 12 meses participaram do Projeto Halliwick - atividades aquáticas funcionais - do Instituto de Medicina Física e Reabilitação do Hospital das Clínicas FMUSP e suas amplas repercussões na vida da pessoa com deficiência. O conceito Halliwick foi desenvolvido em 1949 por James McMillan na Inglaterra e está fundamentado em princípios da hidrostática, hidrodinâmica e na mecânica dos corpos na água. Objetivo: O Programa dos 10 Pontos do conceito Halliwick é a aplicação prática e fornece estrutura aos processos de ensinar e aprender com segurança, lógica e progressivamente. Método: O trabalho se desenvolve em grupos que motivam e favorecem a interação social, ao mesmo tempo que otimizam o aprendizado. O Halliwick introduz a água como um novo fator ambiental para se trabalhar estratégias do movimento e controle motor de forma diferente. Os atributos da piscina, especificamente as propriedades físicas de água, promovem o bem estar de estruturas físicas e função corporal, independência funcional, novos padrões de movimentos, entendimento de diferentes conceitos sobre motricidade, processamento sensorial, aprendizado cognitivo, organização de padrões de movimentos e controle de atividades diversas. A fisiologia da imersão responde pela ativação de orgãos e sistemas do corpo melhorando seus desempenhos. Resultados: Com apoio da Associação Halliwick Internacional e Associação Brasil Halliwick o projeto, pioneiro no país, possibilitou atendimento a milhares de usuários garantindo acesso igualitário, pois foca a inclusão e participação da pessoa com e sem deficiência. Conclusão: A característica holística do Halliwick influenciou sobre maneira o tradicional ensino de natação e trouxe uma série de refinamentos às técnicas de hidroterapia, demonstrando que programas terapêuticos e recreativos combinados oferecem uma reabilitação contínua para todas as pessoas. Ainda permite o alcance do máximo potencial, trazendo benefícios físicos, psicológicos e social. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103706</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103707</identifier>
+<datestamp>2019-09-26T17:12:14Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Aptidão motora e atenção em dependentes de drogas psicotrópicas ilícitas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, André Luiz Bertoncini de</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cintrão, Júlia Magnus</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Maria Eduarda Merlin da</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Guimarães, Adriana Coutinho de Azevedo Guimarães</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Parcias, Silvia Rosane</subfield>
+<subfield code="u">Universidade do Estado de Santa Catarina - UDESC</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Psychoactive substances act on the central nervous system producing mental and behavioral changes leading to clinical manifestations associated with drug abuse. Objective: To evaluate the motor ability and attention span among individuals dependent on psychotropic drugs, who were in treatment in a psychiatric hospital. Method: A single case study, whose unit of analysis was a hospital, assessed the motor skills and attention span of 10 male individuals addicted to illicit psychotropic drugs, with mean age of 31.9 ± 7.07 years and average hospitalization of 23.9 days. The following instruments were used: a structured socio-demographic interview, the Motor Scale for Elderly (EMTI) adapted, and the Trail Making Test (TMT A and B). The average age at first consumption was 15.1 years; and there was a slower performance in the TMT A and B in all age groups. In general motor ability, individuals were classified as follows: two “superior”, two “above average”, five “average”, and one “below average”. Results: Their temporal organization was the variable with the lowest performance. Conclusion: Attention deficits were encountered along with average general motor ability and a strong negative association or correlation between motor performance and attention span. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103707</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103708</identifier>
+<datestamp>2019-09-26T17:16:20Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Independência funcional de idosas residentes em instituições de longa permanência</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carneiro, Flávia Ravany</subfield>
+<subfield code="u">Universidade Federal do Ceará - UFC</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brasileiro, Ismênia de Carvalho</subfield>
+<subfield code="u">Faculdade Estácio</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vasconcelos, Thiago Brasileiro de</subfield>
+<subfield code="u">Universidade Federal do Ceará - UFC</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Arruda, Vanessa da Ponte</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Florêncio, Raquel Sampaio</subfield>
+<subfield code="u">Grupo de Pesquisa Epidemiologia, Cuidado em Cronicidades e Enfermagem</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moreira, Thereza Maria Magalhães</subfield>
+<subfield code="u">Universidade Estadual do Ceará - UECE</subfield><subfield code="0">https://orcid.org/0000-0003-1424-0649</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To evaluate the Functional Independence Measure (FIM) for elderly women in a longterm institution in Fortaleza - CE. Method: This is an exploratory, descriptive study with a quantitative approach, performed with 59 elderly residents in two long-term institutions for the elderly (LTCF) in Fortaleza - CE, during the second half of 2010. The initial assessment instrument consisted of personal, socio-demographic, and clinical data. We then applied the Functional Independence Measure (FIM) to measure how much care they needed to perform motor and cognitive tasks. Results: The women had been institutionalized for 8.32 (± 9.46) years. The average age of participants was 76.72 (± 9.81) years. In relation to self-care most of the group eat, carry out personal hygiene, and bathe independently. In addition, it can be seen that 69.50% use the toilet independently. As for mobility, 50.85% of the women can manage without help, while 62.71% can only use the stairs with help. As for social cognition, they have good communication, because 49.15% did not need any help in understanding the words, 62.71% express themselves freely, while 50.85% have memory deficits. Conclusion: The participants in the study were independent under the general definition. They were able to perform virtually all activities in a satisfactory manner, such as feeding, personal hygiene, bathing, mobility, and sphincter control, being dependent on aid only with aspects related to memory and climbing stairs. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103708</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103709</identifier>
+<datestamp>2019-09-26T17:29:11Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Restrição visual e oscilações corporais ântero-posteriores na doença de Parkinson</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sánchez-Arias, Mônica Del Rosario</subfield>
+<subfield code="u">Universidade Estadual Paulista - UNESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kleiner, Ana Francisca Rozin</subfield>
+<subfield code="u">Universidade Estadual de Campinas - UNICAMP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Hamanaka, Ágata Yoko Yasue</subfield>
+<subfield code="u">Universidade Estadual Paulista - UNESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santiago, Paulo Roberto Pereira</subfield>
+<subfield code="u">Universidade de São Paulo. Escola de Educação Física e Esporte de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gobbi, Lilian Teresa Bucken</subfield>
+<subfield code="u">Universidade Estadual Paulista - UNESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Stella, Florindo</subfield>
+<subfield code="u">Universidade Estadual Paulista - UNESP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> With their vision restricted, sufferers of Parkinson’s disease (PD) make few anticipatory and/or compensatory adjustments in their posture and the evidence of these adjustments is even less when the disease progresses and body oscillations are considered. Objective: The aim of this study was to demonstrate the effects of visual restriction on the anterior-posterior body oscillation angles in parkinsonian stance considering the early stages of this disease. Method: Ten elderly PD patients with Hoehn &amp; Yahr (HY) stage 2 remained standing still for 30 seconds to measure the body oscillation angles with and without restricted vision. Results: Two-way ANOVA analyses with repeated measurements revealed the main effect of vision (F(1,7) = 8.931, p &lt; 0.02). Conclusion: The angles of the anterior-posterior body oscillations without visibility were greater than with visibility. They did not differ in correlation with the HY stages and visibility conditions interfered with the postural control regardless of the PD evolution stage. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103709</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103710</identifier>
+<datestamp>2019-09-26T18:05:52Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Prevalência de dor fantasma em amputados do Lar Escola São Francisco</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Chamlian, Therezinha Rosane</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bonilha, Mariana Matteis Martins</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Macêdo, Márcia Cristina Matos</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rezende, Flávia</subfield>
+<subfield code="u">Universidade Federal de São Paulo - UNIFESP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Leal, Caio Augusto Pereira</subfield>
+<subfield code="u">Faculdade Metropolitanas Unidas</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The physiopathology of phantom limb pain is characterized by cortical map reorganization, a process that involves plasticity in sensorimotor representations. The presence of phantom limb pain can interfere with the physical and psychosocial rehabilitation of amputees, compromising the patient’s acquisition of skills and quality of life. Objective: To determine the prevalence of phantom limb pain in amputees seen at the Lar Escola São Francisco (LESF). Methods: The records of patients attending the Amputation and Prosthesis Group between January 2005 and December 2010 were analyzed regarding the presence or absence of signs of phantom limb pain. Results: Phantom limb pain was reported in 10 of 330 records analyzed, corresponding to a proportion of 3.3%. Conclusion: Prevalence of phantom limb pain was low among amputees studied at LESF. Its approach needs to be better investigated during individual assessment of amputees. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103710</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103711</identifier>
+<datestamp>2019-09-26T19:51:26Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo sobre as características da dor em pacientes com lesão medular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rodrigues, Adriana Vieira</subfield>
+<subfield code="u">Universidade Estadual de Londrina - UEL</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vidal, Wesley Araújo Sampaio</subfield>
+<subfield code="u">Universidade Estadual de Londrina - UEL</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lemes, Joseane Andréa</subfield>
+<subfield code="u">Universidade Estadual de Londrina - UEL</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Gôngora, Carolina Spagnuolo</subfield>
+<subfield code="u">Universidade Estadual de Londrina - UEL</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Neves, Thalita Correa</subfield>
+<subfield code="u">Universidade Estadual de Londrina - UEL</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Suhaila Mahmoud Smaili</subfield>
+<subfield code="u">Universidade Estadual de Londrina - UEL</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Roger Burgo de</subfield>
+<subfield code="u">Universidade Estadual de Londrina - UEL</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Aside from the loss of functionality after a spinal cord injury (SCI) pain is considered one of the most disabling complications experienced in the rehabilitation process, even with the significant advances in understanding the physiopathology and treatment of the pain, the approach to this symptom is still precarious in spinal cord injury. Objective: To describe the characteristics of pain in this population and to associate the pain between variables such as the type of injury, the interference in the daily living activities (DLA), and its onset. Method: It is a descriptive cross-sectional study and was conducted on 77 patients with spinal cord injuries; the survey was applied using a semi-structured interview. Mean and standard deviation and absolute and relative frequencies were calculated, and for the association between qualitative variables we used the Chisquare test (χ²). Results: The mean age was 38.26 ± 12.43 years, 84.4% of which were men, and 80.5% were paraplegics. Thirty-one were caused by motor vehicle crashes and twenty-nine were by gunshot; 61% of them were fully disabled. As for the pain, 44.2% reported severe pain and 29.8% moderate, 50.6% felt no pain above the lesion, but 58.4% felt it below. Thirty-nine patients reported feeling burning pain, 40% reported that the pain came in the first year after SCI. Pain intensity was 5.44 ± 3.18 points, with 5.20 ± 3.07 in men and 6.75 ± 3.54 in women; for tetraplegic individuals it was 4.13 ± 3.18 and with 5.76 ± 3.12 in the paraplegics. For 27 patients the pain worsened if they remained in the same position, improved to 22 by performing physiotherapy, and to 21 with a change in position. For 68.8% of the patients the pain did not interfere with their DLAs. Twenty-eight used analgesics. It was significantly mentioned that the presence of pain below the lesion interferes with the DLAs (p = 0.04) and appears in the first year after injury above and below the lesion (p = 0.05 and p = 0.01), respectively. Conclusion: Pain was prevalent in those with injured spinal cords, more evident in women, and for the majority arose in the first year after injury and interferes with their DLA. Physiotherapy and a change of position decreased the pain. Therefore, orientations and interventions by the multidisciplinary team should be immediate after the injury, because the prevention or reduction of this complication will lead to an improved quality of life and the re-adaptation of the patient to their family and social life. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103711</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103712</identifier>
+<datestamp>2019-09-27T11:22:03Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Melhora na qualidade de vida e da dor referida em trabalhadores com síndrome do impacto após aplicação do método Isostretching</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barbosa, Érica Carvalho</subfield>
+<subfield code="u">Universidade Estadual de Campinas - UNICAMP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Peres, Claudia Maria</subfield>
+<subfield code="u">Universidade Estadual de Campinas - UNICAMP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lucca, Sérgio Roberto de</subfield>
+<subfield code="u">Universidade Estadual de Campinas - UNICAMP</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, José Inácio de</subfield>
+<subfield code="u">Universidade Estadual de Campinas - UNICAMP</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Among Work-Related Musculoskeletal Disorders, the Shoulder Impingement Syndrome (SIS) is the leading cause of work disability. Aside being off work, many cases often require physiotherapy. The Isostretching method can be an alternative and can contribute to improving the quality of life of workers with SIS. Objective: To verify the effects of a treatment protocol based on the Isostretching method in individuals with SIS, in improving the quality of life and decreasing pain intensity. Method: By analyzing patient records in treatment at the occupational health clinic and other Unicamp clinics, 30 volunteers were selected and submitted to 12 physiotherapy sessions with the Isostretching method for 6 weeks. The volunteers were evaluated before and after the proposed protocol using the SF-36 quality of life questionnaire and a visual numeric pain scale. Data was analyzed using (ANOVA) variance analysis, which was performed using software R, version 2.12.0. Results: The results of the SF-36 quality of life questionnaire showed statistically significant differences (p &lt; 0.05) in most areas. In the visual numeric scale from zero to ten, the average value was 6.63 points pre-treatment and 3.23 post-treatment, which was significant (p &lt; 0.05). Conclusion: The proposed protocol was effective in improving the quality of life and in reducing pain in the group of volunteers studied. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103712</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103715</identifier>
+<datestamp>2019-09-27T11:32:49Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efetividade da escola postural em portadores de dor lombar crônica inespecífica</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vieira, Adriane</subfield>
+<subfield code="u">Universidade Federal do Rio Grande do Sul - UFRGS</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Braga, Rafaela de Macedo</subfield>
+<subfield code="u">Universidade Federal do Rio Grande do Sul - UFRGS</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Bartz, Patrícia Thurow</subfield>
+<subfield code="u">Universidade Federal do Rio Grande do Sul - UFRGS</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Candotti, Claudia Tarragô</subfield>
+<subfield code="u">Universidade Federal do Rio Grande do Sul - UFRGS</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Spinal pains affect 70% to 80% of the adult population at some point in life and are considered one of the most common reasons for early retirement for total or partial disability. The treatments’ high cost and the lack of efficiency of conventional therapeutic practices are at the root of the Back School’s creation. Objective: The purpose of this study was to perform a systematic review of literature over the last ten years to verify the effectiveness of the Back School with those who suffer from chronic nonspecific low back pain. Method: The search was conducted in the computerized databases of Medline, Embase, and Lilacs. The search’s criteria for the three databases were randomized articles about the Back School’s effectiveness over the last ten years. The methodological quality of the selected studies in this review was evaluated using a set composed of nine criteria. Overall, five studies were included in this review, four being considered of high quality. Results: Two of the study’s considered articles come from Brazil, demonstrating the interest this country’s researchers have for this approach to chronic nonspecific low back pain. Every study analyzed presented positive results for the effectiveness of the Back School in the short and medium-term. Conclusion: With this research we conclude that the Back School programs have been considered as an important tool, not just in the treatment, but also in the prevention of chronic nonspecific low back pain. However, more studies are needed to assess the referred tool in the long-term and with methodological standardized procedures. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103715</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103716</identifier>
+<datestamp>2019-09-27T11:38:21Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"120909 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Efeitos da oclusão vascular parcial no ganho de força muscular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Gabriela Perpétua Neves da</subfield>
+<subfield code="u">Centro Universitário da Fundação Educacional de Guaxupé - UNIFEG</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Moreira, Valéria Perpétua</subfield>
+<subfield code="u">Centro Universitário da Fundação Educacional de Guaxupé - UNIFEG</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Reis, Amir Curcio dos</subfield>
+<subfield code="u">Universidade Nove de Julho - UNINOVE</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Leite, Saulo Nani</subfield>
+<subfield code="u">Centro Universitário da Fundação Educacional de Guaxupé - UNIFEG</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Lodovichi, Samuel Straceri</subfield>
+<subfield code="u">Centro Universitário da Fundação Educacional de Guaxupé - UNIFEG</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To investigate the effects of low-intensity resistance exercise associated with vascular occlusion in strength and muscle volume. Method: We performed a systematic review in electronic databases: Science Direct, PEDro, and Pubmed, in which were reviewed only randomized clinical trials with a score over 50% according to the PEDro scale. Results: During the survey 440 articles were pre-selected and reviewed, but in the final selection only seven articles met all inclusion criteria and specifications set. Conclusion: We conclude that low-intensity exercise with blood occlusion is an effective alternative in inducing muscle hypertrophy and is seen as a new possibility of targeted muscle training for young people and seniors. However, we need more studies, for there are still points that remain unclear, such as pain and discomfort during training. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-09-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103716</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 3 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103717</identifier>
+<datestamp>2019-11-25T18:50:03Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"121209 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">O impacto de dois diferentes programas de exercício físico na performance física e na fadiga relacionada ao câncer</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Reis, Fabiana</subfield>
+<subfield code="u">São Paulo State Cancer Institute</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cecatto, Rebeca Boltes</subfield>
+<subfield code="u">São Paulo State Cancer Institute</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Brito, Christina May Moran de</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Hoff, Paulo Marcelo Gehm</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Cancer-related fatigue is a common symptom in patients with cancer, which is experienced by 70% to 100% of these patients and brings some impairment of physical and mental performance, hinders their working or carrying out regular daily activities, and hence results in a substantial reduction of the quality of life. Physical exercise has consistently been identified as a central element of rehabilitation for many chronic diseases like cancer, and increasing evidence supports the contention that physical activity is a valuable intervention that can be utilized in conjunction with conventional therapies during CRF treatment. Objective: The aim of this study was to assess the impact of a program of physical exercise on fatigue levels and physical performance of cancer patients. Method: A consecutive series of 44 adult patients with neoplastic disease (solid or hematological), with a medical diagnosis of fatigue, who were enrolled in an oncological treatment, with the ability to walk and willing to enter a rehabilitation program of exercise for at least 4 consecutive months. The exercise program was performed two times per week, each session lasting one hour and consisting of aerobic, resistance, and flexibility exercises. The protocol was divided into aerobic exercise and resistance training combined with aerobic exercise. The patients were evaluated with two assessments: one prior to their beginning the exercise program and other at the end of the four-month program. In both assessments the patients completed the Revised Piper Fatigue Scale and the six-minute walk test. The primary outcome of change over baseline and after 16 weeks in PFS-R score and six-minute walk test were compared using a two sample two-sided t-test for both groups. Alpha level was set at p &lt; 0.05. Results: After 16 weeks, the patients who participated in the aerobic or the combined exercise program reported significantly higher levels of physical functioning (6-minute walking test, p = 0.0009 and p = 0.001, respectively) and significantly lower fatigue (PFS-R, p = 0.003 and p = 0.002, respectively) than at the beginning the exercise program. Conclusion: The results of patients who underwent aerobic or aerobic + anaerobic exercise showed statistically significant improvement of physical performance and of fatigue. Data from this study corroborates with the literature showing that exercise programs with aerobic or resistance exercises are an effective strategy for the treatment of fatigue. The results of this study confirm that physical exercise could be useful in rehabilitation of cancer survivors, especially for fatigued patients. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103717</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 4 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103720</identifier>
+<datestamp>2019-09-26T13:32:17Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"121209 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estimulação elétrica funcional na recuperação do membro superior de hemiparéticos após acidente vascular encefálico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Soares, Antonio Vinicius</subfield>
+<subfield code="u">Núcleo de Pesquisas em Neurorreabilitação</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Poluceno, Leila</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cremonini, Caroline da Rosa</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ponsoni, Priscila Baracho</subfield>
+</datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Domenech, Susana Cristina</subfield>
+<subfield code="u">Centro de Ciências da Saúde e do Esporte</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Borges Júnior, Noé Gomes</subfield>
+<subfield code="u">Centro de Ciências da Saúde e do Esporte</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The rehabilitation of the upper limb of hemiparetic patients by stroke is a major challenge. Among the various therapeutic resources used, functional electrical stimulation (FES) has been a popular avenue explored in treatment programs for these patients. Objective: To evaluate the effects of FES on wrist and finger extensors in a specific task (ST). Methods: We conducted a pre-experimental study (pre and post-tests) with eight chronic patients with a mean age of 63.4 years (± 6.1). The evaluation parameters were for manual mobility by the hand movement scale (EMM), grip strength by dynamometry (Din), dexterity of the upper limb by the box and blocks test (CB) and the 9-pin and holes test (9PB), spasticity by the modified Ashworth scale (MAS), and functional independence by the Barthel index (BI). The ST chosen was performing the movement of reaching and grasping plastic bottles of different sizes with the affected upper limb in different combinations of positions for a total maximum of 54 repetitions per session. FES was used to assist the hand in grabbing and holding the object during the ST. There was a mean of 20 sessions with attendance twice a week. Results: The results showed improvement in all parameters, the difference was statistically significant in all the tests, except for Din. Conclusion: In this sample, FES in the proposed ST resulted in improved performance in the upper limb function of patients undergoing treatment. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103720</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 4 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103721</identifier>
+<datestamp>2019-12-04T22:10:07Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"121209 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Implicações das alterações de cognição social no processo de reabilitação global do paciente vítima de traumatismo crânioencefálico</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cruz, Sheila</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Schewinsky, Sandra Regina</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alves, Vera Lúcia Rodrigues</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Social cognition can be understood as the operation of cognitive processes applied to relationships, modulating the behavioral response of human beings in a social group. Objective: From this perspective, this paper aims to review concepts of social cognition and its changes in victims of traumatic brain injury with lesions in the frontal region and the implications on the subject’s affectivity, as well as the influences on the overall rehabilitation process. The relevance of the study is based on the fact that there is now a growing number of people affected by neurological injuries and who are victims of their implications. Method: For this purpose, the methodology used was a review of the literature that encompassed Brazilian books and articles on the topic published between 1994 and 2011. Results: The discussion aims to contribute to a better understanding of the loss of neurological involvement, which thereby enables more collaboration with the rehabilitation process and a better quality of life for these patients. Conclusion: We concluded that changes of social cognition and affectivity bring several ramifications regarding the development of the rehabilitation program, hence it is relevant in these cases to consider neuropsychological rehabilitation as a process that promotes the re-establishment of social relationships. The role of the psychologist is in helping to build coping strategies for the current condition of people who have suffered this involvement, seeking to provide them a better quality of life. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103721</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 4 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103722</identifier>
+<datestamp>2019-12-04T22:12:41Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"121209 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Correlação entre os testes Pick-Up de Moberg e a estesiometria após reconstrução do nervo mediano</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Marcolino, Alexandre Marcio</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Barbosa, Rafael Inacio</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Souza, Daniela Neto Aguiar de</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rebelo, Rafaela de Barros</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Delgado, Priscila Martins</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mazzer, Nilton</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Elui, Valéria Meirelles Carril</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fonseca, Marisa de Cássia Registro</subfield>
+<subfield code="u">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Functional assessment of sensitivity is essential to analyzing the status, recovery, and effectiveness of the treatment program for patients who have suffered losses due to physical and/or sensory disability after peripheral nerve injuries. Such losses of sensation lead to a significant loss of hand function. Objective: The purpose of the present study was to establish a correlation between functional and sensory threshold tests after a peripheral nerve lesion in the hand. Method: Fourteen men aged 18 to 40 years, who had bruises and cut injuries at the volar region of the wrist resulting in median nerve lesion, were selected for study. All the subjects were at least 1-year post-surgery. An esthesiometer SORRI® and a modified Moberg pick-up test were used. The test was divided into two phases, one with eyes open and the other with eyes closed. Also, the same test was performed by two different examiners. It was a “blinded” test that was performed three times, being repeated by the examiners according to a random sequence kept during the entire evaluation. Mean age and standard deviation were obtained during analysis in which Pearson’s coefficient was calculated and the non-parametric Mann-Whitney test was applied at 5% significance. Results: The mean age was 27.14 years with a standard deviation of 6.43 years, with the lesions being more frequently seen in men aged 21 to 30 years. Also, 64% of the cases involved lesion of the dominant hand. Pearson’s coefficient (r) regarding the correlation between sensory threshold test and Moberg pick-up test ranged from 0.5 to 0.7, which was statistically significant. Confidence intervals and p-values obtained from the Mann-Whitney test showed no statistically significant differences. Conclusion: One can conclude, therefore, that despite lacking standardized measures, the Moberg pick-up test correlated with the functional test. However, further studies are needed to support validation and reliability of the two methods. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103722</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 4 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103723</identifier>
+<datestamp>2019-09-26T14:09:52Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"121209 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A percepção emocional do cuidador familiar frente à técnica do cateterismo intermitente limpo na mielomeningocele</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa, Regina Célia Villa</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Guiotoku, Elizabete Tsubomi Saito</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Kravchychyn, Helena</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rocha, Juliana</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Carmo, Mariana Magalhães do</subfield>
+<subfield code="u">Associação de Assistência à Criança Deficiente</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Castro, Yara Pisanelli Gustavo</subfield>
+</datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> There are many special needs of the urinary tract of a child with myelomeningocele, who requires constant help from a caregiver who is often a family member that can face doubts, fears, and difficulties related to the clean intermittent catheterization that is necessary in these cases. Objective: This study investigates the thoughts and feelings of family-member caregivers regarding their performing this technique on children, and analyzes how the caregiver feels about the possibility of the child carrying out the procedure him/herself later in life. Method: This observational and transversal research uses both qualitative and quantitative approaches. Also, structured interviews were made and recorded in audio with 15 family-member caregivers from a rehabilitation institution located in the city of São Paulo between April and August of 2012. Lexical and content analyses of the open questions was made using the software SPAD-T® version 1.5. Results: The categories found where: the caregiver’s general impression of the catheterization, how long it took to get used to the procedure, the caregiver’s perception of the child’s general impressions, references to the professional’s intervention, the caregiver’s perception of the auto-catheterization, the caregiver’s perception of how capable the child could be (to conduct the procedure him/ herself), and references to the (in)dependence in the caregiver-child relationship. The statistical analysis was made using the software SPSS® 15.0. Conclusion: All caregivers showed negative feelings and thoughts about the catheterization even though some of them mentioned positive points as well. Moreover, most caregivers could not answer clearly whether the child would perform the self-catheterization by itself in the future. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103723</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 4 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/103724</identifier>
+<datestamp>2019-09-26T14:16:43Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"121209 2012                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Práticas de autocuidado para funcionamento intestinal em um grupo de pacientes com trauma raquimedular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Campoy, Laura Terenciani</subfield>
+<subfield code="u">Universidade de São Paulo. Escola de Enfermagem de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rabeh, Soraia Assad Nasbine</subfield>
+<subfield code="u">Universidade de São Paulo. Escola de Enfermagem de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Nogueira, Paula Cristina</subfield>
+<subfield code="u">Universidade de São Paulo. Escola de Enfermagem de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Vianna, Patrícia Carla</subfield>
+<subfield code="u">Rede de Reabilitação Lucy Montoro. Unidade de Ribeirão Preto</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Miyazaki, Margareth Yuri</subfield>
+<subfield code="u">Universidade de São Paulo. Escola de Enfermagem de Ribeirão Preto</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> This was a descriptive and exploratory study. Objective: To characterize individuals with spinal cord injuries (SCI) treated at a rehabilitation center in a tertiary hospital in the interior of São Paulo state, and to identify their self-care practices related to bowel management. Method: After being approved by the Research Ethics Committee and receiving consent from the participants, the data was collected through an interview and by analyzing their medical records. Thirty individuals were interviewed, most of whom were male, single, had a complete secondary education, and a mean age of 35 years. Results: The main cause for the SCI was automobile accident with a prevalence of cervical injuries. The most common self-care practices were nutritional management followed by abdominal massage. Regarding the bowel problems, fecal impaction predominated followed by fecal incontinence. Conclusion: The bowel rehabilitation program should be instituted for individuals with SCI as early as possible to minimize complications. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2012-12-09 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/103724</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 19 n. 4 (2012)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2012 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<resumptionToken expirationDate="2023-08-08T14:50:12Z" completeListSize="935" cursor="425">912e4e9cec77174d94e62f74749b81c5</resumptionToken>
+</ListRecords>
+</OAI-PMH> 

@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:46Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/170145</identifier>
+        <datestamp>2020-12-11T14:16:36Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Hospitalization due to drug poisoning in under-five-year-old children in Minas Gerais/Brazil, 2009 – 2018</dc:title>
+          <dc:title xml:lang="pt-BR">Internações por intoxicações medicamentosas em crianças menores de cinco anos no estado de Minas Gerais/Brasil, 2009 – 2018</dc:title>
+          <dc:creator>Bego, Brendali Sorgon</dc:creator>
+          <dc:creator>Pereira, Mariana Linhares</dc:creator>
+          <dc:creator>Nogueira, Leilismara Sousa</dc:creator>
+          <dc:subject xml:lang="en-US">Infant</dc:subject>
+          <dc:subject xml:lang="en-US">Preschool</dc:subject>
+          <dc:subject xml:lang="en-US">Hospitalization</dc:subject>
+          <dc:subject xml:lang="en-US">Poisoning</dc:subject>
+          <dc:subject xml:lang="en-US">Pharmaceutical Preparations</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lactente</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pré-escolar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hospitalização</dc:subject>
+          <dc:subject xml:lang="pt-BR">Envenenamento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Preparações Farmacêuticas</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: descrever as internações hospitalares no estado de Minas Gerais devido às intoxicações medicamentosas, em crianças menores de cinco anos de idade, entre os anos de 2009 e 2018. Métodos: estudo descritivo-analítico de levantamento, com dados do Sistema de Internações Hospitalares do Sistema Único de Saúde (SIH/SUS); os diagnósticos foram extraídos conforme a 10ª Revisão da Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde (CID-10); os medicamentos envolvidos foram categorizados em classes terapêuticas segundo a Anatomical Therapeutic Chemical (ATC) e os dados obtidos foram analisados por estatística descritiva. Resultados: foram identificadas 1.888 internações com 2358 diagnósticos de intoxicações e três óbitos; as classes terapêuticas mais frequentes foram fármacos não especificados (47,54%), antiepilépticos/sedativo-hipnóticos/antiparkinsonianos (14,72%); fármacos psicotrópicos (6,62%); antibióticos sistêmicos (4,88%); e analgésicos/antitérmicos não opiáceos (4,75%). Conclusão: dentre as classes terapêuticas identificadas, os medicamentos que atuam no Sistema Nervoso Central foram os principais agentes causadores de intoxicação medicamentosa. No entanto, mais estudos são necessários para a análise das internações de todo o estado, uma vez que o SIH/SUS apenas contempla as internações subsidiadas pelo SUS.</dc:description>
+          <dc:description xml:lang="en-US">Objective: Describe hospital admissions in the state of Minas Gerais due to drug intoxications in children under five years old between 2009 and 2018. Methods: descriptive-analytical survey study, with data from the National Hospital Information System (SIH/SUS); the drugs involved were categorized into therapeutic classes (ATC), and the data obtained were analyzed by descriptive statistics. Results: 1,888 hospitalizations were identified with 2,358 diagnoses of poisoning and three deaths; the most common therapeutic classes were unspecified drugs (47.54%); antiepileptic/sedative-hypnotics/antiparkinson drugs (14.72%); psychotropic drugs (6.62%); systemic antibiotics (4.88%); and non-opioid analgesics/antipyretics (4.75%). Conclusion: among the defined therapeutic classes, drugs that act in the Central Nervous System were the main agents causing drug intoxication. However, more studies are needed to analyze hospitalizations across the state since SIH/SUS only contemplates hospitalizations subsidized by SUS.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/170145</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i4p370-378</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 4 (2020); 370-378</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 4 (2020); 370-378</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 4 (2020); 370-378</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/170145/166386</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Brendali Sorgon Bego, Mariana Linhares Pereira, Leilismara Sousa Nogueira</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/170331</identifier>
+        <datestamp>2020-10-27T16:24:52Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Caso clínico: tromboembolismo pulmonar secundário em um paciente com COVID-19</dc:title>
+          <dc:title xml:lang="en-US">Clinical case: secondary pulmonary embolism in a patient with COVID-19</dc:title>
+          <dc:creator>Cicilini, André Luiz</dc:creator>
+          <dc:creator>Oliveira, Alana Ferreira de</dc:creator>
+          <dc:creator>Hidalgo Filho, Cássio Murilo Trovo</dc:creator>
+          <dc:creator>Salles, Renata Freitas Nogueira</dc:creator>
+          <dc:creator>Fróes, Michele Higa</dc:creator>
+          <dc:creator>Eduardo, Jamilton de Medeiros</dc:creator>
+          <dc:subject xml:lang="pt-BR">COVID-19</dc:subject>
+          <dc:subject xml:lang="pt-BR">SARS-CoV-2</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tromboembolismo Pulmonar</dc:subject>
+          <dc:subject xml:lang="en-US">COVID-19</dc:subject>
+          <dc:subject xml:lang="en-US">SARS-CoV-2</dc:subject>
+          <dc:subject xml:lang="en-US">Pulmonary thromboembolism</dc:subject>
+          <dc:description xml:lang="pt-BR">A COVID-19 é a doença infecciosa cujo agente etiológico é um betacoronavirus, o SARS-CoV-2. Sua emergência se deu em uma província chinesa em dezembro de 2019, tornando-se uma pandemia que desafia a saúde pública global.&amp;nbsp; Habitualmente, apresenta-se como uma síndrome gripal, com possibilidade de evolução para síndrome respiratória aguda grave. Além disso, pode provocar alterações na coagulação e resposta inflamatória do indivíduo, levando a complicações tromboembólicas. Este artigo relata o caso de um paciente de 58 anos, diagnosticado com COVID-19, que seguia em isolamento domiciliar e, evoluiu com dispneia e hemoptise no quarto dia de doença. O diagnóstico do tromboembolismo pulmonar (TEP) foi confirmado através de tomografia contrastada de tórax. O paciente foi internado para tratamento clínico, necessitando de acompanhamento em Unidade de Terapia Intensiva (UTI) entre o terceiro e quinto dia de internação. Após alta da UTI, o paciente evoluiu sem demais intercorrências, recebendo alta no décimo dia de internação hospitalar.</dc:description>
+          <dc:description xml:lang="en-US">The Coronavirus disease 2019 (COVID-19) whose etiologic agent is a betacoronavirus, SARS-CoV-2. Emerged in a chinese province in December of&amp;nbsp; 2019, becoming a pandemic that challenges global public health. It usually presents as a flu-like syndrome, with the possibility of progressing to severe acute respiratory syndrome. In addition, it can lead to cytokine storm syndrome that results in hyperinflammation, exacerbates immune response and may generate changes in the individual's coagulation, causing thromboembolic complications. This article reports the case of a 58-year-old patient diagnosed with COVID-19, who was still in-home isolation and developed dyspnea and hemoptysis on the fourth day of illness. The diagnosis of pulmonary thromboembolism (PTE) was confirmed by contrast-enhanced pulmonary artery tomography. The patient was admitted for clinical treatment, requiring follow-up in the Intensive Care Unit (ICU) between the third and fifth day of hospitalization. After discharge from the ICU, the patient evolved without further complications, being discharged on the tenth day of hospitalization.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-10-14</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/170331</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i3p313-320</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 3 (2020); 313-320</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 3 (2020); 313-320</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 3 (2020); 313-320</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/170331/163818</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 André Luiz Cicilini, Alana Ferreira de Oliveira, Cássio Murilo Trovo Hidalgo Filho, Renata Freitas Nogueira Salles, Michele Higa Fróes, Jamilton de Medeiros Eduardo</dc:rights>
+          <dc:rights xml:lang="pt-BR">http://creativecommons.org/licenses/by/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/170517</identifier>
+        <datestamp>2021-12-20T14:17:30Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Utilização da cirurgia de mohs no tratamento de neoplasias Malignas não melanocíticas da pele</dc:title>
+          <dc:title xml:lang="en-US">Mohs micrographic surgery in the treatment of non-melanocytic skin neoplasms</dc:title>
+          <dc:creator>Brito, João Augusto Gomes de Souza Monteiro de</dc:creator>
+          <dc:creator>Lopes, Lucas da Silva</dc:creator>
+          <dc:creator>Rodrigues, Ana Luísa Gross</dc:creator>
+          <dc:creator>Brito, Caio Vinicius Botelho</dc:creator>
+          <dc:subject xml:lang="en-US">Mohs surgery</dc:subject>
+          <dc:subject xml:lang="en-US">Skin neoplasms</dc:subject>
+          <dc:subject xml:lang="en-US">Systematic review</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cirurgia de MOHS</dc:subject>
+          <dc:subject xml:lang="pt-BR">Câncer de pele</dc:subject>
+          <dc:subject xml:lang="pt-BR">Revisão Sistemática</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Averiguar a efetividade da utilização da cirurgia de MOHS no manejo de tumores cutâneos tipo não melanoma em comparação a outros métodos de terapia. Métodos: O estudo consiste em uma revisão sistemática, cuja coleta de artigos ocorreu nas bases de dados MEDLINE, PubMed Central (PMC), LILACS e SciELO, utilizando os termos “Cirurgia de MOHS”, “Câncer de pele”, “Ensaio clínico”, excluindo “melanoma”. Resultados: Do total de 132 artigos identificados, foram considerados elegíveis 11. A análise dos artigos demonstrou que a CMM, comparada a outros métodos, apresentou resultados estéticos melhores, além de menor grau de complicações em tumores recorrentes e um custo/benefício variável com o país onde foi feita operação. A CMM também apresentou menores índices de recorrência em todos os estudos. Conclusão: No geral, a cirurgia de MOHS se mostrou um método terapêutico promissor. No entanto, existem ainda poucos estudos comparativos sobre a eficácia da CMM e os que existem se concentram em poucas regiões do mundo.</dc:description>
+          <dc:description xml:lang="en-US">Objective: Evaluating the effectiveness of using MOHS surgery in the management of non-melanoma skin tumors compared to other therapy methods. Methods: The study consists of a systematic review, whose search for articles was performed using databases MEDLINE, PubMed Central (PMC), LILACS and SciELO, using the terms “MOHS surgery”, “Skin cancer”, “Clinical trial”, excluding “melanoma”. Results: from a total of 132 identified articles, 11 were considered eligible. The analysis of the articles showed that MMS, compared to other methods, presented better cosmetic results, in addition to a lower grade of complications in recurrent tumors and a variable cost/benefit according to the country where the surgery was performed. MMS also had lower recurrence rates in all studies. Conclusion: Overall, MOHS surgery has shown promising therapeutic results. However, there are still few comparative studies on the effectiveness of MMS and those that exist are concentrated in a few regions of the world.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/170517</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.170517</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 3 (2021); e-170517</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 3 (2021); e-170517</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 3 (2021); e-170517</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/170517/178532</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/170517/178531</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 João Augusto Gomes de Souza Monteiro de Brito, Lucas da Silva Lopes, Ana Luísa Gross Rodrigues, Caio Vinicius Botelho Brito</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/170618</identifier>
+        <datestamp>2021-10-01T15:14:39Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Influence of sodium intake and sociodemographic, lifestyle and anthropometric variables on blood cholesterol of hypertensive women</dc:title>
+          <dc:title xml:lang="pt-BR">Influência da ingestão de sódio e de variáveis sociodemográficas, de estilo de vida e antropométricas no colesterol sérico de mulheres hipertensas</dc:title>
+          <dc:creator>Padilha, Bruna Merten</dc:creator>
+          <dc:creator>Vasconcelos, Sandra Mary Lima</dc:creator>
+          <dc:creator>Cabral, Poliana Coelho</dc:creator>
+          <dc:creator>Wanderley, Thiago Marques</dc:creator>
+          <dc:creator>Gomes, Amanda da Silva</dc:creator>
+          <dc:creator>Gaia, Joice Alves</dc:creator>
+          <dc:creator>Rodrigues, Letícia Andrade</dc:creator>
+          <dc:subject xml:lang="pt-BR">Idade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Antropometria</dc:subject>
+          <dc:subject xml:lang="pt-BR">Colesterol</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipertensão</dc:subject>
+          <dc:subject xml:lang="pt-BR">Obesidade</dc:subject>
+          <dc:subject xml:lang="en-US">Age</dc:subject>
+          <dc:subject xml:lang="en-US">Anthropometry</dc:subject>
+          <dc:subject xml:lang="en-US">Cholesterol</dc:subject>
+          <dc:subject xml:lang="en-US">Hypertension</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity</dc:subject>
+          <dc:description xml:lang="en-US">The restriction of sodium intake, one of the pillars of antihypertensive treatment, has been associated with the increase in cholesterol levels. Given this, we hypothesize that a sodium intake restriction may increase cholesterol levels in hypertensive women. The present study aimed to evaluate the influence of sodium intake, sociodemographic, lifestyle and anthropometric variables on the blood cholesterol levels of hypertensive women. This was a cross-sectional study with hypertensive and nondiabetic women aged 20 to 59 years, recruited from the primary healthcare units of Maceio, Alagoas, in the Brazilian Northeast. Sodium intake was estimated by the 24-hour urinary excretion of sodium; and blood cholesterol was estimated by capillary blood. Age (years), education level (&amp;lt;4 or ≥4 years), race (white or nonwhite), smoking and alcohol consumption were evaluated. The weight, height and waist circumference were measured and body mass index, conicity index and waist-to-height ratio were quantified. The percentage of body fat was measured using a tetrapolar bioelectrical impedance device. The relationship between blood cholesterol and other variables was assessed by multiple regression analysis. A significance level of 5% was used in the final model. This study included 165 hypertensive women. In linear regression, blood cholesterol wasdirectly proportional to age (p&amp;lt;0.001), education level (p=0.01) and race (p=0.04). These variables, as well assodium intake (p = 0.07) and conicity index (p = 0.12), were included in the multiple regression analysis. Sodium intake (p=0.03) and age (p=0.001) were related, in an inverse and a direct way, respectively, to the blood cholesterol in the hypertensive women studied.</dc:description>
+          <dc:description xml:lang="pt-BR">A restrição da ingestão de sódio, um dos pilares do tratamento anti-hipertensivo, tem sido associada ao aumento dos níveis de colesterol. Diante disso, levantou-se a hipótese de que a ingestão de sódio influencia os níveis de colesterol de mulheres hipertensas, independentemente de outros fatores associados. Trata-se de um estudo transversal realizado com mulheres hipertensas e não diabéticas, na faixa etária entre 20 e 59 anos, recrutadas em unidades básicas de saúde de Maceió, Alagoas, situada no Nordeste do Brasil. A ingestão de sódio foi estimada pela excreção urinária de sódio de 24 horas; e o colesterol sérico foi mensurado por coleta de sangue capilar. Foram avaliados idade (anos), escolaridade (&amp;lt;4 ou ≥4 anos), raça (branca ou não branca), tabagismo e consumo de álcool. O peso, a estatura e a circunferência da cintura foram aferidos e o índice de massa corporal, índice de conicidade e razão cintura/estatura foram calculados. A porcentagem de gordura corporal foi medida usando um dispositivo de impedância bioelétrica tetrapolar. A relação entre o colesterol sérico e as outras variáveis em estudo foi avaliada por meio de análise de regressão múltipla, adotando-se um nível de significância de 5% no modelo final. Este estudo incluiu 165 mulheres hipertensas. Na análise de regressão linear, o colesterol sérico foi relacionado à idade (p&amp;lt;0,001), escolaridade (p=0,01) e raça (p=0,04). Essas variáveis, assim como o consumo de sódio (p=0,07) e o índice de conicidade (p=0,12), foram incluídas na análise de regressão múltipla. As variáveis que permaneceram no modelo final foram ingestão de sódio (p=0,03) e idade (p=0,001). A ingestão de sódio e a idade foram as variáveis que influenciaram o colesterol sérico de mulheres hipertensas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-10-01</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/170618</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.170618</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 2 (2021); e-170618</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 2 (2021); e-170618</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 2 (2021); e-170618</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/170618/176160</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Bruna Merten Padilha, Sandra Mary Lima Vasconcelos, Poliana Coelho Cabral, Thiago Marques Wanderley, Amanda da Silva Gomes, Joice Alves Gaia, Letícia Andrade Rodrigues</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/170875</identifier>
+        <datestamp>2020-10-27T16:24:52Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Aspectos clínico-epidemiológicos dos acidentes botrópicos notificados em um hospital de referência de Alagoas</dc:title>
+          <dc:title xml:lang="en-US">Clinical-epidemiological aspects of bothropic accidents notified in an Alagoas reference hospital</dc:title>
+          <dc:creator>Batista, Luís Antonio Xavier</dc:creator>
+          <dc:creator>Tenório, Danielle de Paula Queiroz</dc:creator>
+          <dc:creator>Pacheco, Luciana Maria de Medeiros</dc:creator>
+          <dc:subject xml:lang="pt-BR">Mordeduras de Serpente</dc:subject>
+          <dc:subject xml:lang="pt-BR">Animais Venenosos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde Pública</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:subject xml:lang="en-US">Snake Bites</dc:subject>
+          <dc:subject xml:lang="en-US">Poisonous Animals</dc:subject>
+          <dc:subject xml:lang="en-US">Public Health</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:description xml:lang="pt-BR">Os acidentes ofídicos configuram um sério transtorno à saúde pública dos países tropicais, em razão da frequência com a qual se apresentam e da magnitude da morbimortalidade que acarretam. No Brasil, observa-se uma prevalência anual entre 19 e 22 mil desses acidentes, e, dentre os casos em que se há notificação da espécie, o gênero Bothrops é responsável&amp;nbsp;por 80,50% dos casos. Objetivo: Descrever os aspectos clínico-epidemiológicos dos acidentes botrópicos notificados em um hospital de referência no estado de Alagoas. Métodos: Estudo observacional, descritivo do tipo transversal e retrospectivo, dos registros clínicos de pacientes internados no Hospital Escola Dr. Hélvio Auto, por acidentes botrópicos de 2010 a 2018. Resultados: A partir da investigação de 694 prontuários médicos, constatou-se a maior prevalência de acidentes no ano 2017. O perfil epidemiológico foi composto por indivíduos de sexo masculino, adultos, de etnia parda, de baixo nível de escolaridade, trabalhadores rurais, e caracterizado por ocorrer majoritariamente na mesorregião Leste Alagoano. Por sua vez, o perfil clínico caracterizou-se por apresentar como região anatômica mais acometida os membros inferiores, manifestações de dor e edema, gravidade leve a moderado e desfecho evolutivo satisfatório. Conclusões: A investigação realizada permitiu traçar o perfil clínico-epidemiológico dos acidentes botrópicos no estado de Alagoas, bem como identificou que o grupo social composto por trabalhadores rurais apresentou certa dificuldade de acesso ao atendimento hospitalar adequado em tempo hábil, o que determinou a incidência de casos de maior gravidade nessa população.</dc:description>
+          <dc:description xml:lang="en-US">Ophidic accidents constitute serious public health in tropical countries, due to the frequency that these events occur and their relevant magnitude of morbidity and mortality. In Brazil, there is an annual prevalence between 19.000 and 22.000 of these accidents, and among the cases that notify the species, it is possible to verify that the Bothrops genus is responsible for 80.50% of the cases. Objective: Describing the clinical and epidemiological aspects of bothropic accidents reported in a reference hospital in the state of Alagoas. Methods: Observational, descriptive cross-sectional, and retrospective study of the clinical records of patients admitted into the Escola Dr. Hélvio Auto Hospital for bothropic accidents from 2010 to 2018. Results: It shows that the year of 2017 was the most prevalent year of cases, through the investigation of 694 medical records. The epidemiological profile has been composed of male, adult, brown individuals, low education, rural workers, and characterized by occurring mostly in the Eastern Alagoas. Therefore, the clinical profile was characterized by the occurrence of the most affected anatomic region as lower limbs, manifestations of pain and edema, mild to moderate severity, and satisfactory clinical outcome. Conclusions: The investigation allowed to trace the clinical and epidemiological profile of bothropic accidents in the state of Alagoas, and also identify the social group composed of rural workers as the one with some demanding to access the hospital care accurately, and who was the population with the incidence of the highest severity.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-10-14</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/170875</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i3p260-267</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 3 (2020); 260-267</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 3 (2020); 260-267</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 3 (2020); 260-267</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/170875/163777</dc:relation>
+          <dc:rights xml:lang="pt-BR">http://creativecommons.org/licenses/by/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/171022</identifier>
+        <datestamp>2020-09-06T17:45:05Z</datestamp>
+        <setSpec>rmrp:PV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Two million COVID-19 cases in Brazil</dc:title>
+          <dc:title xml:lang="pt-BR">Dois milhões de casos da COVID-19 no Brasil</dc:title>
+          <dc:creator>Santos Júnior, Claudio José dos</dc:creator>
+          <dc:creator>Rocha, Thiago José Matos</dc:creator>
+          <dc:subject xml:lang="pt-BR">COVID-19</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença do novo coronavírus 2019</dc:subject>
+          <dc:subject xml:lang="pt-BR">2019-nCoV</dc:subject>
+          <dc:subject xml:lang="pt-BR">Coronavírus</dc:subject>
+          <dc:subject xml:lang="pt-BR">SARS-CoV-2</dc:subject>
+          <dc:subject xml:lang="en-US">COVID-19</dc:subject>
+          <dc:subject xml:lang="en-US">2019 novel coronavirus</dc:subject>
+          <dc:subject xml:lang="en-US">2019-nCoV</dc:subject>
+          <dc:subject xml:lang="en-US">Coronavirus</dc:subject>
+          <dc:subject xml:lang="en-US">SARS-CoV-2</dc:subject>
+          <dc:description xml:lang="en-US">On March 11, 2020, the World Health Organization (WHO) officially declared the 2019 coronavirus disease (COVID-19), an acute respiratory disease caused by a new coronavirus (SARS-CoV-2, previously known such as 2019-nCoV), as a pandemic. COVID-19 has spread across China and received worldwide attention. Here, we draw attention to the impact of the historical mark of 2 million cases confirmed by COVID-19 in Brazil and to the fact that, in absolute numbers, Brazil is the second in the world with more deaths from COVID-19. We discuss the fact that, in a moment in which Brazil seems to become the new epicenter of the COVID-19 pandemic, it has been implemented strategies for relaxing social distancing and social isolation.</dc:description>
+          <dc:description xml:lang="pt-BR">Em 11 de março de 2020, a Organização Mundial da Saúde (OMS) declarou oficialmente a pandemia da doença coronavírus 2019 (COVID-19), uma doença respiratória aguda, causada por um novo coronavírus (SARS-CoV-2, anteriormente conhecido como 2019-nCoV). A COVID-19 se espalhou por toda a China e recebeu atenção mundial. Este trabalho chama atenção para o impacto da marca histórica de 2 milhões de casos confirmados da COVID-19 no Brasil e para o fato de o país ser o segundo do mundo com mais mortes pela doença em números absolutos. Destacamos que o afrouxamento das estratégias de isolamento social e domiciliar surgem no Brasil justamente no período em que se revela a expectativa de o país virar o novo epicentro da pandemia.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-08-07</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/171022</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i2p201-203</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 2 (2020); 201-203</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 2 (2020); 201-203</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 2 (2020); 201-203</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171022/162593</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Claudio José dos Santos Júnior, Thiago José Matos Rocha</dc:rights>
+          <dc:rights xml:lang="pt-BR">http://creativecommons.org/licenses/by/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/171077</identifier>
+        <datestamp>2020-12-11T14:16:36Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Pensar, gostar e considerar importante a prática de atividade física aumentam as chances de ser ativo no lazer?</dc:title>
+          <dc:title xml:lang="en-US">Do thinking, enjoying, and considering important the practice of physical activity increase the chances of being active at leisure?</dc:title>
+          <dc:creator>Oliveira, Elaynne Silva de</dc:creator>
+          <dc:creator>Costa, Claudia Vanisse de Brito</dc:creator>
+          <dc:creator>Souza, Sergio Augusto Rosa de</dc:creator>
+          <dc:creator>Carvalho, Wellington Roberto Gomes de</dc:creator>
+          <dc:creator>Salvador, Emanuel Péricles</dc:creator>
+          <dc:subject xml:lang="en-US">Physical Activity</dc:subject>
+          <dc:subject xml:lang="en-US">Health</dc:subject>
+          <dc:subject xml:lang="en-US">Universities</dc:subject>
+          <dc:subject xml:lang="en-US">Students</dc:subject>
+          <dc:subject xml:lang="en-US">Professor, University</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exercício Físico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Universidades</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudantes</dc:subject>
+          <dc:subject xml:lang="pt-BR">Docentes</dc:subject>
+          <dc:description xml:lang="pt-BR">Embora reconhecida como comportamento de extrema importância na saúde da população, a prática de atividade física regular ainda é um grande desafio. Objetivo: verificar o nível de atividade física no lazer e possíveis fatores correlatados em uma comunidade acadêmica do nordeste brasileiro. Metodologia: trata-se de um estudo transversal, constituído por discentes, docentes e técnicos administrativos, utilizou-se como instrumento “Mapa de Atividade Física e Saúde-MAFIS”, realizou-se estatística descritiva, teste de Qui quadrado, com posterior montagem do modelo de regressão logística. Resultados: 52,1% atingiram as recomendações de atividade física (AF), os homens apresentam 65,3% (OR: 1,65; IC95%: 1,29-2,11) mais chance de serem ativos, quem gosta de AF tem duas (OR: 2,02; IC95%: 0,82-4,96) a 4,8 (OR: 4,84; IC95%: 1,99-11,8) vezes mais chance de praticar AF, achar importante fazer AF (OR: 2,23; IC95%: 0,48-10,4) e menos dias sentado aumenta de 48,3% (OR: 1,48; IC95%: 1,032- 2,130) a 53,3% (OR: 1,53; IC95%: 1,09-2,13) a chance de fazer AF e quem pensa em fazer AF (OR: 0,362; IC: 0,203-0,645) tem menos chance de ser ativo. Conclusão: Gostar, considerar importante e menos dias sentados aumentam as chances de fazer atividade física, já pensar sempre em fazer, diminui a chance de ser ativo no lazer.</dc:description>
+          <dc:description xml:lang="en-US">Although recognized as extremely important behavior in the health of the population, the practice of a regular physical activity is still a major challenge. Aim: verifying the level of leisure-time physical activity and possible correlated factors in an academic community in northeastern Brazil. Materials and methods: this is a cross-sectional study, consisting of students, professors, and administrative technicians. The instrument "Map of Physical Activity and Health-MAFIS" was used, as well as descriptive statistics, Chi-square test, with the subsequent assembly of the logistic regression model. Results: 52.1% reached the recommendations for physical activity (PA), men were 65.3% (OR: 1.65; 95% CI: 1.29 - 2.11) more likely to be active, those who like PA were two (OR: 2.02; 95% CI: 0.82- 4.96) to 4.8 (OR: 4.84; 95% CI: 1.99-11.8) times more likely to practice PA, finding it important to do AF (OR: 2.23; 95% CI: 0.48-10.4) and spending fewer days sitting increased by 48.3% (OR: 1.48; 95% CI: 1,032 - 2,130) to 53.3% (OR: 1 , 53; 95% CI: 1.09 - 2.13) the chance of doing PA and those who think about doing PA (OR: 0.362; CI: 0.203 - 0.645) are less likely to be active. Conclusion: Enjoying, considering important, and spending fewer days sitting increase the chances of doing physical activity, on the other hand, just thinking about doing it decreases the chances of being active at leisure.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/171077</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i4p430-437</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 4 (2020); 430-437</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 4 (2020); 430-437</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 4 (2020); 430-437</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171077/166393</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Elaynne Silva de Oliveira, Claudia Vanisse de Brito Costa, Sergio Augusto Rosa de Souza, Wellington Roberto Gomes de Carvalho, Emanuel Péricles Salvador</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/171312</identifier>
+        <datestamp>2020-12-11T14:16:36Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="es-ES">La tendencia temporal de la lepra en una región de salud de Ceará, 2001 a 2015</dc:title>
+          <dc:title xml:lang="pt-BR">Tendência temporal da hanseníase em uma região de saúde do Ceará, 2001 a 2015</dc:title>
+          <dc:title xml:lang="en-US">Temporal trend in leprosy in a health region of Ceará, 2001 to 2015</dc:title>
+          <dc:creator>Feitosa, Amanda Luiza Marinho</dc:creator>
+          <dc:creator>Dourado Júnior, Francisco Wellington</dc:creator>
+          <dc:creator>Florêncio, Caroline Mary Gurgel Dias</dc:creator>
+          <dc:subject xml:lang="en-US">Leprosy</dc:subject>
+          <dc:subject xml:lang="en-US">Disease Notification</dc:subject>
+          <dc:subject xml:lang="en-US">Endemic Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Neglected Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Time-series Studies</dc:subject>
+          <dc:subject xml:lang="es-ES">Lepra</dc:subject>
+          <dc:subject xml:lang="es-ES">Notificación de Enfermedades</dc:subject>
+          <dc:subject xml:lang="es-ES">Enfermedades Endémicas</dc:subject>
+          <dc:subject xml:lang="es-ES">Enfermedades Desatendidas</dc:subject>
+          <dc:subject xml:lang="es-ES">Estudios de Series Temporales</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hanseníase</dc:subject>
+          <dc:subject xml:lang="pt-BR">Notificação de Doenças</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Endêmicas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Negligenciadas</dc:subject>
+          <dc:subject xml:lang="pt-BR">Estudos de Séries Temporais</dc:subject>
+          <dc:description xml:lang="en-US">Objective: Describing the temporal trend of leprosy and its epidemiological indicators in a health region in the state of Ceará, from 2001 to 2015. Methods: Ecological study based on the indicators monitored using the Information System of Notifiable Diseases&#160;. Data were analyzed using the inflection point regression model (Joinpoint). Results: Of the 1,151 cases reported in the period, there was a reduction in the general detection coefficient and children under 15 years old. For proportions of cases with grade 2 physical disability, a significant increase (APC = 9.04; 95% CI 1.0–17.8) was observed, as well as in multibacillary cases (APC = 2.89; 95% CI 0.3-5.5). Conclusion: There is an increase in the number of multibacillary cases and with grade 2 of physical disability, making it necessary to strengthen the measures of surveillance and disease control in the region.</dc:description>
+          <dc:description xml:lang="es-ES">Objetivo: Describir una tendencia temporal de la lepra y sus indicadores epidemiológicos en una región de salud en el estado de Ceará, de 2001 a 2015. Métodos: Estudio ecológico basado en los indicadores monitoreados utilizando el Sistema de información de registro de notificaciones. Se utilizó el modelo de regresión del punto de inflexión (Joinpoint). Resultados: De los 1,151 casos reportados en el período, hubo una tendencia a la baja en el coeficiente de detección general y en niños menores de 15 años. Para la proporción de casos grado 2 de discapacidad física, la tendencia fue a un aumento significativo (APC = 9.04; IC del 95%: 1.0-17.8), así como en casos multibacilares (APC = 2.89; IC del 95%: 0.3-5) Conclusión: se concluye que existe una tendencia a aumentar el número de casos multibacilares y con un grado 2 de discapacidad física, por lo que es necesario fortalecer las medidas de vigilancia de la enfermedad en la región. Palabras claves: Lepra; Notificación de Enfermedades; Enfermedades Endémicas; Enfermedades Desatendidas; Estudios de Series Temporales.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Descrever a tendência temporal da hanseníase e seus indicadores epidemiológicos em uma região de saúde do estado do Ceará, no período de 2001 a 2015. Métodos: Estudo ecológico de base temporal, realizado a partir de dados obtidos pelo Sistema Nacional de Agravos de Notificação (SINAN), referentes aos casos novos de hanseníase registrados durante o período de 2001 a 2015. Os dados foram analisados a partir do modelo de regressão por pontos de inflexão (Joinpoint). Resultados: Dos 1.151 casos notificados no período, verificou-se redução do coeficiente de detecção geral e em menores de 15 anos. Em relação à proporção de casos com grau 2 de incapacidade física, identificou-se uma tendência de aumento significativo (APC = 9,04; IC95% 1,0–17,8), assim como nos casos multibacilares (APC = 2,89; IC95% 0,3-5,5). Conclusão: Concluiu-se que há aumento no número de casos multibacilares e com grau 2 de incapacidade física, tornando-se necessário o fortalecimento das medidas de vigilância e controle da doença na região.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/171312</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i4p438-446</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 4 (2020); 438-446</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 4 (2020); 438-446</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 4 (2020); 438-446</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171312/166394</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Amanda Luiza Marinho Feitosa, Francisco Wellington Dourado Júnior, Caroline Mary Gurgel Dias Florêncio</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/171413</identifier>
+        <datestamp>2021-07-15T18:40:40Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Evolução da obesidade e doenças crônicas não transmissíveis nas populações das capitais do Brasil entre 2006 e 2018</dc:title>
+          <dc:title xml:lang="en-US">Evolution of obesity and noncommunicable diseases in populations in the capitals of Brazil between 2006 and 2018</dc:title>
+          <dc:creator>Abbade, Eduardo Botti</dc:creator>
+          <dc:subject xml:lang="pt-BR">Obesidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças não transmissíveis</dc:subject>
+          <dc:subject xml:lang="pt-BR">Diabetes</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças cardiovasculares</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde pública</dc:subject>
+          <dc:subject xml:lang="en-US">Obesity</dc:subject>
+          <dc:subject xml:lang="en-US">Noncommunicable diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Diabetes</dc:subject>
+          <dc:subject xml:lang="en-US">Cardiovascular diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Public health</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo descritivo transversal. Objetivo: O objetivo deste estudo foi analisar a evolução da prevalência de sobrepeso, obesidade e doenças crônicas não transmissíveis (DCNT), e sua relação com idade e anos de estudo, nas capitais brasileiras. Método: Foram analisados dados oriundos da Pesquisa VIGITEL prioritariamente de 2006 e 2018 referentes à 12 variáveis, através de procedimentos estatísticos descritivos, análises de frequência e diagramas de dispersão com inserção das curvas de tendência e coeficientes de determinação. Resultados: Os resultados evidenciam um aumento expressivo do IMC médio e das prevalências DCNT nas populações das capitais do Brasil, embora a autopercepção do estado geral de saúde apresente alteração inexpressiva. O IMC médio da população é maior na faixa etária entre 45 e 65 anos, e as prevalências de diabetes, pressão alta e dislipidemia apresentam um crescimento acentuado partir dos 40 anos, atingindo o ápice na faixa etária entre 70 e 80 anos. Quanto mais anos de estudos possui a população, menor são as prevalências de obesidade e DCNT. Conclusão: Iniciativas, tanto públicas como privadas, de redução dos fatores de risco que potencializam o aumento da obesidade e de DCNT são necessárias. Ademais, o aumento do nível educacional de uma população tem potencial de promover melhoria significativa no quadro de saúde pública, reduzindo os gastos em saúde e melhorando a qualidade de vida populacional.</dc:description>
+          <dc:description xml:lang="en-US">Study design: Cross-sectional descriptive study. Objective: This study aimed to analyze the evolution of the prevalence of overweight, obesity, and noncommunicable diseases (NCD), and their relationship with age and studying years, in Brazilian capitals. Method: Data from the VIGITEL Surveys, primarily for 2006 and 2018, were analyzed for 12 variables, using descriptive statistical procedures, frequency analysis, and dispersion diagrams with insertion of trend curves and determination coefficients. Results: The results show a significant increase in the average BMI and the prevalence of NCD in the populations of the capitals in Brazil, although the self-perception of the general state of health presents an inexpressive change. The average BMI of the population is higher in the age group between 45 and 65 years old, and the prevalence of diabetes, high blood pressure, and dyslipidemia has increased sharply since the age of 40, reaching its peak in the age group between 70 and 80 years. The more years of studies the population has, the lower the prevalence of obesity and NCD. Conclusions: Initiatives, both public and private, to reduce the risk factors that enhance the increase in obesity and NCD are necessary. Furthermore, the increase in the educational level of a population has the potential to promote significant improvement in the public health situation, reducing health expenditures and improving the quality of life of the population. &#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-08-02</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/171413</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.171413</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 1 (2021); e171413</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 1 (2021); e171413</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 1 (2021); e171413</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171413/174718</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171413/174719</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Eduardo Botti Abbade</dc:rights>
+          <dc:rights xml:lang="pt-BR">http://creativecommons.org/licenses/by/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header status="deleted">
+        <identifier>oai:revistas.usp.br:article/171620</identifier>
+        <datestamp>2021-07-12T11:35:22Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/171620</identifier>
+        <datestamp>2021-07-15T18:40:40Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Cobertura do exame citopatológico de colo uterino em mulheres em um município do Sul do Brasil: prevalência e fatores associados</dc:title>
+          <dc:title xml:lang="en-US">Coverage of cervical cytopathological examination among women from Southern Brazil: prevalence rates and associated factors</dc:title>
+          <dc:creator>Dumith, Samuel Carvalho</dc:creator>
+          <dc:creator>Hackenhaar, Arnildo Agostinho</dc:creator>
+          <dc:creator>Meneghini, Kevin Francisco Durigon</dc:creator>
+          <dc:subject xml:lang="en-US">Papanicolaou Test</dc:subject>
+          <dc:subject xml:lang="en-US">Mass Screening</dc:subject>
+          <dc:subject xml:lang="en-US">Women’s Health</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="en-US">Secondary Prevention</dc:subject>
+          <dc:subject xml:lang="pt-BR">Teste de Papanicolau</dc:subject>
+          <dc:subject xml:lang="pt-BR">Programas de Rastreamento</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde da Mulher</dc:subject>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Prevenção Secundária</dc:subject>
+          <dc:description xml:lang="pt-BR">Objetivo: Investigou-se a cobertura de exame citopatológico de colo uterino e fatores associados em mulheres entre 25 e 64 anos em município do sul do Brasil. Métodos: Estudo transversal, de base populacional, realizado na cidade de Rio Grande, RS. O desfecho, cobertura de exame citopatológico de colo uterino, foi definido como realização do exame nos últimos três anos para mulheres de 25 a 64 anos, de acordo com a recomendação do Instituto Nacional do Câncer. A coleta de dados ocorreu em 2016. As variáveis independentes incluídas foram: faixa etária, cor da pele, estado civil, escolaridade, nível econômico, histórico gestacional, tabagismo, obesidade, posse de plano de saúde, consulta ao médico no último ano, cadastrado do domicílio em Unidade Básica de Saúde da Família e se havia recebido visita de agente de saúde no último ano. Resultados: Participaram 521 mulheres, com média de idade de 44,3 anos. A cobertura foi de 78,1% (IC95% 73,5 a 82,7). Após ajustes, evidenciou-se como fatores associados ao desfecho: ser casada/viúva/separada/divorciada, não ser fumante, ter plano de saúde, ter consultado um médico no último ano e possuir domicílio cadastrado na Unidade Básica de Saúde da Família. Conclusão: A cobertura de exame citopatológico de colo uterino mostrou-se próxima à meta do Ministério da Saúde, abrangendo oito em cada dez mulheres. Mulheres solteiras, fumantes, sem plano de saúde, que não costumam ir ao médico e cujo domicílio não está cadastrado em UBSF constituíram os grupos de risco para não realizarem o exame.</dc:description>
+          <dc:description xml:lang="en-US">Objective: To determine the coverage of cervical cancer screening and its associated factors among women from southern Brazil aged 25 to 64 years. Methods: This was a cross-sectional population-based study conducted in the city of Rio Grande, RS. The outcome of interest consisted of a cytopathological examination of the uterine cervix in the previous three years in women aged 25 to 64 years, according to the criteria of the Brazilian National Cancer Institute. The data were collected in 2016, and the following independent variables were considered: age, skin color, marital status, schooling, socioeconomic status, gestational history, smoking habits, overweight, health insurance, having visited a physician or having been visited by a community health agent in the previous year, and household registered in a primary care facility (PCF) of the healthcare system. Results: This study included a total of 521 women, with a mean age of 44.3 years. The coverage of cervical cancer screening was 78.1% (95% CI: 73.5 to 82.7). The following characteristics were associated with the outcome: marital status, non-smoking habits, health insurance, having visited a physician in the previous year, and household registered in a PCF. Conclusion: The coverage of cervical cancer screening observed in our study (8 out of ten women) was close to the Brazilian Ministry of Health goals. Single women, smoking habits, no health insurance, having not visited a physician in the previous year, and not having their household registered in a PCF were considered risk factors.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-07-16</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/171620</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.171620</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 1 (2021); e171620</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 1 (2021); e171620</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 1 (2021); e171620</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171620/174091</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171620/174090</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Kevin Francisco Durigon Meneghini, Arnildo Agostinho Hackenhaar, Samuel Carvalho Dumith</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/171711</identifier>
+        <datestamp>2021-07-15T18:40:40Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Correlação entre o sistema sanguíneo ABO e portadores de gastrite</dc:title>
+          <dc:title xml:lang="en-US">Correlation between the ABO blood group system and gastritis</dc:title>
+          <dc:creator>Santana Neto, Durval José de</dc:creator>
+          <dc:creator>Moreira, Larissa Gonçalves</dc:creator>
+          <dc:creator>Castro, Vinicius Leite de</dc:creator>
+          <dc:creator>Guimarães, Adriana de Oliveira</dc:creator>
+          <dc:creator>Barreto, Íkaro Daniel de Carvalho</dc:creator>
+          <dc:creator>Trindade, Leda Maria Delmondes Freitas</dc:creator>
+          <dc:subject xml:lang="pt-BR">Epidemiologia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gastrite</dc:subject>
+          <dc:subject xml:lang="pt-BR">Helicobacter pylori</dc:subject>
+          <dc:subject xml:lang="pt-BR">Sistema do Grupo Sanguineo ABO</dc:subject>
+          <dc:subject xml:lang="en-US">Epidemiology</dc:subject>
+          <dc:subject xml:lang="en-US">Gastritis</dc:subject>
+          <dc:subject xml:lang="en-US">Helicobacter, pylori</dc:subject>
+          <dc:subject xml:lang="en-US">System of the ABO Sanguine group.</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: A infecção pelo Helicobacter pylori (HP) e fatores ambientais são importantes fatores de risco para gastrite. Estudos apontam correlação entre o sistema ABO e doenças gastrointestinais. Objetivos: caracterizar o perfil sociodemográfico de portadores de gastrite e HP e sua correlação com o sistema do grupo sanguíneo ABO. Materiais e métodos: Estudo prospectivo e descritivo, realizado em Aracaju, Sergipe, Brasil, de abril/2018 a maio/2019.&#160;Amostra constituída por 133 pacientes que realizaram endoscopia digestiva alta, análise histopatológica e tipagem sanguínea. Foram diagnosticados com gastrite 93 pacientes. Utilizou-se questionário sociodemográfico e clínico. Os dados foram analisados pelo RCore Team 2019 e submetidos a análises descritivas e inferenciais. Nível de significância 5%. Resultados: Idade média 53,7 anos (DP 17,4) sendo 48 (51,6%) do sexo masculino (p=0,018), 56 (65,9%) pardos, 45 (52,9%) casados e 33 (35,5%) tinham empregos fixos. Dos portadores de gastrite, 59 (63,4%) eram do tipo sanguíneo O. Dentre os tipos de gastrite, 31(33,4%) eram enantematosa leve e 16 (51,6%) desses eram do tipo O. Houve prevalência do tipo O em todos os graus de atividade inflamatória. Foi detectado H. pylori em 29 (31,2%) pacientes, sendo o fenótipo O mais prevalente nos graus moderado e severo da infecção. Conclusão: Os homens foram mais acometidos de gastrite, independente do tipo segundo a classificação de Sydney. O fenótipo sanguíneo O foi mais prevalente nos portadores de gastrite, naqueles que apresentaram atividade inflamatória à histologia e em portadores de H. pylori grau moderado e severo.</dc:description>
+          <dc:description xml:lang="en-US">Introduction: Helicobacter pylori (HP) infection and environmental factors are important risk factors for gastritis. Studies show a correlation between the ABO system and gastrointestinal diseases. Aims:&#160; To characterize the sociodemographic profile of patients with gastritis and HP and its correlation with the ABO blood group system. Materials and methods: Prospective and descriptive study, carried out in Aracaju, Sergipe, Brazil, from April / 2018 to May / 2019. Samples were collected from 133 patients who underwent upper digestive endoscopy, histopathological analysis, and blood typing. Out of which, 93 patients were diagnosed with gastritis. A sociodemographic and clinical questionnaire was also used. Data analyzed by RCore Team 2019 and submitted to descriptive and inferential analyzes. Results: Average age 53.7 (SD 17.4) with 48 (51.6%) being male (p = 0.018), 56 (65.9%) brown, 45 (52.9%) married and 33 (35.5%) pursuing permanent jobs. Fifty-nine patients (63.4%) out of those with gastritis were blood type O. Among the types of gastritis, 31 (33.4%) were mild enanthematous and 16 (51.6%) of these were type O. There was a prevalence type O in all degrees of inflammatory activity. H. pylori were detected in 29 (31.2%) patients; &#160;the most prevalent phenotype being the moderate and severe degrees of infection. Conclusion: Men were mostly affected by gastritis, regardless of the type according to the Sydney classification. The blood phenotype O was more prevalent in patients with gastritis, in those who had inflammatory activity at histology and in patients with moderate, and severe H.pylori.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-07-16</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/171711</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.171711</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 1 (2021); e171711</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 1 (2021); e171711</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 1 (2021); e171711</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171711/174093</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171711/174092</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Durval José de Santana Neto, Larissa Gonçalves Moreira, Vinicius Leite de Castro, Adriana de Oliveira Guimarães, Íkaro Daniel de Carvalho Barreto, Leda Maria Delmondes Freitas Trindade</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header status="deleted">
+        <identifier>oai:revistas.usp.br:article/171711</identifier>
+        <datestamp>2021-07-12T11:35:22Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/171898</identifier>
+        <datestamp>2022-03-04T10:58:16Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="es-ES">Ejercicios físicos en los niveles de Síndrome de Burnout y la Variabilidad de la Frecuencia Cardíaca de estudiantes universitarios</dc:title>
+          <dc:title xml:lang="pt-BR">Exercício físico sobre níveis de Síndrome de Burnout e Variabilidade da Frequência Cardíaca de estudantes universitários</dc:title>
+          <dc:title xml:lang="en-US">Physical exercise on Burnout Syndrome levels and Heart Rate Variability in university students</dc:title>
+          <dc:creator>Rosales-Ricardo, Yury</dc:creator>
+          <dc:creator>Caiza, Marco Vinicio</dc:creator>
+          <dc:creator>Sánchez-Cañizares, Mauricio</dc:creator>
+          <dc:creator>Ferreira, José Pedro</dc:creator>
+          <dc:subject xml:lang="pt-BR">Exercícios físicos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Síndrome de Burnout</dc:subject>
+          <dc:subject xml:lang="pt-BR">Variabilidade do rítmo cardíaco</dc:subject>
+          <dc:subject xml:lang="pt-BR">Saúde mental</dc:subject>
+          <dc:subject xml:lang="es-ES">Ejercicios físicos</dc:subject>
+          <dc:subject xml:lang="es-ES">Síndrome de Burnout</dc:subject>
+          <dc:subject xml:lang="es-ES">Variabilidad de la frecuencia cardíaca</dc:subject>
+          <dc:subject xml:lang="es-ES">Salud mental</dc:subject>
+          <dc:subject xml:lang="en-US">Physical exercises</dc:subject>
+          <dc:subject xml:lang="en-US">Burnout syndrome</dc:subject>
+          <dc:subject xml:lang="en-US">Heart rate variability</dc:subject>
+          <dc:subject xml:lang="en-US">Mental health</dc:subject>
+          <dc:description xml:lang="en-US">Intervention programs to prevent or treat Burnout Syndrome are essential to improve the health of students. But most of the research that has been done is psychological and cognitive interventions. Objective: To determine the effects of physical exercises on Burnout Syndrome levels and Heart Rate Variability in university students. Methods: An experimental study was carried out with pre-test and post-test, with 2 intervention groups and a control group.&#160; The sample was probabilistic and stratified with proportional participation. Study variables and instruments were included: Maslach Burnout Inventory Students Survey (MBI-SS) and Heart Rate Variability (HRV): calculation of the average RR, SDNN and RMSSD. For physical exercise, aerobic and strength exercises were applied during 3 weekly sessions of one hour, on alternate days, for 16 weeks. Results: The group of aerobics with MBI-SS exhaustion was higher, reducing its levels by 26.4% (d=0.532), in Cynicism (-21.06, d=0.252) and Efficiency (-13.11, 0.397). Force group in Cynicism (-27.38, d=0.315), in Efficiency (-21.69, d=0.704), Exhaustion (-19.55, d=0.299). The Exhaustion control group increased by 10.26% (d=0.128). In HVR, with the aerobic group, NDL had the greatest percentage change, increasing 24,82 %, over the average RR and RMSSD (14,40 % and 16,45 %). In the force group and in the control group (21.77%, 14.24%, 12.60%; and 12.59%, 4.97% and 4.99% respectively) there was a change in the mean RR in the aerobic and strength groups (d = 1.281 and 1.328). Conclusions: Effect of reduction of burnout syndrome and opposite effect of increase of HRV values.</dc:description>
+          <dc:description xml:lang="es-ES">Los programas de intervención para prevenir o tratar el Síndrome de Burnout son esenciales para mejorar la salud de los estudiantes. Pero la mayoría de las investigaciones realizadas son intervenciones psicológicas y cognitivas. Objetivo: Determinar los efectos de los ejercicios físicos en los niveles de Síndrome de Burnout y la Variabilidad de la Frecuencia Cardíaca en estudiantes universitarios. Métodos: Estudio experimental con pre-test y post-test, con 2 grupos de intervención y un grupo de control.&#160; La muestra fue probabilística y estratificada con participación proporcional. Instrumentos utilizados: Maslach Burnout Inventory Students Survey (MBI-SS) y Variabilidad de la Frecuencia Cardíaca (HRV): cálculo de la media RR, SDNN y RMSSD. Para el ejercicio físico, se aplicaron ejercicios aeróbicos y de fuerza durante 3 sesiones semanales de una hora, en días alternos, durante 16 semanas. Resultados: El grupo de aeróbicos con Agotamiento MBI-SS fue mayor, reduciendo sus niveles en un 26,4% (d=0,532), en Cinismo (-21,06, d=0,252) y en Eficacia (-13,11, 0,397). Grupo de fuerza en Cinismo (-27,38, d=0,315), en Eficacia (-21,69, d=0,704), Agotamiento (-19,55, d=0,299). El grupo de control Agotamiento aumentó en un 10,26% (d=0,128). En la HVR, con el grupo aeróbico el SDNN tuvo el mayor cambio porcentual, con un aumento del 24,82 %, sobre la media RR y RMSSD (14,40 % y 16,45 %). En el grupo de fuerza y en el grupo de control (21,77%, 14,24%, 12,60%; y 12,59%, 4,97% y 4,99% respectivamente).&#160; Hubo un cambio en el RR medio en los grupos aeróbico y de fuerza (d = 1,281 y 1,328). Conclusiones: Efecto de reducción del síndrome de burnout y efecto contrario de incremento de valores del HRV.</dc:description>
+          <dc:description xml:lang="pt-BR">Objectivo: Determinar os efeitos dos exercícios físicos nos níveis da Síndrome de Burnout e da Variação da Frequência Cardíaca em estudantes universitários. Métodos: Foi realizado um estudo experimental com pré-teste e pós-teste, com 2 grupos de intervenção e um grupo de controlo. A amostra foi probabilística e estratificada com participação proporcional. Foram incluídas variáveis e instrumentos de estudo: Maslach Burnout Inventory Students Survey (MBI-SS) e Variabilidade da Frequência Cardíaca (HRV): cálculo da RR média, SDNN e RMSSD. Para exercício físico, exercícios aeróbicos e de força foram aplicados durante 3 sessões semanais de uma hora, em dias alternados, durante 16 semanas. Resultados: O grupo de aeróbica com esgotamento MBI-SS foi mais elevado, reduzindo os seus níveis em 26,4% (d=0,532), em Cinismo (-21,06, d=0,252) e em Eficiência (-13,11, 0,397). Grupo de força no Cinismo (-27,38, d=0,315), na Eficiência (-21,69, d=0,704), na Exaustão (-19,55, d=0,299). O grupo de controlo da Exaustão aumentou 10,26% (d=0,128). Em HVR, com o grupo aeróbio, NDL teve a maior mudança percentual, com um aumento de 24,82 %, sobre a média RR e RMSSD (14,40 % e 16,45 %). No grupo de força e no grupo de controlo (21,77%, 14,24%, 12,60%; e 12,59%, 4,97% e 4,99% respectivamente) Houve uma mudança na RR média nos grupos aeróbico e de força (d = 1,281 e 1,328). Conclusões: Efeito da redução da síndrome de burnout e efeito oposto do aumento dos valores de HRV.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/171898</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.171898</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 4 (2021); e-171898</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 4 (2021); e-171898</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 4 (2021); e-171898</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>spa</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171898/180458</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/171898/180457</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Yury Rosales-Ricardo, Marco Vinicio Caiza, Mauricio Sánchez-Cañizares, José Pedro Ferreira</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172127</identifier>
+        <datestamp>2021-10-01T15:14:39Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Acadêmico de medicina em ação: promovendo fatores de proteção à violência sexual em crianças vulneráveis</dc:title>
+          <dc:title xml:lang="en-US">Medical student in action: promoting factors to protect sexual violence in vulnerable children</dc:title>
+          <dc:creator>Touso, Maira Ferro de Sousa</dc:creator>
+          <dc:creator>Freitas, Ana Clara Souza</dc:creator>
+          <dc:creator>Pereira, Lis Coimbra</dc:creator>
+          <dc:creator>Figueiredo, Glória Lucia Alves</dc:creator>
+          <dc:subject xml:lang="en-US">Vulnerability</dc:subject>
+          <dc:subject xml:lang="en-US">Health promotion</dc:subject>
+          <dc:subject xml:lang="en-US">Medical education</dc:subject>
+          <dc:subject xml:lang="en-US">Childhood</dc:subject>
+          <dc:subject xml:lang="en-US">Violence</dc:subject>
+          <dc:subject xml:lang="pt-BR">Vulnerabilidade</dc:subject>
+          <dc:subject xml:lang="pt-BR">Promoção de saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infância</dc:subject>
+          <dc:subject xml:lang="pt-BR">Violência</dc:subject>
+          <dc:description xml:lang="pt-BR">As Diretrizes Curriculares Nacionais dos cursos de Medicina preveem que desde o início desenvolvam-se competências humanísticas por meio da inserção em cenários de atenção à saúde. Iniquidades sociais implicam em situações de vulnerabilidade e se associam a violências contra a criança. Objetivou-se analisar as repercussões de atividades de educação em saúde sobre a violência sexual com crianças em situação de vulnerabilidade social, possibilitando uma reflexão sobre o exercício de proteção infantil na formação médica. Consistiu em uma pesquisa ação realizada por seis acadêmicos de medicina em uma instituição ligada ao Centro de Referência em Assistência Social; participaram 12 crianças de seis a dez anos. Através de ações lúdicas e literárias, a violência sexual em crianças em situação de vulnerabilidade social foi abordada. As intervenções e coleta de dados aconteceram em três encontros quinzenais intitulados diagnóstico, intervenção e avaliação. O processo formativo acadêmico consolidou-se em grupo focal coordenado pelo docente responsável.Evidenciou-se que a forma interativa de comunicação apresentou potencial para apreensão do conhecimento protetivo à violência infantil por parte das crianças, assim como para o processo formativo e humanístico dos acadêmicos.Conclui-se que a escola médica, ao aplicar suas atividades de educação em saúde sobre a violência sexual no campo de práticas da APS atende à formação de competências humanísticas e abarca a responsabilidade enquanto agente promotor de saúde, reunindo elementos para atuação e engajamento a uma demanda universal, visto o impacto social, econômico e individual dos agravos potencialmente associados à baixa literacia de populações como a estudada.</dc:description>
+          <dc:description xml:lang="en-US">As National Curriculum Guidelines, two medical courses provide that one, since or in the beginning, will develop humanistic skills through their insertion in health care centers. Social inequities imply situations of vulnerability and are associated with violence against children. Preventive actions comprise two axes of the National Policy for Comprehensive Child Health Care. Objective, to analyze the repercussions of health education activities on the sexual violence of children in situations of social vulnerability, enabling a reflection on the exercise of child protection inmedical training. A survey was carried out by six medical students from an institution linked to the Social AssistanceReference Center; 12 children aged six to ten participated. Through playful and literary actions, sexual violence inchildren in situations of social vulnerability was addressed. The interventions and data collection took place in three biweekly meetings entitled, respectively, diagnosis, intervention, and evaluation. The academic training process is consolidated into a focus group coordinated by the responsible teacher. The form of interactive communication has potential for the apprehension of protective knowledge about child violence by children, as well as for theeducational and humanistic process of two academics. It was concluded that the medical course, when applying itshealth education activities on sexual violence in the field of PHC practices, meets the training of humanistic skills and covers the responsibility of the health-promoting agent, gathering elements for action and engagement at a universal demand, view or social, economic and individual impact, two complaints potentially associated with low literacy of populations as a study.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-10-06</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172127</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.172127</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 2 (2021); e-172127</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 2 (2021); e-172127</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 2 (2021); e-172127</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172127/176336</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172127/176335</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Maira Ferro de Sousa Touso, Ana Clara Souza Freitas, Lis Coimbra Pereira, Glória Lucia Alves Figueiredo</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header status="deleted">
+        <identifier>oai:revistas.usp.br:article/172174</identifier>
+        <datestamp>2021-07-12T11:35:22Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172174</identifier>
+        <datestamp>2021-07-15T18:40:40Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Análise da hemoglobina como modelo de estudo de interação droga-proteína in vitro e in silico</dc:title>
+          <dc:title xml:lang="en-US">Drug-protein in vitro and in silico interaction analysis with hemoglobin as a study model</dc:title>
+          <dc:creator>Assis, Bianca Luiza Melo de</dc:creator>
+          <dc:creator>Groto, Anderson Dillmann</dc:creator>
+          <dc:creator>Mota, Vitor Hugo Sales da</dc:creator>
+          <dc:creator>Peiter, Gabrielle Caroline</dc:creator>
+          <dc:creator>Teixeira, Kádima Nayara</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hemoglobina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Interação Droga-proteína</dc:subject>
+          <dc:subject xml:lang="pt-BR">Docagem molecular</dc:subject>
+          <dc:subject xml:lang="en-US">Hemoglobin</dc:subject>
+          <dc:subject xml:lang="en-US">Drug-Protein, Interaction</dc:subject>
+          <dc:subject xml:lang="en-US">Molecular Docking</dc:subject>
+          <dc:description xml:lang="en-US">Study model: It is an in vitro experimental study with a computational approach. Objective: Analyze the presence of interaction between hydrophobic drugs bezafibrate and hydrochlorothiazide and hemoglobin to predict bioavailability changes as well as in the protein function Metodology: The in vitro tests to evaluate the interaction between the bovine hemoglobin and bezafibrate and hydrochlorothiazide were perfomed by spectrophotometry; bioinformatic tools made interaction analysis and extrapolation for human hemoglobin. Results: The in vitro tests showed a decrease in the absorbance (k) at 405 nm equal to 8.75 x 10-4 min-1 for bezafibrate and 6.25 x 10-4 min-1 for hydrochlorothiazide. The decrease suggests an interaction between the drugs and hemoglobin, for bezafibrate this interaction seems to be stronger than hydrochlorothiazide. The in silico analysis showed that the drugs bind to the protein portion of the hemoglobin. The binding affinity constant obtained by molecular docking from bezafibrate and bovine hemoglobin (-8.3 Kcal/mol) sustain the experimental value of k and the greater number of interactions observed in relation to hydrochlorothiazide (-6.6 kcal/mol). The same pattern was observed for interaction of bezafibrate (-7.6 kcal/mol) and hydrochlorothiazide (-6.7 kcal/mol) with human hemoglobin. Conclusion: The spectrophotometry and bioinformatic methods suggested the possibility of hemoglobin interaction with hydrophobic drugs such as bezafibrate and hydrochlorothiazide; this interaction could affect the normal function of hemoglobin and change the pharmacodynamics and pharmacokinetics of drugs impairing their therapeutic efficiency.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Trata-se de um estudo experimental in vitro com abordagem computacional. Objetivo: Analisar a existência de interação entre as drogas hidrofóbicas bezafibrato e hidroclorotiazida com a hemoglobina a fim de prever alterações na biodisponibilidade das drogas, bem como na função proteica. Metodologia: Testes de interação in vitro entre a hemoglobina bovina e bezafibrato ou hidroclorotiazida foram realizados por espectrofotometria; análises dos sítios de interação e extrapolações para a hemoglobina humana foram feitas por técnicas de bioinformática. Resultados: Os testes in vitro demonstraram diminuição de absorbância (k) em 405 nm igual a 8,75 x 10-4 min-1 para o bezafibrato e 6,25 x 10-4 min--1 para a hidroclorotiazida. A diminuição sugere interação das drogas com a hemoglobina, sendo que o bezafibrato parece interagir com afinidade ligeiramente maior. As análises in silico mostraram que as drogas se ligam à porção proteica da hemoglobina. A constante de afinidade de ligação obtida por ancoragem molecular para o bezafibrato com a hemoglobina bovina (-8,3 kcal/mol) corrobora com o valor experimental de k e com o maior número de interações observadas, em relação à hidroclorotiazida (-6,6 kcal/mol). O mesmo padrão é observado para a interação do bezafibrato (-7,6 kcal/mol) e da hidroclorotiazida (-6,7 kcal/mol) com a hemoglobina humana. Conclusão: As técnicas de espectrofotometria e bioinformática utilizadas sugerem a possibilidade de interação da hemoglobina com drogas de natureza hidrofóbica, como bezafibrato e hidroclorotiazida, sendo que essa interação pode afetar a função normal da hemoglobina e alterar a farmacodinâmica e farmacocinética das drogas prejudicando sua eficiência terapêutica.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-07-16</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172174</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.172174</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 1 (2021); e172174</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 1 (2021); e172174</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 1 (2021); e172174</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172174/174095</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172174/174094</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Bianca Luiza Melo de Assis, Anderson Dillmann Groto, Gabrielle Caroline Peiter, Kádima Nayara Teixeira, Vitor Hugo Sales da Mota</dc:rights>
+          <dc:rights xml:lang="pt-BR">http://creativecommons.org/licenses/by/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172177</identifier>
+        <datestamp>2021-07-15T18:40:40Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Hérnia umbilical primária: melhor manejo operatório no adulto</dc:title>
+          <dc:title xml:lang="en-US">Primary umbilical hernia: best surgical management in adults</dc:title>
+          <dc:creator>Barbosa, Cirênio de Almeida</dc:creator>
+          <dc:creator>Oliveira, Deborah Campos</dc:creator>
+          <dc:creator>Assunção, Marcela de Matos</dc:creator>
+          <dc:creator>Guimarães, Mariana Fonseca</dc:creator>
+          <dc:subject xml:lang="pt-BR">Hérnia umbilical</dc:subject>
+          <dc:subject xml:lang="pt-BR">Parede abdominal</dc:subject>
+          <dc:subject xml:lang="pt-BR">Telas cirúrgicas</dc:subject>
+          <dc:subject xml:lang="es-ES">Hernia umbilical</dc:subject>
+          <dc:subject xml:lang="es-ES">Pared abdominal</dc:subject>
+          <dc:subject xml:lang="es-ES">Pantallas Quirúrgicas</dc:subject>
+          <dc:subject xml:lang="en-US">Hernia umbilical</dc:subject>
+          <dc:subject xml:lang="en-US">Abdominal wall</dc:subject>
+          <dc:subject xml:lang="en-US">Surgical mesh</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Revisão sistemática. Objetivo: Avaliar se é facultativo ou imprescindível o uso de malha cirúrgica no reparo das pequenas hérnias umbilicais primárias, com orifício menor que 2 cm, a fim de oferecer melhores evidências aos cirurgiões e, assim, aprimorar o método cirúrgico e o seu desfecho. Métodos: Trata-se de uma revisão da literatura, cuja busca foi direcionada aos artigos que abordassem o manejo operatório das hérnias abdominais, sobretudo das hérnias umbilicais de pequeno tamanho. A pesquisa foi realizada nas bases de dados primárias PubMed, LILACS, Cochrane Library e Periódicos CAPES. Resultados: No total, foram incluídos quatro estudos. Foram avaliadas as taxas de recorrência, bem como as de complicações pós-operatórias após a correção da hérnia umbilical com e sem o uso de tela, observando-se o tamanho do defeito abdominal. Foi observada diminuição da recorrência das hérnias após o reparo com tela. No entanto, complicações, como infecção da ferida operatória, foram mais comumente observadas com o uso da prótese. Não houve consenso quanto ao uso da tela em hérnias menores que 1 cm. Conclusão: O uso de próteses pode vir a ser o tratamento de escolha no reparo das hérnias umbilicais primárias. Contudo, mais estudos são necessários para avaliar o papel dessa estratégia no manejo das hérnias menores que 1 cm.</dc:description>
+          <dc:description xml:lang="en-US">Study design: Systematic review. Objective: Evaluate whether surgical mesh is optional or essential for the repair small primary umbilical hernias, with an orifice smaller than 2 cm, in order to provide better evidence for surgeons, thus enhancing surgical method and its outcomes. Methods: This is a literature review, whose search was directed towards papers that depicted surgical management of abdominal hernias, especially small umbilical hernias. The research was carried out in the primary the primary databases PubMed, LILACS, Cochrane Library, and Periódicos CAPES. Results: A total of four studies were included. Recurrence rates, as well as postoperative complications, were assessed after an umbilical hernia was corrected with or without the use of a mesh, observing the size of the abdominal defect. A reduction in the re-occurrence of hernias was observed when using a mesh. However, complications, such as surgical site infection, were more commonly noticed with the use of the prosthesis. There was no consensus regarding the use of the mesh in hernias smaller than 1 cm. Conclusion: The use of surgical mesh may prove to be the treatment of choice for the repair of primary umbilical hernias. However, more studies are needed to evaluate the role of this strategy in the management of hernias smaller than 1 cm.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-07-16</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172177</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.172177</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 1 (2021); e172177</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 1 (2021); e172177</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 1 (2021); e172177</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172177/174109</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172177/174108</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Cirênio de Almeida Barbosa, Prof. Dr., Deborah Campos Oliveira, Me., Marcela de Matos Assunção, Mariana Fonseca Guimarães</dc:rights>
+          <dc:rights xml:lang="pt-BR">http://creativecommons.org/licenses/by/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172186</identifier>
+        <datestamp>2020-12-11T14:16:36Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Associated factors for potential clinically significant drug-drug interactions in adult intensive care</dc:title>
+          <dc:title xml:lang="pt-BR">Fatores associados para potenciais interações medicamentosas clinicamente significantes em terapia intensiva adulto</dc:title>
+          <dc:creator>Moraes, Juliano Teixeira</dc:creator>
+          <dc:creator>Maia, Juliana Moreira</dc:creator>
+          <dc:creator>Trindade, Olívia Maria</dc:creator>
+          <dc:creator>Oliveira, Luiz Alberto</dc:creator>
+          <dc:creator>Sanches, Cristina</dc:creator>
+          <dc:creator>Trevisan, Danilo Donizetti</dc:creator>
+          <dc:subject xml:lang="en-US">Drug Interactions</dc:subject>
+          <dc:subject xml:lang="en-US">Adverse Events</dc:subject>
+          <dc:subject xml:lang="en-US">Intensive Care Units</dc:subject>
+          <dc:subject xml:lang="en-US">Critical Care</dc:subject>
+          <dc:subject xml:lang="en-US">Patient Safety</dc:subject>
+          <dc:subject xml:lang="pt-BR">Interações de Medicamentos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Eventos Adversos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Unidade de Terapia Intensiva</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cuidados Críticos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Segurança do Paciente</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo transversal. Objetivo: caracterizar as interações medicamentosas potenciais (IMp) maiores e contraindicadas em terapia intensiva adulto e determinar sua prevalência, medicamentos e fatores associados à exposição dessas interações. Métodos: a amostra foi composta por 309 pacientes internados em uma unidade de terapia intensiva adulto de um hospital da Região Centro-Oeste de Minas Gerais, Brasil. Os dados demográficos-clínicos e perfil medicamentoso foram coletados, prospectivamente. As IMp foram caracterizadas pela base Micromedex 2.0 quanto à gravidade, prevalência e implicação clínica. Realizaram-se análises descritivas para as variáveis qualitativas e contínuas. Modelos Lineares Generalizados com distribuição Gama e Poisson foram utilizados para avaliar a relação entre um conjunto de variáveis independentes e a prevalência de IMp maiores e contraindicadas (p&amp;lt;0.05). Resultados: Um total de 81,8% (n=251) foi exposto a, no mínimo, uma IMp maior ou contraindicada. Mais de um terço (37,4%) destes participantes foram expostos a seis ou mais IMp. Medicamentos com ação no sistema nervoso colaboraram para maior probabilidade de IMp maiores e/ou contraindicadas. Pessoas idosas (p=0,006), do sexo masculino (p=0,028) e polimedicadas (&amp;lt;0,001) tiveram maior probabilidade de serem expostas ao menos a uma IMp maior ou contraindicada. Conclusão: Interações medicamentosas potenciais maiores e contraindicadas apresentaram alta frequência. Pessoas idosas, do sexo masculino e polimedicadas foram mais expostas às IMp maiores e/ou contraindicadas. É importante que profissionais da saúde conheçam os riscos e potenciais eventos adversos relacionados às IMp maiores e contraindicadas, para que sejam implementadas medidas para promoção da segurança do paciente.</dc:description>
+          <dc:description xml:lang="en-US">Study Design: Cross-sectional. Objective: characterizing major and contraindicated potential drug-drug interactions (PDDI) in adult intensive care as well as determining their prevalence, risk factors, and potentially high-risk medications. Methods: The sample was composed of 309 patients hospitalized in an adult intensive care unit in the Midwest Region of Minas Gerais state, Brazil. Clinical data and drug profile were prospectively collected. The PDDI were characterized using the Micromedex 2.0 as to severity, prevalence, and clinical implications. Descriptive analyses were performed for qualitative and continuous variables. Generalized Linear Models with Gamma and Poisson distribution were used to assess the relationship between a set of independent variables and the prevalence of major and contraindicated PDDI (p&amp;lt;0.05). Results: A total of 81.8% (n = 251) were exposed to, at least, a major or contraindicated PDDI. More than a third (37.4%) of these participants were exposed to six or more IMp. Drugs with action on the nervous system contributed to a greater probability of major and/or contraindicated PDDI. Elderly (p = 0.006), male (p = 0.028), and polymedicated (&amp;lt;0.001) people were more likely to be exposed to at least a higher or contraindicated PDDI. Conclusion: Potentially major and contraindicated drug interactions showed high frequency. Elderly, male, and polymedicated people were more exposed to larger and/or contraindicated PDDI. It is important that health professionals are aware of the risks and potential adverse events related to major and contraindicated PDDI so that measures might be implemented to promote patient safety.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172186</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i4p379-388</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 4 (2020); 379-388</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 4 (2020); 379-388</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 4 (2020); 379-388</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172186/166387</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Juliano Teixeira Moraes, Juliana Moreira Maia, Olívia Maria Trindade, Luiz Alberto Oliveira, Cristina Sanches, Danilo Donizetti Trevisan</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172257</identifier>
+        <datestamp>2021-10-01T15:14:39Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Sanitary barriers and its contribution to medical education: an experience report</dc:title>
+          <dc:title xml:lang="pt-BR">Barreiras sanitárias e sua contribuição à formação médica: um relato de experiência</dc:title>
+          <dc:creator>Razera, Ricardo José</dc:creator>
+          <dc:creator>Paula, Ana Maria Alves de</dc:creator>
+          <dc:creator>Camilo, Rafael Pimenta</dc:creator>
+          <dc:creator>Alves, Gisele</dc:creator>
+          <dc:creator>Oliveira, Ana Carolina Prioste de</dc:creator>
+          <dc:creator>Paulino, Danilo Borges</dc:creator>
+          <dc:subject xml:lang="en-US">Coronavirus Infections</dc:subject>
+          <dc:subject xml:lang="en-US">Health education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical education</dc:subject>
+          <dc:subject xml:lang="en-US">Pandemics</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infecções por coronavírus</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação em saúde</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação médica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pandemias</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: Regarding the COVID-19 pandemic, in a municipality in Minas Gerais, Health Education actions were carried out at health barriers, through communication between health students (mainly medical students) and the community. Objective: To report the experience of medical students in voluntary work in health barriers in the context of the COVID-19 pandemic and reflect on its contribution to medical education. Method: An experience report that reflects the performance of two medical students in sanitary barriers in the city of Uberaba-MG, during the months of March and April 2020 in four different opportunities. At these occasions, the existence of symptoms in the driver and passengers was assessed and actions for prevention and health promotion were shared. Subsequently, this report was prepared, reflecting on the potential and limitations of the experience for the practice of Health Education and medical training, based on existing literature. Results: It was identified that it was possible to build shared learning between different areas of health and the population. Thus, it contributed to the sedimentation of the students’ theoretical knowledge through an interprofessional practice according to the National CurriculumGuidelines of 2014 for the medical course. In addition, the concept of “Health Education” was contemplated when the empowerment of citizens has been reached with the action, especially in matters such as hygiene, social isolation, access to health, main symptoms, vaccination and, above all, deconstruction of fake news, making up an extremely successful dynamic. Conclusion: The experience contributed to the Health Education of the population and the training of volunteers, mainly medical students, through dialogue and the construction of knowledge with social responsibility.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: Tendo em vista o enfrentamento da pandemia da COVID-19, em um município mineiro foram realizadas ações de Educação em Saúde em barreiras sanitárias, através da comunicação entre estudantes da saúde (principalmente estudantes de medicina) e a comunidade. Objetivo: Relatar a experiência de estudantes de Medicina em trabalho voluntário em barreiras sanitárias no contexto da pandemia de COVID-19 e refletir sobre sua contribuição para a formação médica. Método: Relato de experiência que reflete a atuação de dois estudantes de Medicina em barreiras sanitárias na cidade de Uberaba-MG, durante os meses de março e abril de 2020, em quatro oportunidades distintas. Nas ocasiões, foi avaliada a existência de sintomas no(a) motorista e nos(as) passageiros(as) e ações de prevenção e promoção da saúde foram compartilhadas. Posteriormente, foi elaborado o presente relato, refletindo com base na literatura sobre as potencialidades e limitações da vivência para a prática da Educação em Saúde e para a formação médica. Resultados: Identificou-se que foi possível edificar uma aprendizagem compartilhada entre diversas áreas da saúde e a população. Contribuiu-se, assim, para a sedimentação do conhecimento teórico dos estudantes através de uma prática interprofissional consoante às Diretrizes Curriculares Nacionais de 2014 para o curso de Medicina. Além disso, o conceito de “Educação em Saúde” foi contemplado a partir do empoderamento dos(as) cidadãos(ãs) alcançados(as) com a ação, especialmente em assuntos como higiene, isolamento social, acesso à saúde, principais sintomas, vacinação e, sobretudo, desconstrução de fake news, perfazendo uma dinâmica extremamente exitosa. Conclusão: A experiência contribuiu com a Educação em Saúde da população ecom a formação dos(as) voluntários(as), principalmente estudantes de medicina, através do diálogo e da construção de saberes com responsabilidade social.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-10-01</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172257</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.172257</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 2 (2021); e-172257</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 2 (2021); e-172257</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 2 (2021); e-172257</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172257/176239</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172257/176238</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Ricardo José Razera, Ana Maria Alves de Paula, Rafael Pimenta Camilo, Gisele Alves, Ana Carolina Prioste de Oliveira, Danilo Borges Paulino</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172309</identifier>
+        <datestamp>2021-10-01T15:14:39Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Intestinal intussusception in pregnant women after gastric by-pass: case report</dc:title>
+          <dc:title xml:lang="pt-BR">Intussuscepção intestinal em gestante pós by-pass gástrico: relato de caso</dc:title>
+          <dc:creator>Trevisane, Felipe Grion</dc:creator>
+          <dc:creator>Ferrari, Tiago</dc:creator>
+          <dc:creator>Stefano, Eduardo Henrique</dc:creator>
+          <dc:creator>Hahn, Guilherme Telles</dc:creator>
+          <dc:creator>Trevisane, Nathalia Grion</dc:creator>
+          <dc:creator>Felipe, Daniele Fernanda</dc:creator>
+          <dc:creator>Ferrari, Ariana</dc:creator>
+          <dc:subject xml:lang="en-US">Videolaparoscopy</dc:subject>
+          <dc:subject xml:lang="en-US">Gestation</dc:subject>
+          <dc:subject xml:lang="en-US">Gastric bypass</dc:subject>
+          <dc:subject xml:lang="en-US">Intussusception</dc:subject>
+          <dc:subject xml:lang="pt-BR">Videolaparoscopia</dc:subject>
+          <dc:subject xml:lang="pt-BR">Gestação</dc:subject>
+          <dc:subject xml:lang="pt-BR">By-pass gástrico</dc:subject>
+          <dc:subject xml:lang="pt-BR">Intussuscepção</dc:subject>
+          <dc:description xml:lang="en-US">Worldwide, it is estimated that approximately 634,897 people undergo bariatric procedures each year, with vertical gastrectomy and gastric bypass, representing 53.6% and 30%, respectively. Among operated patients, approximately half are women of reproductive age. In adults, intussusception is typically due to a pathological site in the intestine, which can be malignant in more than half of cases. Intestinal intussusception is rare in adults, representing 1 to 5% of mechanical intestinal obstructions. Intussusception in pregnant women after gastric bypass is a very rare pathology of unknown origin with high power of injury and injury to organs and systems. Its clinical manifestations are like acute obstructive abdomen, but in pregnant women it is difficult to make an early diagnosis.This case report presents a 38-year-old patient, a 22-week pregnant woman, with severe abdominal pain accompanied by vomiting in large quantities for 1 day, a history of gastric bypass for 4 years. The diagnosis of intestinal intussusception was possible after the seventh day of hospitalization with the aid of an image exam - MRI. Surgical treatment is indicated to correct the case. He developed septic shock requiring prolonged hospitalization in an ICUbed, being discharged after 27 days of hospitalization.</dc:description>
+          <dc:description xml:lang="pt-BR">Em todo o mundo, estima-se que aproximadamente 634.897 pessoas são submetidas a procedimentos bariátricos a cada ano, com gastrectomia vertical e by-pass gástrico, representando 53,6% e 30%, respectivamente. Entre pacientes operados, aproximadamente metade são mulheres em idade reprodutiva. Em adultos, a intussuscepção é tipicamente devida a um local patológico no intestino, que pode ser maligno em mais da metade dos casos. A intussuscepção intestinal é rara em adultos, representando 1 a 5% das obstruções intestinais mecânicas. A intussuscepção em gestantes pós by-pass gástrico é uma patologia muito rara de origem desconhecida com alto poder de lesão e injúria de órgãos e sistemas. Suas manifestações clínicas são como abdômen agudo obstrutivo, porém, na paciente gestante dificulta o diagnóstico precoce. Este relato de caso apresenta uma paciente de 38 anos, gestante de 22 semanas, com quadro de dor abdominal de forte intensidade acompanhada de vômitos em grande quantidade há um dia, antecedente de by-pass gástrico há quatro anos. O diagnóstico do quadro de intussuscepção intestinal foi possível após o sétimo dia de internação com auxílio de exame de imagem - RNM, sendo indicado o tratamento cirúrgico para correção do caso. Evoluiu com choque séptico com necessidade de internação prolongada em leito de CTI, recebendo alta após 27 dias de internação.</dc:description>
+          <dc:description xml:lang="es-ES">En todo el mundo, se estimó que aproximadamente 634.897 personas se someten a procedimientos bariátricos cada año, con gastrectomía vertical y bypass gástrico, que representan el 53,6% y el 30%, respectivamente, de todos los procedimientos. Entre los pacientes operados, aproximadamente la mitad son mujeres en edad reproductiva. En adultos, la invaginación intestinal se debe típicamente a un sitio patológico en el intestino, que puede ser maligno en más de la mitad de los casos. La intususcepción intestinal es rara en adultos, representa del 1 al 5% de las obstrucciones intestinales mecánicas. La invaginación intestinal en mujeres embarazadas después de un bypass gástrico es una patología muy rara de origen desconocido con alto poder de lesión y daño a órganos y sistemas. Sus manifestaciones clínicas son altamente específicas con abdomen obstructivo agudo, pero en mujeres embarazadas es difícil hacer un diagnóstico temprano. En este informe de caso, presentamos a una paciente de 38 años, una mujer embarazada de 22 semanas, con dolor abdominal intenso acompañado de vómitos en gran cantidad durante 1 día, antecedentes de derivación gástrica durante 4 años. El diagnóstico de intususcepción intestinal fue posible después del séptimo día de hospitalización con la ayuda de un examen de imagen - MRI. El tratamiento quirúrgico está indicado para corregir el caso. Desarrolló un shock séptico que requirió hospitalización prolongada en una cama de la UCI y fue dado de alta después de 27 días de hospitalización.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-10-01</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172309</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.172309</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 2 (2021); e-172309</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 2 (2021); e-172309</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 2 (2021); e-172309</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172309/176181</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172309/176180</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Felipe Grion Trevisane, Tiago Ferrari, Eduardo Henrique Stefano, Guilherme Telles Hahn, Nathalia Grion Trevisane, Daniele Fernanda Felipe, Ariana Ferrari</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172357</identifier>
+        <datestamp>2020-12-11T14:16:36Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Terapias aplicadas no tratamento das lesões por queimaduras de terceiro grau e extensão variável: revisão integrativa</dc:title>
+          <dc:title xml:lang="en-US">Therapies applied in the treatment of injuries by burns of third degree and variable extension: an integrative review</dc:title>
+          <dc:creator>Silva, Andréia Vieira</dc:creator>
+          <dc:creator>Tavares, Denise Sousa</dc:creator>
+          <dc:creator>Tavares, Pedro Anderson Miranda</dc:creator>
+          <dc:creator>Santos, Carina Oliveira</dc:creator>
+          <dc:subject xml:lang="en-US">Bandages</dc:subject>
+          <dc:subject xml:lang="en-US">Burns</dc:subject>
+          <dc:subject xml:lang="en-US">Therapeutics</dc:subject>
+          <dc:subject xml:lang="pt-BR">Curativos</dc:subject>
+          <dc:subject xml:lang="pt-BR">Queimaduras</dc:subject>
+          <dc:subject xml:lang="pt-BR">Terapias</dc:subject>
+          <dc:description xml:lang="pt-BR">Lesões por queimaduras se apresentam como simples ou graves de acordo com sua profundidade, extensão e localização. Diversas terapias são lançadas no mercado, devendo prover um ambiente úmido, amplo aspecto antimicrobiano e serem efetivas, mesmo na presença de grande quantidade de exsudato, visando os benefícios que trarão para o processo de cicatrização. Neste sentido, este estudo objetivou revisar a literatura acerca da caracterização clínica e terapias aplicadas no tratamento das queimaduras de terceiro grau e de extensão variável. Para alcançar o objetivo proposto, foi realizada uma revisão integrativa da literatura nas bases de dados LILACS, BDENF e SciELO. Foram selecionados 17 artigos e os resultados apontaram que os curativos a base de prata são os mais utilizados, dentre eles, sulfadiazina de prata, prata nanocristalina e espuma absorvente. Para casos particulares mais complexos, a matriz de regeneração dérmica assume-se como uma alternativa eficaz e segura. A utilização da terapia por pressão negativa no tratamento da contratura cicatricial, muito presente nas lesões de terceiro grau, agrega como vantagem o fato de o paciente não precisar ficar imobilizado e imóvel após as cirurgias. Dentre as terapias inovadoras no tratamento de queimaduras, evidenciou-se o uso de enxerto da pele de tilápia, que foi citado por um estudo como um possível subproduto com alta aplicabilidade clínica. Ao longo do estudo foi possível concluir que os pacientes necessitam de uma assistência adequada desde os cuidados imediatos até o fim da reabilitação. Com o passar dos anos, inovações terapêuticas vêm sendo estudadas para serem implantadas no tratamento ao paciente queimado, entre elas a substituição de pele vem ganhando espaço pelos resultados positivos.</dc:description>
+          <dc:description xml:lang="en-US">Burn injuries are classified as simple or severe according to their depth, extent, and location. Several therapies are commercially available, which should provide a humid skin, broad antimicrobial aspect and be effective, even if a large amount of exudate is present, aiming at benefiting the healing process. Therefore, this study aimed to review the literature on the clinical characterization and therapies applied in the treatment of third-degree burns and of variable extension. To reach the proposed objective, an integrative literature review was carried out in the LILACS, BDENF, and SciELO databases. Seventeen papers were selected, and the results showed that silver-based dressings are the most used, and among these, stand out: silver sulfadiazine, nanocrystalline silver, and an absorbent foam. For more complex cases, the dermal regeneration matrix is ​​an effective and safe alternative. The use of negative pressure therapy in the treatment of scar contracture, present in third-degree injuries, has some advantage since the patient does not need to be immobilized and still after the surgeries. Among the innovative therapies in the treatment of burns, the use of tilapia skin graft was evidenced, which was mentioned by a study as a possible by-product with high clinical applicability. Throughout the study, it was possible to conclude that patients need adequate assistance, from immediate care, until the end of the rehabilitation. Over the years, therapeutic innovations have been studied to be implemented in the treatment of burned patients, including the replacement of skin, which has been highlighted due to the positive results.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172357</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i4p456-463</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 4 (2020); 456-463</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 4 (2020); 456-463</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 4 (2020); 456-463</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172357/166396</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Andréia Vieira da Silva, Denise Sousa Tavares, Carina Oliveira dos Santos, Pedro Anderson Miranda Tavares</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172412</identifier>
+        <datestamp>2020-12-11T14:16:36Z</datestamp>
+        <setSpec>rmrp:TEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Teaching challenges: reflections from the experience in a medicine course</dc:title>
+          <dc:title xml:lang="pt-BR">Desafios da docência: reflexões a partir da vivência em um curso de graduação em medicina</dc:title>
+          <dc:creator>Fonseca, Graciela Soares</dc:creator>
+          <dc:creator>Barbato, Paulo Roberto</dc:creator>
+          <dc:creator>Bagatini, Margarete Dulce</dc:creator>
+          <dc:subject xml:lang="en-US">Teaching</dc:subject>
+          <dc:subject xml:lang="en-US">Higher Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medicine</dc:subject>
+          <dc:subject xml:lang="en-US">Education, Medical</dc:subject>
+          <dc:subject xml:lang="pt-BR">Docência</dc:subject>
+          <dc:subject xml:lang="pt-BR">Ensino Superior</dc:subject>
+          <dc:subject xml:lang="pt-BR">Medicina</dc:subject>
+          <dc:subject xml:lang="pt-BR">Educação Superior</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: Os novos cursos de medicina demandam inovações pedagógicas e curriculares que intensificam os desafios da prática docente. Objetivo: O trabalho objetiva apresentar os desafios da docência em um curso de graduação em medicina, viabilizado pelo Programa Mais Médicos, a partir da narrativa de três professores. Metodologia: Trata-se de um relato de experiência construído a partir de narrativas reflexivas redigidas livremente por cada um dos docentes, em momento único, no primeiro semestre de 2019. Elas foram sistematizadas e organizadas por um dos autores. Resultados: Dois dos docentes são graduados em odontologia, com pós-graduação na área de saúde coletiva, participando dos oito Componentes Curriculares Regulares (CCR) ligados à essa área. A terceira docente é farmacêutica, com pós-graduação em Ciências Biológicas e compõe os componentes de Processos Biológicos III e IV e Temas Emergentes na Formação Médica 3. As narrativas revelam o quanto o cenário da educação médica é singular e gerador de desafios próprios. O modelo contra-hegemônico do referido curso de medicina gera insegurança para os atores envolvidos, sobretudo pela ausência de referencial comparativo. Além disso, a construção do curso demanda energia extra, visto que se parte do zero para organização de todas as demandas. O uso de metodologias ativas de aprendizagem constitui outro desafio, uma vez que os docentes foram formados sob a ótica do modelo tradicional. Outro aspecto apontado como desafiador pelos três docentes – chamando atenção para o fato de nenhum deles ser médico – é apresentar formação de graduação em outros cursos da área da saúde e o quanto isso causa incompreensões e resistências, manifestada por estudantes e colegas docentes. Por fim, no contexto atual de exercício da docência, o uso intenso de dispositivos tecnológicos foi apontado pelos docentes como um desafio, talvez o mais complexo deles já que seu uso é massivo e é complexo “competir” e organizar uma aula que seja atrativa a ponto de fazer com os estudantes se “desconectem” para se concentrar no que está sendo trabalhado. Conclusão: Conclui-se que a docência em cursos de medicina, em especial naqueles orientados pelas novas DCN, apresenta desafios variados que precisam ser compreendidos e contornados para propiciar uma prática exitosa.</dc:description>
+          <dc:description xml:lang="en-US">Introduction: The new medical courses demand pedagogical and curricular innovations that intensify the challenges of the teaching practice. Objective: This work presents the challenges of teaching in an undergraduate medical course, made possible by the Mais Médicos Program, based on the narrative of three professors. Methodology: it is an experience report from reflective narratives written by each professional in the first term of 2019. They were systematized and organized by one of the authors. Results: Two of the professors are graduated in dentistry, with postgraduate studies in the area of ​​collective health, participating in eight regular curriculum component components linked to this area. The third professor is a pharmacist, with a postgraduate degree in Biological Sciences and composes the components of Biological Processes III and IV and Emerging Themes in Medical Education 3. The narratives reveal how the current scenario is unique and what the current problem is. The counter-hegemonic model of the medical course generates insecurity for the actors involved, mainly due to the lack of comparative reference. Also, the construction of the course requires extra energy since it starts from zero to organize the demands. The use of active learning methodologies is another challenge since the documents were formed from the perspective of the traditional model. Another aspect pointed out as challenging by the three professors - calling attention to the fact that none of them are doctors - is the graduation training in other courses in the health area and the extent to which this causes misunderstandings and resistance, revealed by students and doctors. Finally, in the current context of teaching, the intensive use of technological devices has been addressed by professors as a challenge, perhaps the most complex of them since its use is massive and it is hard to "compete" with it and organize the lessons to be attractive to make students “disconnect” from it to focus on what is being done. Conclusion: It was concluded that teaching in medical courses, especially in those guided by DCN, presents varied challenges that require understanding and circumvented to provide a successful practice.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-12-11</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172412</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i4p479-489</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 4 (2020); 479-489</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 4 (2020); 479-489</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 4 (2020); 479-489</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172412/166400</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Graciela Soares Fonseca, Paulo Roberto Barbato, Margarete Dulce Bagatini</dc:rights>
+          <dc:rights xml:lang="pt-BR">http://creativecommons.org/licenses/by/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172432</identifier>
+        <datestamp>2020-10-27T16:24:52Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Angioedema, Endotélio, ECA2 e bradicinina - inter-relações na COVID-19: um relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Angioedema, endothelium, ACE2, and bradykinin - interrelationships in COVID-19: a case report</dc:title>
+          <dc:creator>Florêncio, Francisco Kleyton Zacarias</dc:creator>
+          <dc:creator>Tenório, Maiza de Oliveira</dc:creator>
+          <dc:creator>Macedo Júnior, Aluísio Roberto Andrade</dc:creator>
+          <dc:creator>Lima, Sandro Gonçalves de</dc:creator>
+          <dc:subject xml:lang="pt-BR">Infecções por Coronavírus</dc:subject>
+          <dc:subject xml:lang="pt-BR">Pandemias</dc:subject>
+          <dc:subject xml:lang="pt-BR">Angioedema</dc:subject>
+          <dc:subject xml:lang="pt-BR">Endotélio</dc:subject>
+          <dc:subject xml:lang="pt-BR">Bradicinina</dc:subject>
+          <dc:subject xml:lang="es-ES">Infecciones por Coronavirus</dc:subject>
+          <dc:subject xml:lang="es-ES">Pandemias</dc:subject>
+          <dc:subject xml:lang="es-ES">Angioedema</dc:subject>
+          <dc:subject xml:lang="es-ES">Endotelio</dc:subject>
+          <dc:subject xml:lang="es-ES">Bradiquinina</dc:subject>
+          <dc:subject xml:lang="en-US">Coranavirus Infections</dc:subject>
+          <dc:subject xml:lang="en-US">Pandemics</dc:subject>
+          <dc:subject xml:lang="en-US">Angioedema</dc:subject>
+          <dc:subject xml:lang="en-US">Endothelium</dc:subject>
+          <dc:subject xml:lang="en-US">Bradkynin</dc:subject>
+          <dc:description xml:lang="pt-BR">A COVID-19 é uma doença nova, cujas diversas manifestações clínicas atípicas começaram a ser observadas com a evolução da pandemia e foram investigadas com o objetivo de compreender a fisiopatologia da doença. Neste artigo, o objetivo é descrever um caso de angioedema no COVID-19, considerado manifestação atípica e raramente descrito na literatura. O caso é de um paciente de 55 anos que procurou atendimento médico por uma queixa de febre intermitente há quatro dias. No sétimo dia, manifestou angioedema na projeção zigomática esquerda e na região subpalpebral direita. Não tinha histórico de apresentar angioedema. No dia seguinte, ele apresentou regressão do angioedema em relação ao dia anterior. Após esse período, o paciente progrediu bem e tornou-se assintomático. O teste laboratorial de RT-PCR realizado nos primeiros dias de manifestação dos sintomas foi positivo para SARS-CoV-2. Correlacionamos o início do angioedema com a possível endotelite presente na doença, o que foi evidenciado pela observação de lesão endotelial grave associada à presença intracelular do vírus em vários estudos histopatológicos de pacientes com COVID-19. Além disso, uma possível desregulação do sistema Cininogênio-Calicreína-Cinina poderia explicar essa manifestação, já que o SARS-CoV-2 se liga ao receptor ACE2, responsável pela degradação de cininas, como a bradicinina.</dc:description>
+          <dc:description xml:lang="en-US">COVID-19 is a new disease, whose several atypical clinical manifestations began to be observed with the evolution of the pandemic, and have been investigated to understand the pathophysiology of the disease. In this article, the objective is to describe a case of angioedema in COVID-19, considered an atypical manifestation, and rarely described in the literature. The case is of a 55-year-old patient who sought medical attention for a complaint of intermittent fever for four days. On the seventh day, he manifested angioedema in the left zygomatic projection and the right subpalpebral region. The patient had no history of angioedema earlier in life. The following day, he presented a regression of the angioedema concerning the previous day. After this period, the patient progressed well and became asymptomatic. The RT-PCR laboratory test performed on the first days of manifesting symptoms was positive for SARS-CoV-2. We correlate the onset of angioedema with the possible endotheliitis present in the disease, which has been evidenced by the observation of severe endothelial injury associated with the intracellular presence of the virus in several histopathological studies of patients with COVID-19. Also, possible deregulation of the Kininogen-Kallikrein-Kinin System (KKKS) could explain this manifestation, as SARS-CoV-2 binds to the ACE2 receptor, which is responsible for degrading kinins, such as bradykinin.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2020-10-14</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172432</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v53i3p309-312</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 53 No. 3 (2020); 309-312</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 53 Núm. 3 (2020); 309-312</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 53 n. 3 (2020); 309-312</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172432/163817</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2020 Francisco Kleyton Zacarias Florêncio, Maiza de Oliveira Tenório, Aluísio Roberto Andrade Macedo Júnior, Sandro Gonçalves de Lima</dc:rights>
+          <dc:rights xml:lang="pt-BR">http://creativecommons.org/licenses/by/4.0</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/172537</identifier>
+        <datestamp>2021-12-20T14:17:30Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Ulcerative colitis or cytomegalovirus colitis in a patient with chronic kidney disease on hemodialysis</dc:title>
+          <dc:title xml:lang="pt-BR">Retocolite ulcerativa ou colite por citomegalovírus em paciente portador de doença renal crônica em hemodiálise</dc:title>
+          <dc:creator>Viana, Juliana Felizardo</dc:creator>
+          <dc:creator>Duarte, Daniella Bezerra</dc:creator>
+          <dc:creator>Pereira, Cynthia Paes</dc:creator>
+          <dc:creator>Lacerda, Maria Carolina Santa Rita</dc:creator>
+          <dc:creator>Ribeiro, Yara Janaina Porto</dc:creator>
+          <dc:creator>Vaz, Flora Braga</dc:creator>
+          <dc:creator>Campos, Rodrigo Peixoto</dc:creator>
+          <dc:subject xml:lang="en-US">Ulcerative colitis</dc:subject>
+          <dc:subject xml:lang="en-US">Cytomegalovirus</dc:subject>
+          <dc:subject xml:lang="en-US">Chronic kidney disease</dc:subject>
+          <dc:subject xml:lang="en-US">Colectomy</dc:subject>
+          <dc:subject xml:lang="pt-BR">Retocolite ulcerativa</dc:subject>
+          <dc:subject xml:lang="pt-BR">Citomegalovírus</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doença renal crônica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Colectomia</dc:subject>
+          <dc:description xml:lang="en-US">Ulcerative colitis (UC) is a chronic inflammatory bowel disorder affecting the colon and rectum with pathogenesis associated with immune disorders and immunosuppression-based treatment. The immune system of patients on hemodialysis (HD) is suppressed by the uremic environment and the use of immunosuppressives drugs can lead to opportunistic infections such as cytomegalovirus (CMV). CMV infection can lead to relapse or alter the course of UC. This article reports the case of a 42-year-old male patient with chronic kidney disease (CKD) with no defined etiology, in HD for 6 years, without any clinical intercurrence until then, who presented with severe pancolitis, with initial endoscopic and histological diagnosis of UC. He evolved refractory to clinical treatment, being submitted to total colectomy and ileostomy. The microscopic analysis of the surgical specimen revealed in addition to a chronic inflammatory process the presence of atypical endothelial cells suggestive of CMV infection, confirmed by immunohistochemistry. There was a clinical improvement after treatment with ganciclovir. The findings of this patient emphasize the importance of considering the possibility of UC and CMV colitis as a differential diagnosis in patients with CKD in HD who present with fever and bloody diarrhea, especially in those who do not respond to the initial clinical treatment.&#160;</dc:description>
+          <dc:description xml:lang="pt-BR">A retocolite ulcerativa (RCU) é um distúrbio intestinal inflamatório crônico que acomete o cólon e o reto, com patogênese associada a distúrbios imunológicos e tratamento baseado em imunossupressão. O sistema imune de pacientes em hemodiálise (HD) é suprimido pelo meio urêmico e o uso de imunossupressores pode levar a infecções oportunistas, como citomegalovírus (CMV). A infecção por CMV pode levar a recaída ou alterar o curso da RCU. O presente artigo relata o caso de um paciente do sexo masculino, 42 anos, portador de doença renal crônica (DRC) sem etiologia definida, em HD há seis anos, sem nenhuma intercorrência clínica até então, que apresentou um quadro grave de pancolite, com diagnóstico endoscópico e histopatológico inicial de RCU, evoluiu com refratariedade ao tratamento clínico, sendo submetido à colectomia total e ileostomia, tendo a análise microscópica da peça cirúrgica revelado além de processo inflamatório crônico, a presença de atipias em células endoteliais sugestivas de infecção viral por CMV, confirmada por imunohistoquímica, com melhora clínica após tratamento com ganciclovir. Os achados desse paciente enfatizam a importância de considerar a possibilidade de RCU e colite por CMV como diagnóstico diferencial nos pacientes com DRC em HD que apresentam febre e diarreia sanguinolenta, especialmente naqueles que não respondem ao tratamento clínico inicial.&#160;</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2021-12-20</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/172537</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.rmrp.2021.172537</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 54 No. 3 (2021); e-172537</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 54 Núm. 3 (2021); e-172537</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 54 n. 3 (2021); e-172537</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172537/178534</dc:relation>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/172537/178533</dc:relation>
+          <dc:rights xml:lang="pt-BR">Copyright (c) 2021 Juliana Felizardo Viana, Daniella Bezerra Duarte, Cynthia Paes Pereira, Maria Carolina Santa Rita Lacerda, Yara Janaina Porto Ribeiro, Flora Braga Vaz, Rodrigo Peixoto Campos</dc:rights>
+          <dc:rights xml:lang="pt-BR">https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:46Z" completeListSize="1467" cursor="1300">7bebef5f081378aca5624c5aa4801a3c</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:38Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/135089</identifier>
+        <datestamp>2020-06-25T16:02:07Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Correlation of Epworth Sleepiness Scale with polysomnography changes in the assessment of excessive daytime sleepiness in patients with obstructive sleep apnea hypopnea syndrome</dc:title>
+          <dc:title xml:lang="pt-BR">Correlação da Escala de Sonolência de Epworth com alterações na polissonografia na avaliação da sonolência excessiva diurna em pacientes com síndrome da apneia-hipopneia obstrutiva do sono</dc:title>
+          <dc:creator>Matnei, Thiago</dc:creator>
+          <dc:creator>Deschk, Marcelo Augusto Souza</dc:creator>
+          <dc:creator>Sabatini, Jivago Szpoganicz</dc:creator>
+          <dc:creator>Souza, Luciana de Paula</dc:creator>
+          <dc:creator>Santos, Rafael Francisco dos</dc:creator>
+          <dc:creator>Camargo, Carlos Henrique Ferreira</dc:creator>
+          <dc:subject xml:lang="en-US">Disorders of Excessive Somnolence. Sleep Apnea</dc:subject>
+          <dc:subject xml:lang="en-US">Obstructive. Surveys and Questionnaires. Epworth Sleepiness Scale. Polysomnography</dc:subject>
+          <dc:subject xml:lang="pt-BR">Distúrbios do Sono por Sonolência Excessiva. Apneia do Sono Obstrutiva. Inquéritos e Questionários. Escala de Sonolência de Epworth. Polissonografia</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: A sonolência excessiva diurna (SED) é um importante transtorno do sono e frequentemente é associado à síndrome da apneia-hipopneia obstrutiva do sono (SAHOS). É conhecido como um fator predisponente comum para acidentes, redução da produtividade, comprometimento neurocognitivo e interpessoal e/ou problemas sociais. Portanto, a detecção precoce da SED é fundamental. Objetivo: Avaliar a correlação da escala de sonolência de Epworth (ESE) com parâmetros polissonográficos nos pacientes com SAHOS. Métodos: O estudo avaliou 1264 laudos de exames de polissonografia de pacientes com SAHOS admitidos de janeiro de 2009 até dezembro de 2013 no Instituto do Sono dos Campos Gerais. Os laudos foram divididos inicialmente em grupos de acordo com a gravidade da SAHOS e em seguida de acordo com a pontuação obtida na ESE e avaliados de acordo com os resultados dos parâmetros polissonográficos. Resultados: Dos laudos analisados, 822 (65,03%) eram de pacientes do sexo masculino e 442 (34,97%) do sexo feminino. A análise da pontuação da ESE evidenciou uma relação com a SAHOS (r = 0,175, p &amp;lt; 0,00001). Quando analisado os subgrupos de gravidade, apenas a SAHOS grave apresentou correlação significativa com a ESE (r = 0,136, p = 0,0004). Conclusões: A escala possui correlação com a SAHOS grave. Devido à importância da detecção precoce da sonolência, a ESE pode ser utilizada como método de avaliação rápida em pacientes com a SAHOS, estimando sua gravidade e a existência de SED</dc:description>
+          <dc:description xml:lang="en-US">Introduction: Excessive daytime sleepiness (EDS) is an important sleep disorder, frequently associated to the obstructive sleep apnea hypopnea syndrome (OSAHS). It is known to be an important predisposing factor to accidents, decreased productivity, neurocognitive disorders and social issues. Thus, early detection of EDS is crucial. Objective: To evaluate the correlation of the Epworth Sleepiness Scale (ESS) with polysomnographic parameters in patients with OSAHS. Method: The study evaluated 1264 reports of polysomnography of patients with OSAHS admitted from January 2009 to December 2013 at the Instituto do Sono dos Campos Gerais. The reports were initially divided into groups according to the severity of OSAHS and then according to the score obtained in ESE and evaluated according to the results of the polysomnographic parameters. Results: From the analyzed reports, 822 (65.03%) were male patients, and 442 (34.87%) were female patients. According to the ESS scores analysis, a relation was observed between the scale and OSAHS (r = 0.175, p &amp;lt; 0.,00001). However, when divided into subgroups only severe OSAHS presented a significant correlation (r = 0.136, p = 0.0004). Conclusion: The scale is more strongly related with severe OSAHS, which is also more likely to develop EDS. Due to the importance of early detection of sleepiness, the ESS can be used as a method of rapid assessment in patients with OSAHS, to estimate its severity and the presence of SED</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-04-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/135089</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i2p102-108</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 2 (2017): mar./abr.; 102-108</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 2 (2017): mar./abr.; 102-108</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 2 (2017): mar./abr.; 102-108</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/135089/130923</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/135090</identifier>
+        <datestamp>2020-06-25T16:02:06Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Lack of association between ACE ID genetic polymorphism and diabetes or hypertension in Brazilians aged from 50 to 70 years old</dc:title>
+          <dc:title xml:lang="pt-BR">Falta de associação entre o polimorfismo ID do gene da ECA e diabetes ou hipertensão em brasileiros com idade entre 50 a 70 anos</dc:title>
+          <dc:creator>Moraes, Vitor Nolasco de</dc:creator>
+          <dc:creator>Bueno Junior, Carlos Roberto</dc:creator>
+          <dc:subject xml:lang="pt-BR">Doença Crônica. Envelhecimento. Saúde. Polimorfismo Genético</dc:subject>
+          <dc:subject xml:lang="en-US">Chronic Disease. Aging. Health. Genetic Polymorphisms</dc:subject>
+          <dc:description xml:lang="en-US">The present study examined the association between ACE ID polymorphism and diabetes or hypertension in individuals aged between 50 to 70 years old. The participants were recruited before initiating a physical training program and divided into groups, according to their genotype of the ACE gene; DD (n=40), ID (n=55), or II (n=31). The anthropometrical characteristics of the participants were evaluated and anamneses performed to establish if the participants presented diabetes and/or hypertension. From the data obtained for anthropometric characteristics, diabetes, and hypertension, we did not find any association with the ACE ID genotypes (DD, ID and II). ACE ID polymorphism may not have an association with diabetes or hypertension in the 50 to 70 years old Brazilian population, but it might have an association in other populations with different ages</dc:description>
+          <dc:description xml:lang="pt-BR">O presente trabalho verificou a associação entre o polimorfismo ID do Gene. da ECA e diabetes ou hipertensão em indivíduos de 50 a 70 anos. Os Participantes foram recrutados antes de iniciarem em um programa de atividade física e foram divididos em grupos, de acordo com genótipo para o Gene. da ECA; DD (n=40), ID (n=55), ou II (n=31). Dados antropométricos dos participantes foram coletados, e também responderam uma anamnese afim de estabelecer se possuíam ou não diabetes e/ou hipertensão. Para os dados antropométricos, diabetes e hipertensão, não foi encontrado associação com os genótipos (DD, ID e II) para o Gene. da ECA. O polimorfismo ID do Gene. da ECA pode não ter associa- ção com diabetes ou hipertensão na população de 50 a 70 anos brasileira, mas pode ter associação em indivíduos de outros países e de diferentes idades</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-04-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/135090</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i2p109-113</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 2 (2017): mar./abr.; 109-113</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 2 (2017): mar./abr.; 109-113</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 2 (2017): mar./abr.; 109-113</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/135090/130924</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/135091</identifier>
+        <datestamp>2020-06-25T16:02:05Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Metallic bezoar in the gastrointestinal tract - case report</dc:title>
+          <dc:title xml:lang="pt-BR">Bezoar metálico no trato gastrointestinal - relato de caso</dc:title>
+          <dc:creator>Oliveira, Paula Souza Cruz de</dc:creator>
+          <dc:creator>Franco, Renata Oliveira Melhem</dc:creator>
+          <dc:creator>Souza, Maria Cristina Almeida de</dc:creator>
+          <dc:creator>Garcia, Humberto José Portella</dc:creator>
+          <dc:subject xml:lang="en-US">Foreign-Body Reaction. Laparotomy. Gastrointestinal Tract. Bezoar</dc:subject>
+          <dc:subject xml:lang="pt-BR">Reação a Corpo Estranho. Laparotomia. Trato Gastrointestinal. Bezoar</dc:subject>
+          <dc:description xml:lang="en-US">The purpose of this article is to describe a clinical case of relapsing metallic bezoar in the gastroinstestinal tract, observed in a psychiatric patient treated at the Hospital Universitario Sul Fluminense, located at city of Vassouras/ RJ. Bezoars are foreign bodies that impact the lumen of the digestive tract and are formed by the continued, prolonged and intentional ingestion of exotic materials or continuous use of medications. The bezoars may extend in continuity to the small intestine or could be presented as multiple masses detectable in any gut segment. By exploratory laparotomies, the metallic bodies in the gastric and intestinal region were removed. The patient evaded the Hospital and monitoring of the case by a multidisciplinary team was not possible</dc:description>
+          <dc:description xml:lang="pt-BR">O objetivo deste artigo é um relatar um caso de paciente psiquiátrico atendido no Hospital Universitário Sul Fluminense (HUSF), no município de Vassouras/RJ, com quadro recidivante de bezoar metálico no trato gastrointestinal. Bezoares são corpos estranhos que podem obstruir o lúmen do aparelho digestivo a partir da ingestão continuada, prolongada e intencional de materiais não comestíveis ou de medicamentos de uso contínuo. Os bezoares podem apresentar extensão em continuidade para o intestino delgado ou fragmentação com múltiplas massas detectáveis em qualquer segmento intestinal. Neste caso foram realizadas laparotomias exploradoras para retirada dos corpos metálicos em região gástrica. Houve evasão do paciente do HUSF, o que impediu o acompanhamento do caso por equipe multidisciplinar</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-04-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/135091</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i2p114-118</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 2 (2017): mar./abr.; 114-118</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 2 (2017): mar./abr.; 114-118</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 2 (2017): mar./abr.; 114-118</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/135091/130925</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/135092</identifier>
+        <datestamp>2020-06-25T16:02:04Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Case report: Diffuse large B cells lymphoma in the cervix</dc:title>
+          <dc:title xml:lang="pt-BR">Relato de caso: Linfoma difuso de grandes células B no colo uterino</dc:title>
+          <dc:creator>Queiroz, Rodolfo M.</dc:creator>
+          <dc:creator>Melges, Gustavo C.</dc:creator>
+          <dc:creator>Paron, Juliane A.</dc:creator>
+          <dc:creator>Félix, Paulo R.</dc:creator>
+          <dc:creator>Landell, Glaucia A. M.</dc:creator>
+          <dc:creator>Febronio, Eduardo M.</dc:creator>
+          <dc:creator>Castro e Silva, Márcio</dc:creator>
+          <dc:subject xml:lang="pt-BR">Linfoma Difuso de Grandes Células B. Colo do Útero. Diagnóstico por Imagem</dc:subject>
+          <dc:subject xml:lang="en-US">Lymphoma</dc:subject>
+          <dc:subject xml:lang="en-US">Large B-Cell</dc:subject>
+          <dc:subject xml:lang="en-US">Diffuse. Cervix Uteri. Diagnostic Imaging</dc:subject>
+          <dc:description xml:lang="pt-BR">Relatamos o caso de mulher, 32 anos, branca, previamente hígida, atendida com corrimento vaginal e metrorragia há 3 meses. Exame colpocitológico descreveu esfregaço intensamente hemorrágico e lesão intraepitelial de alto grau com displasia acentuada (NIC III). Ultrassonografia transvaginal e ressonância magnética da pelve caracterizaram aumento dimensional do colo uterino, exibindo aspecto em “barril”, por processo expansivo difuso de aspecto infiltrativo. Estudo anatomopatológico e imunohistoquímico de biopsia do colo uterino revelou um linfoma não Hodgkin difuso de grandes células B</dc:description>
+          <dc:description xml:lang="en-US">We report the case of a woman, 32 years old, white, previously healthy, presenting vaginal discharge and metrorrhagia for three months. Pap smear described intensely hemorrhagic smear and high-grade squamous intraepithelial lesions with severe dysplasia (CIN III). Transvaginal ultrasound and MRI of the pelvis characterized an increase in the dimensions of the cervix, displaying aspect “barrel” due process of expansive diffuse infiltrative appearance. The histopathological and immunohistochemistry of the cervical biopsy showed a diffuse non-Hodgkin’s lymphoma large B cell</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-04-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/135092</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i2p119-122</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 2 (2017): mar./abr.; 119-122</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 2 (2017): mar./abr.; 119-122</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 2 (2017): mar./abr.; 119-122</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/135092/130926</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/135115</identifier>
+        <datestamp>2020-06-25T16:02:04Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Amiloidose cardíaca: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Cardiac cmyloidosis: case report</dc:title>
+          <dc:creator>Carvalho, Priscila Nasser de</dc:creator>
+          <dc:creator>Rodrigues, Mauri Monteiro</dc:creator>
+          <dc:creator>Vitorio, Patrícia Kittler</dc:creator>
+          <dc:subject xml:lang="pt-BR">Amiloide. Insuficiência Cardíaca. Sinais e Sintomas</dc:subject>
+          <dc:subject xml:lang="en-US">Amyloid. Heart Failure. Signs and Symptoms</dc:subject>
+          <dc:description xml:lang="en-US">Amyloidosis is a result of the extracellular deposit of seric proteins (amyloid) and almost all organs can be compromised. Cardiac amyloidosis is usually a progressive cardiomyopathy that has a bad prognosis. We present here a case report about a patient that had signs and symptoms of heart failure and left ventricle hypertrophy. Because it was not possible to make the diagnosis of cardiac amyloidosis in time, he died. This disease must be considered when no other cause for those findings exists</dc:description>
+          <dc:description xml:lang="pt-BR">A amiloidose é resultante do depósito extracelular de proteínas séricas (amiloide) e pode acometer quase todos os órgãos. A amiloidose cardíaca é uma cardiomiopatia geralmente progressiva que apresenta prognóstico reservado. Neste relato apresentamos um paciente com sinais e sintomas de insufici- ência cardíaca e hipertrofia ventricular esquerda, que devido ao diagnóstico tardio de amiloidose cardíaca, acabou evoluindo a óbito. Assim, esta doença deve ser sempre considerada na ausência de outra causa que justifique tais achados</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-04-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/135115</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i2p123-129</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 2 (2017): mar./abr.; 123-129</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 2 (2017): mar./abr.; 123-129</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 2 (2017): mar./abr.; 123-129</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/135115/130946</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/135124</identifier>
+        <datestamp>2020-06-25T16:02:03Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Patch-type granuloma annulare: a case report</dc:title>
+          <dc:title xml:lang="pt-BR">Granuloma anular macular: relato de caso</dc:title>
+          <dc:creator>Gomes, Rafael Tomaz</dc:creator>
+          <dc:creator>Balizardo, Jenifer Greice Schiavetti Ribeiro</dc:creator>
+          <dc:creator>Zelandi Filho, Carlos</dc:creator>
+          <dc:creator>Schaefe, Luiza Vasconcelos</dc:creator>
+          <dc:subject xml:lang="pt-BR">Dermatologia. Dermatopatias. Relatos de Casos. Granuloma Anular</dc:subject>
+          <dc:subject xml:lang="en-US">Dermatology. Skin Diseases. Case Reports. Granuloma Annulare</dc:subject>
+          <dc:description xml:lang="en-US">Granuloma annulare (GA) is a benign, self-limited condition which the etiology remains unknown. It is clinically characterized as annularly, erythematous papules on the extremities. Histologically, it shows as palisading granulomas with central degenerated collagen and mucin deposits. The patient in this case report had a rare GA variant named patch-type GA. It appeared as asymptomatic erythematous macules with central clarification on the upper portion of thighs. Histopathology was compatible with interstitialtype GA. We highlight that a high index of suspicion is necessary to make the diagnosis of patch-type GA and confirmation can only be achieved through histopathology study</dc:description>
+          <dc:description xml:lang="pt-BR">O granuloma anular (GA) é uma condição benigna, autolimitada e de etiologia desconhecida. Clinicamente é caracterizado por pápulas eritematosas anulares nas extremidades. Do ponto de vista histológico, observa-se a formação de granulomas com colágeno degenerado em sua porção central e depósito de mucina. O paciente deste caso clínico foi diagnosticado com uma variante rara de granuloma anular, na sua forma macular. A lesão se apresentava como máculas eritematosas assintomáticas na porção superior das coxas. Nos cortes histológicos, o quadro era compatível com GA do tipo intersticial. Neste trabalho enfatiza-se a necessidade de um elevado índice de suspeição clínica para o diagnóstico de GA macular e a confirmação só poderá ser alcançada através do estudo histopatológico</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-04-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/135124</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i2p130-133</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 2 (2017): mar./abr.; 130-133</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 2 (2017): mar./abr.; 130-133</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 2 (2017): mar./abr.; 130-133</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/135124/130947</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/135125</identifier>
+        <datestamp>2020-06-25T16:02:02Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Angiossarcoma do couro cabeludo: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Angiosarcoma of the scalp: case report</dc:title>
+          <dc:creator>Martinez, Daniela de Abreu e Silva</dc:creator>
+          <dc:creator>Lyra, Marcelo Rosandiski</dc:creator>
+          <dc:creator>Cuzzi, Tullia</dc:creator>
+          <dc:creator>Macedo, Priscila Marques de</dc:creator>
+          <dc:creator>Lima, Ricardo Barbosa</dc:creator>
+          <dc:creator>Martins, Carlos José</dc:creator>
+          <dc:subject xml:lang="en-US">Angiosarcoma. Neoplasms. Neoplasms</dc:subject>
+          <dc:subject xml:lang="en-US">Vascular Tissue</dc:subject>
+          <dc:subject xml:lang="pt-BR">Angiossarcoma. Neoplasias. Neoplasias de Tecido Vascular</dc:subject>
+          <dc:description xml:lang="en-US">Angiosarcoma of the head and neck is a rare vascular sarcoma associated with high rates of local recurrence and distant metastasis and a poor prognosis. The diagnosis of cutaneous angiosarcoma can be challenging because it often presents insidiously as a bruiselike lesion or a purplish papule thatmay be mistaken for a benign lesion such as hemangioma. The tumor size is a important prognostic factor and a multimodality treatment approach is imperative for successful outcomes. This study reports the case of 58-years-man with angiosarcoma of the scalp aggressive and a poor prognosis</dc:description>
+          <dc:description xml:lang="pt-BR">O angiossarcoma é uma rara neoplasia vascular originada das células endoteliais. É muito agressivo com alta taxa de recorrência, metástases precoces e mau prognóstico. O diagnóstico precoce do angiossarcoma é um desafio, pois muitas vezes apresenta-se como uma equimose ou pápula violácea que pode ser confundida com lesão benigna como um hemangioma. O tamanho do tumor é um fator prognóstico importante e o diagnóstico precoce e tratamento combinado são fundamentais para aumentar a sobrevida desses pacientes. Esse estudo relata o caso de um homem de 58 anos de idade com angiossarcoma de couro cabeludo altamente agressivo e prognóstico reservado</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-04-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/135125</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i2p134-138</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 2 (2017): mar./abr.; 134-138</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 2 (2017): mar./abr.; 134-138</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 2 (2017): mar./abr.; 134-138</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/135125/130948</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/135128</identifier>
+        <datestamp>2020-06-25T16:02:01Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Hipersensibilidade a lamivudina em paciente infectada pelo HIV: relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Lamivudine’s hypersensitivity in an HIV infected patient: case report</dc:title>
+          <dc:creator>Valviesse, Vitor R. G. A.</dc:creator>
+          <dc:creator>Pinho, Leonardo I. de</dc:creator>
+          <dc:creator>Freitas, Rodrigo F.</dc:creator>
+          <dc:creator>Varon, Andrea G.</dc:creator>
+          <dc:creator>Lemos, Alberto S.</dc:creator>
+          <dc:subject xml:lang="en-US">Lamivudine. Antiretroviral Therapy</dc:subject>
+          <dc:subject xml:lang="en-US">Highly Active. HIV. Hypersensitivity</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lamivudina. Terapia Antirretroviral de Alta Atividade. HIV. Hipersensibilidade</dc:subject>
+          <dc:description xml:lang="pt-BR">Importância do problema: Relatar um caso de hipersensibilidade à lamivudina, droga considerada segura e antirretroviral indicado como de primeira linha para início de tratamento para pacientes infectados pelo HIV. Comentários: É relatado o caso de paciente infectada pelo HIV que evoluiu com farmacodermia associada à terapia antirretroviral (TARV) utilizando tenofovir, lamivudina e efavirenz. Inicialmente, a hipersensibilidade foi atribuída ao efavirenz, pela maior incidência de eventos desta natureza com este medicamento e este foi substituído por fosamprenavir/ ritonavir. Apesar da substitui- ção, paciente desenvolveu síndrome de Stevens-Johnson. Foi hospitalizada e iniciou novo esquema, com introdução de droga a droga, com atazanavir/ritonavir, seguido de zidovudina e lamivudina, desenvolvendo manifestação de eritema multiforme após a última droga, sendo esta considerada a responsá- vel pela hipersensibilidade</dc:description>
+          <dc:description xml:lang="en-US">Relevance: To report a case of hypersensitivity to lamivudine, a medicine that is considered safe and is indicated as part of the initial therapy for HIV infected patients. Comments: It is reported the evolution of an HIV patient who developed a drug eruption due to the following antirretroviral therapy: tenofovir, lamivudine and efavirenz. It initially was attributed to efavirenz, due to its higher incidence in these adverse reactions and it was replaced by fosamprenavir/ritonavir. In spite of the replacement, the patient developed Stevens-Johnson's Syndrome. She was hospitalized and began a new therapy with atazanavir/ritonavir, followed by zidovudine and lamivudine and presented a drug reaction with the last one, which was considered to be the responsible for the hypersensitivity</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-04-04</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/135128</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i2p139-142</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 2 (2017): mar./abr.; 139-142</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 2 (2017): mar./abr.; 139-142</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 2 (2017): mar./abr.; 139-142</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/135128/130949</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139806</identifier>
+        <datestamp>2020-06-25T16:02:01Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Frei exemplo é o melhor educador</dc:title>
+          <dc:creator>Coelho, Eduardo Barbosa</dc:creator>
+          <dc:creator>Olivera, Gustavo Ballejo</dc:creator>
+          <dc:creator>Salgado Júnior, Wilson</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139806</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p143-143</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 143-143</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 143-143</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 143-143</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139806/135083</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139808</identifier>
+        <datestamp>2020-06-25T16:02:00Z</datestamp>
+        <setSpec>rmrp:Refl.</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Geriatria: Medicina do Século XXI ?</dc:title>
+          <dc:title xml:lang="en-US">Geriatrics: Medicine of the 21st Century ?</dc:title>
+          <dc:creator>Gorzoni, Milton Luiz</dc:creator>
+          <dc:subject xml:lang="pt-BR">Geriatria. Bases de Conhecimento. Educação Médica. Desenvolvimento de Pessoal.</dc:subject>
+          <dc:subject xml:lang="en-US">Geriatrics. Knowledge Bases. Education</dc:subject>
+          <dc:subject xml:lang="en-US">Medical. Staff Development.</dc:subject>
+          <dc:description xml:lang="en-US">Study model: an analytical study on progress in the area of Brazilian Geriatrics in the period between the end of the 20th century and the present moment. Objective: narrate facts and significant data for the implementation of this medical specialty in the routine of clinical practice in Brazil. Results: Geriatrics services and disciplines added to the university environment promoted concurrently the production of dissertations and theses, medical residency programs in Geriatrics, increase in the number of Geriatricians by the Brazilian Society of Geriatrics and Gerontology (Sociedade Brasileira de Geriatria e Gerontologia) / Brazilian Medical Association (Associação Médica Brasileira) and Publications (books and articles) of good quality and with the peculiarities of caring for the elderly in Brazil. Conclusion: The study and attention to the elderly in Brazil has grown positively in the last three decades. Considering that a critical mass of professionals has been reached and quality research is being produced Gerontology &amp;amp; Geriatrics has become an area of knowledge typical in the country.</dc:description>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: estudo analítico sobre progressos ocorridos na área da Geriatria brasileira no período entre o fim do século XX e o momento atual. Objetivo: narrar fatos e dados significativos para a implementação dessa especialidade médica no cotidiano da prática clínica no Brasil. Resultados: o desenvolvimento de serviços e disciplinas de Geriatria agregados ao meio universitário promoveu concomitantemente a produção de dissertações e teses, programas de residência médica em Geriatria, aumento do número de médicos titulados em Geriatria pela Sociedade Brasileira de Geriatria e Gerontologia/Associação Médica Brasileira e publicações (livros e artigos) de boa qualidade e com as peculiaridades do cuidar do idoso no Brasil. Conclusão: O estudo e a atenção ao idoso no Brasil cresceram de forma positiva nas últimas três décadas, produzindo massa crítica e pesquisas de qualidade, tornando no Brasil a Gerontologia e a Geriatria área do conhecimento com o rosto do país.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139808</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p144-149</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 144-149</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 144-149</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 144-149</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139808/135084</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139809</identifier>
+        <datestamp>2020-06-25T16:01:59Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Análise dos resultados da triagem auditiva neonatal no município de Batatais</dc:title>
+          <dc:title xml:lang="en-US">Newborn hearing screenin in Batatais county: analysis of results</dc:title>
+          <dc:creator>Bertoldi, Patrícia Mendonça</dc:creator>
+          <dc:creator>Manfredi, Alessandra Kerli Silva</dc:creator>
+          <dc:creator>Mitre, Edson Ibrahim</dc:creator>
+          <dc:subject xml:lang="pt-BR">Triagem Neonatal. Perda Auditiva. Testes Auditivos.</dc:subject>
+          <dc:subject xml:lang="en-US">Neonatal Screening. Hearing Loss. Hearing Tests.</dc:subject>
+          <dc:description xml:lang="en-US">Purpose: analyse the results of the newborn hearing screening program in the county of Batatais. Methods: the sample of this research consisted of 4017 newborns assessed, in 4422 newborns. The procedure used was the examination of transient evoked otoacoustic emissions. The data were taken from the database of the institution that performs the hearing screening. Results: the findings showed failure in 365 newborns in the test, but, only 22 flaws in the retesting of which 4 were diagnosed with sensorineural hearing loss. The use of ototoxic antibiotics was the only risk factor observed. Conclusion: the hearing screening program in the city of Batatais seemed to be effective even if done on an outpatient basis. We believe that this is due to linkage of newborn screening and exclusive fulfillment in a single institution which is a benchmark in health care in the city. There was failure to TAN in only 0.5% of the assessed newborns.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: Analisar os resultados do Programa de Triagem Auditiva Neonatal, no Munícipio de Batatais. Métodos: a casuística desta pesquisa foi composta por 4017 bebês avaliados, dos 4422 nascidos. O procedimento utilizado foi o exame de emissões otoacústicas transientes. Os dados foram retirados do banco de dados da instituição que realiza a triagem. Resultados: os achados mostraram falha em 365 bebês no teste, mas apenas 22 falhas no reteste, dos quais 4 foram diagnosticados como perda auditiva sensorioneural. O risco encontrado foi uso de antibiótico ototóxico. Conclusão: O programa de triagem auditiva da cidade de Batatais mostrou se efetivo ainda que realizado de forma ambulatorial. Acreditamos que isso se deva ao atrelamento do teste do pezinho e a realização exclusiva em uma única instituição, que é referência em atenção à saúde na cidade. Observou-se falha na TAN em apenas 0,5% dos bebês avaliados.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139809</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p150-157</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 150-157</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 150-157</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 150-157</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139809/135085</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139811</identifier>
+        <datestamp>2020-06-25T16:01:59Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Metastatic breast cancer: clinicopathological features and survival according to the site of metastasis</dc:title>
+          <dc:title xml:lang="pt-BR">Câncer de mama metastático: aspectos clinicopatoló- gicos e sobrevida segundo o sítio de metástase</dc:title>
+          <dc:creator>Brum, Igor Vilela</dc:creator>
+          <dc:creator>Guerra, Maximiliano Ribeiro</dc:creator>
+          <dc:creator>Cintra, Jane Rocha Duarte</dc:creator>
+          <dc:creator>Bustamante-Teixeira, Maria Teresa</dc:creator>
+          <dc:subject xml:lang="en-US">Breast Neoplasms. Neoplasm Metastasis Survival Analysis. Prognosis.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Neoplasias da Mama. Metástase Neoplásica</dc:subject>
+          <dc:subject xml:lang="pt-BR">Análise de Sobrevida. Prognóstico.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: estudo de coorte retrospectivo. Objetivos: investigar aspectos clínicos, patológicos e sobrevida do câncer de mama metastático de acordo com o sítio acometido pela metástase, ósseo ou extraósseo. Metodologia: a população de estudo foi uma coorte de 124 mulheres com câncer de mama metastático atendidas em hospital de referência oncológica. A associação entre variáveis sociodemográficas, tumorais e relativas ao tratamento e o sítio de metástase foi verificada através do teste qui-quadrado e as funções de sobrevida foram estimadas pelo método de Kaplan-Meier. Resultados: verificou-se metástase óssea isolada em 26,6% das pacientes e metástase extraóssea isolada em 45,2%, sendo que o restante exibiu metástases em ambos os sítios. Entre as pacientes com metástase óssea isolada, 68,2% utilizaram hormonioterapia, em relação a 44,9% daquelas com metástase extraóssea (p=0,06); tumores com receptor de progesterona positivo foram observados em 63,6% e 43,3% das pacientes em cada grupo (óssea isolada versus extraóssea), respectivamente (p=0,09). A sobrevida global em cinco anos foi 38,5% (IC95%: 18,6-58,2) para as pacientes com metástase óssea isolada e 24,8% (IC95%: 15,2-35,7) para aquelas com metástase extraóssea. Já o tempo médio de sobrevida após o diagnóstico de metástase foi de 19,6 meses nos casos de metástase óssea isolada e 12,1 meses naqueles com envolvimento extraósseo. Conclusões: a presença de positividade hormonal e o uso de hormonioterapia parecem estar associados a maior ocorrência de metástase óssea isolada, que, por sua vez, sinaliza para maior tempo de sobrevida em relação à metástase extraóssea.</dc:description>
+          <dc:description xml:lang="en-US">Study design: retrospective cohort study. Objectives: investigate clinical and pathological features, as well as the survival of metastatic breast cancer according to the site affected by the metastasis, osseous or extraosseous. Methods: the study population consisted of a cohort of 124 women with metastatic breast cancer assisted in an oncology referral hospital. The association between sociodemographic, tumoral and treatment variables and the site of metastasis was assessed with a chi-square test and the survival functions were estimated by the Kaplan-Meier method. Results: osseous-only metastasis was observed in 26.6% of patients and extra-osseous metastasis in 45.2%, the remainder presented metastasis in both sites. Among patients with osseous-only metastasis, 68.2% had been treated with hormonal therapy, compared with 44.9% of those with extraosseous metastasis (p=0.06); progesterone receptor–positive tumors were found in 63.6% and 43.3% of the patients in each group (osseous-only versus extraosseous), respectively (p=0.09). Overall 5-years survival rate was 38.5% (CI95%: 18.6-58.2) for patients with osseous-only metastasis and 24.8% (CI95%: 15.2-35.7) for patients with extraosseous metastasis. The mean survival time after the diagnosis of metastasis was 19.6 months in cases of bone-only metastasis and 12.1 in extraosseous metastasis. Conclusions: hormone receptor positivity and use of hormone therapy seem to be associated with the occurrence of isolated bone metastasis; patients within this group were suggested to have longer survival times.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139811</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p158-168</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 158-168</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 158-168</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 158-168</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139811/135086</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139812</identifier>
+        <datestamp>2020-06-25T16:01:58Z</datestamp>
+        <setSpec>rmrp:DISCC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Clinical profile of pregnant women with systemic lupus erythematosus of the Hospital de Clínicas of the UFPR</dc:title>
+          <dc:title xml:lang="pt-BR">Perfil clínico de gestantes portadoras de lúpus eritematoso sistêmico do Hospital de Clínicas da Universidade Federal do Paraná</dc:title>
+          <dc:creator>Schade, Lilian</dc:creator>
+          <dc:creator>Paiva, Eduardo dos Santos</dc:creator>
+          <dc:creator>Sbalqueiro, Renato Luiz</dc:creator>
+          <dc:creator>Nascimento, Dênis José</dc:creator>
+          <dc:creator>Azevedo, Valderílio Feijó</dc:creator>
+          <dc:subject xml:lang="en-US">Lupus Erythematosus</dc:subject>
+          <dc:subject xml:lang="en-US">Systemic. Pregnancy. Autoantibodies.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Lúpus Eritematoso Sistêmico. Gestação. Autoanticorpos.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: estudo descritivo, observacional, transversal e parte retrospectivo. Objetivo: Avaliar o perfil clínico e desfecho materno-fetal das gestantes com lúpus eritematoso sistêmico (LES) em acompanhamento no Hospital de Clínicas da Universidade Federal do Paraná (UFPR). Metodologia: O estudo descreveu o histórico clínico e obstétrico preconcepção, aspectos clínicos durante a gestação e o desfecho materno-fetal de 30 gestantes com LES, atendidas no ambulatório de Pré-natal do Hospital de Clínicas da UFPR, entre março de 2012 a novembro de 2015. Resultados: Verificou-se que 46,7% das gestantes apresentavam manifestação renal do LES, 50% tinham histórico de complicação obstétrica prévia e 13,3% apresentavam atividade de doença antes da gravidez. Na gestação, 26,7% apresentaram atividade de doença e 46,7% evoluíram com complicações materno-fetais (hipertensão gestacional, pré-eclâmpsia, perdas gestacionais, restrição do crescimento intrauterino, prematuridade, baixo peso ao nascer ou óbito neonatal). Houve relevância estatística entre atividade de doença durante a gestação e atividade de doença preconcepção, assim como entre prematuridade e presença de anticorpos antifosfolípides e síndrome antifosfolípide e também do conjunto de complicações materno-fetais com atividade preconcepção e uso de doses de prednisona &amp;gt;10mg/dia. Conclusão: Neste estudo encontramos uma frequência elevada (46,7%) de complicações maternas e/ou fetais em gestações de pacientes lúpicas, portanto, gestantes com LES são consideradas de alto risco. Recomenda-se que a gravidez destas pacientes seja planejada e acompanhada por profissionais com conhecimento no manejo da doença de base.</dc:description>
+          <dc:description xml:lang="en-US">Model study: descriptive, observational, cross-sectional and partially retrospective study. Objective: The aim of this study was to evaluate the clinical profile and maternal-fetal outcomes of pregnant women with systemic lupus erythematosus (SLE) followed at Hospital de Clínicas of the UFPR. Methodology: The study described the clinical and preconception obstetric history, clinical and laboratory aspects during pregnancy and maternal-fetal outcomes of 30 pregnant women with SLE assisted at Prenatal Clinic of the Hospital de Clínicas of the UFPR, between March 2012 and November 2015. Results: It was found that 46,7% of the pregnant women presented renal manifestation of the SLE, history of maternal or fetal complications was observed in 50% of them and 13,3% of the patients had preconception active disease. During pregnancy, 26,7% had disease activity and 46,7% developed maternal or fetal complications (gestational hypertension, preeclampsia, pregnancy loss, delayed intrauterine growth, prematurity birth, low birth weight or neonatal death). There was statistical significance between disease activity during pregnancy and preconception active disease, as well between prematurity and the presence of antiphospholipid antibodies and antiphospholipid syndrome and also between the maternal and fetal complications as a whole and preconception activity and the use of prednisone &amp;gt;10mg/day. Conclusions: In this study we found a high frequency (46.7%) of maternal and/or fetal complications in pregnancies of lupus patients, therefore, pregnant women with SLE are considered to be at high risk. It is recommended that pregnancy in SLE patients should be planned and monitored by professionals who are experts in the disease management.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139812</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p169-176</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 169-176</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 169-176</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 169-176</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139812/135087</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139813</identifier>
+        <datestamp>2020-06-25T16:01:57Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Hemoglobinopatia SD apresentada como hemoglobinopatia SS</dc:title>
+          <dc:title xml:lang="en-US">Hemoglobinopathy SD presenting as Hemoglobinopathy SS</dc:title>
+          <dc:creator>Lissa, Sonia Maria</dc:creator>
+          <dc:creator>Bach, Sergio Luiz</dc:creator>
+          <dc:creator>Spezia, Juliana</dc:creator>
+          <dc:creator>Henneberg, Railson</dc:creator>
+          <dc:creator>Silva, Paulo Henrique da</dc:creator>
+          <dc:subject xml:lang="en-US">Anemia</dc:subject>
+          <dc:subject xml:lang="en-US">Sickle Cell. Hemoglobin S. Electrophoresis.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anemia Falciforme. Hemoglobina S. Eletroforese.</dc:subject>
+          <dc:description xml:lang="pt-BR">Este relato de caso mostra a interação da hemoglobina (Hb) S com a Hb D de uma criança que foi previamente diagnosticada como anemia falciforme (Hb SS) devido ao seu padrão de migração da eletroforese em pH alcalino. O fenômeno de falcização foi confirmado com 2% de metabissulfito de sódio. O pai e a mãe da criança apresentaram um padrão heterozigoto na eletroforese de hemoglobina em pH alcalino (Hb AS). O fenômeno de falcização foi confirmado para o pai, porém não foi confirmado para a mãe. A eletroforese em pH ácido foi realizado para diferenciar a Hb S da Hb D. O fenótipo da família foi estabelecido: o pai apresenta Hb AS, a mãe AD e a criança SD. O propósito do presente estudo foi ressaltar a importância da confirmação da Hb S detectada na eletroforese em pH alcalino, com o teste de solubilidade ou falcização e com a eletroforese em pH ácido.</dc:description>
+          <dc:description xml:lang="en-US">This case report shows the interaction of hemoglobin (Hb) S with Hb D. in a child previously diagnosed with sickle cell anemia based on the Hb electrophoretic migration pattern in alkaline pH. The sickling phenomenon was confirmed with 2% sodium metabisulfite. The father and mother of the child had a heterozygous pattern (Hb AS) in hemoglobin electrophoresis at alkaline pH. The sickling phenomenon has been confirmed to the father, but it has not been confirmed for the mother. The electrophoresis at acid pH was used to differentiate Hb S from Hb D. The family’s phenotype was established: the father has Hb AS, the mother AD and, the child SD. The purpose of this study was to emphasize the importance of confirmation of Hb S detected in electrophoresis at alkaline pH, with the solubility test or 2% sodium metabisulfite and with the electrophoresis at acid pH.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139813</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p177-181</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 177-181</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 177-181</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 177-181</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139813/135088</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139814</identifier>
+        <datestamp>2020-06-25T16:01:56Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Retroperitoneal cellular schwannoma</dc:title>
+          <dc:title xml:lang="pt-BR">Schwannoma celular retroperitoneal</dc:title>
+          <dc:creator>Queiroz, Rodolfo Mendes</dc:creator>
+          <dc:creator>Rocha, Pedro Henrique Pereira</dc:creator>
+          <dc:creator>Félix, Paulo Roberto</dc:creator>
+          <dc:creator>Landell, Glaucia Aparecida Magnani</dc:creator>
+          <dc:creator>Gomes, Michela Prestes</dc:creator>
+          <dc:creator>Abud, Lucas Giansante</dc:creator>
+          <dc:creator>Oliveira, Rafael Gouvêa Gomes de</dc:creator>
+          <dc:subject xml:lang="en-US">Retroperitoneal Space. Cysts. Kidney Diseases</dc:subject>
+          <dc:subject xml:lang="en-US">Cystic. Neurilemmoma. Schwann Cells.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Espaço Retroperitoneal. Cistos. Doenças Renais Císticas. Neurilemoma. Células de Schwann.</dc:subject>
+          <dc:description xml:lang="en-US">We present the case of a female patient, 35 years old, who had a complaint of sporadic left flank pain for 5 years. She said she had no comorbidities. The results of the laboratory tests did not show abnormalities. Previous ultrasonography of the urinary tract (without the use of color Doppler) described a possible single cyst postero-inferiorly to the left renal pelvis. In recent ultrasound we observed that topography massive oval formation markedly hypoechoic with discrete intermingled flow. Subsequent abdominal computed tomography and magnetic resonance imaging characterized retroperitoneal mass along the hilum of the left kidney, associated with renal dimensional reduction and ipsilateral hydronephrosis. Histological diagnosis after tumor excision: cell schwannoma (Antoni A histological standard only).</dc:description>
+          <dc:description xml:lang="pt-BR">Apresentamos o caso de paciente do gênero feminino, 35 anos, atendida com queixa de dores esporá- dicas no flanco esquerdo por 5 anos. Negou comorbidades. Exames laboratoriais sem anormalidades. Ultrassonografias prévias do aparelho urinário (sem o uso de Doppler colorido) descreveram possível cisto simples póstero-inferiormente a pelve renal esquerda. Em ultrassonografia recente observou-se, nessa topografia, volumosa formação ovalada, acentuadamente hipoecóica, com discreto fluxo de permeio. Tomografia computadorizada e ressonância magnética abdominais subsequentes caracterizaram massa retroperitoneal junto ao hilo do rim esquerdo, associada à redução dimensional renal e hidronefrose ipsilaterais. Diagnóstico histológico pós-exérese tumoral: schwannoma celular (somente padrão histológico Antoni A).</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139814</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p182-187</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 182-187</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 182-187</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 182-187</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139814/135089</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139815</identifier>
+        <datestamp>2020-06-25T16:01:56Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Mucinose folicular primária – relato de caso</dc:title>
+          <dc:title xml:lang="en-US">Primary follicular mucinosis – case report</dc:title>
+          <dc:creator>Tavares, Laura Loures</dc:creator>
+          <dc:creator>Barcelos, Ana Carolina Folchini de</dc:creator>
+          <dc:creator>Leal, Fabiano Roberto Pereira de Carvalho</dc:creator>
+          <dc:creator>Santos, Thuany Silva</dc:creator>
+          <dc:creator>Tavares, Neide Sueli Loures</dc:creator>
+          <dc:subject xml:lang="pt-BR">Mucinoses. Linfoma. Histopatologia.</dc:subject>
+          <dc:subject xml:lang="en-US">Mucinosis. Lymphoma. Histopathology.</dc:subject>
+          <dc:description xml:lang="pt-BR">De etiologia desconhecida, a mucinose folicular primária ou idiopática se caracteriza clinicamente como afecção inflamatória, com placas mais ou menos infiltradas e descamativas, com ou sem perda de pelos. Na sua forma secundária, costuma apresentar lesões mais numerosas e difusas, com morfologia variá- vel, desde placas até nódulos ulcerados. É representada por depósitos localizados ou difusos de mucina na pele ou nos folículos pilosos. Objetivo: Apresentar um caso incomum de mucinose folicular primária, de importância da diferenciação com a forma secundária de mucinose folicular, discutir os aspectos clínicos e histopatológicos utilizados no diagnóstico, suas características e classificações, bem como as possíveis escolhas terapêuticas.</dc:description>
+          <dc:description xml:lang="en-US">Of unknown etiology, acute follicular mucinosis is clinically characterized as an inflammatory disease coursing with more or less infiltrated and scaly plaques, with or without hair loss. In the chronic form, it usually has more numerous and diffuse lesions with variable morphology, from plaques to ulcerated nodules. It is characterized by localized or diffuse deposits of mucin in the skin or hair follicles. Objective: To present an unusual case of primary follicular mucinosis, the importance of differentiation from the secondary form of follicular mucinosis, to discuss the clinical and histopathological aspects used in the diagnosis, its characteristics and classifications as well as the possible therapeutic choices.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139815</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p188-190</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 188-190</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 188-190</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 188-190</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139815/135090</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139816</identifier>
+        <datestamp>2020-06-25T16:01:55Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Livedoid vasculopathy: a clinical case proposition</dc:title>
+          <dc:title xml:lang="pt-BR">Vasculopatia livedóide: a propósito de um caso clínico</dc:title>
+          <dc:creator>Coelho Júnior, Luilson Geraldo</dc:creator>
+          <dc:creator>Cunha, Efigênia Pereira de Lourenzo</dc:creator>
+          <dc:creator>Almeida, Pedro Rodrigo Magalhães Negreiros de</dc:creator>
+          <dc:creator>Rebello, Luciana Guimarães Borges</dc:creator>
+          <dc:creator>Mendanha, Marcos Paulo Borges</dc:creator>
+          <dc:creator>Machado, Gabrielly Borges</dc:creator>
+          <dc:subject xml:lang="en-US">Livedo Reticularis. Blood Vessels. Pathology. Skin. Biopsy.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Livedo Reticular. Vasos Sanguíneos. Patologia. Pele. Biópsia.</dc:subject>
+          <dc:description xml:lang="pt-BR">A vasculopatia livedóide é uma dermatose crônica oclusiva dos vasos sanguíneos da derme, de caráter pauci-inflamatório ou não inflamatório, extremamente dolorosa. A etiologia não é totalmente esclarecida; estando associada a eventos pró-trombóticos. Caracterizada pela presença de lesões maculopapulares, eritêmato-purpúricas, nos membros inferiores, especialmente nos tornozelos e pés que ulceram gerando cicatrizes atróficas, denominadas atrofia branca. A histopatologia evidencia oclusão dos vasos da derme, devido à deposição de fibrina intravascular e presença de trombo intraluminal, além de hialinização segmentar e proliferação endotelial, há também, um infiltrado inflamatório perivascular discreto. Descrevemos um caso de vasculopatia livedóide evidenciando os achados histopatológicos encontrados na biópsia.</dc:description>
+          <dc:description xml:lang="en-US">Livedoid vasculopathy is a chronic occlusive vasculopathy dermatosis, with a pauciinflammatory or noninflammatory characteristic, and is extremely painful. Its ethiology is not entirely known, being associated with pro-thrombotic events. Characterized by erythematous purpuric maculopapular lesions on the legs, especially on the ankles and feet, that ulcerates and heals with white atrophic scars, named atrophie blanche. Histopathology shows occlusion of dermal vases, segmental hyalinization and endothelial proliferation; there is also a discreet perivascular inflammatory infiltrate. We describe a case of livedoid vasculopathy showing the histopathological findings on the biopsy.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139816</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p191-196</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 191-196</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 191-196</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 191-196</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139816/135091</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139817</identifier>
+        <datestamp>2020-06-25T16:01:54Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Gastrointestinal stromal tumor of gastric origin: case report</dc:title>
+          <dc:title xml:lang="pt-BR">Tumor estromal gastrointestinal de origem gástrica: relato de caso</dc:title>
+          <dc:creator>Vivi, Ayder Anselmo Gomes</dc:creator>
+          <dc:creator>Antoniassi, Ana Carolina Domingos</dc:creator>
+          <dc:creator>Coelho, Ana Carolina Taveira Engler Raiz</dc:creator>
+          <dc:creator>Garetti, Bruna</dc:creator>
+          <dc:creator>Barbisan, Guilherme Giacomello</dc:creator>
+          <dc:subject xml:lang="en-US">Gastrointestinal Stromal Tumors. Gastrointestinal Neoplasms. Imatinib Mesylate. Glivec.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Tumores do Estroma Gastrointestinal. Neoplasias Gastrointestinais. Mesilato de Imatinib. Glivec.</dc:subject>
+          <dc:description xml:lang="pt-BR">Os tumores estromais gastrintestinais (GIST) são raros, de comportamento imprevisível, sendo a maioria assintomática ou com sintomas inespecíficos. Podem acometer qualquer local do tubo digestivo, sendo o tratamento padrão a ressecção cirúrgica completa, porém são frequentes as recidivas e metástases. O presente caso é um relato de uma paciente idosa com massa abdominal crescente e dolorosa ao exame físico, com resultado de exames complementares de imagem que sugerem tratar-se de GIST. Submetida à terapia cirúrgica para ressecção da lesão e seguimento com mesilato de imatinibe (Glivec®).</dc:description>
+          <dc:description xml:lang="en-US">Gastrointestinal stromal tumors (GIST) are rare, with unpredictable behavior, most of them asymptomatic or nonspecific symptoms. They may arise in any place of digestive tube, and the standard treatment is the complete surgical resection, however recurrences and metastases are frequent. The following case is a report from an elderly patient with growing and painful abdominal mass on physical examination, and the result of complementary imaging tests suggests that this is GIST. Submitted to surgical therapy for resection of the lesion and follow-up with imatinib mesylate (Glivec®).</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139817</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p197-200</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 197-200</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 197-200</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 197-200</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139817/135092</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/139818</identifier>
+        <datestamp>2020-06-25T16:01:53Z</datestamp>
+        <setSpec>rmrp:RC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Case report of VACTERL association and discussion about its prognostic aspects</dc:title>
+          <dc:title xml:lang="pt-BR">Relato de um caso de associação de VACTERL e discussão acerca de seus aspectos prognósticos</dc:title>
+          <dc:creator>Goes, Beathriz Fernanda Reis de</dc:creator>
+          <dc:creator>Rodrigues, Camila Huss</dc:creator>
+          <dc:creator>Hishinuma, Gilberto</dc:creator>
+          <dc:subject xml:lang="en-US">Congenital Abnormalities. Heart Septal Defects. Tracheoesophageal Fistula. Independent Living.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Anormalidades Congênitas. Defeitos dos Septos Cardíacos. Fístula Traqueoesofágica. Vida Independente.</dc:subject>
+          <dc:description xml:lang="en-US">VACTERL Association corresponds to the combination of three or more of the following defects: Vertebral, Anal atresia, Cardiac changes, Tracheo-esophageal fistula, Esophagus atresia, Renal anomalies and Limbs. Its etiology is still unknown, but believed to be multifactorial, associated with mutations in genes as FOXF1 and ZIC3 and maternal risk factors. This report describes a case of VACTERL diagnosed in the Regional University Hospital of Maringá (HURM). L.P.N. female patient, 1 day in life, was referred to neonatal ICU due to respiratory discomfort, cyanosis and salivation in the delivery room, and diagnosed with esophageal atresia. On the 9th day of life surgical repair of esophageal atresia and tracheoesophageal fistula was performed. Other malformations were observed by detecting moderate perimembranous ventricular septal defect and absent right kidney, suggesting VACTERL diagnostic. At the age of 3 years and 9 months, presents eutrophic, healthy, and in multiprofessional follow up. Despite being a rare disease, this association requires expertise of health professionals, in order to be early detected and to treat its alterations and complications. Also, if handled correctly, the child shows good performance and prospects of a normal life. The prognosis depends on the extent and severity of associated anomalies, as well as the training of parents and professional staff.</dc:description>
+          <dc:description xml:lang="pt-BR">Associação de VACTERL corresponde à combinação de três ou mais das seguintes malformações: Vertebrais, atresia Anal, alterações Cardíacas, fístula Traqueo-esofágica com atresia de Esôfago, anomalias Renais e de membros (Limbs). Sua etiologia ainda é desconhecida, mas acredita-se que seja multifatorial, associada a mutações em genes como FOXF1 e ZIC3 e a fatores de risco maternos. No presente relato, descreve-se um caso de associação de VACTERL diagnosticado no Hospital Universitário Regional de Maringá (HURM). Paciente L.P.N., sexo feminino, um dia de vida, foi referenciada para UTI neonatal devido ao quadro de desconforto respiratório, cianose e salivação intensa na sala de parto, sendo diagnosticada com atresia de esôfago. No 9º dia de vida realizou-se correção cirúrgica da atresia esofá- gica e fístula traqueo-esofágica. Outras malformações foram observadas, detectando-se comunicação interventricular perimembranosa moderada e rim direito ausente, sugerindo diagnóstico de VACTERL. Com três anos e nove meses, apresenta-se eutrófica, saudável e em acompanhamento multiprofissional. Apesar de ser uma afecção rara, esta associação necessita de expertise dos profissionais de saúde, para que haja detecção precoce e tratamento de suas alterações e complicações. Além disso, se manejada da forma correta, a criança apresenta boa evolução e perspectivas de uma vida normal. O prognóstico depende da extensão e da gravidade das anomalias associadas, bem como da capacitação dos pais e equipe profissional.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-06-08</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/139818</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i3p201-205</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 3 (2017): maio/jun.; 201-205</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 3 (2017): maio/jun.; 201-205</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 3 (2017): maio/jun.; 201-205</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/139818/135093</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/140479</identifier>
+        <datestamp>2020-06-25T16:01:53Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Profile of obese patients in first care in the Ambulatory of Nutrology of Ribeirão Preto (SP)</dc:title>
+          <dc:title xml:lang="pt-BR">Perfil dos pacientes obesos no primeiro atendimento em Ambulatório de Nutrologia Municipal de Ribeirão Preto (SP)</dc:title>
+          <dc:creator>Souza, Ana Célia Beltran de</dc:creator>
+          <dc:creator>Oliveira, José Eduardo Dutra de</dc:creator>
+          <dc:creator>Caritá, Edilson Carlos</dc:creator>
+          <dc:creator>Nogueira-de-Almeida, Carlos Alberto</dc:creator>
+          <dc:subject xml:lang="en-US">Obesity. Body Mass Index. Chronic Disease. Diabetes Mellitus.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Obesidade. Índice de Massa Corporal. Doença Crônica. Diabetes Melitus.</dc:subject>
+          <dc:description xml:lang="en-US">Objective: bring up the profile of patients diagnosed with obesity, in first care in the Ambulatory of Nutrology of Municipal Board of Ribeirão Preto (RP), from October 2008 to December of 2013. Method: this is a cross-sectional, retrospective and descriptive study based on survey data from medical records of patients diagnosed with obesity. Results: this study was conducted with 1386 patients data, 71,7% female and 28,3% male; 8% being children, 19.8% adolescents, 63.7% adults and 8.5% elderly and respectively have Systemic Arterial Hypertension, 0.9%, 3.6%, 49.9% and 83.9%; type 2 Diabetes Mellitus, 0%, 0%, 19.3% and 47.5%; Dyslipidemia, 83.8%, 81.1%, 33.3% and 39.8%; do not use any medicines, 83.3%, 69.8%, 21.4% and 5.1% and use 5 or more medicines, 0%, 0%, 17.5% and 51.7%; do not consume soft drinks, 4.5%, 6.5%, 13.6% and 16.1% and consume soft drinks on a daily basis, 41.4%, 40.7%, 33.7% and 19.5%; do not practice physical activity, 41.4%, 41.4%, 78% and 78% and practice 5-7 times a week, 1.8%, 10.2%, 8.1% and 4.2%; consume alcoholic drinks, 0%, 5.5%, 38.8% and 23.7%; are smokers, 0%, 1.1%, 11.9% and 0.8% and quit smoking, 0%, 0%, 16.9% and 30.5%. In the adult group, 12.5% are class I obese and in the elderly group, 15.3% and respectively class II, 21.3% and 20.3% and class III, 66.2% and 64.4%. Conclusion: there was a prevalence of females in demand for the medical care service, the increase of comorbidities is significant and potentially modifiable habits may be relevant both for the prevention and the treatment of Obesity.</dc:description>
+          <dc:description xml:lang="pt-BR">Objetivo: levantar o perfil dos pacientes com diagnóstico de obesidade, no primeiro atendimento no Ambulatório de Nutrologia Municipal de Ribeirão Preto -SP, de outubro de 2008 a dezembro de 2013. Método: trata-se de um estudo transversal, retrospectivo e descritivo, com levantamento dos dados de prontuários dos pacientes com diagnóstico de obesidade. Resultados: total de pacientes 1386, sendo 71,7% do sexo feminino e 28,3% masculino; 8,0% crianças, 19,8% adolescentes, 63,7% adultos e 8,5% idosos que, respectivamente, têm Hipertensão Arterial Sistêmica, 0,9%, 3,6%, 49,9% e 83,9%; Diabetes Mellitus tipo 2, 0%, 0%, 19,3% e 47,5%; Dislipidemia 83,8%, 81,1%, 33,3% e 39,8%; não utilizavam medicamentos 83,3%, 69,8%, 21,4% e 5,1%; e usavam 5 ou mais medicamentos, 0%, 0%, 17,5% e 51,7%; não consumiam refrigerante, 4,5%, 6,5%,13,6% e 16,1% e consumiam diariamente 41,4%, 40,7%, 33,7% e 19,5%; não praticavam atividade física, 41,4%, 41,4%,78% e 78% e praticavam 5 a 7x/semana, 1,8%,10,2%, 8,1% e 4,2%; consumiam álcool, 0%, 5,5%, 38,8% e 23,7%; eram tabagistas, 0%, 1,1%, 11,9% e 0,8% e pararam de fumar 0%, 0%, 16,9% e 30,5%. Dos adultos 12,5% eram obesos grau I e dos idosos, 15,3% e, respectivamente, grau II, 21,3% e 20,3% e grau III, 66,2% e 64,4%. Conclusão: houve maior procura do sexo feminino pelo serviço, prevalência elevada de comorbidades e hábitos potencialmente modificáveis que podem ser relevantes tanto na prevenção quanto no tratamento da obesidade.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/140479</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i4p207-215</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 4 (2017): jul./ago.; 207-215</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 4 (2017): jul./ago.; 207-215</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 4 (2017): jul./ago.; 207-215</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/140479/135462</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/140485</identifier>
+        <datestamp>2020-06-25T16:01:52Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Anos potenciais de vida perdidos e tendência de mortalidade na população adulta em um município do Triângulo Mineiro, 1996-2013</dc:title>
+          <dc:title xml:lang="en-US">Potential years of life lost and mortality trend in the adult population in a municipality of Triângulo Mineiro, 1996-2013</dc:title>
+          <dc:creator>Garcia, Luan Augusto Alves</dc:creator>
+          <dc:creator>Camargo, Fernanda Carolina</dc:creator>
+          <dc:creator>Pereira, Gilberto de Araújo</dc:creator>
+          <dc:creator>Ferreira, Lúcia Aparecida</dc:creator>
+          <dc:creator>Iwamoto, Helena Hemiko</dc:creator>
+          <dc:creator>Santos, Álvaro da Silva</dc:creator>
+          <dc:creator>Rezende, Marina Pereira</dc:creator>
+          <dc:subject xml:lang="en-US">Mortality. Potential Years of Life Lost. Adult. Epidemiologic Studies.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Mortalidade. Anos Potenciais de Vida Perdidos. Adulto. Estudos Epidemiológicos.</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: the epidemiological analysis of mortality is an important process for the recognition of the living conditions and health of the population, offering support to the planning of actions, prioritization, and allocation of resources to specific health problems, especially when considering populations with greater expression of the adult age group. With this, the concern to recognize the main causes of death and analysis of the Potential Years of Lost Life emerges. Study model: observational, ecological, temporal trend, by identifying the main causes of death, through accumulated frequency and analysis of epidemiological indicators: mortality rate per 100,000 inhabitants and Potential Years of Lost Life, by adult age and Sex, from 1996 to 2013. Aim of the study: analyze trend of deaths in the adult population in a municipality of Triângulo Mineiro, Brazil. Results: 9,595 deaths occurred for adults, with diseases of the circulatory system (n = 2.244) being the most prevalent cause of death and death due to external causes, the most premature (mean of 37.84 years, 95% CI:36.25-38.58). There is an upward trend in deaths due to neoplasia, both sexes and age range from 40 to 59 years, in addition to the group of External Causes and Respiratory System Diseases. Conclusions: despite the limitations, the use of information systems should be encouraged in studies that may support local management in the best outline of actions and the back-up of care for the prevention of premature deaths.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: a análise epidemiológica da mortalidade é um importante processo para o reconhecimento das condições de vida e saúde das populações, oferecendo apoio ao planejamento de ações, definição de prioridades, e alocação de recursos frente a problemas específicos de saúde, em especial, ao se considerar populações com maior expressão da faixa etária adulta. Com isso, emerge a preocupação de se reconhecer quais as principais causas-óbito e análise dos Anos Potenciais de Vida Perdidos. Modelo do estudo: estudo observacional, ecológico, de tendência temporal, pela identificação das principais causas-óbito, através da frequência acumulada e da análise dos indicadores epidemiológicos: coeficiente de mortalidade por 100.000 habitantes e Anos Potenciais de Vida Perdidos, por faixa etária adulta e sexo, de 1996 a 2013. Objetivo do estudo: analisar tendência dos óbitos na população adulta em município do Triângulo Mineiro, Brasil. Resultados: ocorreram 9.595 óbitos para adultos, sendo as doenças do aparelho circulatório (n=2.244) a causa-óbito mais prevalente e a idade do óbito por Causas Externas a mais prematura (média de 37,84 anos; IC95% 36,25-38,58). Apresentam tendência ascendente os óbitos por neoplasia, ambos os sexos e faixa etária de 40 a 59 anos, além do grupo de Causas Externas e Doenças do Aparelho Respiratório. Conclusões: apesar das limitações, deve-se encorajar a utilização de sistemas de informações em estudos que possam apoiar a gestão local no melhor delineamento de ações e retaguarda assistencial para prevenção de mortes prematuras.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/140485</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i4p216-226</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 4 (2017): jul./ago.; 216-226</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 4 (2017): jul./ago.; 216-226</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 4 (2017): jul./ago.; 216-226</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/140485/135463</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/140486</identifier>
+        <datestamp>2020-06-25T16:01:51Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Microorganisms present after use of Unna’s boot from ulcers venous patient</dc:title>
+          <dc:title xml:lang="pt-BR">Microbiota de úlceras venosas pós uso de “Bota de Unna”</dc:title>
+          <dc:creator>Melo, Flávio Antônio de</dc:creator>
+          <dc:creator>Damasceno, Carlos Américo Veiga</dc:creator>
+          <dc:creator>Medeiros, Mauricéia Lins de</dc:creator>
+          <dc:creator>Fernandes, Rogério Cássio</dc:creator>
+          <dc:creator>Mendonça, Adriana Rodrigues dos Anjos</dc:creator>
+          <dc:creator>Loyola, Ana Beatriz Alkmim Teixeira</dc:creator>
+          <dc:subject xml:lang="en-US">Bandages. Leg Ulcer. Bacteria.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Bandagens. Úlcera da Perna. Bactérias.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do Estudo: Foi realizado um estudo individual, analítico, observacional, longitudinal prospectivo, controlado, estudo de coortes concorrente, realizado no período de abril de 2013 a novembro de 2014. Objetivo: Avaliar a microbiota presente no exudato da úlcera venosa de pacientes com “Bota de Unna” e a sua resistência aos antimicrobianos. Métodos: Foram coletadas amostras do exudato de feridas de pacientes com o uso de “Bota de Unna” e de terapia tópica durante a troca do curativo e após sete dias. Os micro-organismos isolados foram identificados e testados quanto à susceptibilidade a antimicrobianos: Resultado: Os micro-organismos Gram positivos isolados foram: S. aureus, E. faecalis, S. xylosus e S. haemolyticus. Os micro-organismos Gram negativos foram: E. coli, P. aeruginosa, S. plymuthica, P. mirabilis, K. pneumoniae, K. oxytoca, P. stuartii, P. vulgaris, A. hydrophila, S. marcescens, A.baumannii, E. cloacae e Tatumella sp. O percentual de crescimento e a microbiota no exudato da úlcera após sete dias não foi significante entre os dois tipos de curativo. O aumento de resistência dos cocos Gram positivos aos antimicrobianos testados nos pacientes que utilizam a “Bota de Unna” foi maior do que nos pacientes sem bota (p=0,0093). Conclusão: O número de micro-organismos na microbiota do exudato da úlcera venosa após troca do curativo é maior independentemente do tipo do curativo. Os cocos Gram-positivos apresentam aumento de resistência aos antimicrobianos nos pacientes que utilizam a “Bota de Unna”.</dc:description>
+          <dc:description xml:lang="en-US">Model Study: A special analytical observational prospective longitudinal and controlled study of concurrent cohort was conducted from April 2013 to November 2014. Objective: To evaluate the microbiota present in the secretion of venous ulcer patients with “Unna Boot” and their resistance to antimicrobials. Methods: secretion samples were collected from wounds of patients with and without the use of “Unna Boot” and topic therapy during the dressing change and after seven days. The isolated microorganisms were identified and tested for antimicrobial susceptibility: Result: The isolated Gram-positive microorganisms were: S. aureus, E. faecalis, S. haemolyticus and S. xylosus. Gram-negative microorganisms were E. coli, P. aeruginosa, S. plymuthica, P. mirabilis, K. pneumoniae, K. oxytoca, P. stuartii, P. vulgaris, A. hydrophila, S. marcescens, A. baumannii, E. cloacae and Tatumella sp. The growth percentage and the microbiota in the secretion of the ulcer after seven days was not significant between the two types of dressing. The resistance of Gram-positive cocci to antimicrobials in patients using the “Unna Boot” was higher than in patients without boot (p = 0.0093). Conclusion: The number of microorganisms in microbial secretion venous ulcer after dressing change is higher regardless of the type of dressing. The positive cocci increased antimicrobial resistance in patients using the “Unna Boot”.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/140486</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i4p227-236</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 4 (2017): jul./ago.; 227-236</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 4 (2017): jul./ago.; 227-236</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 4 (2017): jul./ago.; 227-236</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/140486/135464</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/140487</identifier>
+        <datestamp>2020-06-25T16:01:50Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Prevalence of high blood pressure among adolescents and association with anthropometric indicators</dc:title>
+          <dc:title xml:lang="pt-BR">Prevalência de pressão arterial elevada em adolescentes e associação com indicadores antropométricos</dc:title>
+          <dc:creator>Pinto, André de Araújo</dc:creator>
+          <dc:creator>Claumann, Gaia Salvador</dc:creator>
+          <dc:creator>Amaral, Lohana Cardoso</dc:creator>
+          <dc:creator>Pelegrini, Andreia</dc:creator>
+          <dc:subject xml:lang="pt-BR">Saúde do Adolescente. Prevalência. Pressão Arterial. Fatores de Risco. Antropometria.</dc:subject>
+          <dc:subject xml:lang="en-US">Adolescent Health. Prevalence. Arterial Pressure. Risk Factors. Anthropometry.</dc:subject>
+          <dc:description xml:lang="en-US">Introduction: Physical inactivity, sedentary behavior and poor nutrition are behaviors currently adopted by adolescents, which have facilitated the development of cardiovascular diseases such as high blood pressure. Study design: This is a school-based epidemiological study with a cross-sectional design. Objective: A analyze the high blood pressure (HBP) prevalence and its association with anthropometric indicators. Methods: Participants were 202 adolescents from Sao José-SC. Measures of body weight, height and waist circumference (WC) were used to calculate the anthropometric indicators of Body Mass Index (BMI), Conicity Index (C index) and Waist-to-Height Ratio (WHR). Blood pressure was measured by a digital Omrom HEM 742. Results: The prevalence of HBP among the adolescents was 10.9%. Overweight adolescents (OR= 5.68; 95%CI= 1.99-16.24) and those with high WC (OR= 7.67; 95%CI= 2.54-23.19) and high WHR (OR= 5.88; 95%CI= 1.71-20.25) were more likely to present HBP than their normal weight and with healthy WC and WHR peers. Conclusion: The results of the present study demonstrated that one in ten adolescents presented HBP. Body Mass Index (overweight), WC and WHR (unhealthy conditions) were associated to the outcome.</dc:description>
+          <dc:description xml:lang="pt-BR">Introdução: comportamentos como a inatividade física, sedentarismo e os maus hábitos alimentares adotados atualmente pelos adolescentes têm facilitado o desenvolvimento de doenças cardiovasculares destacando-se a hipertensão arterial. Modelo do estudo: estudo epidemiológico transversal de base escolar. Objetivo: analisar a prevalência de pressão arterial elevada (PAE) e sua associação com indicadores antropométricos. Métodos: participaram do estudo 202 adolescentes de São José-SC. Foram mensurados a massa corporal, estatura e perímetro da cintura (PerC), para cálculo dos indicadores antropométricos de Índice de Massa Corporal (IMC), Índice de Conicidade (ÍndiceC) e Razão Cintura/ Estatura (RCE). A pressão arterial foi mensurada por meio do aparelho digital Omron HEM 742. Resultados: a prevalência de PAE nos adolescentes foi de 10,9%. Aqueles com excesso de peso (OR= 5,68; IC95%= 1,99-16,24), e com PerC (OR=7,67; IC95%= 2,54-23,19) e RCE (OR= 5,88; IC95%= 1,71- 20,25) elevados tiveram maior chance de apresentar PAE quando comparados com seus respectivos pares com peso normal, PerC e RCE saudáveis. Conclusão: os resultados do presente estudo mostraram que um em cada dez adolescentes apresentou PAE, sendo que o IMC (excesso de peso), PerC e RCE (fora das recomendações de saúde) foram os indicadores que se associaram com o desfecho.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/140487</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i4p237-244</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 4 (2017): jul./ago.; 237-244</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 4 (2017): jul./ago.; 237-244</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 4 (2017): jul./ago.; 237-244</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/140487/135465</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/140488</identifier>
+        <datestamp>2020-06-25T16:01:49Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Reação adversa a medicamento: uma análise comparativa de protocolos utilizados para o tratamento do câncer colorretal</dc:title>
+          <dc:title xml:lang="en-US">Adverse drug reaction: a comparative analysis of protocols used for treatment of colorectal cancer</dc:title>
+          <dc:creator>Melo, Marcela Maciel</dc:creator>
+          <dc:creator>Cardoso, Rafael Marques</dc:creator>
+          <dc:creator>Silva, Mario Jorge Sobreira da</dc:creator>
+          <dc:subject xml:lang="en-US">Colorectal Neoplasms. Antineoplastic Combined Chemotherapy Protocols</dc:subject>
+          <dc:subject xml:lang="en-US">Adverse Drug Reactions.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Câncer colorretal. Protocolos de Quimioterapia Combinada Antineoplásica. Reação Adversa.</dc:subject>
+          <dc:description xml:lang="pt-BR">Modelo do estudo: Estudo de coorte. Objetivo: Analisar as reações adversas ocorridas em pacientes brasileiros com câncer colorretal submetidos ao tratamento quimioterápico com dois protocolos distintos, visando identificar os tipos e a severidade das alterações mais frequentes. Método: Foram avaliados 63 pacientes, que iniciaram tratamento entre junho de 2014 a maio de 2015 em uma instituição do Rio de Janeiro, subdivididos em dois grupos: protocolo mFOLFOX6 (esquema contendo oxaliplatina 85mg/m2, ácido folínico 400mg/m2 e 5-fluorouracil em infusão em bolus 400mg/m2 e contínua 2.400mg/ m2, n= 40) e protocolo FOLFIRI (esquema contendo irinotecano 180mg/m2, ácido folínico 400mg/m2 e 5-fluorouracil em infusão em bolus 400mg/m2 e contínua 2.400mg/m2, n= 23). Foram coletados do prontuário dados relacionados ao perfil demográfico e clínico dos pacientes, além de informações do tratamento realizado e das toxicidades manifestadas. As toxicidades foram classificadas quanto à gravidade (graus 1, 2, 3 e 4) e causalidade (definida, provável, possível e duvidosa). Resultados: Foi observada alta frequência de toxicidades em ambos os grupos, atingindo 92,5% dos pacientes com protocolo mFOLFOX6 e 95,6% com protocolo FOLFIRI. As toxicidades gastrointestinais e neurológicas foram as mais frequentes, independente do grupo. Ao comparar a ocorrência das reações intergrupos, houve diferença apenas para as toxicidades gastrointestinais (p=0,035). Em 17,5% dos pacientes do grupo mFOLFOX6 (n= 7) e em 8,7% do grupo FOLFIRI (n= 2) se observou toxicidades dos tipos 3 e 4, sendo estas classificadas como provável reação adversa aos medicamentos. Conclusão: As toxicidades foram mais variadas e frequentes no grupo mFOLFOX6 em comparação ao grupo FOLFIRI. Entretanto, não se observou diferença na severidade e na causalidade das reações ocorridas em ambos os grupos.</dc:description>
+          <dc:description xml:lang="en-US">Study design: Cohort study Objective: Analyze the adverse reactions that occurred in Brazilian patients with colorectal cancer submitted to chemotherapy with two different protocols, in order to identify the types and severity of those most frequent recorded. Methods: Sixty-three patients, who started treatment from June 2014 to May 2015, were separated into two groups: mFOLFOX6 (protocol containing oxaliplatin, folinic acid and 5-fluorouracil in bolus and continuous infusion, n= 40) and FOLFIRI (protocol containing irinotecan, folinic acid and 5-fluorouracil in bolus and continuous infusions, n= 23). Data related to the demographic and clinical profile of the patients were collected from the medical record, as well as information about the treatment performed and the adverse reactions manifested. The reactions were classified according to their severity (grades 1, 2, 3 and 4) and causality (definite, probable, possible and doubtful). Results: A high frequency of adverse reactions was observed in both groups, reaching 92.5% of patients with mFOLFOX6 protocol and 95.6% with FOLFIRI protocol. Gastrointestinal and neurological toxicities were the most frequent among the groups. When comparing the occurrence of intergroup reactions, there was difference only for gastrointestinal toxicities (p= 0.035). In 17.5% of patients mFOLFOX6 group (n= 7) and in 8.7% of patients FOLFIRI group (n= 2), grades 3 and 4 adverse reactions were observed and classified as probable. Conclusion: The adverse reactions were more diversified and frequent in the mFOLFOX6 group compared to the FOLFIRI group. However, no difference was observed in the severity and causality of reactions in both groups.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/140488</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i4p245-254</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 4 (2017): jul./ago.; 245-254</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 4 (2017): jul./ago.; 245-254</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 4 (2017): jul./ago.; 245-254</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/140488/135466</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/140489</identifier>
+        <datestamp>2020-06-25T16:01:49Z</datestamp>
+        <setSpec>rmrp:ART</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Hemoculturas em medicina interna: perfil de utilização e implicações clínicas</dc:title>
+          <dc:title xml:lang="en-US">Blood cultures on internal medicine: utilization profile and clinical implications</dc:title>
+          <dc:creator>Jesus, Gustavo Nobre de</dc:creator>
+          <dc:creator>Nave, João Trindade</dc:creator>
+          <dc:creator>Pinheiro, Luís Santos</dc:creator>
+          <dc:creator>Santos, João Meneses</dc:creator>
+          <dc:creator>Lucas, Margarida</dc:creator>
+          <dc:creator>Victorino, Rui M. M.</dc:creator>
+          <dc:subject xml:lang="en-US">Blood Culture. Sepsis. Internal Medicine. Microbiology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hemocultura. Sepse. Medicina Interna. Microbiologia.</dc:subject>
+          <dc:description xml:lang="pt-BR">Introdução: o uso excessivo de hemoculturas tem sido associado a aumento do tempo de internamento e de custos hospitalares. Adicionalmente, a literatura médica reporta taxas de positividade abaixo do esperado, levando à criação de índices de predição de positividade. Métodos: estudo prospectivo observacional conduzido numa enfermaria de Medicina Interna de um hospital terciário, com recolha de dados de todos os doentes a quem foram realizadas hemoculturas. Resultados: em 414 admissões, foram colhidas hemoculturas em 39.9%. Os doentes a quem foram colhidas hemoculturas tiveram maior tempo de internamento e mais exames laboratoriais e imagiológicos pedidos. 7,5% das hemoculturas foram positivas. Nos doentes com critérios de sepsis a taxa de positividade das hemoculturas foi 21,7% e não houve nenhuma hemocultura positiva em doente sem critérios de sépsis, nomeadamente em doentes com elevação isolada de proteína c-reactiva, leucocitose ou febre. O resultado da hemocultura não foi um determinante de de-escalação antibiótica. Conclusões: este estudo sugere que as hemoculturas devem ser colhidas essencialmente em doentes com sepsis, podendo esta prática diminuir o seu sobreuso.</dc:description>
+          <dc:description xml:lang="en-US">Introduction: recent literature suggests that excessive use of blood cultures could prolong length of stay and hospital costs. Moreover, low positive rates have been reported and positivity predictive scores have recently been proposed. Methods: we conducted an observational prospective study in an Internal Medicine department of a university reference hospital analysing data from all patients to whom BC was requested. Results: blood cultures were performed in 39.9% of 414 admissions. Patients with blood cultures had higher length of stay and underwent more laboratory and imaging diagnostic tests. Global positivity rate was of 7.5%. Patients fulfilling sepsis criteria had a higher positivity rate (21.7%) and there were no positive blood cultures in patients without sepsis, namely in cases of isolated creactive protein elevation, leucocytosis or fever. In addition, blood cultures results were not a determinant of antibiotic adjust or de-escalation. Conclusions: our data suggest that the use of BC should be done essentially in patients with sepsis criteria, reducing its unnecessary use, although more studies are required to validate such practice.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2017-08-09</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:type xml:lang="pt-BR">Avaliado pelos pares</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/140489</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v50i4p255-260</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 50 No. 4 (2017): jul./ago.; 255-260</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 50 Núm. 4 (2017): jul./ago.; 255-260</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 50 n. 4 (2017): jul./ago.; 255-260</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>eng</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/140489/135467</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:38Z" completeListSize="1467" cursor="1100">bb2b26262ff2dcb642ff794d1b7d2a03</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

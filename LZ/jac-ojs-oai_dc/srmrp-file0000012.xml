@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2022-08-29T21:20:07Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc" set="rmrp">https://www.revistas.usp.br/rmrp/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/503</identifier>
+        <datestamp>2020-06-25T16:12:21Z</datestamp>
+        <setSpec>rmrp:SIMSEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Icterícia</dc:title>
+          <dc:title xml:lang="en-US">Jaundice</dc:title>
+          <dc:creator>Martinelli, Ana L. Candolo</dc:creator>
+          <dc:subject xml:lang="en-US">Jaundice. Bilirrubin. Hyperbilirubinemia.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Icterícia. Bilirrubinas. Hiperbilirrubinemia.</dc:subject>
+          <dc:description xml:lang="pt-BR">A icterícia reflete perturbações no balanço entre a produção e o clareamento hepático da bilirrubina. São discutidos o metabolismo da bilirrubina e aspectos da fisiopatologia, manifestações clínicas e causas da hiperbilirrubinemia. São abordados ainda parâmetros clínicos que devem ser valorizados na avaliação do paciente ictérico.</dc:description>
+          <dc:description xml:lang="en-US">Jaundice reflects impaired balance between bilirrubin production rate and its hepatic clearance. Bilirrubin metabolism and pathophysiology, the causes and clinical features of hyperbilirubinemia as well as the clinical approach of the jaundiced patient are discussed.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2004-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/503</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v37i3/4p246-252</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 37 No. 3/4 (2004); 246-252</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 37 Núm. 3/4 (2004); 246-252</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 37 n. 3/4 (2004); 246-252</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/503/502</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/505</identifier>
+        <datestamp>2020-06-25T16:12:20Z</datestamp>
+        <setSpec>rmrp:SIMSEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Hipertensão portal</dc:title>
+          <dc:title xml:lang="en-US">portal hypertension</dc:title>
+          <dc:creator>Martinelli, Ana L. Candolo</dc:creator>
+          <dc:subject xml:lang="en-US">Portal Hypertension. Portal System. Portal Vein.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hipertensão Portal. Sistema Porta. Veia Porta.</dc:subject>
+          <dc:description xml:lang="pt-BR">A hipertensão portal é uma síndrome clínica freqüente em nosso meio e acompanha-se de manifestações clínicas graves. Aqui são abordados alguns aspectos da hipertensão portal, com particular ênfase na fisiopatologia da síndrome e em suas manifestações clínicas.São listadas causas de hipertensão portal e discute-se a importância de informações obtidas durante a história clínica e no exame físico, que permitem o diagnóstico da síndrome e que auxiliam no esclarecimento da possível etiologia do processo.</dc:description>
+          <dc:description xml:lang="en-US">Portal hypertension is a common syndrome with serious clinical consequences. Some aspects of pathophysiology, causes and clinical features are discussed. The importance of making the diagnosis of the syndrome and determining the possible etiological factors involved were also discussed.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2004-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/505</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v37i3/4p253-261</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 37 No. 3/4 (2004); 253-261</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 37 Núm. 3/4 (2004); 253-261</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 37 n. 3/4 (2004); 253-261</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/505/505</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/506</identifier>
+        <datestamp>2020-06-25T16:12:19Z</datestamp>
+        <setSpec>rmrp:SIMSEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Diarréia e constipação intestinal</dc:title>
+          <dc:title xml:lang="en-US">Diarrhea and constipation</dc:title>
+          <dc:creator>Dantas, Roberto Oliveira</dc:creator>
+          <dc:subject xml:lang="en-US">Diarrhea. Constipation. Gastrointestinal Diseases.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Diarréia. Constipação. Gastroenteropatias.</dc:subject>
+          <dc:description xml:lang="pt-BR">Diarréia e constipação são sintomas que refletem alteração do hábito intestinal. Para o diagnóstico da causa desses sintomas são fundamentais a anamnese detalhada e o exame físico completo. Informações quanto ao início do sintoma, duração, evolução, comprometimento do estado geral e a presença de outros sintomas, são indispensáveis. Exames complementares somente devem ser realizados após a completa observação clínica.</dc:description>
+          <dc:description xml:lang="en-US">Diarrhea and constipation are symptoms that need a careful history and physical examination, which will help to localize the disease process and establish its nature. The questions to ask at first visit are about the onset and characterization of the symptom, duration and the evidences of systemic disease. Only then ancillary exams should be ordered.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2004-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/506</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v37i3/4p262-266</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 37 No. 3/4 (2004); 262-266</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 37 Núm. 3/4 (2004); 262-266</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 37 n. 3/4 (2004); 262-266</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/506/506</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/508</identifier>
+        <datestamp>2020-06-25T16:12:18Z</datestamp>
+        <setSpec>rmrp:SIMSEM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Princípios de semiotécnica e de interpretação do exame clínico do abdômen</dc:title>
+          <dc:title xml:lang="en-US">Principles of semiotechnic and interpretation of the abdomen clinical examination</dc:title>
+          <dc:creator>Meneghelli, Ulysses G.</dc:creator>
+          <dc:creator>Martinelli, Ana L. C.</dc:creator>
+          <dc:subject xml:lang="en-US">Clinical Examination. Semiology. Inspection. Auscultation. Palpation. Percussion. Abdomen.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Exame Clínico. Semiologia. Inspeção. Auscultação. Palpação. Percussão. Abdomen.</dc:subject>
+          <dc:description xml:lang="pt-BR">O propósito desta publicação é o de levar aos alunos de Graduação em Medicina alguns conhecimentos básicos sobre como fazer e como interpretar o exame clínico do abdômen. Para alcançar o objetivo, procurou-se desenvolver os vinte e oito objetivos enunciados pela coordenadoria do Curso de Semiologia Médica do Departamento de Clínica Médica da Faculdade de Medicina de Ribeirão Preto (USP) e que são exigidos dos respectivos alunos, juntamente com a avaliação do desempenho prático. O conteúdo abrange, de forma sumária, os principais tópicos da inspeção, ausculta, palpação e percussão do abdômen.</dc:description>
+          <dc:description xml:lang="en-US">The aim of this article was to provide medical students with basic knowledgement about how to perform and interpretate the clinical examination of the abdomen. In order to reach this aim we discussed 28 itens proposed by the coordination of the course of semiology of the Department of Medicine . School of Medicine of Ribeirão Preto, São Paulo University. The article comprehend the main topics of inspection, auscultation, palpation and percussion of the abdomen.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2004-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/508</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v37i3/4p267-285</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 37 No. 3/4 (2004); 267-285</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 37 Núm. 3/4 (2004); 267-285</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 37 n. 3/4 (2004); 267-285</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/508/508</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/509</identifier>
+        <datestamp>2020-06-25T16:12:17Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Resumos de dissertações de mestrado e teses de doutorado apresentadas na faculdade de medicina de Ribeirão Preto - USP de Julho a Dezembro de 2004</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:description xml:lang="pt-BR">.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2004-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/509</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v37i3/4p286-341</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 37 No. 3/4 (2004); 286-341</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 37 Núm. 3/4 (2004); 286-341</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 37 n. 3/4 (2004); 286-341</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/509/509</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/511</identifier>
+        <datestamp>2020-06-25T16:11:51Z</datestamp>
+        <setSpec>rmrp:DMT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Cirurgia dos cateteres de longa permanência (CLP) nos centros de transplante de medula óssea</dc:title>
+          <dc:title xml:lang="en-US">Surgery of long-term catheters (LTC) in a bone marrow transplantation center</dc:title>
+          <dc:creator>Albuquerque, Marcos Pires</dc:creator>
+          <dc:subject xml:lang="en-US">Catheterization</dc:subject>
+          <dc:subject xml:lang="en-US">Central Venous. Surgery. Long-Term Central Venous Catheter. Cancer Chemotherapy. Bone Marrow Transplantation. Neoplasms.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Cateterismo Venoso Central. Cirurgia. Cateter Venoso Central de Longa Permanência. Quimioterapia do Câncer. Transplante de Medula Óssea. Neoplasia.</dc:subject>
+          <dc:description xml:lang="en-US">The chapter discourse about the use of Long-Term Catheters (LTC) in a Bone Marrow Transplantation Center (BMTC), approaching surgical aspects with purpose to prepare surgeons to face critical hematological patients, whether in prepare of a BMT or in complex situations during or after the transplant. Established in a 2.000 procedures carry out by the author at the National Cancer Institute (NCI) is empathized, in didactic narrative to young surgeons, to give the guide of surgical practice necessary to the success of these catheters placement in BMTC. There are discussed features of the LTC by him self, like types and models, the convenient indication for each one, the usual technical approach to be adopted (including wide description of the Internal jugular vein access), the difficult situations with outstanding issues of the mediastinum anatomy pitfalls and the ways to by-pass it, and finally, the results and complications followed by the use of these systems specifically in patients of a BMTC.</dc:description>
+          <dc:description xml:lang="pt-BR">O capítulo disserta sobre a utilização de Cateteres de Longa Permanência (CLP) num Centro de Transplante de Medula Óssea (CTMO), abordando seus aspectos cirúrgicos com o objetivo de preparar cirurgiões para o enfrentamento de pacientes hematológicos graves, seja no preparo para um TMO ou em situações complexas durante ou após o transplante. Baseado numa experiência de 2.000 cateterismos executados pelo autor no Instituto Nacional de Câncer (INCA) é intencionado, numa narrativa didática para jovens cirurgiões, a dar orientação da prática cirúrgica necessária para o sucesso da implantação destes cateteres em pacientes de CTMOs.São mostrados e discutidos aspectos inerentes ao cateter em si, como escolha de tipos e modelos, suas indicações, as técnicas cirúrgicas a serem adotadas normalmente (com a descrição detalhada do acesso jugular interno), as situações difíceis com questões relevantes à anatomia do mediastino com seus possíveis obstáculos e a forma de vence-los, e finalmente, os resultados e as complicações advindas do uso destes sistemas especificamente em pacientes de um CTMO.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2005-06-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/511</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v38i2p125-142</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 38 No. 2 (2005); 125-142</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 38 Núm. 2 (2005); 125-142</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 38 n. 2 (2005); 125-142</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/511/511</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/513</identifier>
+        <datestamp>2020-06-25T16:13:49Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Revitalização da Medicina Acadêmica: Uma Campanha Internacional</dc:title>
+          <dc:creator>Voltarelli, Júlio C.</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/513</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p1-4</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 1-4</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 1-4</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 1-4</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/513/513</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/518</identifier>
+        <datestamp>2020-06-25T16:13:47Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Hipovitaminose A: cofator clínico deletério para o homem</dc:title>
+          <dc:title xml:lang="en-US">Hypovitaminosis A: cofactor of deleterious clinic outcome in human being</dc:title>
+          <dc:creator>El Beitune, Patrícia</dc:creator>
+          <dc:creator>Duarte, Geraldo</dc:creator>
+          <dc:creator>Quintana, Silvana M.</dc:creator>
+          <dc:creator>Figueiró-Filho, Ernesto A.</dc:creator>
+          <dc:creator>Vannucchi, Hélio</dc:creator>
+          <dc:subject xml:lang="en-US">Vitamin A Deficiency. Vitamin A.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Deficiência de Vitamina A. Vitamina A.</dc:subject>
+          <dc:description xml:lang="pt-BR">Importante foco de atenção em Saúde Pública tem sido a avaliação de determinados micronutrientes no ser humano, em especial aqueles que se encontram associados à vulnerabilidade orgânica, conseqüente ao desiquilíbrio ou à deficiência desses micronutrientes. Entre os micronutrientes, a hipovitaminose A tem sido objeto de realce devido à significante prevalência em populações de países em desenvolvimento. Este artigo aborda a Vitamina A, enfocando seu metabolismo e as repercussões deletérias, decorrentes de sua deficiência sobre o organismo, suas manifestações no ciclo gravidopuerperal, e sua interação em situações clínicas, específicas.</dc:description>
+          <dc:description xml:lang="en-US">An important focus of attention in Public Health has been micronutrient deficiency in human being because of the enhanced vulnerability of individuals to the effects of micronutrient deficiency or imbalance. Among all micronutrients deficiencies, vitamin A has been one of the most important public health problems, affecting a large percentage of people in developing countries. This article focus on a review of vitamin A metabolism, deleterious repercussions and association with several clinical and obstetrics conditions. It highlights hypovitaminosis A as cofactor of deleterious clinic outcome in human being.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/518</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p5-15</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 5-15</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 5-15</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 5-15</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/518/518</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/521</identifier>
+        <datestamp>2020-06-25T16:13:45Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">O papel do vírus Epstein-Barr na tumorigênese humana</dc:title>
+          <dc:title xml:lang="en-US">The role of Epstein-Barr virus in human tumorigenesis</dc:title>
+          <dc:creator>Ribeiro-Silva, Alfredo</dc:creator>
+          <dc:creator>Zucoloto, Sérgio</dc:creator>
+          <dc:subject xml:lang="en-US">Infection. Herpesvirus 4</dc:subject>
+          <dc:subject xml:lang="en-US">Human. Neoplasms.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Infecção. Herpesvirus 4 Humano. Neoplasias.</dc:subject>
+          <dc:description xml:lang="en-US">The Epstein-Barr virus, also known simply as EBV, is a virus of Herpes family that causes the infectious mononucleosis in humans. There is strong relationship between the latent infection by EBV and the development of several malignant tumors like Burkitt’s lymphoma, Hodgkin disease, lymphoma of B cells and nasopharyngeal carcinoma. There are also evidences that the EBV might be associated to others malignant neoplasms mainly gastric carcinomas, mammary carcinomas, leiomyosarcomas, lymphomas of B cells and “lymphoepithelioma-like” carcinomas of salivary glands, lung and thymus. Many of the proteins expressed by the EBV act directly as a oncogene, stimulating the proliferation of the infected cells. Besides, the viral DNA, when integrated to host genome, may cause mutations in regulatory genes of cell cycle, over all the tumor suppressor gene p53, favoring the emergence of neoplastic cells.</dc:description>
+          <dc:description xml:lang="pt-BR">O vírus Epstein Barr, também conhecido pela denominação inglesa, Epstein-Barr virus ou simplesmente EBV, é um vírus da família Herpes, que causa a mononucleose infecciosa, em humanos. Existe forte correlação entre a infecção latente pelo EBV e o desenvolvimento de diversos tumores malignos, como o linfoma de Burkitt, a doença de Hodgkin, o linfoma B e o carcinoma nasofaríngeo. Há, também, evidências de que o EBV possa estar associado a outras neoplasias malignas, principalmente a carcinomas gástricos, carcinomas mamários, leiomiossarcomas, linfomas T e carcinomas linfoepitelioma-like de glândulas salivares, pulmão e timo. Várias das proteínas expressas pelo EBV atuam diretamente, como oncogene, estimulando a proliferação das células infectadas. Além disso, o DNA viral, ao integrar-se ao genoma do hospedeiro, pode causar mutações em genes reguladores do ciclo celular, sobretudo no gene supressor, tumoral, p53, favorecendo o aparecimento de células neoplásicas.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/521</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p16-23</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 16-23</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 16-23</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 16-23</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/521/521</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/522</identifier>
+        <datestamp>2020-06-25T16:13:44Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Síndrome da frouxidão palpebral</dc:title>
+          <dc:title xml:lang="en-US">Floppy eyelid syndrome</dc:title>
+          <dc:creator>Boeira Junior, Nelson</dc:creator>
+          <dc:creator>Akaishi, Patricia Mitiko S.</dc:creator>
+          <dc:creator>Cruz, Antonio Augusto V.</dc:creator>
+          <dc:subject xml:lang="en-US">Eyelid Diseases. Syndrome. Eyelids</dc:subject>
+          <dc:subject xml:lang="en-US">abnormalities. Floppy Eyelid Syndrome.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Doenças Palpebrais. Síndrome. Palpebras</dc:subject>
+          <dc:subject xml:lang="pt-BR">anormalidades Síndrome da Flacidez Palpebral.</dc:subject>
+          <dc:description xml:lang="pt-BR">Os autores apresentam uma revisão sobre a síndrome da frouxidão palpebral, uma condição oftalmológica pouco comum, freqüentemente associada a anomalias sistêmicas e pouquíssimo diagnosticada tanto por oftalmologistas como por clínicos gerais. Quatro casos examinados, no setor de oculoplástica do HCFMRP-USP, são apresentados.</dc:description>
+          <dc:description xml:lang="en-US">We revised the floppy eyelid syndrome, an ophthalmic condition frequently associated with systemic abnormalities. This syndrome is seldom recognized by both ophthalmologists and general physicians. Four cases examined in the oculoplastic clinic of the HCFMRP-USP are presented.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/522</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p24-29</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 24-29</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 24-29</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 24-29</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/522/522</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/523</identifier>
+        <datestamp>2020-06-25T16:13:43Z</datestamp>
+        <setSpec>rmrp:REV</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Epidemiological aspects of viral hepatitis</dc:title>
+          <dc:title xml:lang="pt-BR">Aspectos epidemiológicos das hepatites virais</dc:title>
+          <dc:creator>Passos, Afonso Dinis Costa</dc:creator>
+          <dc:subject xml:lang="en-US">Hepatitis</dc:subject>
+          <dc:subject xml:lang="en-US">Viral</dc:subject>
+          <dc:subject xml:lang="en-US">Human Hepatitis. Epidemiology.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hepatite Viral Humana. Hepatite. Epidemiologia.</dc:subject>
+          <dc:description xml:lang="pt-BR">Apresentam-os, neste trabalho, algumas das principais características epidemiológicas dos cinco tipos reconhecidos de hepatites virais, com ênfase nas causadas pelos vírus B e C. Por sua larga distribuição geográfica e capacidade de causar infecções crônicas – as quais se associam a risco elevado de cirrose hepática e hepatocarcinoma – essas duas formas representam grave problema sanitário em praticamente todos os países do mundo. Discutimos sua relevância epidemiológica e os principais mecanismos de transmissão, identificados para ambas as formas.</dc:description>
+          <dc:description xml:lang="en-US">Some of the main epidemiological characteristics of the five identified types of viral hepatitis are presented, emphasizing those caused by virus B and C. These two forms show a large geographical distribution and ability to cause chronic infections, which are associated with cirrhosis and liver cancer. Thus, these forms of hepatitis are an important public health problem worldwide. Their epidemiological relevance and main transmission routes are discussed.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/523</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p30-36</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 30-36</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 30-36</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 30-36</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/523/523</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/525</identifier>
+        <datestamp>2020-06-25T16:13:42Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Resumos de dissertações de mestrado (m) e teses de doutorado (d) apresentadas na faculdade de medicina de ribeirão preto - usp de janeiro a junho de 2003</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:description xml:lang="pt-BR">.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/525</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p54-105</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 54-105</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 54-105</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 54-105</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/525/525</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/530</identifier>
+        <datestamp>2020-06-25T16:13:41Z</datestamp>
+        <setSpec>rmrp:NTIS</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Resumos de dissertações de mestrado e teses de doutorado apresentadas na faculdade de medicina de ribeirão preto - usp de julho a dezembro de 2003 em suas diferentes áreas de concentração</dc:title>
+          <dc:creator>Editor, O</dc:creator>
+          <dc:description xml:lang="pt-BR">.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/530</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p106-129</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 106-129</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 106-129</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 106-129</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/530/530</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/533</identifier>
+        <datestamp>2020-06-25T16:13:40Z</datestamp>
+        <setSpec>rmrp:ARTO</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Atitudes frente à doença mental: estudo comparativo entre ingressantes e formandos em enfermagem</dc:title>
+          <dc:title xml:lang="en-US">Attitudes towards mental health: a comparative study between nursing freshmen and seniors</dc:title>
+          <dc:creator>Pedrão, Luiz J.</dc:creator>
+          <dc:creator>Avanci, Rita C.</dc:creator>
+          <dc:creator>Malaguti, Silmara E.</dc:creator>
+          <dc:creator>Aguilera, Andréa M. da S.</dc:creator>
+          <dc:subject xml:lang="en-US">Attitudes. Students</dc:subject>
+          <dc:subject xml:lang="en-US">Nursing. Education Nursing. Psychiatric Nursing.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Atitudes. Estudantes de Enfermagem. Educação em Enfermagem. Enfermagem Psiquiátrica.</dc:subject>
+          <dc:description xml:lang="pt-BR">Trata-se de um estudo desenvolvido em duas partes, numa delas, foi traçado um perfil das atitudes frente ao doente e à doença mental de alunos ingressantes no Curso de Enfermagem, antes de terem contato com a instrução acadêmica e com as disciplinas relacionadas a essa área do conhecimento específico. Na outra, foi traçado o mesmo perfil de atitudes com alunos formandos, do mesmo curso, momentos antes de receberem o grau de enfermeiros.Teve por objetivo estudar comparativamente os perfis de atitudes dos dois grupos de alunos frente à doença mental e ao seu portador, com o intuito de verificar a influência da instrução acadêmica nesses aspectos e oferecer subsídios para o planejamento e o desenvolvimento das disciplinas citadas. Para isso, foi utilizada a escala de opiniões sobre a doença mental. Os resultados mostraram que os formandos apresentaram-se menos autoritários, benevolentes, restritivos e discriminadores, acreditando mais na semelhança do doente mental com uma pessoa normal. Pode-se concluir que os formandos apresentaram um perfil de atitudes mais positivo frente à doença mental e ao seu portador do que o dos ingressantes no Curso de Enfermagem, e que a referida instrução acadêmica influencia favoravelmente, na mudança do perfil de atitudes dos alunos.</dc:description>
+          <dc:description xml:lang="en-US">4This study has been developed in two parts. In one of them, a profile of attitudes in face of mentally-ill patients and mental illness presented by nursing Freshmen was drawn before they had had any contact with academic instruction from courses belonging to this area of specific knowledge. In the other, the same profile of attitudes presented by Seniors was drawn a few days before they received a Bachelor of Nursing Science Degree. The study aimed at comparatively studying the profiles of attitudes by these student groups in face of mental illness and its carriers with the purpose to verify the influence of academic instruction on these aspects as well as to provide subsidies for the planning and development of the aforementioned courses. To that end, the opinion scale on mental illness was used. The results showed that the seniors were less authoritarian, less benevolent, less restrictive and less discriminatory. They had a stronger belief that mentally-ill people were similar to normal people. It can be concluded that the Seniors present a more positive profile of attitudes in face of mental illness and its carriers than do the Freshmen in Nursing and that the academic instruction referred to favorably influences in the change of such profile of attitudes.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/533</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p37-44</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 37-44</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 37-44</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 37-44</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/533/533</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/537</identifier>
+        <datestamp>2020-06-25T16:13:39Z</datestamp>
+        <setSpec>rmrp:DISCC</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Hiperplasia congênita de supra-renal: A compreensão do diagnóstico e implicações para a auto-imagem</dc:title>
+          <dc:title xml:lang="en-US">Congenital adrenal hiperplasia: The diagnosis comprehension and auto-image implications</dc:title>
+          <dc:creator>Brunhara, Fabíola C. R.</dc:creator>
+          <dc:creator>Petean, Eucia Beatriz Lopes</dc:creator>
+          <dc:subject xml:lang="en-US">Adrenal Hyperplasia</dc:subject>
+          <dc:subject xml:lang="en-US">Congenital. Diagnosis</dc:subject>
+          <dc:subject xml:lang="en-US">Psychology. Self Concept.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Hiperplasia Supra-Renal Congênita. Diagnóstico Psicológico. Auto Imagem.</dc:subject>
+          <dc:description xml:lang="en-US">The congenital adrenal hyperplasia (CAH) is a genetic syndrome characterized as a condition of intersexuality. Seven womem with CAH were individually interviewed, under care of the clinic for Determination and Sexual Differentiation of HCFMRP-USP the aim of this alway was evaluate how they knew about the CAH. The women aged from eighteen to forty years old, five underwent genital corrective surgery, and all women belong to a low social and cultural status and education. The results indicated some kind of understanding about the syndrome. Four single women did not initiate their sexual life and three of them claimed that the syndrome was the major difficulty for that. All women did not refer physical prejudice related to vulva reconstitution and they were capable to have pleasure and orgasms.</dc:description>
+          <dc:description xml:lang="pt-BR">A Hiperplasia Congênita de Supra-Renal (HCSR) é uma síndrome genética, que caracteriza uma condição de intersexualidade. No intuito de compreender o que as mulheres conhecem sobre a síndrome, foram entrevistadas sete mulheres portadoras de HCSR, com idades entre 18 e 40 anos, de baixo nível sociocultural, dentre as quais 5 realizaram cirurgia corretiva de genitália, sendo 3 casadas e 4 solteiras. Os resultados indicaram entendimento sobre a síndrome. As 4 mulheres solteiras não iniciaram vida sexual e 3 delas colocaram a síndrome como principal dificuldade. Todas referiram satisfação com a cirurgia corretiva, não sofrendo prejuízos relacionados ao prazer e orgasmos, porém têm dificuldades relacionadas à auto-imagem.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-03-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/537</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i1p45-53</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 1 (2003): jan./fev./mar.; 45-53</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 1 (2003): jan./fev./mar.; 45-53</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 1 (2003): jan./fev./mar.; 45-53</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/537/537</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/538</identifier>
+        <datestamp>2020-06-25T16:13:38Z</datestamp>
+        <setSpec>rmrp:EDT</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Editorial</dc:title>
+          <dc:creator>Oliveira, Ricardo Brandt</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/538</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p141-142</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 141-142</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 141-142</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 141-142</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/538/538</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/539</identifier>
+        <datestamp>2020-06-25T16:13:36Z</datestamp>
+        <setSpec>rmrp:SIMPUECM</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Apresentação</dc:title>
+          <dc:creator>Schmidt, André</dc:creator>
+          <dc:creator>Pazin Filho, Antonio</dc:creator>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/539</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p143-144</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 143-144</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 143-144</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 143-144</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/539/539</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/540</identifier>
+        <datestamp>2020-06-25T16:13:35Z</datestamp>
+        <setSpec>rmrp:CARD</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="en-US">Circulatory shock: definition, classification, diagnosis and treatment</dc:title>
+          <dc:title xml:lang="pt-BR">Choque circulatório: definição, classificação, diagnóstico e tratamento</dc:title>
+          <dc:creator>Siqueira, Bruno Ganem</dc:creator>
+          <dc:creator>Schmidt, André</dc:creator>
+          <dc:subject xml:lang="en-US">Shock. Vasoconstrictor Agents. Vasodilator Agents. Shock</dc:subject>
+          <dc:subject xml:lang="en-US">Cardiogenic.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Choque. Vasoconstritores. Vasodilatadores. Choque Cardiogênico</dc:subject>
+          <dc:description xml:lang="en-US">This is a brief, systematic and applied review of the classification, diagnosis and treatment of patients with circulatory shock. Conceptual aspects and clinical, hemodynamic and metabolic findings are specially emphasized providing a better shock characterization and understanding. Finally, basic principles of volume expansion and pharmacological interventions (vasopressor and cardiotonic agents, vasodilators) are rationalized.</dc:description>
+          <dc:description xml:lang="pt-BR">Procede sucinta revisão, procurando abordar, de forma sistematizada e prática, a classificação, diagnóstico e tratamento do choque circulatório. São essencialmente enfatizados aspectos conceituais, além de achados clínicos, hemodinâmicos e metabólicos, para melhor caracterização dos estados de choque. Procura-se fundamentar, ainda, princípios básicos da reposição volêmica e intervenções farmacológicas mediante o uso de vasopressores, cardiotônicos e vasodilatadores.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/540</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p145-150</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 145-150</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 145-150</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 145-150</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/540/540</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/541</identifier>
+        <datestamp>2020-06-25T16:13:34Z</datestamp>
+        <setSpec>rmrp:CARD</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Distúrbios do ritmo cardíaco</dc:title>
+          <dc:title xml:lang="en-US">Cardiac arrithmias</dc:title>
+          <dc:creator>Pazin Filho, Antônio</dc:creator>
+          <dc:creator>Pyntiá, José Paulo</dc:creator>
+          <dc:creator>Schmidt, André</dc:creator>
+          <dc:subject xml:lang="en-US">Arrithmia. Tachycardia. Bradycardia. Atrial Fibrillation. Atrial Flutter.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Arritmia. Taquicardia. Bradicardia. Fibrilação Atrial. Flutter Atrial.</dc:subject>
+          <dc:description xml:lang="pt-BR">São revisados conceitos fundamentais para o tratamento dos distúrbios do ritmo cardíaco na sala de urgência. O tratamento das taquicardias, das bradicardias e, em particular, da fibrilação e do flutter atrial é revisto em maior detalhe devido a sua prevalência.</dc:description>
+          <dc:description xml:lang="en-US">The fundamental concepts for emergency room cardiac arrithmias management are discussed. The treatment of tachy and bradycardias, as well as atrial fibrillation and atrial flutter are reviewed in greater detail due to their prevalence.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/541</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p151-162</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 151-162</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 151-162</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 151-162</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/541/541</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/543</identifier>
+        <datestamp>2020-06-25T16:13:33Z</datestamp>
+        <setSpec>rmrp:CARD</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Parada cardiorrespiratória (PCR)</dc:title>
+          <dc:title xml:lang="en-US">Cardiac arrest</dc:title>
+          <dc:creator>Pazin-Filho, Antônio</dc:creator>
+          <dc:creator>Santos, José Carlos</dc:creator>
+          <dc:creator>Castro, Renato Barroso Pereira</dc:creator>
+          <dc:creator>Bueno, Cláudia Dizioli Franco</dc:creator>
+          <dc:creator>Schmidt, André</dc:creator>
+          <dc:subject xml:lang="en-US">Heart Arrest. Cardiopulmonar Resuscitation. Ventricular Fibrillation. Postresuscitation Care.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Parada Cardíaca. Ressuscitação Cardiopulmonar. Fibrilação Ventricular. Cuidados Pós-ressuscitação.</dc:subject>
+          <dc:description xml:lang="en-US">The principles of cardiac arrest management are reviewed with emphasis on the basic life support and the three presentation of cardiac arrest: ventricular fibrilation/ ventricular tachycardia, assystole and pulseless electrical activity. The post-resuscitation care is discussed.</dc:description>
+          <dc:description xml:lang="pt-BR">São revisados os princípios do atendimento da parada cardiorrespiratória, enfatizando a importância do suporte básico de vida e a conduta diferenciada na dependência dos três principais tipos de parada: fibrilação/taquicardia ventricular, assistolia e atividade elétrica sem pulso. Discutem-se os cuidados pós-reversão, a serem implementados, e sua importância na sobrevida.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/543</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p163-178</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 163-178</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 163-178</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 163-178</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/543/740</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/545</identifier>
+        <datestamp>2020-06-25T16:13:32Z</datestamp>
+        <setSpec>rmrp:CARD</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Abordagem da descompensação aguda da insuficiência cardíaca crônica</dc:title>
+          <dc:title xml:lang="en-US">Medical management of acute decompensation of chronic heart failure in the emergency room</dc:title>
+          <dc:creator>Miranda, Carlos Henrique</dc:creator>
+          <dc:creator>Castro, Renato Barroso Pereira</dc:creator>
+          <dc:creator>Pazin Filho, Antônio</dc:creator>
+          <dc:subject xml:lang="en-US">Heart Failure. Emergency Department.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Insuficiência Cardíaca. Unidade de Emergência.</dc:subject>
+          <dc:description xml:lang="en-US">Heart failure is a public health problem. The number of patients with heart failure referred to the emergency department is increasing. We propose a systematic approach to the acute exacerbation of heart failure based on: 1 – detection of the precipitating factors; 2 – definition of the clinical/hemodinamic profile; 3 – a therapeutic approach according to this clinical/ hemodinamic profile; 4 – choice criteria for combined drug treatment; and 5 – determination of criteria to leave the hospital. This standartization proposed to reduce the mortality and readmission rates at short term.</dc:description>
+          <dc:description xml:lang="pt-BR">A Insuficiência Cardíaca é um problema de saúde pública. Reflexo disso é a freqüência crescente de casos de IC descompensada, na sala de urgência. Propomos uma abordagem sistematizada do episódio de descompensação aguda, baseada nas seguintes etapas: 1- detecção dos fatores precipitantes; 2- definição do perfil clínico/hemodinâmico; 3- abordagem terapêutica, baseada no perfil clínico/hemodinâmico; 4- definição da terapia medicamentosa associada; 5- estabelecimento de critérios clínicos para alta hospitalar. Objetiva-se, com essa padronização, a redução das taxas de mortalidade e de reinternação em curto prazo, classicamente associadas a esse tipo de episódio.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/545</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p179-186</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 179-186</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 179-186</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 179-186</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/545/545</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/547</identifier>
+        <datestamp>2020-06-25T16:13:30Z</datestamp>
+        <setSpec>rmrp:CARD</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Condutas de urgência nas síndromes isquêmicas miocárdicas instáveis</dc:title>
+          <dc:title xml:lang="en-US">Acute coronary syndromes in the emergency department</dc:title>
+          <dc:creator>Marin-Neto, José Antonio</dc:creator>
+          <dc:creator>Maciel, Benedito Carlos</dc:creator>
+          <dc:creator>Pazin Filho, Antonio</dc:creator>
+          <dc:creator>Castro, Renato Barroso P.</dc:creator>
+          <dc:subject xml:lang="en-US">Myocardial Ischemia. Myocardial Infarction. Angina</dc:subject>
+          <dc:subject xml:lang="en-US">Unstable.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Isquemia Miocárdica. Infarto do Miocárdio. Angina Instável.</dc:subject>
+          <dc:description xml:lang="pt-BR">As síndromes isquêmicas miocárdicas Instáveis (SIMI) são freqüentes na Sala de Urgência (SU) e o seu não reconhecimento ou tratamento inadequado implicam em elevada morbimortalidade. A conduta, no ambiente da SU, é dependente do risco, estimado a partir de aspectos de história e exame físico, parâmetros eletrocardiográficos e da dosagem de marcadores séricos de necrose miocárdica. Os princípios terapêuticos das SIMIs com supradesnivelamento de ST ao eletrocardiograma (infarto agudo do miocárdio) e das SIMIs sem supradesnivelamento de ST (angina instável e infarto agudo sem supradesnível de ST) são revisados neste artigo.</dc:description>
+          <dc:description xml:lang="en-US">Acute Coronary Syndromes (ACS) are very frequent in the emergency department and the lack of proper diagnosis or inadequate treatment imply great morbidity and mortality. The ACS treatment is dependent on the risk, estimated by medical history and physical examination, eletrocardiographic parameters and serologic necrosis markers. The therapeutic principles for ACS with ST elevation (acute myocardial infarction) and of the ACS without ST elevation (unstable angina and acute myocardial infarction without ST elevation) are reviewed.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/547</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p187-199</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 187-199</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 187-199</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 187-199</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/547/547</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/548</identifier>
+        <datestamp>2020-06-25T16:13:29Z</datestamp>
+        <setSpec>rmrp:CARD</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Edema pulmonar agudo</dc:title>
+          <dc:title xml:lang="en-US">Acute pulmonary edema</dc:title>
+          <dc:creator>Castro, Renato Barroso Pereira</dc:creator>
+          <dc:subject xml:lang="en-US">Pulmonary Edema</dc:subject>
+          <dc:subject xml:lang="en-US">Acute. Respiratory Insufficiency</dc:subject>
+          <dc:subject xml:lang="en-US">Acute.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Edema Pulmonar Agudo. Insuficiência Respiratória Aguda.</dc:subject>
+          <dc:description xml:lang="pt-BR">São revistos os conceitos fisiopatológicos, diagnósticos e terapêuticos do edema pulmonar agudo, com ênfase na etiologia cardiológica. O acúmulo de líquido, no espaço intersticial pulmonar, respeita a dinâmica observada em qualquer outro território e se faz, inicialmente, no espaço peribronquiolar e, posteriormente, na região perialveolar inundando, a seguir, a própria luz do alvéolo. A integridade da membrana alveolocapilar é fator fundamental e está mais ou menos comprometida, segundo a etiologia do edema. O diagnóstico é essencialmente clínico, mas a investigação adicional , por recursos diagnósticos vários, é fundamental. A terapêutica fundamenta-se no fornecimento de oxigênio em níveis suficientes, ao mesmo tempo em que se promove a normalização da função de hematose, reduzindo-se o líquido acumulado no interstício e restaurando-se a integridade da barreira alveolocapilar. O pronto reconhecimento e o início do tratamento são fundamentais na tentativa de reduzirmos o prognóstico ominoso dessa entidade clínica.</dc:description>
+          <dc:description xml:lang="en-US">The physiopatologic, diagnostic and therapeutic aspects of acute pulmonary edema are reviewed, with emphasis on the cardiologic etiology. The liquid accumulation in the pulmonary interstitium follow the principles observed in any other territory, beginning in the peribronquiolar space, progressing to the peri-alveolar region with the inundation of the alveolar space in the end. The integrity of the alveolo-capilar membrane is damaged in different degrees according to the pathophysiological mechanism. The diagnosis is based mainly on clinical aspects, but an additional investigation using various methods may be necessary. The treatment is directed to offer oxygen and to normalize the hematosis function, diminishing the liquid accumulated in the interstitium and reestabilishing the integrity of the alveolo-capilar membrane. The immediate diagnosis and treatment are fundamental to improve prognosis.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/548</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p200-204</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 200-204</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 200-204</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 200-204</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/548/548</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/549</identifier>
+        <datestamp>2020-06-25T16:13:28Z</datestamp>
+        <setSpec>rmrp:RESP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Insuficiência respiratória</dc:title>
+          <dc:title xml:lang="en-US">Respiratory failure</dc:title>
+          <dc:creator>Pádua, Adriana Inacio</dc:creator>
+          <dc:creator>Alvares, Flávia</dc:creator>
+          <dc:creator>Martinez, José Antônio Baddini</dc:creator>
+          <dc:subject xml:lang="en-US">Respiratory Insufficiency. Pulmonar Gas Exchange. Respiration</dc:subject>
+          <dc:subject xml:lang="en-US">Artificial.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Insuficiência Respiratória. Troca Gasosa Pulmonar. Respiração Artificial.</dc:subject>
+          <dc:description xml:lang="pt-BR">O conceito de insuficiência respiratória (IR) compreende a dificuldade encontrada pelo Sistema Respiratório em desempenhar adequadamente sua principal função, ou seja, a promoção das trocas gasosas. Por ser decorrente de várias condições, pode apresentar-se, clinicamente, de forma muito variada. Seu diagnóstico depende da análise dos níveis de oxigênio e gás carbônico através da gasometria arterial. O presente artigo fornece uma visão geral da fisiologia das trocas gasosas e suas alterações, conceitos fundamentais para a compreensão da classificação e mecanismos envolvidos nos diferentes tipos de insuficiência respiratória. São ainda enfatizados aspectos gerais, relacionados com a terapêutica, na forma de noções sobre oxigenioterapia e indicações de suporte ventilatório.</dc:description>
+          <dc:description xml:lang="en-US">The Respiratory Failure concept deals with the presence of difficulties for the respiratory system to perform its most important function, to keep satisfactory gas exchanges. There are several causes of respiratory failure, with different clinical features. The diagnosis of respiratory failure depends on the analyses of oxygen and carbon dioxide levels in arterial blood samples. This article contains a general view about gas exchange physiology and its disorders, that are the basis for understanding the classification and mechanisms involved with the different types of Respiratory Failure. It is also emphasized general aspects dealing with therapeutic issues, such as oxygen-therapy and ventilatory support indications.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/549</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p205-213</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 205-213</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 205-213</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 205-213</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/549/549</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:revistas.usp.br:article/550</identifier>
+        <datestamp>2020-06-25T16:13:27Z</datestamp>
+        <setSpec>rmrp:RESP</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="pt-BR">Tromboembolismo pulmonar: diagnóstico e tratamento</dc:title>
+          <dc:title xml:lang="en-US">Pulmonary thromboembolism: diagnosis and therapy</dc:title>
+          <dc:creator>Alvares, Flávia</dc:creator>
+          <dc:creator>Pádua, Adriana Ignácio</dc:creator>
+          <dc:creator>Terra Filho, João</dc:creator>
+          <dc:subject xml:lang="en-US">Pulmonary Embolism. Embolism and Thrombosis. Anticoagulation. Diagnosis.</dc:subject>
+          <dc:subject xml:lang="pt-BR">Embolia Pulmonar. Embolia e Trombose. Anticoagulação. Diagnóstico</dc:subject>
+          <dc:description xml:lang="pt-BR">O tromboembolismo pulmonar é uma doença freqüente, porém pouco diagnosticada, fato justificado, em primeiro lugar, por ser doença que apresenta sinais e sintomas pouco específicos, causando demora na suspeita clínica, além disso, apesar de haver vários exames complementares, que podem auxiliar no seu diagnóstico, muitos não estão disponíveis na maioria dos serviços médicos. A demora, no diagnóstico, tem repercussões muito sérias, culminando no aumento da mortalidade de pessoas com tromboembolismo pulmonar. Dessa forma, é fundamental empenhar todo esforço no diagnóstico e no tratamento precoce dessa doença. Assim, esta revisão tem como objetivos principais estimular a suspeita diagnóstica e orientar a investigação e o tratamento da referida doença.</dc:description>
+          <dc:description xml:lang="en-US">Pulmonary embolism is a frequent disease, but it is of low-occurrence diagnosis. This may be justified primarily by the fact that it features low specific symptoms and signs, leading to a delay in clinical suspicion. Furthermore, in spite of the existence of many complementary exams that can help diagnosis, many of them are unavailable in the majority of the medical institutions. This delayed diagnosis has severe repercussions, heading to increasing mortality rates. The main objectives of this revision is to awake about the diagnostic impression, to guide its investigation and its treatment.</dc:description>
+          <dc:publisher xml:lang="pt-BR">Universidade de São Paulo. Faculdade de Medicina de Ribeirão Preto</dc:publisher>
+          <dc:date>2003-12-30</dc:date>
+          <dc:type>info:eu-repo/semantics/article</dc:type>
+          <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.revistas.usp.br/rmrp/article/view/550</dc:identifier>
+          <dc:identifier>10.11606/issn.2176-7262.v36i2/4p214-240</dc:identifier>
+          <dc:source xml:lang="en-US">Medicina (Ribeirao Preto); Vol. 36 No. 2/4 (2003): abr./dez.; 214-240</dc:source>
+          <dc:source xml:lang="es-ES">Medicina (Ribeirao Preto); Vol. 36 Núm. 2/4 (2003): abr./dez.; 214-240</dc:source>
+          <dc:source xml:lang="pt-BR">Medicina (Ribeirão Preto); v. 36 n. 2/4 (2003): abr./dez.; 214-240</dc:source>
+          <dc:source>2176-7262</dc:source>
+          <dc:source>0076-6046</dc:source>
+          <dc:language>por</dc:language>
+          <dc:relation>https://www.revistas.usp.br/rmrp/article/view/550/550</dc:relation>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2022-08-30T21:20:07Z" completeListSize="1467" cursor="300">6b0d8649a65104dc3e645f17053baa32</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

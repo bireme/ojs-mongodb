@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.revistas.usp.br/lib/pkp/xml/oai2.xsl" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2023-08-07T14:50:39Z</responseDate>
+<request verb="ListRecords" metadataPrefix="marcxml" set="actafisiatrica">https://www.revistas.usp.br/actafisiatrica/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/205096</identifier>
+<datestamp>2023-01-20T17:21:06Z</datestamp>
+<setSpec>actafisiatrica:Resumos+Exp.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"221130 2022                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Uso de dispositivo auxiliar respiratório, cânula de traqueostomia, em pacientes internados para reabilitação </subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ribeiro, Thaís Cristine Cardoso</subfield>
+<subfield code="u">Centro Estadual de Reabilitação e Readaptação Dr. Henrique Santillo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Borges, Kissy Rodrigues</subfield>
+<subfield code="u">Centro Estadual de Reabilitação e Readaptação Dr. Henrique Santillo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Medeiros, Rodrigo Parente</subfield>
+<subfield code="u">Centro Estadual de Reabilitação e Readaptação Dr. Henrique Santillo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Santos, Lethicia Silva</subfield>
+<subfield code="u">Centro Estadual de Reabilitação e Readaptação Dr. Henrique Santillo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Dias, Wanderson Alves</subfield>
+<subfield code="u">Centro Estadual de Reabilitação e Readaptação Dr. Henrique Santillo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A traqueostomia deve ser realizada no paciente que não conseguiu realizar desmame do ventilador mecânico, servindo como alternativa para manter via aérea pérvia. Apesar de segura pode causar alterações na deglutição, dificuldade do manejo de saliva, risco de bronco-aspiração e estenose. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2022-11-30 16:49:33</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/205096</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 29 n. Supl.1 (2022)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2022 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/205125</identifier>
+<datestamp>2023-01-20T17:21:06Z</datestamp>
+<setSpec>actafisiatrica:Resumos+Exp.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"221130 2022                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Terapia por ondas de choque no tratamento da Síndrome da Disfunção Miofascial: qual melhor protocolo?</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Costa Junior, Carlos Antonio da</subfield>
+<subfield code="u">Universidade Federal do Pará</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Braun, Wellington Luiz Fagundes</subfield>
+<subfield code="u">Plenus Clínica do Aparelho Locomotor</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Síndrome da disfunção miofascial (SDM) é uma síndrome musculoesquelética caracterizada por rigidez muscular, dor típica, surgimento de bandas tensas intramusculares, “twitch response” local e hiper-reatividade muscular. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2022-11-30 16:49:33</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/205125</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 29 n. Supl.1 (2022)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2022 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/205883</identifier>
+<datestamp>2023-04-17T17:41:07Z</datestamp>
+<setSpec>actafisiatrica:Edit</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"221228 2022                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Comemoração do jubileu de ouro da Academia Brasileira de Medicina de Reabilitação - ABMR</subfield>
+</datafield>  <datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Leitão, Ana Valéria Araujo</subfield>
+<subfield code="u">Academia Brasileira de Medicina de Reabilitação</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Noticiamos com muita alegria o cinquentenário da Academia de Medicina de Reabilitação - ABMR, ocasião que todos os médicos Fisiatras prestam uma homenagem ao fundador reproduzindo a historia desta Academia nas palavra da Fisiatra Ana Valéria Araujo Leitão. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2022-12-28 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/205883</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 29 n. 4 (2022)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2022 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/205969</identifier>
+<datestamp>2023-01-20T17:21:06Z</datestamp>
+<setSpec>actafisiatrica:Resumos+Exp.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"221130 2022                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Distrofia muscular de Duchenne e as demandas de reabilitação na pandemia da COVID-19 – telemonitoramento</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Petian-Alonso, Danila Cristina</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cruz, Karoliny Lisandra Teixeira</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Martins, Emanuela Juvenal</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mattiello-Sverzut, Ana Claudia</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> A Distrofia Muscular de Duchenne (DMD) é uma doença congênita hereditária, ligada ao cromossomo X, lócus Px21, responsável por codificar a proteína distrofina. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2022-11-30 16:49:33</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/205969</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 29 n. Supl.1 (2022)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2022 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/206076</identifier>
+<datestamp>2023-07-31T18:14:45Z</datestamp>
+<setSpec>actafisiatrica:Art.+Rev.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"230331 2023                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Termoterapia associada com treinamento de flexibilidade não aprimora a amplitude de movimento de joelhos em adultos saudáveis: revisão sistemática de ensaios clínicos randomizados com meta-análise</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ferreira, Luis Fernando</subfield>
+<subfield code="u">Universidade Federal de Ciências da Saúde de Porto Alegre</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Oliveira, Arielle Rosa de</subfield>
+<subfield code="u">Universidade Federal de Ciências da Saúde de Porto Alegre</subfield><subfield code="0">https://orcid.org/0000-0003-3148-9235</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Rosa, Luis Henrique Telles da</subfield>
+<subfield code="u">Universidade Federal de Ciências da Saúde de Porto Alegre</subfield><subfield code="0">https://orcid.org/0000-0002-4807-7176</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> The stretching with thermotherapies associated have been related in the literature as a way to increase the range of motion (ROM), but still are not consensus about this efficacy and cost-effectiveness. The muscle stretching is a useful technique in rehabilitation and in physical activities programs, either to gain or maintain the flexibility, as a recovery of musculoskeletal and joint injuries. Objective: To determine the effects of thermotherapies associated to flexibility training in ROM of knee extension in healthy adults. Method: The search strategy was conducted in main databases, as Cochrane Library, LILACS, PEDro, PUBMED/ Medline, Scopus and Web of Science. The searches were done in 2016, and renewed in 2023, in order to achieve new publications along this time. Were selected only randomized clinical trials that have executed a training of hamstrings stretching, associated or not with one or more thermotherapies in healthy young adults, as long as the outcome was knee extension ROM. Only papers in Portuguese or English were assessed. To evaluate risk of bias was used the Cochrane Collaboration’s Risk of Bias Tool, and the methodological quality assessment was rated following the PEDro Scale. Results: Eight articles were included, totalizing 260 participants. The papers showed low methodological quality, and uncertain risk of bias. Only chronic effect of local warming and cryotherapy plus stretching showed a statistically significant difference versus control group. However, the thermotherapy action associated with stretching is still unclear, once the results suggest that even without the thermotherapy there are ROM increases. Conclusion: The stretching is effective in knee extension ROM improvement in healthy adults, with or without thermotherapy. New studies with higher methodological rigor and standardized protocols are needed. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2023-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/206076</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 30 n. 1 (2023)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2023 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/206648</identifier>
+<datestamp>2023-07-31T18:14:45Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"230331 2023                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estudo dos determinantes dos custos no atendimento dos pacientes com lesão medular decorrente de trauma raquimedular</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Riberto, Marcelo</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Alves, Liceana Barbosa de Pádua </subfield>
+<subfield code="u">Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Honorato, Deborah Ligia Palma</subfield>
+<subfield code="u">Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Galliano, Fabio Therezo</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Albuquerque, Tales Vieira Cavalcanti</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Herrero, Carlos Fernando Pereira da Silva</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> O trauma raquimedular (TRM) é a principal etiologia relacionada à lesão medular em homens jovens. Em decorrência da complexidade ao atendimento desses pacientes e às suas complicações, os custos envolvidos nesses casos são vultosos. Objetivo: Avaliar os custos associados ao atendimento hospitalar e ambulatorial dos pacientes com lesão medular traumática num serviço universitário. Métodos: Este estudo baseou-se na revisão de informações clínicas sobre a lesão medular e suas complicações, bem como a busca de valores relacionados ao atendimento no período hospitalar e ambulatorial de indivíduos com lesão medular traumática num serviço universitário em 2009. Resultados: Foram contabilizados 51 pacientes com trauma na coluna vertebral, dos quais 14 apresentaram TRM (idade= 38,9 ± 20,8; homens: 86%). Os custos do atendimento foram R$402.908,68 na ausência de lesão medular e R$304.433,77 com lesão medular. Os custos do atendimento estiveram relacionados com o tempo de internação, o número de intercorrências clínicas e procedimentos cirúrgicos. A reabilitação correspondeu a 23% dos custos dos pacientes com TRM. Conclusão: Os custos relacionados ao atendimento do paciente com TRM são maiores que aqueles associados ao trauma de coluna sem lesão neurológica. O número de complicações clínicas correlaciona-se diretamente ao tempo de internação e os custos desse atendimento. A reabilitação corresponde a menor parte das despesas no cuidado aos pacientes com TRM. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2023-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/206648</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 30 n. 1 (2023)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2023 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/208192</identifier>
+<datestamp>2023-08-01T18:35:06Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"230630 2023                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Teste de fadiga de preensão manual usando contrações dinâmicas em crianças típicas</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Martins, Emanuela Juvenal</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0002-0400-0767</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Franco, Camila Scarpino Barboza</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0002-3192-026X</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Zaparoli, Lara</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Ravanelli, Leticia Sanches</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Camargo, Maira Verardino de </subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Mattiello-Sverzut, Ana Cláudia</subfield>
+<subfield code="u">Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0002-4181-0718</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objective: To verify the development of fatigue and sex-influence on the handgrip during dynamic contractions in typical children. Methods: Cross-section study. Fifty-eight children, distributed into two groups according to sex (30 boys), aged 8 to 12 years, of both sexes, performed successive dynamic contractions with a bulb dynamometer until they reached maximum perceived effort. The values from the first, the last contractions of the fatigue test, and the measure after 30-s of the last contraction (recovery contraction) were recorded and compared using the linear regression model with mixed effects. T-Student test was used to compare the perceived effort scores and time-to-fatigue between groups. Results: The handgrip values significantly decreased, and perceived effort scores significantly increased in the final measure in relation to the initial measure of the fatigue test. After the fatigue handgrip test, 30-sec of recovery was insufficient to restore the baseline handgrip values. There were no differences between the female and male groups for all variables. Conclusion: The handgrip fatigue test using dynamic contractions showed it efficiently induces motor and perceived fatigue in children, without differences between sexes. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2023-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/208192</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 30 n. 2 (2023)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2023 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/209429</identifier>
+<datestamp>2023-08-01T18:35:06Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"230630 2023                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">A influência dos pontos-gatilho latente na lombalgia aguda: um estudo prospectivo longitudinal</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Added, Marco Aurélio Nemitalla</subfield>
+<subfield code="u">Irmandade da Santa Casa de Misericórdia de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Freitas, Diego Galace de</subfield>
+<subfield code="u">Irmandade da Santa Casa de Misericórdia de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Added, Caroline</subfield>
+<subfield code="u">Irmandade da Santa Casa de Misericórdia de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Cazarini Junior, Claudio</subfield>
+<subfield code="u">Irmandade da Santa Casa de Misericórdia de São Paulo</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Fucs, Patrícia Maria de Moraes Barros</subfield>
+<subfield code="u">Irmandade da Santa Casa de Misericórdia de São Paulo</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Pontos-gatilho são nódulos musculares que podem desenvolver dor. A dor lombar é um importante problema de saúde pública e estudos apontam que todas as pessoas que sofrem de dor na coluna apresentam ponto-gatilho. Objetivo: Analisar o nível dor de pacientes com dor lombar aguda que quando assintomáticos apresentava pontos-gatilho latente, comparado com os níveis de dor de pacientes com dor lombar aguda que quando assintomáticos não apresentava pontos-gatilho. Método: 96 indivíduos de ambos os sexos entre 18 - 60 anos participaram de um estudo transversal com avaliador cego. Foram analisados o nível de dor, função, atividade física, cinesiofobia, algometria e mensurada a força do músculo glúteo máximo e médio do membro dominante e não-dominante, no memento que os participantes estavam assintomáticos e após desenvolverem dor lombar aguda. Para análise estatística consideramos valores de significância igual ou menor que 0,05. Resultados: Foi observado diferenças significativas entre os grupos na intensidade da dor (p= 0,01), na funcionalidade (p= 0,02), na algometria (p= 0,00), na dinamometria do músculo glúteo máximo do membro não-dominante (p= 0,05) e da dinamometria do glúteo médio do membro dominante (p= 0,01) e não-dominante (p= 0,00). Conclusão: Indivíduos assintomáticos com pontos-gatilho latente nos músculos paravertebrais lombares apresentam pior intensidade da dor e outros desfechos quando evoluem dor lombar aguda, comparados com indivíduos que não apresentam pontos-gatilho no momento que estão assintomáticos.  </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2023-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/209429</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 30 n. 2 (2023)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2023 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/209489</identifier>
+<datestamp>2023-07-31T18:14:45Z</datestamp>
+<setSpec>actafisiatrica:Tend.+Refle.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"230331 2023                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Estimulação cerebral por pulsos sonoros de baixa frequência como coadjuvante nas alterações das funções corticais superiores</subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Sandler, Paulo Cesar</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação, Hospital das Clínicas, Faculdade de Medicina, Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0003-0519-2913</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Shinzato, Gilson Tanaka</subfield>
+<subfield code="u">Instituto de Medicina Física e Reabilitação, Hospital das Clínicas, Faculdade de Medicina, Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0002-1462-7096</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Battistella, Linamara Rizzo</subfield>
+<subfield code="u">Departamento de Medicina Legal, Bioética, Medicina do Trabalho e Medicina Física e Reabilitação, Faculdade de Medicina, Universidade de São Paulo</subfield><subfield code="0">https://orcid.org/0000-0001-5275-0733</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Não há dúvidas sobre os prejuízos na vida humana, extensivos à família e sociedade como um todo, abrangendo todos os aspectos funcionais das pessoas envolvidas, além do indivíduo, originados dos traumatismos cranioencefálico, agudos e crônicos, externos ou internos: acidentes, atropelamentos, quedas, crimes, acidente vascular cerebral, doenças com neurodegeneração progressiva, resultando em estados demenciais. No que se refere aos quadros crônicos, enfrentamos dificuldades diagnósticas, pela persistente impossibilidade, quase que total, de dispormos de exames subsidiários que tiveram notável progresso tecnológico nos últimos vinte e cinco anos, a exemplo dos exames através de imagens funcionais. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2023-03-31 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/209489</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 30 n. 1 (2023)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2023 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:revistas.usp.br:article/210230</identifier>
+<datestamp>2023-08-01T18:35:06Z</datestamp>
+<setSpec>actafisiatrica:Art.+Orig.</setSpec>
+<setSpec>driver</setSpec>
+</header>
+<metadata>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<leader>     nmb a2200000Iu 4500</leader>
+<controlfield tag="008">"230630 2023                        eng  "</controlfield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">2317-0190</subfield>
+</datafield>
+<datafield tag="022" ind1="#" ind2="#">
+<subfield code="$a">0104-7795</subfield>
+</datafield>
+<datafield tag="042" ind1=" " ind2=" ">
+<subfield code="a">dc</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Independência funcional de pacientes com síndrome de Guillain-Barré internados para reabilitação </subfield>
+</datafield>  <datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Meira, Laura Cristina de Souza</subfield>
+<subfield code="u">Pontifícia Universidade Católica de Goiás</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Magalhães, Maria Eduarda Santos</subfield>
+<subfield code="u">Universidade Estadual de Goiás</subfield><subfield code="0">https://orcid.org/0009-0004-1093-8956</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Silva, Francine Aguilera Rodrigues da</subfield>
+<subfield code="u">Pontifícia Universidade Católica de Goiás</subfield><subfield code="0">https://orcid.org/0000-0003-1368-7924</subfield></datafield>
+<datafield tag="720" ind1="1" ind2=" ">
+<subfield code="a">Prudente, Cejane Oliveira Martins</subfield>
+<subfield code="u">Pontifícia Universidade Católica de Goiás </subfield><subfield code="0">https://orcid.org/0000-0001-6499-3011</subfield></datafield>
+<datafield tag="520" ind1=" " ind2=" ">
+<subfield code="a"> Objetivo: Analisar a evolução da independência funcional de pacientes com Síndrome de Guillain-Barré (SGB) internados para reabilitação. Método: Estudo retrospectivo e longitudinal. Foram analisados prontuários de pacientes com diagnóstico de SGB internados para reabilitação, de janeiro de 2015 a março de 2020, que possuíam a Medida de Independência Funcional (MIF) na admissão e alta hospitalar devidamente preenchida, sem distinção de idade. A comparação da MIF antes e depois da internação para reabilitação foi feita por meio do teste t de Student e McNemar. Resultados: A amostra foi composta por 26 pacientes, com média de idade de 41,96 ± 19,67 anos. Os participantes tinham em média 66,07 ± 69,56 dias entre os primeiros sintomas e a admissão para internação para reabilitação. O tempo médio de internação foi de 38,96± 28,36 dias. Houve diferença significativa entre as médias das pontuações, na admissão e alta, nos domínios motor (37,58 - 59,62; p&lt;0,001) e cognitivo (23,19 - 33,35; p&lt;0,001) e escore total da MIF (60,77 - 92,96; p&lt;0,001). Observou-se também aumento do número de pacientes com independência completa após internação para reabilitação (2 - 15; p&lt;0,001). Conclusão: Pacientes com SGB internados para reabilitação apresentam melhora da independência funcional. É importante acesso a esta modalidade terapêutica multiprofissional aos pacientes com SGB. </subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">Faculdade de Medicina, Universidade de São Paulo</subfield>
+</datafield>
+<dataField tag="260" ind1=" " ind2=" ">
+<subfield code="c">2023-06-30 00:00:00</subfield>
+</dataField>   <datafield tag="856" ind1=" " ind2=" ">
+<subfield code="q">application/pdf</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.revistas.usp.br/actafisiatrica/article/view/210230</subfield>
+</datafield>  <datafield tag="786" ind1="0" ind2=" ">
+<subfield code="n">Acta Fisiátrica; v. 30 n. 2 (2023)</subfield>
+</datafield>  <datafield tag="546" ind1=" " ind2=" ">
+<subfield code="a">por</subfield>
+</datafield>   <datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">Copyright (c) 2023 Acta Fisiátrica</subfield>
+</datafield>
+</record>
+</metadata>
+</record>
+<resumptionToken completeListSize="935" cursor="925" />
+</ListRecords>
+</OAI-PMH> 
